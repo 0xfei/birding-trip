@@ -1,0 +1,668 @@
+{
+"_meta": {
+"source": "GBIF occurrence/search",
+"taxon": "Mammalia",
+"classKey": 359,
+"months": [
+2
+],
+"warning": "第三方数据，无 eBird 来源；不计入总种数，不进概率模型"
+},
+"sites": {
+"kitulgala": {
+"total": 31,
+"top": [
+{
+"speciesKey": "2437563",
+"count": 11
+},
+{
+"speciesKey": "2437246",
+"count": 9
+},
+{
+"speciesKey": "2437244",
+"count": 4
+},
+{
+"speciesKey": "2439270",
+"count": 3
+},
+{
+"speciesKey": "2434249",
+"count": 1
+},
+{
+"speciesKey": "2434708",
+"count": 1
+},
+{
+"speciesKey": "2436613",
+"count": 1
+},
+{
+"speciesKey": "2437247",
+"count": 1
+}
+]
+},
+"makandawa": {
+"total": 30,
+"top": [
+{
+"speciesKey": "2437563",
+"count": 11
+},
+{
+"speciesKey": "2437246",
+"count": 9
+},
+{
+"speciesKey": "2437244",
+"count": 4
+},
+{
+"speciesKey": "2439270",
+"count": 3
+},
+{
+"speciesKey": "2434249",
+"count": 1
+},
+{
+"speciesKey": "2434708",
+"count": 1
+},
+{
+"speciesKey": "2436613",
+"count": 1
+}
+]
+},
+"nuwara": {
+"total": 59,
+"top": [
+{
+"speciesKey": "2437246",
+"count": 21
+},
+{
+"speciesKey": "7261386",
+"count": 16
+},
+{
+"speciesKey": "2436613",
+"count": 8
+},
+{
+"speciesKey": "2437247",
+"count": 5
+},
+{
+"speciesKey": "7460229",
+"count": 5
+},
+{
+"speciesKey": "2434249",
+"count": 1
+},
+{
+"speciesKey": "2437563",
+"count": 1
+},
+{
+"speciesKey": "4267223",
+"count": 1
+},
+{
+"speciesKey": "5219436",
+"count": 1
+}
+]
+},
+"horton": {
+"total": 74,
+"top": [
+{
+"speciesKey": "7261386",
+"count": 22
+},
+{
+"speciesKey": "2437247",
+"count": 17
+},
+{
+"speciesKey": "2439270",
+"count": 7
+},
+{
+"speciesKey": "2436613",
+"count": 6
+},
+{
+"speciesKey": "2437246",
+"count": 4
+},
+{
+"speciesKey": "2437563",
+"count": 4
+},
+{
+"speciesKey": "7460229",
+"count": 4
+},
+{
+"speciesKey": "2434293",
+"count": 2
+},
+{
+"speciesKey": "2434249",
+"count": 1
+},
+{
+"speciesKey": "2434704",
+"count": 1
+},
+{
+"speciesKey": "2435520",
+"count": 1
+},
+{
+"speciesKey": "2436825",
+"count": 1
+},
+{
+"speciesKey": "2440943",
+"count": 1
+},
+{
+"speciesKey": "4267223",
+"count": 1
+},
+{
+"speciesKey": "5219436",
+"count": 1
+},
+{
+"speciesKey": "5219697",
+"count": 1
+}
+]
+},
+"victoria": {
+"total": 21,
+"top": [
+{
+"speciesKey": "2437246",
+"count": 17
+},
+{
+"speciesKey": "2436613",
+"count": 3
+},
+{
+"speciesKey": "2437247",
+"count": 1
+}
+]
+},
+"tissa": {
+"total": 90,
+"top": [
+{
+"speciesKey": "5787518",
+"count": 39
+},
+{
+"speciesKey": "2437246",
+"count": 7
+},
+{
+"speciesKey": "4267223",
+"count": 7
+},
+{
+"speciesKey": "2434267",
+"count": 5
+},
+{
+"speciesKey": "5219461",
+"count": 5
+},
+{
+"speciesKey": "2434286",
+"count": 4
+},
+{
+"speciesKey": "5219219",
+"count": 4
+},
+{
+"speciesKey": "7422937",
+"count": 4
+},
+{
+"speciesKey": "2436613",
+"count": 3
+},
+{
+"speciesKey": "2434293",
+"count": 2
+},
+{
+"speciesKey": "2434600",
+"count": 2
+},
+{
+"speciesKey": "2436825",
+"count": 2
+},
+{
+"speciesKey": "2440934",
+"count": 2
+},
+{
+"speciesKey": "2436564",
+"count": 1
+},
+{
+"speciesKey": "2437563",
+"count": 1
+},
+{
+"speciesKey": "5218644",
+"count": 1
+},
+{
+"speciesKey": "5219173",
+"count": 1
+}
+]
+},
+"yala": {
+"total": 639,
+"top": [
+{
+"speciesKey": "2440934",
+"count": 113
+},
+{
+"speciesKey": "5219461",
+"count": 103
+},
+{
+"speciesKey": "7422937",
+"count": 76
+},
+{
+"speciesKey": "4267223",
+"count": 63
+},
+{
+"speciesKey": "2434267",
+"count": 50
+},
+{
+"speciesKey": "5219436",
+"count": 48
+},
+{
+"speciesKey": "2436825",
+"count": 34
+},
+{
+"speciesKey": "5787518",
+"count": 33
+},
+{
+"speciesKey": "7705930",
+"count": 33
+},
+{
+"speciesKey": "7261386",
+"count": 28
+},
+{
+"speciesKey": "5219219",
+"count": 16
+},
+{
+"speciesKey": "2433395",
+"count": 10
+},
+{
+"speciesKey": "2436613",
+"count": 10
+},
+{
+"speciesKey": "2437246",
+"count": 8
+},
+{
+"speciesKey": "2434286",
+"count": 3
+},
+{
+"speciesKey": "2437563",
+"count": 3
+},
+{
+"speciesKey": "2434293",
+"count": 2
+},
+{
+"speciesKey": "2434600",
+"count": 1
+},
+{
+"speciesKey": "2434708",
+"count": 1
+},
+{
+"speciesKey": "2435035",
+"count": 1
+},
+{
+"speciesKey": "2436564",
+"count": 1
+},
+{
+"speciesKey": "5218644",
+"count": 1
+},
+{
+"speciesKey": "5219173",
+"count": 1
+}
+]
+},
+"bundala": {
+"total": 85,
+"top": [
+{
+"speciesKey": "5787518",
+"count": 38
+},
+{
+"speciesKey": "4267223",
+"count": 12
+},
+{
+"speciesKey": "5219461",
+"count": 6
+},
+{
+"speciesKey": "7422937",
+"count": 5
+},
+{
+"speciesKey": "2434267",
+"count": 4
+},
+{
+"speciesKey": "2437246",
+"count": 4
+},
+{
+"speciesKey": "5219219",
+"count": 4
+},
+{
+"speciesKey": "2434286",
+"count": 3
+},
+{
+"speciesKey": "2434293",
+"count": 2
+},
+{
+"speciesKey": "2434600",
+"count": 1
+},
+{
+"speciesKey": "2436564",
+"count": 1
+},
+{
+"speciesKey": "2436613",
+"count": 1
+},
+{
+"speciesKey": "2436825",
+"count": 1
+},
+{
+"speciesKey": "2440934",
+"count": 1
+},
+{
+"speciesKey": "5218644",
+"count": 1
+},
+{
+"speciesKey": "5219173",
+"count": 1
+}
+]
+},
+"sinharaja": {
+"total": 200,
+"top": [
+{
+"speciesKey": "7460229",
+"count": 46
+},
+{
+"speciesKey": "2437244",
+"count": 43
+},
+{
+"speciesKey": "2437563",
+"count": 35
+},
+{
+"speciesKey": "2437246",
+"count": 29
+},
+{
+"speciesKey": "2436613",
+"count": 22
+},
+{
+"speciesKey": "2434267",
+"count": 7
+},
+{
+"speciesKey": "2437247",
+"count": 5
+},
+{
+"speciesKey": "2436626",
+"count": 3
+},
+{
+"speciesKey": "2432664",
+"count": 1
+},
+{
+"speciesKey": "2433352",
+"count": 1
+},
+{
+"speciesKey": "2434249",
+"count": 1
+},
+{
+"speciesKey": "2434600",
+"count": 1
+},
+{
+"speciesKey": "2435066",
+"count": 1
+},
+{
+"speciesKey": "2437565",
+"count": 1
+},
+{
+"speciesKey": "4267223",
+"count": 1
+},
+{
+"speciesKey": "5218559",
+"count": 1
+},
+{
+"speciesKey": "5219173",
+"count": 1
+},
+{
+"speciesKey": "5219633",
+"count": 1
+}
+]
+},
+"mirissa": {
+"total": 183,
+"top": [
+{
+"speciesKey": "2437246",
+"count": 40
+},
+{
+"speciesKey": "7460229",
+"count": 35
+},
+{
+"speciesKey": "2440735",
+"count": 34
+},
+{
+"speciesKey": "2436613",
+"count": 23
+},
+{
+"speciesKey": "5787518",
+"count": 9
+},
+{
+"speciesKey": "4267223",
+"count": 8
+},
+{
+"speciesKey": "5220060",
+"count": 6
+},
+{
+"speciesKey": "2440483",
+"count": 3
+},
+{
+"speciesKey": "5219884",
+"count": 3
+},
+{
+"speciesKey": "2434249",
+"count": 2
+},
+{
+"speciesKey": "2434267",
+"count": 2
+},
+{
+"speciesKey": "2434895",
+"count": 2
+},
+{
+"speciesKey": "2440447",
+"count": 2
+},
+{
+"speciesKey": "2440455",
+"count": 2
+},
+{
+"speciesKey": "5220027",
+"count": 2
+},
+{
+"speciesKey": "5220050",
+"count": 2
+},
+{
+"speciesKey": "7422937",
+"count": 2
+},
+{
+"speciesKey": "2435035",
+"count": 1
+},
+{
+"speciesKey": "2439270",
+"count": 1
+},
+{
+"speciesKey": "2440714",
+"count": 1
+},
+{
+"speciesKey": "4264958",
+"count": 1
+},
+{
+"speciesKey": "5219461",
+"count": 1
+},
+{
+"speciesKey": "7705930",
+"count": 1
+}
+]
+},
+"galle": {
+"total": 45,
+"top": [
+{
+"speciesKey": "2437246",
+"count": 19
+},
+{
+"speciesKey": "7460229",
+"count": 12
+},
+{
+"speciesKey": "5787518",
+"count": 4
+},
+{
+"speciesKey": "5219884",
+"count": 3
+},
+{
+"speciesKey": "2436613",
+"count": 2
+},
+{
+"speciesKey": "2434267",
+"count": 1
+},
+{
+"speciesKey": "2435035",
+"count": 1
+},
+{
+"speciesKey": "2440735",
+"count": 1
+},
+{
+"speciesKey": "4264958",
+"count": 1
+},
+{
+"speciesKey": "7422937",
+"count": 1
+}
+]
+}
+}
+}

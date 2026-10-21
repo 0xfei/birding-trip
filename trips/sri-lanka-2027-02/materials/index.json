@@ -1,0 +1,14 @@
+{
+ "materials": [
+  {
+   "id": "20261020-酒店确认-deniyaya",
+   "label": "酒店确认-deniyaya",
+   "source": "用户直接输入",
+   "file": "input.md",
+   "sha256": "f25e372d4dea0a79348f601e109a1baaaeaf4f8afd7358457d3285e597dc73cd",
+   "bytes": 104,
+   "added": "2026-10-20 18:53",
+   "extracted": false
+  }
+ ]
+}

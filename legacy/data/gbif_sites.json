@@ -1,0 +1,4405 @@
+{
+ "nettapus-coromandelianus": {
+  "sci": "Nettapus coromandelianus",
+  "zh": "棉凫",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 67,
+   "yala": 30,
+   "bundala": 44,
+   "sinharaja": 0,
+   "mirissa": 9,
+   "galle": 0
+  }
+ },
+ "cairina-moschata": {
+  "sci": "Cairina moschata",
+  "zh": "疣鼻栖鸭",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "sarkidiornis-melanotos": {
+  "sci": "Sarkidiornis melanotos",
+  "zh": "瘤鸭",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 7,
+   "bundala": 3,
+   "sinharaja": 0,
+   "mirissa": 55,
+   "galle": 0
+  }
+ },
+ "spatula-querquedula": {
+  "sci": "Spatula querquedula",
+  "zh": "白眉鸭",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 51,
+   "yala": 91,
+   "bundala": 113,
+   "sinharaja": 0,
+   "mirissa": 46,
+   "galle": 0
+  }
+ },
+ "spatula-clypeata": {
+  "sci": "Spatula clypeata",
+  "zh": "琵嘴鸭",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 1,
+   "bundala": 6,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "anas-poecilorhyncha": {
+  "sci": "Anas poecilorhyncha",
+  "zh": "印缅斑嘴鸭",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 7,
+   "horton": 0,
+   "victoria": 7,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "anas-acuta": {
+  "sci": "Anas acuta",
+  "zh": "针尾鸭",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 5,
+   "yala": 12,
+   "bundala": 10,
+   "sinharaja": 0,
+   "mirissa": 13,
+   "galle": 0
+  }
+ },
+ "numida-meleagris": {
+  "sci": "Numida meleagris",
+  "zh": "珠鸡",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "galloperdix-bicalcarata": {
+  "sci": "Galloperdix bicalcarata",
+  "zh": "斯里兰卡鸡鹑",
+  "sites": {
+   "kitulgala": 30,
+   "makandawa": 30,
+   "nuwara": 4,
+   "horton": 36,
+   "victoria": 2,
+   "tissa": 1,
+   "yala": 1,
+   "bundala": 0,
+   "sinharaja": 294,
+   "mirissa": 5,
+   "galle": 0
+  }
+ },
+ "gallus-lafayettii": {
+  "sci": "Gallus lafayettii",
+  "zh": "蓝喉原鸡",
+  "sites": {
+   "kitulgala": 191,
+   "makandawa": 188,
+   "nuwara": 40,
+   "horton": 166,
+   "victoria": 18,
+   "tissa": 66,
+   "yala": 303,
+   "bundala": 177,
+   "sinharaja": 516,
+   "mirissa": 5,
+   "galle": 2
+  }
+ },
+ "ortygornis-pondicerianus": {
+  "sci": "Ortygornis pondicerianus",
+  "zh": "灰鹧鸪",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "francolinus-pictus": {
+  "sci": "Francolinus pictus",
+  "zh": "花彩鹧鸪",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "synoicus-chinensis": {
+  "sci": "Synoicus chinensis",
+  "zh": "蓝胸鹑",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 1,
+   "yala": 0,
+   "bundala": 1,
+   "sinharaja": 1,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "coturnix-coturnix": {
+  "sci": "Coturnix coturnix",
+  "zh": "西鹌鹑",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "coturnix-coromandelica": {
+  "sci": "Coturnix coromandelica",
+  "zh": "黑胸鹌鹑",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "perdicula-asiatica": {
+  "sci": "Perdicula asiatica",
+  "zh": "丛林鹑",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "phoenicopterus-roseus": {
+  "sci": "Phoenicopterus roseus",
+  "zh": "大红鹳",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 2,
+   "yala": 1,
+   "bundala": 8,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "centropus-chlororhynchos": {
+  "sci": "Centropus chlororhynchos",
+  "zh": "绿嘴鸦鹃",
+  "sites": {
+   "kitulgala": 72,
+   "makandawa": 70,
+   "nuwara": 1,
+   "horton": 2,
+   "victoria": 1,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 273,
+   "mirissa": 2,
+   "galle": 1
+  }
+ },
+ "centropus-sinensis": {
+  "sci": "Centropus sinensis",
+  "zh": "褐翅鸦鹃",
+  "sites": {
+   "kitulgala": 187,
+   "makandawa": 187,
+   "nuwara": 50,
+   "horton": 69,
+   "victoria": 32,
+   "tissa": 131,
+   "yala": 171,
+   "bundala": 183,
+   "sinharaja": 146,
+   "mirissa": 166,
+   "galle": 71
+  }
+ },
+ "taccocua-leschenaultii": {
+  "sci": "Taccocua leschenaultii",
+  "zh": "短嘴地鹃",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 1,
+   "yala": 49,
+   "bundala": 3,
+   "sinharaja": 8,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "phaenicophaeus-pyrrhocephalus": {
+  "sci": "Phaenicophaeus pyrrhocephalus",
+  "zh": "红脸地鹃",
+  "sites": {
+   "kitulgala": 8,
+   "makandawa": 8,
+   "nuwara": 0,
+   "horton": 1,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 227,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "phaenicophaeus-viridirostris": {
+  "sci": "Phaenicophaeus viridirostris",
+  "zh": "小绿嘴地鹃",
+  "sites": {
+   "kitulgala": 1,
+   "makandawa": 1,
+   "nuwara": 1,
+   "horton": 2,
+   "victoria": 1,
+   "tissa": 41,
+   "yala": 126,
+   "bundala": 108,
+   "sinharaja": 2,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "clamator-coromandus": {
+  "sci": "Clamator coromandus",
+  "zh": "红翅凤头鹃",
+  "sites": {
+   "kitulgala": 2,
+   "makandawa": 2,
+   "nuwara": 0,
+   "horton": 1,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 6,
+   "bundala": 1,
+   "sinharaja": 10,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "clamator-jacobinus": {
+  "sci": "Clamator jacobinus",
+  "zh": "斑翅凤头鹃",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 4,
+   "horton": 1,
+   "victoria": 4,
+   "tissa": 29,
+   "yala": 85,
+   "bundala": 132,
+   "sinharaja": 6,
+   "mirissa": 45,
+   "galle": 0
+  }
+ },
+ "cacomantis-sonneratii": {
+  "sci": "Cacomantis sonneratii",
+  "zh": "栗斑杜鹃",
+  "sites": {
+   "kitulgala": 36,
+   "makandawa": 35,
+   "nuwara": 1,
+   "horton": 7,
+   "victoria": 1,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 33,
+   "mirissa": 2,
+   "galle": 0
+  }
+ },
+ "cacomantis-passerinus": {
+  "sci": "Cacomantis passerinus",
+  "zh": "灰腹杜鹃",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 2,
+   "horton": 0,
+   "victoria": 2,
+   "tissa": 17,
+   "yala": 92,
+   "bundala": 66,
+   "sinharaja": 0,
+   "mirissa": 8,
+   "galle": 0
+  }
+ },
+ "surniculus-dicruroides": {
+  "sci": "Surniculus dicruroides",
+  "zh": "叉尾乌鹃",
+  "sites": {
+   "kitulgala": 1,
+   "makandawa": 1,
+   "nuwara": 0,
+   "horton": 16,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 8,
+   "bundala": 0,
+   "sinharaja": 4,
+   "mirissa": 3,
+   "galle": 1
+  }
+ },
+ "hierococcyx-varius": {
+  "sci": "Hierococcyx varius",
+  "zh": "普通鹰鹃",
+  "sites": {
+   "kitulgala": 28,
+   "makandawa": 27,
+   "nuwara": 15,
+   "horton": 32,
+   "victoria": 9,
+   "tissa": 0,
+   "yala": 4,
+   "bundala": 3,
+   "sinharaja": 53,
+   "mirissa": 2,
+   "galle": 4
+  }
+ },
+ "cuculus-poliocephalus": {
+  "sci": "Cuculus poliocephalus",
+  "zh": "小杜鹃",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 1,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 1,
+   "bundala": 2,
+   "sinharaja": 1,
+   "mirissa": 1,
+   "galle": 1
+  }
+ },
+ "cuculus-micropterus": {
+  "sci": "Cuculus micropterus",
+  "zh": "四声杜鹃",
+  "sites": {
+   "kitulgala": 3,
+   "makandawa": 3,
+   "nuwara": 1,
+   "horton": 0,
+   "victoria": 1,
+   "tissa": 5,
+   "yala": 1,
+   "bundala": 0,
+   "sinharaja": 24,
+   "mirissa": 1,
+   "galle": 0
+  }
+ },
+ "columba-torringtoniae": {
+  "sci": "Columba torringtoniae",
+  "zh": "紫头林鸽",
+  "sites": {
+   "kitulgala": 18,
+   "makandawa": 18,
+   "nuwara": 45,
+   "horton": 219,
+   "victoria": 22,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 121,
+   "mirissa": 2,
+   "galle": 1
+  }
+ },
+ "chalcophaps-indica": {
+  "sci": "Chalcophaps indica",
+  "zh": "绿翅金鸠",
+  "sites": {
+   "kitulgala": 214,
+   "makandawa": 212,
+   "nuwara": 8,
+   "horton": 15,
+   "victoria": 5,
+   "tissa": 2,
+   "yala": 32,
+   "bundala": 3,
+   "sinharaja": 462,
+   "mirissa": 50,
+   "galle": 8
+  }
+ },
+ "treron-bicinctus": {
+  "sci": "Treron bicinctus",
+  "zh": "橙胸绿鸠",
+  "sites": {
+   "kitulgala": 8,
+   "makandawa": 8,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 89,
+   "yala": 320,
+   "bundala": 167,
+   "sinharaja": 3,
+   "mirissa": 76,
+   "galle": 29
+  }
+ },
+ "treron-pompadora": {
+  "sci": "Treron pompadora",
+  "zh": "斯里兰卡绿鸠",
+  "sites": {
+   "kitulgala": 159,
+   "makandawa": 157,
+   "nuwara": 3,
+   "horton": 10,
+   "victoria": 1,
+   "tissa": 25,
+   "yala": 92,
+   "bundala": 31,
+   "sinharaja": 355,
+   "mirissa": 103,
+   "galle": 55
+  }
+ },
+ "treron-phoenicopterus": {
+  "sci": "Treron phoenicopterus",
+  "zh": "黄脚绿鸠",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 1,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "ducula-aenea": {
+  "sci": "Ducula aenea",
+  "zh": "绿皇鸠",
+  "sites": {
+   "kitulgala": 262,
+   "makandawa": 259,
+   "nuwara": 6,
+   "horton": 4,
+   "victoria": 4,
+   "tissa": 213,
+   "yala": 270,
+   "bundala": 190,
+   "sinharaja": 424,
+   "mirissa": 257,
+   "galle": 93
+  }
+ },
+ "lewinia-striata": {
+  "sci": "Lewinia striata",
+  "zh": "灰胸秧鸡",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 1,
+   "bundala": 3,
+   "sinharaja": 1,
+   "mirissa": 1,
+   "galle": 0
+  }
+ },
+ "gallicrex-cinerea": {
+  "sci": "Gallicrex cinerea",
+  "zh": "董鸡",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 70,
+   "yala": 16,
+   "bundala": 172,
+   "sinharaja": 0,
+   "mirissa": 77,
+   "galle": 2
+  }
+ },
+ "rallina-eurizonoides": {
+  "sci": "Rallina eurizonoides",
+  "zh": "白喉斑秧鸡",
+  "sites": {
+   "kitulgala": 7,
+   "makandawa": 7,
+   "nuwara": 18,
+   "horton": 0,
+   "victoria": 11,
+   "tissa": 0,
+   "yala": 2,
+   "bundala": 1,
+   "sinharaja": 64,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "zapornia-fusca": {
+  "sci": "Zapornia fusca",
+  "zh": "红胸田鸡",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 2,
+   "horton": 0,
+   "victoria": 2,
+   "tissa": 5,
+   "yala": 0,
+   "bundala": 2,
+   "sinharaja": 5,
+   "mirissa": 11,
+   "galle": 0
+  }
+ },
+ "zapornia-pusilla": {
+  "sci": "Zapornia pusilla",
+  "zh": "小田鸡",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 1,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 5,
+   "galle": 0
+  }
+ },
+ "esacus-recurvirostris": {
+  "sci": "Esacus recurvirostris",
+  "zh": "大石鸻",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 2,
+   "horton": 1,
+   "victoria": 2,
+   "tissa": 113,
+   "yala": 277,
+   "bundala": 318,
+   "sinharaja": 0,
+   "mirissa": 1,
+   "galle": 3
+  }
+ },
+ "burhinus-indicus": {
+  "sci": "Burhinus indicus",
+  "zh": "印度石鸻",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 42,
+   "yala": 41,
+   "bundala": 118,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 3
+  }
+ },
+ "recurvirostra-avosetta": {
+  "sci": "Recurvirostra avosetta",
+  "zh": "反嘴鹬",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 1,
+   "yala": 0,
+   "bundala": 1,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "haematopus-ostralegus": {
+  "sci": "Haematopus ostralegus",
+  "zh": "蛎鹬",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 1,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "vanellus-malabaricus": {
+  "sci": "Vanellus malabaricus",
+  "zh": "黄垂麦鸡",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 69,
+   "yala": 250,
+   "bundala": 241,
+   "sinharaja": 1,
+   "mirissa": 0,
+   "galle": 2
+  }
+ },
+ "rostratula-benghalensis": {
+  "sci": "Rostratula benghalensis",
+  "zh": "彩鹬",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 4,
+   "yala": 4,
+   "bundala": 33,
+   "sinharaja": 1,
+   "mirissa": 4,
+   "galle": 0
+  }
+ },
+ "hydrophasianus-chirurgus": {
+  "sci": "Hydrophasianus chirurgus",
+  "zh": "水雉",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 2,
+   "horton": 0,
+   "victoria": 2,
+   "tissa": 272,
+   "yala": 211,
+   "bundala": 381,
+   "sinharaja": 0,
+   "mirissa": 81,
+   "galle": 1
+  }
+ },
+ "calidris-tenuirostris": {
+  "sci": "Calidris tenuirostris",
+  "zh": "大滨鹬",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 4,
+   "bundala": 3,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "calidris-acuminata": {
+  "sci": "Calidris acuminata",
+  "zh": "尖尾滨鹬",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 3,
+   "yala": 3,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "calidris-falcinellus": {
+  "sci": "Calidris falcinellus",
+  "zh": "阔嘴鹬",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 9,
+   "yala": 9,
+   "bundala": 13,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "calidris-ferruginea": {
+  "sci": "Calidris ferruginea",
+  "zh": "弯嘴滨鹬",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 58,
+   "yala": 85,
+   "bundala": 196,
+   "sinharaja": 0,
+   "mirissa": 20,
+   "galle": 0
+  }
+ },
+ "calidris-ruficollis": {
+  "sci": "Calidris ruficollis",
+  "zh": "红颈滨鹬",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 1,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "calidris-subminuta": {
+  "sci": "Calidris subminuta",
+  "zh": "长趾滨鹬",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 28,
+   "yala": 7,
+   "bundala": 32,
+   "sinharaja": 0,
+   "mirissa": 21,
+   "galle": 0
+  }
+ },
+ "turnix-suscitator": {
+  "sci": "Turnix suscitator",
+  "zh": "棕三趾鹑",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 9,
+   "yala": 117,
+   "bundala": 38,
+   "sinharaja": 3,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "dromas-ardeola": {
+  "sci": "Dromas ardeola",
+  "zh": "蟹鸻",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 1,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "glareola-lactea": {
+  "sci": "Glareola lactea",
+  "zh": "灰燕鸻",
+  "sites": {
+   "kitulgala": 2,
+   "makandawa": 2,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 26,
+   "yala": 34,
+   "bundala": 142,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "glareola-maldivarum": {
+  "sci": "Glareola maldivarum",
+  "zh": "普通燕鸻",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 4,
+   "yala": 19,
+   "bundala": 59,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "glareola-nordmanni": {
+  "sci": "Glareola nordmanni",
+  "zh": "黑翅燕鸻",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "glareola-pratincola": {
+  "sci": "Glareola pratincola",
+  "zh": "领燕鸻",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 19,
+   "bundala": 33,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "stercorarius-maccormicki": {
+  "sci": "Stercorarius maccormicki",
+  "zh": "南极贼鸥",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "stercorarius-antarcticus": {
+  "sci": "Stercorarius antarcticus",
+  "zh": "棕贼鸥",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "anous-tenuirostris": {
+  "sci": "Anous tenuirostris",
+  "zh": "小玄燕鸥",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "sternula-saundersi": {
+  "sci": "Sternula saundersi",
+  "zh": "桑氏白额燕鸥",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 3,
+   "yala": 1,
+   "bundala": 2,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "sterna-paradisaea": {
+  "sci": "Sterna paradisaea",
+  "zh": "北极燕鸥",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "ichthyaetus-hemprichii": {
+  "sci": "Ichthyaetus hemprichii",
+  "zh": "白领鸥",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "phaethon-aethereus": {
+  "sci": "Phaethon aethereus",
+  "zh": "红嘴鹲",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "phaethon-lepturus": {
+  "sci": "Phaethon lepturus",
+  "zh": "白尾鹲",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "oceanites-oceanicus": {
+  "sci": "Oceanites oceanicus",
+  "zh": "黄蹼洋海燕",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 2,
+   "galle": 0
+  }
+ },
+ "hydrobates-monorhis": {
+  "sci": "Hydrobates monorhis",
+  "zh": "黑叉尾海燕",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "bulweria-bulwerii": {
+  "sci": "Bulweria bulwerii",
+  "zh": "褐燕鹱",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "bulweria-fallax": {
+  "sci": "Bulweria fallax",
+  "zh": "厚嘴燕鹱",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "calonectris-leucomelas": {
+  "sci": "Calonectris leucomelas",
+  "zh": "白额鹱",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "ardenna-pacifica": {
+  "sci": "Ardenna pacifica",
+  "zh": "楔尾鹱",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "ardenna-grisea": {
+  "sci": "Ardenna grisea",
+  "zh": "灰鹱",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "ardenna-carneipes": {
+  "sci": "Ardenna carneipes",
+  "zh": "淡足鹱",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 2,
+   "galle": 0
+  }
+ },
+ "puffinus-persicus": {
+  "sci": "Puffinus persicus",
+  "zh": "波斯鹱",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "puffinus-bailloni": {
+  "sci": "Puffinus bailloni",
+  "zh": "热带鹱",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "pterodroma-baraui": {
+  "sci": "Pterodroma baraui",
+  "zh": "留尼汪圆尾鹱",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "leptoptilos-javanicus": {
+  "sci": "Leptoptilos javanicus",
+  "zh": "秃鹳",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 6,
+   "yala": 96,
+   "bundala": 49,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 2
+  }
+ },
+ "mycteria-leucocephala": {
+  "sci": "Mycteria leucocephala",
+  "zh": "彩鹳",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 3,
+   "horton": 1,
+   "victoria": 3,
+   "tissa": 222,
+   "yala": 444,
+   "bundala": 396,
+   "sinharaja": 2,
+   "mirissa": 215,
+   "galle": 4
+  }
+ },
+ "ephippiorhynchus-asiaticus": {
+  "sci": "Ephippiorhynchus asiaticus",
+  "zh": "黑颈鹳",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 3,
+   "yala": 93,
+   "bundala": 22,
+   "sinharaja": 0,
+   "mirissa": 3,
+   "galle": 1
+  }
+ },
+ "ciconia-episcopus": {
+  "sci": "Ciconia episcopus",
+  "zh": "白颈鹳",
+  "sites": {
+   "kitulgala": 2,
+   "makandawa": 2,
+   "nuwara": 2,
+   "horton": 2,
+   "victoria": 1,
+   "tissa": 12,
+   "yala": 101,
+   "bundala": 11,
+   "sinharaja": 10,
+   "mirissa": 16,
+   "galle": 1
+  }
+ },
+ "fregata-ariel": {
+  "sci": "Fregata ariel",
+  "zh": "白斑军舰鸟",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "fregata-andrewsi": {
+  "sci": "Fregata andrewsi",
+  "zh": "白腹军舰鸟",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "fregata-minor": {
+  "sci": "Fregata minor",
+  "zh": "黑腹军舰鸟",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "anhinga-melanogaster": {
+  "sci": "Anhinga melanogaster",
+  "zh": "黑腹蛇鹈",
+  "sites": {
+   "kitulgala": 2,
+   "makandawa": 2,
+   "nuwara": 3,
+   "horton": 1,
+   "victoria": 3,
+   "tissa": 310,
+   "yala": 350,
+   "bundala": 440,
+   "sinharaja": 5,
+   "mirissa": 222,
+   "galle": 18
+  }
+ },
+ "phalacrocorax-fuscicollis": {
+  "sci": "Phalacrocorax fuscicollis",
+  "zh": "印度鸬鹚",
+  "sites": {
+   "kitulgala": 24,
+   "makandawa": 24,
+   "nuwara": 12,
+   "horton": 4,
+   "victoria": 10,
+   "tissa": 245,
+   "yala": 185,
+   "bundala": 293,
+   "sinharaja": 3,
+   "mirissa": 106,
+   "galle": 16
+  }
+ },
+ "threskiornis-melanocephalus": {
+  "sci": "Threskiornis melanocephalus",
+  "zh": "黑头白鹮",
+  "sites": {
+   "kitulgala": 12,
+   "makandawa": 11,
+   "nuwara": 7,
+   "horton": 2,
+   "victoria": 6,
+   "tissa": 318,
+   "yala": 401,
+   "bundala": 411,
+   "sinharaja": 19,
+   "mirissa": 207,
+   "galle": 16
+  }
+ },
+ "pelecanus-philippensis": {
+  "sci": "Pelecanus philippensis",
+  "zh": "斑嘴鹈鹕",
+  "sites": {
+   "kitulgala": 1,
+   "makandawa": 1,
+   "nuwara": 2,
+   "horton": 0,
+   "victoria": 2,
+   "tissa": 272,
+   "yala": 263,
+   "bundala": 348,
+   "sinharaja": 4,
+   "mirissa": 109,
+   "galle": 3
+  }
+ },
+ "botaurus-flavicollis": {
+  "sci": "Botaurus flavicollis",
+  "zh": "黑鳽",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "botaurus-cinnamomeus": {
+  "sci": "Botaurus cinnamomeus",
+  "zh": "栗苇鳽",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "botaurus-eurhythmus": {
+  "sci": "Botaurus eurhythmus",
+  "zh": "紫背苇鳽",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "gorsachius-melanolophus": {
+  "sci": "Gorsachius melanolophus",
+  "zh": "黑冠鳽",
+  "sites": {
+   "kitulgala": 4,
+   "makandawa": 4,
+   "nuwara": 5,
+   "horton": 0,
+   "victoria": 4,
+   "tissa": 1,
+   "yala": 1,
+   "bundala": 0,
+   "sinharaja": 7,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "egretta-gularis": {
+  "sci": "Egretta gularis",
+  "zh": "西岩鹭",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 11,
+   "yala": 9,
+   "bundala": 12,
+   "sinharaja": 0,
+   "mirissa": 6,
+   "galle": 1
+  }
+ },
+ "ardeola-bacchus": {
+  "sci": "Ardeola bacchus",
+  "zh": "池鹭",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "ardea-purpurea": {
+  "sci": "Ardea purpurea",
+  "zh": "草鹭",
+  "sites": {
+   "kitulgala": 3,
+   "makandawa": 3,
+   "nuwara": 4,
+   "horton": 1,
+   "victoria": 4,
+   "tissa": 309,
+   "yala": 190,
+   "bundala": 425,
+   "sinharaja": 3,
+   "mirissa": 225,
+   "galle": 17
+  }
+ },
+ "caprimulgus-indicus": {
+  "sci": "Caprimulgus indicus",
+  "zh": "丛林夜鹰",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 5,
+   "yala": 3,
+   "bundala": 1,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "caprimulgus-atripennis": {
+  "sci": "Caprimulgus atripennis",
+  "zh": "印度长尾夜鹰",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 1,
+   "victoria": 0,
+   "tissa": 35,
+   "yala": 72,
+   "bundala": 17,
+   "sinharaja": 2,
+   "mirissa": 22,
+   "galle": 4
+  }
+ },
+ "caprimulgus-asiaticus": {
+  "sci": "Caprimulgus asiaticus",
+  "zh": "印度夜鹰",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 33,
+   "yala": 104,
+   "bundala": 39,
+   "sinharaja": 0,
+   "mirissa": 4,
+   "galle": 0
+  }
+ },
+ "batrachostomus-moniliger": {
+  "sci": "Batrachostomus moniliger",
+  "zh": "领蛙口夜鹰",
+  "sites": {
+   "kitulgala": 38,
+   "makandawa": 38,
+   "nuwara": 0,
+   "horton": 3,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 2,
+   "bundala": 0,
+   "sinharaja": 320,
+   "mirissa": 4,
+   "galle": 3
+  }
+ },
+ "hemiprocne-coronata": {
+  "sci": "Hemiprocne coronata",
+  "zh": "凤头雨燕",
+  "sites": {
+   "kitulgala": 24,
+   "makandawa": 24,
+   "nuwara": 3,
+   "horton": 0,
+   "victoria": 2,
+   "tissa": 70,
+   "yala": 233,
+   "bundala": 96,
+   "sinharaja": 122,
+   "mirissa": 36,
+   "galle": 9
+  }
+ },
+ "apus-affinis": {
+  "sci": "Apus affinis",
+  "zh": "小雨燕",
+  "sites": {
+   "kitulgala": 55,
+   "makandawa": 55,
+   "nuwara": 18,
+   "horton": 0,
+   "victoria": 12,
+   "tissa": 56,
+   "yala": 128,
+   "bundala": 145,
+   "sinharaja": 67,
+   "mirissa": 152,
+   "galle": 42
+  }
+ },
+ "aerodramus-unicolor": {
+  "sci": "Aerodramus unicolor",
+  "zh": "印度金丝燕",
+  "sites": {
+   "kitulgala": 217,
+   "makandawa": 212,
+   "nuwara": 79,
+   "horton": 54,
+   "victoria": 47,
+   "tissa": 23,
+   "yala": 36,
+   "bundala": 30,
+   "sinharaja": 171,
+   "mirissa": 70,
+   "galle": 25
+  }
+ },
+ "phodilus-assimilis": {
+  "sci": "Phodilus assimilis",
+  "zh": "斯里兰卡栗鸮",
+  "sites": {
+   "kitulgala": 5,
+   "makandawa": 5,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 36,
+   "mirissa": 1,
+   "galle": 1
+  }
+ },
+ "tyto-javanica": {
+  "sci": "Tyto javanica",
+  "zh": "仓鸮",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 35,
+   "yala": 2,
+   "bundala": 29,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 1
+  }
+ },
+ "ninox-scutulata": {
+  "sci": "Ninox scutulata",
+  "zh": "鹰鸮",
+  "sites": {
+   "kitulgala": 18,
+   "makandawa": 18,
+   "nuwara": 1,
+   "horton": 0,
+   "victoria": 1,
+   "tissa": 25,
+   "yala": 9,
+   "bundala": 6,
+   "sinharaja": 28,
+   "mirissa": 16,
+   "galle": 9
+  }
+ },
+ "glaucidium-radiatum": {
+  "sci": "Glaucidium radiatum",
+  "zh": "丛林鸺鹠",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 1,
+   "horton": 0,
+   "victoria": 1,
+   "tissa": 91,
+   "yala": 10,
+   "bundala": 62,
+   "sinharaja": 3,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "glaucidium-castanotum": {
+  "sci": "Glaucidium castanotum",
+  "zh": "栗背鸺鹠",
+  "sites": {
+   "kitulgala": 157,
+   "makandawa": 156,
+   "nuwara": 6,
+   "horton": 15,
+   "victoria": 3,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 179,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "otus-thilohoffmanni": {
+  "sci": "Otus thilohoffmanni",
+  "zh": "斯里兰卡角鸮",
+  "sites": {
+   "kitulgala": 41,
+   "makandawa": 41,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 157,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "otus-bakkamoena": {
+  "sci": "Otus bakkamoena",
+  "zh": "印度领角鸮",
+  "sites": {
+   "kitulgala": 7,
+   "makandawa": 7,
+   "nuwara": 1,
+   "horton": 0,
+   "victoria": 1,
+   "tissa": 81,
+   "yala": 10,
+   "bundala": 43,
+   "sinharaja": 7,
+   "mirissa": 8,
+   "galle": 6
+  }
+ },
+ "otus-sunia": {
+  "sci": "Otus sunia",
+  "zh": "红角鸮",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 2,
+   "yala": 1,
+   "bundala": 2,
+   "sinharaja": 2,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "asio-flammeus": {
+  "sci": "Asio flammeus",
+  "zh": "短耳鸮",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "ketupa-zeylonensis": {
+  "sci": "Ketupa zeylonensis",
+  "zh": "褐渔鸮",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 2,
+   "horton": 2,
+   "victoria": 1,
+   "tissa": 70,
+   "yala": 70,
+   "bundala": 46,
+   "sinharaja": 20,
+   "mirissa": 2,
+   "galle": 2
+  }
+ },
+ "ketupa-nipalensis": {
+  "sci": "Ketupa nipalensis",
+  "zh": "林雕鸮",
+  "sites": {
+   "kitulgala": 7,
+   "makandawa": 7,
+   "nuwara": 0,
+   "horton": 1,
+   "victoria": 0,
+   "tissa": 7,
+   "yala": 0,
+   "bundala": 2,
+   "sinharaja": 28,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "strix-leptogrammica": {
+  "sci": "Strix leptogrammica",
+  "zh": "褐林鸮",
+  "sites": {
+   "kitulgala": 4,
+   "makandawa": 4,
+   "nuwara": 10,
+   "horton": 7,
+   "victoria": 7,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 3,
+   "mirissa": 4,
+   "galle": 1
+  }
+ },
+ "pandion-haliaetus": {
+  "sci": "Pandion haliaetus",
+  "zh": "鹗",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 9,
+   "yala": 9,
+   "bundala": 80,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "elanus-caeruleus": {
+  "sci": "Elanus caeruleus",
+  "zh": "黑翅鸢",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 14,
+   "horton": 40,
+   "victoria": 12,
+   "tissa": 16,
+   "yala": 4,
+   "bundala": 40,
+   "sinharaja": 0,
+   "mirissa": 1,
+   "galle": 1
+  }
+ },
+ "aviceda-jerdoni": {
+  "sci": "Aviceda jerdoni",
+  "zh": "褐冠鹃隼",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 3,
+   "horton": 4,
+   "victoria": 3,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 13,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "pernis-apivorus": {
+  "sci": "Pernis apivorus",
+  "zh": "鹃头蜂鹰",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 1,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "pernis-ptilorhynchus": {
+  "sci": "Pernis ptilorhynchus",
+  "zh": "凤头蜂鹰",
+  "sites": {
+   "kitulgala": 99,
+   "makandawa": 98,
+   "nuwara": 27,
+   "horton": 86,
+   "victoria": 14,
+   "tissa": 32,
+   "yala": 42,
+   "bundala": 40,
+   "sinharaja": 102,
+   "mirissa": 23,
+   "galle": 3
+  }
+ },
+ "spilornis-cheela": {
+  "sci": "Spilornis cheela",
+  "zh": "蛇雕",
+  "sites": {
+   "kitulgala": 126,
+   "makandawa": 124,
+   "nuwara": 39,
+   "horton": 25,
+   "victoria": 21,
+   "tissa": 30,
+   "yala": 117,
+   "bundala": 41,
+   "sinharaja": 201,
+   "mirissa": 67,
+   "galle": 26
+  }
+ },
+ "nisaetus-kelaarti": {
+  "sci": "Nisaetus kelaarti",
+  "zh": "力氏鹰雕",
+  "sites": {
+   "kitulgala": 19,
+   "makandawa": 18,
+   "nuwara": 27,
+   "horton": 30,
+   "victoria": 16,
+   "tissa": 0,
+   "yala": 1,
+   "bundala": 1,
+   "sinharaja": 57,
+   "mirissa": 2,
+   "galle": 2
+  }
+ },
+ "nisaetus-cirrhatus": {
+  "sci": "Nisaetus cirrhatus",
+  "zh": "凤头鹰雕",
+  "sites": {
+   "kitulgala": 28,
+   "makandawa": 28,
+   "nuwara": 9,
+   "horton": 8,
+   "victoria": 7,
+   "tissa": 47,
+   "yala": 250,
+   "bundala": 103,
+   "sinharaja": 120,
+   "mirissa": 69,
+   "galle": 20
+  }
+ },
+ "lophotriorchis-kienerii": {
+  "sci": "Lophotriorchis kienerii",
+  "zh": "棕腹隼雕",
+  "sites": {
+   "kitulgala": 22,
+   "makandawa": 22,
+   "nuwara": 6,
+   "horton": 7,
+   "victoria": 3,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 34,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "ictinaetus-malaiensis": {
+  "sci": "Ictinaetus malaiensis",
+  "zh": "林雕",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "clanga-clanga": {
+  "sci": "Clanga clanga",
+  "zh": "乌雕",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "hieraaetus-pennatus": {
+  "sci": "Hieraaetus pennatus",
+  "zh": "靴隼雕",
+  "sites": {
+   "kitulgala": 5,
+   "makandawa": 5,
+   "nuwara": 3,
+   "horton": 5,
+   "victoria": 2,
+   "tissa": 20,
+   "yala": 34,
+   "bundala": 9,
+   "sinharaja": 1,
+   "mirissa": 10,
+   "galle": 0
+  }
+ },
+ "lophospiza-trivirgata": {
+  "sci": "Lophospiza trivirgata",
+  "zh": "凤头鹰",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "tachyspiza-virgata": {
+  "sci": "Tachyspiza virgata",
+  "zh": "松雀鹰",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "tachyspiza-soloensis": {
+  "sci": "Tachyspiza soloensis",
+  "zh": "赤腹鹰",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "circus-macrourus": {
+  "sci": "Circus macrourus",
+  "zh": "草原鹞",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 3,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 1,
+   "bundala": 3,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "circus-pygargus": {
+  "sci": "Circus pygargus",
+  "zh": "乌灰鹞",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 1,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "circus-melanoleucos": {
+  "sci": "Circus melanoleucos",
+  "zh": "鹊鹞",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "circus-spilonotus": {
+  "sci": "Circus spilonotus",
+  "zh": "白腹鹞",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "icthyophaga-ichthyaetus": {
+  "sci": "Icthyophaga ichthyaetus",
+  "zh": "灰头渔雕",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 2,
+   "victoria": 0,
+   "tissa": 51,
+   "yala": 140,
+   "bundala": 166,
+   "sinharaja": 5,
+   "mirissa": 14,
+   "galle": 3
+  }
+ },
+ "buteo-rufinus": {
+  "sci": "Buteo rufinus",
+  "zh": "棕尾鵟",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 2,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "buteo-refectus": {
+  "sci": "Buteo refectus",
+  "zh": "喜山鵟",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 4,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "harpactes-fasciatus": {
+  "sci": "Harpactes fasciatus",
+  "zh": "黑头咬鹃",
+  "sites": {
+   "kitulgala": 50,
+   "makandawa": 50,
+   "nuwara": 1,
+   "horton": 10,
+   "victoria": 1,
+   "tissa": 0,
+   "yala": 1,
+   "bundala": 0,
+   "sinharaja": 347,
+   "mirissa": 2,
+   "galle": 1
+  }
+ },
+ "ocyceros-gingalensis": {
+  "sci": "Ocyceros gingalensis",
+  "zh": "斯里兰卡灰犀鸟",
+  "sites": {
+   "kitulgala": 212,
+   "makandawa": 211,
+   "nuwara": 7,
+   "horton": 21,
+   "victoria": 6,
+   "tissa": 2,
+   "yala": 32,
+   "bundala": 3,
+   "sinharaja": 316,
+   "mirissa": 56,
+   "galle": 15
+  }
+ },
+ "anthracoceros-coronatus": {
+  "sci": "Anthracoceros coronatus",
+  "zh": "印度冠斑犀鸟",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 3,
+   "victoria": 0,
+   "tissa": 39,
+   "yala": 270,
+   "bundala": 30,
+   "sinharaja": 3,
+   "mirissa": 2,
+   "galle": 3
+  }
+ },
+ "eurystomus-orientalis": {
+  "sci": "Eurystomus orientalis",
+  "zh": "三宝鸟",
+  "sites": {
+   "kitulgala": 8,
+   "makandawa": 8,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 3,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "coracias-benghalensis": {
+  "sci": "Coracias benghalensis",
+  "zh": "西棕胸佛法僧",
+  "sites": {
+   "kitulgala": 1,
+   "makandawa": 1,
+   "nuwara": 6,
+   "horton": 0,
+   "victoria": 5,
+   "tissa": 53,
+   "yala": 81,
+   "bundala": 84,
+   "sinharaja": 0,
+   "mirissa": 4,
+   "galle": 2
+  }
+ },
+ "merops-leschenaulti": {
+  "sci": "Merops leschenaulti",
+  "zh": "栗头蜂虎",
+  "sites": {
+   "kitulgala": 85,
+   "makandawa": 85,
+   "nuwara": 9,
+   "horton": 10,
+   "victoria": 4,
+   "tissa": 37,
+   "yala": 203,
+   "bundala": 110,
+   "sinharaja": 64,
+   "mirissa": 30,
+   "galle": 12
+  }
+ },
+ "merops-persicus": {
+  "sci": "Merops persicus",
+  "zh": "蓝颊蜂虎",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "ceyx-erithaca": {
+  "sci": "Ceyx erithaca",
+  "zh": "三趾翠鸟",
+  "sites": {
+   "kitulgala": 67,
+   "makandawa": 67,
+   "nuwara": 0,
+   "horton": 2,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 1,
+   "bundala": 0,
+   "sinharaja": 30,
+   "mirissa": 6,
+   "galle": 2
+  }
+ },
+ "pelargopsis-capensis": {
+  "sci": "Pelargopsis capensis",
+  "zh": "鹳嘴翡翠",
+  "sites": {
+   "kitulgala": 107,
+   "makandawa": 107,
+   "nuwara": 2,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 105,
+   "yala": 48,
+   "bundala": 80,
+   "sinharaja": 35,
+   "mirissa": 121,
+   "galle": 33
+  }
+ },
+ "halcyon-pileata": {
+  "sci": "Halcyon pileata",
+  "zh": "蓝翡翠",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 3,
+   "yala": 3,
+   "bundala": 5,
+   "sinharaja": 0,
+   "mirissa": 1,
+   "galle": 0
+  }
+ },
+ "psilopogon-rubricapillus": {
+  "sci": "Psilopogon rubricapillus",
+  "zh": "斯里兰卡拟啄木鸟",
+  "sites": {
+   "kitulgala": 81,
+   "makandawa": 76,
+   "nuwara": 2,
+   "horton": 9,
+   "victoria": 1,
+   "tissa": 10,
+   "yala": 11,
+   "bundala": 6,
+   "sinharaja": 190,
+   "mirissa": 148,
+   "galle": 68
+  }
+ },
+ "psilopogon-haemacephalus": {
+  "sci": "Psilopogon haemacephalus",
+  "zh": "赤胸拟啄木鸟",
+  "sites": {
+   "kitulgala": 5,
+   "makandawa": 5,
+   "nuwara": 4,
+   "horton": 16,
+   "victoria": 3,
+   "tissa": 85,
+   "yala": 200,
+   "bundala": 43,
+   "sinharaja": 16,
+   "mirissa": 15,
+   "galle": 2
+  }
+ },
+ "psilopogon-zeylanicus": {
+  "sci": "Psilopogon zeylanicus",
+  "zh": "棕头绿拟啄木鸟",
+  "sites": {
+   "kitulgala": 132,
+   "makandawa": 131,
+   "nuwara": 25,
+   "horton": 16,
+   "victoria": 22,
+   "tissa": 234,
+   "yala": 233,
+   "bundala": 157,
+   "sinharaja": 165,
+   "mirissa": 288,
+   "galle": 117
+  }
+ },
+ "psilopogon-flavifrons": {
+  "sci": "Psilopogon flavifrons",
+  "zh": "黄额拟啄木鸟",
+  "sites": {
+   "kitulgala": 259,
+   "makandawa": 250,
+   "nuwara": 36,
+   "horton": 51,
+   "victoria": 18,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 1,
+   "sinharaja": 577,
+   "mirissa": 14,
+   "galle": 1
+  }
+ },
+ "jynx-torquilla": {
+  "sci": "Jynx torquilla",
+  "zh": "蚁䴕",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 6,
+   "yala": 9,
+   "bundala": 0,
+   "sinharaja": 2,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "micropternus-brachyurus": {
+  "sci": "Micropternus brachyurus",
+  "zh": "栗啄木鸟",
+  "sites": {
+   "kitulgala": 6,
+   "makandawa": 6,
+   "nuwara": 0,
+   "horton": 5,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 6,
+   "bundala": 4,
+   "sinharaja": 2,
+   "mirissa": 2,
+   "galle": 2
+  }
+ },
+ "dinopium-benghalense": {
+  "sci": "Dinopium benghalense",
+  "zh": "小金背啄木鸟",
+  "sites": {
+   "kitulgala": 21,
+   "makandawa": 21,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 2,
+   "yala": 1,
+   "bundala": 0,
+   "sinharaja": 18,
+   "mirissa": 3,
+   "galle": 0
+  }
+ },
+ "dinopium-psarodes": {
+  "sci": "Dinopium psarodes",
+  "zh": "红背三趾啄木鸟",
+  "sites": {
+   "kitulgala": 156,
+   "makandawa": 153,
+   "nuwara": 5,
+   "horton": 10,
+   "victoria": 4,
+   "tissa": 96,
+   "yala": 49,
+   "bundala": 90,
+   "sinharaja": 175,
+   "mirissa": 134,
+   "galle": 56
+  }
+ },
+ "picus-chlorolophus": {
+  "sci": "Picus chlorolophus",
+  "zh": "黄冠啄木鸟",
+  "sites": {
+   "kitulgala": 99,
+   "makandawa": 99,
+   "nuwara": 3,
+   "horton": 2,
+   "victoria": 0,
+   "tissa": 2,
+   "yala": 1,
+   "bundala": 1,
+   "sinharaja": 223,
+   "mirissa": 5,
+   "galle": 5
+  }
+ },
+ "picus-xanthopygaeus": {
+  "sci": "Picus xanthopygaeus",
+  "zh": "鳞喉绿啄木鸟",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 4,
+   "horton": 3,
+   "victoria": 1,
+   "tissa": 1,
+   "yala": 0,
+   "bundala": 1,
+   "sinharaja": 1,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "chrysocolaptes-stricklandi": {
+  "sci": "Chrysocolaptes stricklandi",
+  "zh": "绯红背啄木鸟",
+  "sites": {
+   "kitulgala": 73,
+   "makandawa": 73,
+   "nuwara": 26,
+   "horton": 74,
+   "victoria": 11,
+   "tissa": 4,
+   "yala": 11,
+   "bundala": 1,
+   "sinharaja": 171,
+   "mirissa": 2,
+   "galle": 0
+  }
+ },
+ "chrysocolaptes-festivus": {
+  "sci": "Chrysocolaptes festivus",
+  "zh": "黑腰啄木鸟",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 1,
+   "horton": 0,
+   "victoria": 1,
+   "tissa": 89,
+   "yala": 7,
+   "bundala": 56,
+   "sinharaja": 0,
+   "mirissa": 1,
+   "galle": 0
+  }
+ },
+ "yungipicus-nanus": {
+  "sci": "Yungipicus nanus",
+  "zh": "褐头啄木鸟",
+  "sites": {
+   "kitulgala": 23,
+   "makandawa": 23,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 5,
+   "yala": 43,
+   "bundala": 8,
+   "sinharaja": 44,
+   "mirissa": 4,
+   "galle": 0
+  }
+ },
+ "leiopicus-mahrattensis": {
+  "sci": "Leiopicus mahrattensis",
+  "zh": "黄冠斑啄木鸟",
+  "sites": {
+   "kitulgala": 2,
+   "makandawa": 2,
+   "nuwara": 1,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 22,
+   "yala": 89,
+   "bundala": 55,
+   "sinharaja": 4,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "falco-amurensis": {
+  "sci": "Falco amurensis",
+  "zh": "红脚隼",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 1,
+   "bundala": 1,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "falco-subbuteo": {
+  "sci": "Falco subbuteo",
+  "zh": "燕隼",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 1,
+   "galle": 1
+  }
+ },
+ "falco-peregrinus": {
+  "sci": "Falco peregrinus",
+  "zh": "游隼",
+  "sites": {
+   "kitulgala": 4,
+   "makandawa": 4,
+   "nuwara": 2,
+   "horton": 13,
+   "victoria": 1,
+   "tissa": 5,
+   "yala": 5,
+   "bundala": 11,
+   "sinharaja": 8,
+   "mirissa": 12,
+   "galle": 1
+  }
+ },
+ "psittacula-eupatria": {
+  "sci": "Psittacula eupatria",
+  "zh": "亚历山大鹦鹉",
+  "sites": {
+   "kitulgala": 163,
+   "makandawa": 163,
+   "nuwara": 9,
+   "horton": 3,
+   "victoria": 7,
+   "tissa": 10,
+   "yala": 33,
+   "bundala": 11,
+   "sinharaja": 40,
+   "mirissa": 63,
+   "galle": 22
+  }
+ },
+ "psittacula-cyanocephala": {
+  "sci": "Psittacula cyanocephala",
+  "zh": "紫头鹦鹉",
+  "sites": {
+   "kitulgala": 7,
+   "makandawa": 7,
+   "nuwara": 1,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 5,
+   "yala": 8,
+   "bundala": 2,
+   "sinharaja": 92,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "psittacula-calthrapae": {
+  "sci": "Psittacula calthrapae",
+  "zh": "艳绿领鹦鹉",
+  "sites": {
+   "kitulgala": 203,
+   "makandawa": 203,
+   "nuwara": 1,
+   "horton": 8,
+   "victoria": 1,
+   "tissa": 0,
+   "yala": 2,
+   "bundala": 1,
+   "sinharaja": 384,
+   "mirissa": 4,
+   "galle": 0
+  }
+ },
+ "loriculus-beryllinus": {
+  "sci": "Loriculus beryllinus",
+  "zh": "斯里兰卡短尾鹦鹉",
+  "sites": {
+   "kitulgala": 287,
+   "makandawa": 281,
+   "nuwara": 12,
+   "horton": 36,
+   "victoria": 8,
+   "tissa": 0,
+   "yala": 3,
+   "bundala": 1,
+   "sinharaja": 501,
+   "mirissa": 142,
+   "galle": 26
+  }
+ },
+ "pitta-brachyura": {
+  "sci": "Pitta brachyura",
+  "zh": "印度八色鸫",
+  "sites": {
+   "kitulgala": 73,
+   "makandawa": 73,
+   "nuwara": 115,
+   "horton": 6,
+   "victoria": 111,
+   "tissa": 32,
+   "yala": 117,
+   "bundala": 27,
+   "sinharaja": 45,
+   "mirissa": 33,
+   "galle": 5
+  }
+ },
+ "pericrocotus-cinnamomeus": {
+  "sci": "Pericrocotus cinnamomeus",
+  "zh": "小山椒鸟",
+  "sites": {
+   "kitulgala": 32,
+   "makandawa": 32,
+   "nuwara": 5,
+   "horton": 6,
+   "victoria": 3,
+   "tissa": 84,
+   "yala": 143,
+   "bundala": 31,
+   "sinharaja": 53,
+   "mirissa": 53,
+   "galle": 23
+  }
+ },
+ "coracina-macei": {
+  "sci": "Coracina macei",
+  "zh": "印度鹃鵙",
+  "sites": {
+   "kitulgala": 7,
+   "makandawa": 7,
+   "nuwara": 1,
+   "horton": 6,
+   "victoria": 1,
+   "tissa": 0,
+   "yala": 4,
+   "bundala": 0,
+   "sinharaja": 10,
+   "mirissa": 8,
+   "galle": 1
+  }
+ },
+ "lalage-melanoptera": {
+  "sci": "Lalage melanoptera",
+  "zh": "黑头鹃鵙",
+  "sites": {
+   "kitulgala": 32,
+   "makandawa": 30,
+   "nuwara": 3,
+   "horton": 4,
+   "victoria": 2,
+   "tissa": 15,
+   "yala": 43,
+   "bundala": 18,
+   "sinharaja": 73,
+   "mirissa": 32,
+   "galle": 14
+  }
+ },
+ "artamus-fuscus": {
+  "sci": "Artamus fuscus",
+  "zh": "灰燕鵙",
+  "sites": {
+   "kitulgala": 6,
+   "makandawa": 6,
+   "nuwara": 1,
+   "horton": 0,
+   "victoria": 1,
+   "tissa": 33,
+   "yala": 1,
+   "bundala": 27,
+   "sinharaja": 14,
+   "mirissa": 8,
+   "galle": 2
+  }
+ },
+ "aegithina-tiphia": {
+  "sci": "Aegithina tiphia",
+  "zh": "黑翅雀鹎",
+  "sites": {
+   "kitulgala": 113,
+   "makandawa": 112,
+   "nuwara": 6,
+   "horton": 18,
+   "victoria": 4,
+   "tissa": 110,
+   "yala": 244,
+   "bundala": 155,
+   "sinharaja": 151,
+   "mirissa": 132,
+   "galle": 40
+  }
+ },
+ "aegithina-nigrolutea": {
+  "sci": "Aegithina nigrolutea",
+  "zh": "白尾雀鹎",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 5,
+   "yala": 33,
+   "bundala": 7,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "hemipus-picatus": {
+  "sci": "Hemipus picatus",
+  "zh": "褐背鹟鵙",
+  "sites": {
+   "kitulgala": 80,
+   "makandawa": 79,
+   "nuwara": 113,
+   "horton": 67,
+   "victoria": 76,
+   "tissa": 1,
+   "yala": 8,
+   "bundala": 4,
+   "sinharaja": 120,
+   "mirissa": 10,
+   "galle": 4
+  }
+ },
+ "tephrodornis-affinis": {
+  "sci": "Tephrodornis affinis",
+  "zh": "斯里兰卡林鵙",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 1,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 86,
+   "yala": 178,
+   "bundala": 114,
+   "sinharaja": 3,
+   "mirissa": 11,
+   "galle": 2
+  }
+ },
+ "oriolus-xanthornus": {
+  "sci": "Oriolus xanthornus",
+  "zh": "黑头黄鹂",
+  "sites": {
+   "kitulgala": 219,
+   "makandawa": 218,
+   "nuwara": 12,
+   "horton": 11,
+   "victoria": 9,
+   "tissa": 131,
+   "yala": 212,
+   "bundala": 95,
+   "sinharaja": 292,
+   "mirissa": 305,
+   "galle": 102
+  }
+ },
+ "oriolus-kundoo": {
+  "sci": "Oriolus kundoo",
+  "zh": "印度金黄鹂",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 6,
+   "bundala": 0,
+   "sinharaja": 3,
+   "mirissa": 8,
+   "galle": 0
+  }
+ },
+ "rhipidura-aureola": {
+  "sci": "Rhipidura aureola",
+  "zh": "白眉扇尾鹟",
+  "sites": {
+   "kitulgala": 39,
+   "makandawa": 37,
+   "nuwara": 8,
+   "horton": 9,
+   "victoria": 5,
+   "tissa": 47,
+   "yala": 229,
+   "bundala": 73,
+   "sinharaja": 42,
+   "mirissa": 118,
+   "galle": 52
+  }
+ },
+ "dicrurus-lophorinus": {
+  "sci": "Dicrurus lophorinus",
+  "zh": "斯里兰卡卷尾",
+  "sites": {
+   "kitulgala": 110,
+   "makandawa": 110,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 1,
+   "bundala": 0,
+   "sinharaja": 466,
+   "mirissa": 10,
+   "galle": 2
+  }
+ },
+ "dicrurus-paradiseus": {
+  "sci": "Dicrurus paradiseus",
+  "zh": "大盘尾",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 5,
+   "bundala": 0,
+   "sinharaja": 6,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "dicrurus-caerulescens": {
+  "sci": "Dicrurus caerulescens",
+  "zh": "白腹卷尾",
+  "sites": {
+   "kitulgala": 257,
+   "makandawa": 254,
+   "nuwara": 21,
+   "horton": 13,
+   "victoria": 15,
+   "tissa": 10,
+   "yala": 19,
+   "bundala": 22,
+   "sinharaja": 359,
+   "mirissa": 304,
+   "galle": 111
+  }
+ },
+ "dicrurus-leucophaeus": {
+  "sci": "Dicrurus leucophaeus",
+  "zh": "灰卷尾",
+  "sites": {
+   "kitulgala": 3,
+   "makandawa": 3,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 19,
+   "bundala": 0,
+   "sinharaja": 16,
+   "mirissa": 2,
+   "galle": 0
+  }
+ },
+ "hypothymis-azurea": {
+  "sci": "Hypothymis azurea",
+  "zh": "黑枕王鹟",
+  "sites": {
+   "kitulgala": 97,
+   "makandawa": 95,
+   "nuwara": 2,
+   "horton": 6,
+   "victoria": 2,
+   "tissa": 0,
+   "yala": 11,
+   "bundala": 1,
+   "sinharaja": 238,
+   "mirissa": 12,
+   "galle": 3
+  }
+ },
+ "terpsiphone-paradisi": {
+  "sci": "Terpsiphone paradisi",
+  "zh": "印度寿带",
+  "sites": {
+   "kitulgala": 92,
+   "makandawa": 90,
+   "nuwara": 9,
+   "horton": 16,
+   "victoria": 9,
+   "tissa": 82,
+   "yala": 235,
+   "bundala": 96,
+   "sinharaja": 345,
+   "mirissa": 180,
+   "galle": 78
+  }
+ },
+ "urocissa-ornata": {
+  "sci": "Urocissa ornata",
+  "zh": "斯里兰卡蓝鹊",
+  "sites": {
+   "kitulgala": 32,
+   "makandawa": 30,
+   "nuwara": 7,
+   "horton": 5,
+   "victoria": 1,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 482,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "corvus-levaillantii": {
+  "sci": "Corvus levaillantii",
+  "zh": "丛林鸦",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "culicicapa-ceylonensis": {
+  "sci": "Culicicapa ceylonensis",
+  "zh": "方尾鹟",
+  "sites": {
+   "kitulgala": 3,
+   "makandawa": 3,
+   "nuwara": 173,
+   "horton": 126,
+   "victoria": 98,
+   "tissa": 0,
+   "yala": 2,
+   "bundala": 1,
+   "sinharaja": 20,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "eremopterix-griseus": {
+  "sci": "Eremopterix griseus",
+  "zh": "灰顶雀百灵",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 3,
+   "victoria": 0,
+   "tissa": 69,
+   "yala": 113,
+   "bundala": 187,
+   "sinharaja": 0,
+   "mirissa": 3,
+   "galle": 1
+  }
+ },
+ "plocealauda-affinis": {
+  "sci": "Plocealauda affinis",
+  "zh": "斯里兰卡歌百灵",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "calandrella-dukhunensis": {
+  "sci": "Calandrella dukhunensis",
+  "zh": "蒙古短趾百灵",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "prinia-sylvatica": {
+  "sci": "Prinia sylvatica",
+  "zh": "丛林山鹪莺",
+  "sites": {
+   "kitulgala": 2,
+   "makandawa": 2,
+   "nuwara": 2,
+   "horton": 1,
+   "victoria": 0,
+   "tissa": 26,
+   "yala": 84,
+   "bundala": 62,
+   "sinharaja": 16,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "prinia-socialis": {
+  "sci": "Prinia socialis",
+  "zh": "灰山鹪莺",
+  "sites": {
+   "kitulgala": 7,
+   "makandawa": 7,
+   "nuwara": 84,
+   "horton": 23,
+   "victoria": 59,
+   "tissa": 38,
+   "yala": 37,
+   "bundala": 92,
+   "sinharaja": 4,
+   "mirissa": 1,
+   "galle": 1
+  }
+ },
+ "elaphrornis-palliseri": {
+  "sci": "Elaphrornis palliseri",
+  "zh": "帕氏短翅莺",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 60,
+   "horton": 176,
+   "victoria": 30,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 1,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "hirundo-domicola": {
+  "sci": "Hirundo domicola",
+  "zh": "山燕",
+  "sites": {
+   "kitulgala": 5,
+   "makandawa": 3,
+   "nuwara": 60,
+   "horton": 257,
+   "victoria": 36,
+   "tissa": 0,
+   "yala": 1,
+   "bundala": 2,
+   "sinharaja": 1,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "cecropis-hyperythra": {
+  "sci": "Cecropis hyperythra",
+  "zh": "斯里兰卡燕",
+  "sites": {
+   "kitulgala": 144,
+   "makandawa": 143,
+   "nuwara": 15,
+   "horton": 19,
+   "victoria": 13,
+   "tissa": 26,
+   "yala": 115,
+   "bundala": 87,
+   "sinharaja": 181,
+   "mirissa": 226,
+   "galle": 65
+  }
+ },
+ "phylloscopus-nitidus": {
+  "sci": "Phylloscopus nitidus",
+  "zh": "绿柳莺",
+  "sites": {
+   "kitulgala": 75,
+   "makandawa": 75,
+   "nuwara": 108,
+   "horton": 149,
+   "victoria": 64,
+   "tissa": 8,
+   "yala": 15,
+   "bundala": 9,
+   "sinharaja": 164,
+   "mirissa": 14,
+   "galle": 1
+  }
+ },
+ "phylloscopus-magnirostris": {
+  "sci": "Phylloscopus magnirostris",
+  "zh": "乌嘴柳莺",
+  "sites": {
+   "kitulgala": 34,
+   "makandawa": 34,
+   "nuwara": 30,
+   "horton": 61,
+   "victoria": 22,
+   "tissa": 0,
+   "yala": 2,
+   "bundala": 0,
+   "sinharaja": 107,
+   "mirissa": 6,
+   "galle": 0
+  }
+ },
+ "rubigula-melanictera": {
+  "sci": "Rubigula melanictera",
+  "zh": "黑顶黄鹎",
+  "sites": {
+   "kitulgala": 159,
+   "makandawa": 159,
+   "nuwara": 7,
+   "horton": 10,
+   "victoria": 6,
+   "tissa": 1,
+   "yala": 12,
+   "bundala": 1,
+   "sinharaja": 406,
+   "mirissa": 31,
+   "galle": 12
+  }
+ },
+ "pycnonotus-luteolus": {
+  "sci": "Pycnonotus luteolus",
+  "zh": "白眉鹎",
+  "sites": {
+   "kitulgala": 20,
+   "makandawa": 20,
+   "nuwara": 10,
+   "horton": 9,
+   "victoria": 10,
+   "tissa": 103,
+   "yala": 229,
+   "bundala": 172,
+   "sinharaja": 165,
+   "mirissa": 211,
+   "galle": 76
+  }
+ },
+ "pycnonotus-penicillatus": {
+  "sci": "Pycnonotus penicillatus",
+  "zh": "黄耳鹎",
+  "sites": {
+   "kitulgala": 8,
+   "makandawa": 8,
+   "nuwara": 327,
+   "horton": 276,
+   "victoria": 232,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 21,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "acritillas-indica": {
+  "sci": "Acritillas indica",
+  "zh": "黄眉鹎",
+  "sites": {
+   "kitulgala": 245,
+   "makandawa": 242,
+   "nuwara": 11,
+   "horton": 10,
+   "victoria": 8,
+   "tissa": 0,
+   "yala": 5,
+   "bundala": 6,
+   "sinharaja": 569,
+   "mirissa": 17,
+   "galle": 10
+  }
+ },
+ "hypsipetes-ganeesa": {
+  "sci": "Hypsipetes ganeesa",
+  "zh": "方尾黑鹎",
+  "sites": {
+   "kitulgala": 362,
+   "makandawa": 356,
+   "nuwara": 18,
+   "horton": 24,
+   "victoria": 11,
+   "tissa": 0,
+   "yala": 2,
+   "bundala": 1,
+   "sinharaja": 667,
+   "mirissa": 16,
+   "galle": 10
+  }
+ },
+ "chrysomma-sinense": {
+  "sci": "Chrysomma sinense",
+  "zh": "金眼鹛雀",
+  "sites": {
+   "kitulgala": 1,
+   "makandawa": 1,
+   "nuwara": 5,
+   "horton": 10,
+   "victoria": 5,
+   "tissa": 14,
+   "yala": 47,
+   "bundala": 24,
+   "sinharaja": 3,
+   "mirissa": 1,
+   "galle": 1
+  }
+ },
+ "zosterops-ceylonensis": {
+  "sci": "Zosterops ceylonensis",
+  "zh": "斯里兰卡绣眼鸟",
+  "sites": {
+   "kitulgala": 25,
+   "makandawa": 22,
+   "nuwara": 333,
+   "horton": 295,
+   "victoria": 239,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 127,
+   "mirissa": 2,
+   "galle": 1
+  }
+ },
+ "dumetia-hyperythra": {
+  "sci": "Dumetia hyperythra",
+  "zh": "棕腹鹛",
+  "sites": {
+   "kitulgala": 16,
+   "makandawa": 16,
+   "nuwara": 2,
+   "horton": 6,
+   "victoria": 1,
+   "tissa": 19,
+   "yala": 49,
+   "bundala": 19,
+   "sinharaja": 12,
+   "mirissa": 1,
+   "galle": 2
+  }
+ },
+ "dumetia-atriceps": {
+  "sci": "Dumetia atriceps",
+  "zh": "黑头鹛",
+  "sites": {
+   "kitulgala": 103,
+   "makandawa": 102,
+   "nuwara": 28,
+   "horton": 79,
+   "victoria": 16,
+   "tissa": 2,
+   "yala": 8,
+   "bundala": 1,
+   "sinharaja": 369,
+   "mirissa": 12,
+   "galle": 2
+  }
+ },
+ "pomatorhinus-melanurus": {
+  "sci": "Pomatorhinus melanurus",
+  "zh": "斯里兰卡钩嘴鹛",
+  "sites": {
+   "kitulgala": 57,
+   "makandawa": 55,
+   "nuwara": 154,
+   "horton": 152,
+   "victoria": 116,
+   "tissa": 0,
+   "yala": 2,
+   "bundala": 1,
+   "sinharaja": 266,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "pellorneum-fuscocapillus": {
+  "sci": "Pellorneum fuscocapillus",
+  "zh": "褐冠幽鹛",
+  "sites": {
+   "kitulgala": 65,
+   "makandawa": 63,
+   "nuwara": 6,
+   "horton": 12,
+   "victoria": 4,
+   "tissa": 6,
+   "yala": 39,
+   "bundala": 1,
+   "sinharaja": 125,
+   "mirissa": 16,
+   "galle": 0
+  }
+ },
+ "argya-cinereifrons": {
+  "sci": "Argya cinereifrons",
+  "zh": "灰头噪鹛",
+  "sites": {
+   "kitulgala": 5,
+   "makandawa": 5,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 342,
+   "mirissa": 1,
+   "galle": 0
+  }
+ },
+ "argya-rufescens": {
+  "sci": "Argya rufescens",
+  "zh": "橙嘴鸫鹛",
+  "sites": {
+   "kitulgala": 202,
+   "makandawa": 199,
+   "nuwara": 4,
+   "horton": 20,
+   "victoria": 1,
+   "tissa": 0,
+   "yala": 3,
+   "bundala": 3,
+   "sinharaja": 506,
+   "mirissa": 2,
+   "galle": 0
+  }
+ },
+ "argya-affinis": {
+  "sci": "Argya affinis",
+  "zh": "印度白头鸫鹛",
+  "sites": {
+   "kitulgala": 253,
+   "makandawa": 250,
+   "nuwara": 52,
+   "horton": 20,
+   "victoria": 37,
+   "tissa": 217,
+   "yala": 263,
+   "bundala": 212,
+   "sinharaja": 244,
+   "mirissa": 333,
+   "galle": 129
+  }
+ },
+ "garrulax-leucolophus": {
+  "sci": "Garrulax leucolophus",
+  "zh": "白冠噪鹛",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "sitta-frontalis": {
+  "sci": "Sitta frontalis",
+  "zh": "绒额䴓",
+  "sites": {
+   "kitulgala": 21,
+   "makandawa": 19,
+   "nuwara": 142,
+   "horton": 113,
+   "victoria": 108,
+   "tissa": 0,
+   "yala": 5,
+   "bundala": 0,
+   "sinharaja": 158,
+   "mirissa": 5,
+   "galle": 0
+  }
+ },
+ "gracula-ptilogenys": {
+  "sci": "Gracula ptilogenys",
+  "zh": "斯里兰卡鹩哥",
+  "sites": {
+   "kitulgala": 60,
+   "makandawa": 57,
+   "nuwara": 2,
+   "horton": 5,
+   "victoria": 2,
+   "tissa": 1,
+   "yala": 2,
+   "bundala": 1,
+   "sinharaja": 421,
+   "mirissa": 4,
+   "galle": 0
+  }
+ },
+ "gracula-indica": {
+  "sci": "Gracula indica",
+  "zh": "南鹩哥",
+  "sites": {
+   "kitulgala": 134,
+   "makandawa": 131,
+   "nuwara": 6,
+   "horton": 17,
+   "victoria": 6,
+   "tissa": 1,
+   "yala": 1,
+   "bundala": 1,
+   "sinharaja": 95,
+   "mirissa": 12,
+   "galle": 2
+  }
+ },
+ "agropsar-sturninus": {
+  "sci": "Agropsar sturninus",
+  "zh": "北椋鸟",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "sturnornis-albofrontatus": {
+  "sci": "Sturnornis albofrontatus",
+  "zh": "白脸椋鸟",
+  "sites": {
+   "kitulgala": 11,
+   "makandawa": 11,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 274,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "sturnia-pagodarum": {
+  "sci": "Sturnia pagodarum",
+  "zh": "黑冠椋鸟",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 22,
+   "yala": 111,
+   "bundala": 66,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "zoothera-imbricata": {
+  "sci": "Zoothera imbricata",
+  "zh": "斯里兰卡地鸫",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 22,
+   "horton": 34,
+   "victoria": 11,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 155,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "geokichla-wardii": {
+  "sci": "Geokichla wardii",
+  "zh": "杂色地鸫",
+  "sites": {
+   "kitulgala": 2,
+   "makandawa": 2,
+   "nuwara": 263,
+   "horton": 11,
+   "victoria": 252,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 2,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "geokichla-spiloptera": {
+  "sci": "Geokichla spiloptera",
+  "zh": "斑翅地鸫",
+  "sites": {
+   "kitulgala": 125,
+   "makandawa": 123,
+   "nuwara": 12,
+   "horton": 29,
+   "victoria": 6,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 1,
+   "sinharaja": 429,
+   "mirissa": 5,
+   "galle": 2
+  }
+ },
+ "geokichla-citrina": {
+  "sci": "Geokichla citrina",
+  "zh": "橙头地鸫",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 1,
+   "victoria": 0,
+   "tissa": 1,
+   "yala": 6,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "turdus-simillimus": {
+  "sci": "Turdus simillimus",
+  "zh": "南亚乌鸫",
+  "sites": {
+   "kitulgala": 2,
+   "makandawa": 2,
+   "nuwara": 90,
+   "horton": 215,
+   "victoria": 46,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 1,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "turdus-obscurus": {
+  "sci": "Turdus obscurus",
+  "zh": "白眉鸫",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 17,
+   "horton": 0,
+   "victoria": 17,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 1,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "cercotrichas-galactotes": {
+  "sci": "Cercotrichas galactotes",
+  "zh": "棕薮鸲",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 1,
+   "horton": 0,
+   "victoria": 1,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "copsychus-fulicatus": {
+  "sci": "Copsychus fulicatus",
+  "zh": "印度鸲",
+  "sites": {
+   "kitulgala": 19,
+   "makandawa": 19,
+   "nuwara": 29,
+   "horton": 28,
+   "victoria": 21,
+   "tissa": 132,
+   "yala": 358,
+   "bundala": 234,
+   "sinharaja": 29,
+   "mirissa": 42,
+   "galle": 15
+  }
+ },
+ "copsychus-leggei": {
+  "sci": "Copsychus leggei",
+  "zh": "斯里兰卡鹊鸲",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "muscicapa-sibirica": {
+  "sci": "Muscicapa sibirica",
+  "zh": "乌鹟",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "muscicapa-dauurica": {
+  "sci": "Muscicapa dauurica",
+  "zh": "北灰鹟",
+  "sites": {
+   "kitulgala": 98,
+   "makandawa": 97,
+   "nuwara": 16,
+   "horton": 6,
+   "victoria": 15,
+   "tissa": 21,
+   "yala": 26,
+   "bundala": 15,
+   "sinharaja": 156,
+   "mirissa": 74,
+   "galle": 30
+  }
+ },
+ "muscicapa-muttui": {
+  "sci": "Muscicapa muttui",
+  "zh": "褐胸鹟",
+  "sites": {
+   "kitulgala": 189,
+   "makandawa": 189,
+   "nuwara": 133,
+   "horton": 26,
+   "victoria": 114,
+   "tissa": 1,
+   "yala": 18,
+   "bundala": 2,
+   "sinharaja": 481,
+   "mirissa": 16,
+   "galle": 5
+  }
+ },
+ "cyanoptila-cyanomelana": {
+  "sci": "Cyanoptila cyanomelana",
+  "zh": "白腹蓝鹟",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 4,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "eumyias-sordidus": {
+  "sci": "Eumyias sordidus",
+  "zh": "暗蓝仙鹟",
+  "sites": {
+   "kitulgala": 3,
+   "makandawa": 3,
+   "nuwara": 169,
+   "horton": 255,
+   "victoria": 95,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 5,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "cyornis-hainanus": {
+  "sci": "Cyornis hainanus",
+  "zh": "海南蓝仙鹟",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "cyornis-rubeculoides": {
+  "sci": "Cyornis rubeculoides",
+  "zh": "蓝喉仙鹟",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 1,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "cyornis-tickelliae": {
+  "sci": "Cyornis tickelliae",
+  "zh": "梯氏仙鹟",
+  "sites": {
+   "kitulgala": 212,
+   "makandawa": 209,
+   "nuwara": 10,
+   "horton": 27,
+   "victoria": 8,
+   "tissa": 0,
+   "yala": 4,
+   "bundala": 0,
+   "sinharaja": 105,
+   "mirissa": 57,
+   "galle": 6
+  }
+ },
+ "myophonus-blighi": {
+  "sci": "Myophonus blighi",
+  "zh": "斯里兰卡啸鸫",
+  "sites": {
+   "kitulgala": 5,
+   "makandawa": 5,
+   "nuwara": 80,
+   "horton": 130,
+   "victoria": 31,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 7,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "larvivora-brunnea": {
+  "sci": "Larvivora brunnea",
+  "zh": "栗腹歌鸲",
+  "sites": {
+   "kitulgala": 8,
+   "makandawa": 8,
+   "nuwara": 156,
+   "horton": 69,
+   "victoria": 115,
+   "tissa": 0,
+   "yala": 7,
+   "bundala": 1,
+   "sinharaja": 69,
+   "mirissa": 1,
+   "galle": 0
+  }
+ },
+ "ficedula-zanthopygia": {
+  "sci": "Ficedula zanthopygia",
+  "zh": "白眉姬鹟",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "ficedula-subrubra": {
+  "sci": "Ficedula subrubra",
+  "zh": "印巴姬鹟",
+  "sites": {
+   "kitulgala": 2,
+   "makandawa": 2,
+   "nuwara": 244,
+   "horton": 38,
+   "victoria": 218,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "monticola-saxatilis": {
+  "sci": "Monticola saxatilis",
+  "zh": "白背矶鸫",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "monticola-solitarius": {
+  "sci": "Monticola solitarius",
+  "zh": "蓝矶鸫",
+  "sites": {
+   "kitulgala": 1,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 1,
+   "bundala": 0,
+   "sinharaja": 6,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "oenanthe-pleschanka": {
+  "sci": "Oenanthe pleschanka",
+  "zh": "白顶䳭",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "pachyglossa-agilis": {
+  "sci": "Pachyglossa agilis",
+  "zh": "厚嘴啄花鸟",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "pachyglossa-vincens": {
+  "sci": "Pachyglossa vincens",
+  "zh": "白喉啄花鸟",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "dicaeum-erythrorhynchos": {
+  "sci": "Dicaeum erythrorhynchos",
+  "zh": "淡嘴啄花鸟",
+  "sites": {
+   "kitulgala": 93,
+   "makandawa": 89,
+   "nuwara": 121,
+   "horton": 133,
+   "victoria": 110,
+   "tissa": 105,
+   "yala": 119,
+   "bundala": 64,
+   "sinharaja": 336,
+   "mirissa": 151,
+   "galle": 90
+  }
+ },
+ "leptocoma-zeylonica": {
+  "sci": "Leptocoma zeylonica",
+  "zh": "紫腰花蜜鸟",
+  "sites": {
+   "kitulgala": 256,
+   "makandawa": 255,
+   "nuwara": 34,
+   "horton": 33,
+   "victoria": 23,
+   "tissa": 148,
+   "yala": 278,
+   "bundala": 182,
+   "sinharaja": 297,
+   "mirissa": 230,
+   "galle": 103
+  }
+ },
+ "cinnyris-lotenius": {
+  "sci": "Cinnyris lotenius",
+  "zh": "罗氏花蜜鸟",
+  "sites": {
+   "kitulgala": 98,
+   "makandawa": 98,
+   "nuwara": 73,
+   "horton": 45,
+   "victoria": 60,
+   "tissa": 55,
+   "yala": 84,
+   "bundala": 73,
+   "sinharaja": 40,
+   "mirissa": 154,
+   "galle": 61
+  }
+ },
+ "chloropsis-jerdoni": {
+  "sci": "Chloropsis jerdoni",
+  "zh": "南亚叶鹎",
+  "sites": {
+   "kitulgala": 37,
+   "makandawa": 37,
+   "nuwara": 3,
+   "horton": 7,
+   "victoria": 2,
+   "tissa": 61,
+   "yala": 69,
+   "bundala": 54,
+   "sinharaja": 29,
+   "mirissa": 20,
+   "galle": 21
+  }
+ },
+ "chloropsis-aurifrons": {
+  "sci": "Chloropsis aurifrons",
+  "zh": "金额叶鹎",
+  "sites": {
+   "kitulgala": 91,
+   "makandawa": 91,
+   "nuwara": 3,
+   "horton": 2,
+   "victoria": 2,
+   "tissa": 2,
+   "yala": 8,
+   "bundala": 1,
+   "sinharaja": 145,
+   "mirissa": 10,
+   "galle": 3
+  }
+ },
+ "ploceus-manyar": {
+  "sci": "Ploceus manyar",
+  "zh": "纹胸织雀",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 1,
+   "horton": 0,
+   "victoria": 1,
+   "tissa": 77,
+   "yala": 55,
+   "bundala": 108,
+   "sinharaja": 0,
+   "mirissa": 81,
+   "galle": 1
+  }
+ },
+ "lonchura-kelaarti": {
+  "sci": "Lonchura kelaarti",
+  "zh": "红胸文鸟",
+  "sites": {
+   "kitulgala": 44,
+   "makandawa": 44,
+   "nuwara": 10,
+   "horton": 22,
+   "victoria": 5,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 118,
+   "mirissa": 1,
+   "galle": 1
+  }
+ },
+ "lonchura-striata": {
+  "sci": "Lonchura striata",
+  "zh": "白腰文鸟",
+  "sites": {
+   "kitulgala": 150,
+   "makandawa": 148,
+   "nuwara": 18,
+   "horton": 13,
+   "victoria": 16,
+   "tissa": 19,
+   "yala": 49,
+   "bundala": 14,
+   "sinharaja": 171,
+   "mirissa": 132,
+   "galle": 46
+  }
+ },
+ "lonchura-malacca": {
+  "sci": "Lonchura malacca",
+  "zh": "黑头文鸟",
+  "sites": {
+   "kitulgala": 2,
+   "makandawa": 2,
+   "nuwara": 2,
+   "horton": 96,
+   "victoria": 1,
+   "tissa": 107,
+   "yala": 84,
+   "bundala": 194,
+   "sinharaja": 8,
+   "mirissa": 78,
+   "galle": 2
+  }
+ },
+ "anthus-godlewskii": {
+  "sci": "Anthus godlewskii",
+  "zh": "布氏鹨",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 4,
+   "victoria": 0,
+   "tissa": 19,
+   "yala": 28,
+   "bundala": 29,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "curruca-althaea": {
+  "sci": "Curruca althaea",
+  "zh": "休氏白喉林莺",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ },
+ "sturnia-malabarica": {
+  "sci": "Sturnia malabarica",
+  "zh": "灰头椋鸟",
+  "sites": {
+   "kitulgala": 0,
+   "makandawa": 0,
+   "nuwara": 0,
+   "horton": 0,
+   "victoria": 0,
+   "tissa": 0,
+   "yala": 0,
+   "bundala": 0,
+   "sinharaja": 0,
+   "mirissa": 0,
+   "galle": 0
+  }
+ }
+}

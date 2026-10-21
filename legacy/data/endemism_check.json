@@ -1,0 +1,311 @@
+{
+ "elaphrornis-palliseri": {
+  "zh": "帕氏短翅莺",
+  "sci": "Elaphrornis palliseri",
+  "verdict": "支持特有",
+  "why": "99.8% 在斯里兰卡",
+  "global": 1485,
+  "lk": 1482,
+  "ratio": 0.998
+ },
+ "geokichla-spiloptera": {
+  "zh": "斑翅地鸫",
+  "sci": "Geokichla spiloptera",
+  "verdict": "支持特有",
+  "why": "100.0% 在斯里兰卡",
+  "global": 4634,
+  "lk": 4632,
+  "ratio": 0.9996
+ },
+ "dicrurus-lophorinus": {
+  "zh": "斯里兰卡卷尾",
+  "sci": "Dicrurus lophorinus",
+  "verdict": "支持特有",
+  "why": "100.0% 在斯里兰卡",
+  "global": 4761,
+  "lk": 4761,
+  "ratio": 1.0
+ },
+ "myophonus-blighi": {
+  "zh": "斯里兰卡啸鸫",
+  "sci": "Myophonus blighi",
+  "verdict": "支持特有",
+  "why": "99.9% 在斯里兰卡",
+  "global": 1360,
+  "lk": 1358,
+  "ratio": 0.9985
+ },
+ "zoothera-imbricata": {
+  "zh": "斯里兰卡地鸫",
+  "sci": "Zoothera imbricata",
+  "verdict": "支持特有",
+  "why": "100.0% 在斯里兰卡",
+  "global": 1349,
+  "lk": 1349,
+  "ratio": 1.0
+ },
+ "psilopogon-rubricapillus": {
+  "zh": "斯里兰卡拟啄木鸟",
+  "sci": "Psilopogon rubricapillus",
+  "verdict": "支持特有",
+  "why": "99.9% 在斯里兰卡",
+  "global": 17051,
+  "lk": 17038,
+  "ratio": 0.9992
+ },
+ "tephrodornis-affinis": {
+  "zh": "斯里兰卡林鵙",
+  "sci": "Tephrodornis affinis",
+  "verdict": "支持特有",
+  "why": "100.0% 在斯里兰卡",
+  "global": 5221,
+  "lk": 5221,
+  "ratio": 1.0
+ },
+ "ocyceros-gingalensis": {
+  "zh": "斯里兰卡灰犀鸟",
+  "sci": "Ocyceros gingalensis",
+  "verdict": "支持特有",
+  "why": "99.9% 在斯里兰卡",
+  "global": 10449,
+  "lk": 10443,
+  "ratio": 0.9994
+ },
+ "cecropis-hyperythra": {
+  "zh": "斯里兰卡燕",
+  "sci": "Cecropis hyperythra",
+  "verdict": "支持特有",
+  "why": "100.0% 在斯里兰卡",
+  "global": 17586,
+  "lk": 17585,
+  "ratio": 0.9999
+ },
+ "loriculus-beryllinus": {
+  "zh": "斯里兰卡短尾鹦鹉",
+  "sci": "Loriculus beryllinus",
+  "verdict": "支持特有",
+  "why": "99.9% 在斯里兰卡",
+  "global": 16631,
+  "lk": 16607,
+  "ratio": 0.9986
+ },
+ "zosterops-ceylonensis": {
+  "zh": "斯里兰卡绣眼鸟",
+  "sci": "Zosterops ceylonensis",
+  "verdict": "支持特有",
+  "why": "100.0% 在斯里兰卡",
+  "global": 6526,
+  "lk": 6526,
+  "ratio": 1.0
+ },
+ "treron-pompadora": {
+  "zh": "斯里兰卡绿鸠",
+  "sci": "Treron pompadora",
+  "verdict": "不支持特有",
+  "why": "仅 96.2% 在斯里兰卡（479 条在他国）",
+  "global": 12463,
+  "lk": 11984,
+  "ratio": 0.9616
+ },
+ "urocissa-ornata": {
+  "zh": "斯里兰卡蓝鹊",
+  "sci": "Urocissa ornata",
+  "verdict": "支持特有",
+  "why": "100.0% 在斯里兰卡",
+  "global": 3988,
+  "lk": 3987,
+  "ratio": 0.9997
+ },
+ "otus-thilohoffmanni": {
+  "zh": "斯里兰卡角鸮",
+  "sci": "Otus thilohoffmanni",
+  "verdict": "支持特有",
+  "why": "99.9% 在斯里兰卡",
+  "global": 1417,
+  "lk": 1416,
+  "ratio": 0.9993
+ },
+ "pomatorhinus-melanurus": {
+  "zh": "斯里兰卡钩嘴鹛",
+  "sci": "Pomatorhinus melanurus",
+  "verdict": "支持特有",
+  "why": "100.0% 在斯里兰卡",
+  "global": 7004,
+  "lk": 7001,
+  "ratio": 0.9996
+ },
+ "galloperdix-bicalcarata": {
+  "zh": "斯里兰卡鸡鹑",
+  "sci": "Galloperdix bicalcarata",
+  "verdict": "支持特有",
+  "why": "99.5% 在斯里兰卡",
+  "global": 3639,
+  "lk": 3619,
+  "ratio": 0.9945
+ },
+ "copsychus-leggei": {
+  "zh": "斯里兰卡鹊鸲",
+  "sci": "Copsychus leggei",
+  "verdict": "无法核验",
+  "why": "GBIF 分类骨干只匹配到 GENUS 级"
+ },
+ "gracula-ptilogenys": {
+  "zh": "斯里兰卡鹩哥",
+  "sci": "Gracula ptilogenys",
+  "verdict": "支持特有",
+  "why": "100.0% 在斯里兰卡",
+  "global": 4311,
+  "lk": 4309,
+  "ratio": 0.9995
+ },
+ "eumyias-sordidus": {
+  "zh": "暗蓝仙鹟",
+  "sci": "Eumyias sordidus",
+  "verdict": "支持特有",
+  "why": "100.0% 在斯里兰卡",
+  "global": 3060,
+  "lk": 3059,
+  "ratio": 0.9997
+ },
+ "glaucidium-castanotum": {
+  "zh": "栗背鸺鹠",
+  "sci": "Glaucidium castanotum",
+  "verdict": "支持特有",
+  "why": "99.7% 在斯里兰卡",
+  "global": 2848,
+  "lk": 2839,
+  "ratio": 0.9968
+ },
+ "argya-rufescens": {
+  "zh": "橙嘴鸫鹛",
+  "sci": "Argya rufescens",
+  "verdict": "支持特有",
+  "why": "100.0% 在斯里兰卡",
+  "global": 5660,
+  "lk": 5658,
+  "ratio": 0.9996
+ },
+ "argya-cinereifrons": {
+  "zh": "灰头噪鹛",
+  "sci": "Argya cinereifrons",
+  "verdict": "支持特有",
+  "why": "100.0% 在斯里兰卡",
+  "global": 2400,
+  "lk": 2399,
+  "ratio": 0.9996
+ },
+ "pachyglossa-vincens": {
+  "zh": "白喉啄花鸟",
+  "sci": "Pachyglossa vincens",
+  "verdict": "无法核验",
+  "why": "GBIF 分类骨干只匹配到 无 级"
+ },
+ "sturnornis-albofrontatus": {
+  "zh": "白脸椋鸟",
+  "sci": "Sturnornis albofrontatus",
+  "verdict": "支持特有",
+  "why": "99.7% 在斯里兰卡",
+  "global": 2108,
+  "lk": 2102,
+  "ratio": 0.9972
+ },
+ "columba-torringtoniae": {
+  "zh": "紫头林鸽",
+  "sci": "Columba torringtoniae",
+  "verdict": "支持特有",
+  "why": "99.9% 在斯里兰卡",
+  "global": 2883,
+  "lk": 2881,
+  "ratio": 0.9993
+ },
+ "dinopium-psarodes": {
+  "zh": "红背三趾啄木鸟",
+  "sci": "Dinopium psarodes",
+  "verdict": "支持特有",
+  "why": "100.0% 在斯里兰卡",
+  "global": 20721,
+  "lk": 20720,
+  "ratio": 1.0
+ },
+ "phaenicophaeus-pyrrhocephalus": {
+  "zh": "红脸地鹃",
+  "sci": "Phaenicophaeus pyrrhocephalus",
+  "verdict": "支持特有",
+  "why": "99.8% 在斯里兰卡",
+  "global": 2055,
+  "lk": 2050,
+  "ratio": 0.9976
+ },
+ "chrysocolaptes-stricklandi": {
+  "zh": "绯红背啄木鸟",
+  "sci": "Chrysocolaptes stricklandi",
+  "verdict": "支持特有",
+  "why": "100.0% 在斯里兰卡",
+  "global": 4936,
+  "lk": 4934,
+  "ratio": 0.9996
+ },
+ "centropus-chlororhynchos": {
+  "zh": "绿嘴鸦鹃",
+  "sci": "Centropus chlororhynchos",
+  "verdict": "支持特有",
+  "why": "99.8% 在斯里兰卡",
+  "global": 2704,
+  "lk": 2698,
+  "ratio": 0.9978
+ },
+ "psittacula-calthrapae": {
+  "zh": "艳绿领鹦鹉",
+  "sci": "Psittacula calthrapae",
+  "verdict": "支持特有",
+  "why": "99.9% 在斯里兰卡",
+  "global": 6983,
+  "lk": 6979,
+  "ratio": 0.9994
+ },
+ "gallus-lafayettii": {
+  "zh": "蓝喉原鸡",
+  "sci": "Gallus lafayettii",
+  "verdict": "支持特有",
+  "why": "99.2% 在斯里兰卡",
+  "global": 16823,
+  "lk": 16683,
+  "ratio": 0.9917
+ },
+ "pellorneum-fuscocapillus": {
+  "zh": "褐冠幽鹛",
+  "sci": "Pellorneum fuscocapillus",
+  "verdict": "支持特有",
+  "why": "100.0% 在斯里兰卡",
+  "global": 6041,
+  "lk": 6041,
+  "ratio": 1.0
+ },
+ "pycnonotus-penicillatus": {
+  "zh": "黄耳鹎",
+  "sci": "Pycnonotus penicillatus",
+  "verdict": "支持特有",
+  "why": "99.9% 在斯里兰卡",
+  "global": 4280,
+  "lk": 4277,
+  "ratio": 0.9993
+ },
+ "psilopogon-flavifrons": {
+  "zh": "黄额拟啄木鸟",
+  "sci": "Psilopogon flavifrons",
+  "verdict": "支持特有",
+  "why": "99.9% 在斯里兰卡",
+  "global": 12955,
+  "lk": 12948,
+  "ratio": 0.9995
+ },
+ "rubigula-melanictera": {
+  "zh": "黑顶黄鹎",
+  "sci": "Rubigula melanictera",
+  "verdict": "支持特有",
+  "why": "99.9% 在斯里兰卡",
+  "global": 8181,
+  "lk": 8174,
+  "ratio": 0.9991
+ }
+}

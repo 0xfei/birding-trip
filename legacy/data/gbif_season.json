@@ -1,0 +1,1766 @@
+{
+ "nettapus-coromandelianus": {
+  "sci": "Nettapus coromandelianus",
+  "zh": "棉凫",
+  "feb": 228,
+  "all": 1637
+ },
+ "cairina-moschata": {
+  "sci": "Cairina moschata",
+  "zh": "疣鼻栖鸭",
+  "feb": 4,
+  "all": 65
+ },
+ "sarkidiornis-melanotos": {
+  "sci": "Sarkidiornis melanotos",
+  "zh": "瘤鸭",
+  "feb": 71,
+  "all": 625
+ },
+ "spatula-querquedula": {
+  "sci": "Spatula querquedula",
+  "zh": "白眉鸭",
+  "feb": 720,
+  "all": 2135
+ },
+ "spatula-clypeata": {
+  "sci": "Spatula clypeata",
+  "zh": "琵嘴鸭",
+  "feb": 206,
+  "all": 569
+ },
+ "anas-poecilorhyncha": {
+  "sci": "Anas poecilorhyncha",
+  "zh": "印缅斑嘴鸭",
+  "feb": 149,
+  "all": 563
+ },
+ "anas-acuta": {
+  "sci": "Anas acuta",
+  "zh": "针尾鸭",
+  "feb": 376,
+  "all": 1197
+ },
+ "numida-meleagris": {
+  "sci": "Numida meleagris",
+  "zh": "珠鸡",
+  "feb": 1,
+  "all": 9
+ },
+ "galloperdix-bicalcarata": {
+  "sci": "Galloperdix bicalcarata",
+  "zh": "斯里兰卡鸡鹑",
+  "feb": 432,
+  "all": 3619
+ },
+ "gallus-lafayettii": {
+  "sci": "Gallus lafayettii",
+  "zh": "蓝喉原鸡",
+  "feb": 2294,
+  "all": 16683
+ },
+ "ortygornis-pondicerianus": {
+  "sci": "Ortygornis pondicerianus",
+  "zh": "灰鹧鸪",
+  "feb": 414,
+  "all": 1854
+ },
+ "francolinus-pictus": {
+  "sci": "Francolinus pictus",
+  "zh": "花彩鹧鸪",
+  "feb": 18,
+  "all": 169
+ },
+ "synoicus-chinensis": {
+  "sci": "Synoicus chinensis",
+  "zh": "蓝胸鹑",
+  "feb": 8,
+  "all": 224
+ },
+ "coturnix-coturnix": {
+  "sci": "Coturnix coturnix",
+  "zh": "西鹌鹑",
+  "feb": 0,
+  "all": 10
+ },
+ "coturnix-coromandelica": {
+  "sci": "Coturnix coromandelica",
+  "zh": "黑胸鹌鹑",
+  "feb": 1,
+  "all": 17
+ },
+ "perdicula-asiatica": {
+  "sci": "Perdicula asiatica",
+  "zh": "丛林鹑",
+  "feb": 16,
+  "all": 210
+ },
+ "phoenicopterus-roseus": {
+  "sci": "Phoenicopterus roseus",
+  "zh": "大红鹳",
+  "feb": 181,
+  "all": 641
+ },
+ "centropus-chlororhynchos": {
+  "sci": "Centropus chlororhynchos",
+  "zh": "绿嘴鸦鹃",
+  "feb": 388,
+  "all": 2698
+ },
+ "centropus-sinensis": {
+  "sci": "Centropus sinensis",
+  "zh": "褐翅鸦鹃",
+  "feb": 3327,
+  "all": 30921
+ },
+ "taccocua-leschenaultii": {
+  "sci": "Taccocua leschenaultii",
+  "zh": "短嘴地鹃",
+  "feb": 178,
+  "all": 1002
+ },
+ "phaenicophaeus-pyrrhocephalus": {
+  "sci": "Phaenicophaeus pyrrhocephalus",
+  "zh": "红脸地鹃",
+  "feb": 245,
+  "all": 2050
+ },
+ "phaenicophaeus-viridirostris": {
+  "sci": "Phaenicophaeus viridirostris",
+  "zh": "小绿嘴地鹃",
+  "feb": 695,
+  "all": 4319
+ },
+ "clamator-coromandus": {
+  "sci": "Clamator coromandus",
+  "zh": "红翅凤头鹃",
+  "feb": 51,
+  "all": 293
+ },
+ "clamator-jacobinus": {
+  "sci": "Clamator jacobinus",
+  "zh": "斑翅凤头鹃",
+  "feb": 682,
+  "all": 4135
+ },
+ "cacomantis-sonneratii": {
+  "sci": "Cacomantis sonneratii",
+  "zh": "栗斑杜鹃",
+  "feb": 122,
+  "all": 905
+ },
+ "cacomantis-passerinus": {
+  "sci": "Cacomantis passerinus",
+  "zh": "灰腹杜鹃",
+  "feb": 536,
+  "all": 2795
+ },
+ "surniculus-dicruroides": {
+  "sci": "Surniculus dicruroides",
+  "zh": "叉尾乌鹃",
+  "feb": 145,
+  "all": 1239
+ },
+ "hierococcyx-varius": {
+  "sci": "Hierococcyx varius",
+  "zh": "普通鹰鹃",
+  "feb": 352,
+  "all": 2289
+ },
+ "cuculus-poliocephalus": {
+  "sci": "Cuculus poliocephalus",
+  "zh": "小杜鹃",
+  "feb": 17,
+  "all": 172
+ },
+ "cuculus-micropterus": {
+  "sci": "Cuculus micropterus",
+  "zh": "四声杜鹃",
+  "feb": 161,
+  "all": 1206
+ },
+ "columba-torringtoniae": {
+  "sci": "Columba torringtoniae",
+  "zh": "紫头林鸽",
+  "feb": 464,
+  "all": 2881
+ },
+ "chalcophaps-indica": {
+  "sci": "Chalcophaps indica",
+  "zh": "绿翅金鸠",
+  "feb": 1221,
+  "all": 9484
+ },
+ "treron-bicinctus": {
+  "sci": "Treron bicinctus",
+  "zh": "橙胸绿鸠",
+  "feb": 1265,
+  "all": 7585
+ },
+ "treron-pompadora": {
+  "sci": "Treron pompadora",
+  "zh": "斯里兰卡绿鸠",
+  "feb": 1682,
+  "all": 11984
+ },
+ "treron-phoenicopterus": {
+  "sci": "Treron phoenicopterus",
+  "zh": "黄脚绿鸠",
+  "feb": 12,
+  "all": 145
+ },
+ "ducula-aenea": {
+  "sci": "Ducula aenea",
+  "zh": "绿皇鸠",
+  "feb": 3089,
+  "all": 27974
+ },
+ "lewinia-striata": {
+  "sci": "Lewinia striata",
+  "zh": "灰胸秧鸡",
+  "feb": 21,
+  "all": 210
+ },
+ "gallicrex-cinerea": {
+  "sci": "Gallicrex cinerea",
+  "zh": "董鸡",
+  "feb": 368,
+  "all": 2105
+ },
+ "rallina-eurizonoides": {
+  "sci": "Rallina eurizonoides",
+  "zh": "白喉斑秧鸡",
+  "feb": 105,
+  "all": 656
+ },
+ "zapornia-fusca": {
+  "sci": "Zapornia fusca",
+  "zh": "红胸田鸡",
+  "feb": 68,
+  "all": 647
+ },
+ "zapornia-pusilla": {
+  "sci": "Zapornia pusilla",
+  "zh": "小田鸡",
+  "feb": 7,
+  "all": 43
+ },
+ "esacus-recurvirostris": {
+  "sci": "Esacus recurvirostris",
+  "zh": "大石鸻",
+  "feb": 1044,
+  "all": 5821
+ },
+ "burhinus-indicus": {
+  "sci": "Burhinus indicus",
+  "zh": "印度石鸻",
+  "feb": 373,
+  "all": 2918
+ },
+ "recurvirostra-avosetta": {
+  "sci": "Recurvirostra avosetta",
+  "zh": "反嘴鹬",
+  "feb": 31,
+  "all": 58
+ },
+ "haematopus-ostralegus": {
+  "sci": "Haematopus ostralegus",
+  "zh": "蛎鹬",
+  "feb": 44,
+  "all": 325
+ },
+ "pluvialis-squatarola": {
+  "sci": "Pluvialis squatarola",
+  "zh": "灰斑鸻",
+  "feb": 460,
+  "all": 2035
+ },
+ "pluvialis-fulva": {
+  "sci": "Pluvialis fulva",
+  "zh": "金斑鸻",
+  "feb": 1263,
+  "all": 4884
+ },
+ "vanellus-malabaricus": {
+  "sci": "Vanellus malabaricus",
+  "zh": "黄垂麦鸡",
+  "feb": 933,
+  "all": 5170
+ },
+ "vanellus-cinereus": {
+  "sci": "Vanellus cinereus",
+  "zh": "灰头麦鸡",
+  "feb": 21,
+  "all": 47
+ },
+ "anarhynchus-asiaticus": {
+  "sci": "Anarhynchus asiaticus",
+  "zh": "红胸鸻",
+  "feb": 3,
+  "all": 8
+ },
+ "anarhynchus-atrifrons": {
+  "sci": "Anarhynchus atrifrons",
+  "zh": "青藏沙鸻",
+  "feb": 0,
+  "all": 0
+ },
+ "rostratula-benghalensis": {
+  "sci": "Rostratula benghalensis",
+  "zh": "彩鹬",
+  "feb": 92,
+  "all": 700
+ },
+ "hydrophasianus-chirurgus": {
+  "sci": "Hydrophasianus chirurgus",
+  "zh": "水雉",
+  "feb": 1563,
+  "all": 10035
+ },
+ "numenius-arquata": {
+  "sci": "Numenius arquata",
+  "zh": "白腰杓鹬",
+  "feb": 416,
+  "all": 1823
+ },
+ "limosa-lapponica": {
+  "sci": "Limosa lapponica",
+  "zh": "斑尾塍鹬",
+  "feb": 130,
+  "all": 699
+ },
+ "limosa-limosa": {
+  "sci": "Limosa limosa",
+  "zh": "黑尾塍鹬",
+  "feb": 1049,
+  "all": 3798
+ },
+ "limnodromus-semipalmatus": {
+  "sci": "Limnodromus semipalmatus",
+  "zh": "半蹼鹬",
+  "feb": 0,
+  "all": 7
+ },
+ "scolopax-rusticola": {
+  "sci": "Scolopax rusticola",
+  "zh": "丘鹬",
+  "feb": 2,
+  "all": 3
+ },
+ "gallinago-stenura": {
+  "sci": "Gallinago stenura",
+  "zh": "针尾沙锥",
+  "feb": 631,
+  "all": 3033
+ },
+ "xenus-cinereus": {
+  "sci": "Xenus cinereus",
+  "zh": "翘嘴鹬",
+  "feb": 170,
+  "all": 803
+ },
+ "phalaropus-lobatus": {
+  "sci": "Phalaropus lobatus",
+  "zh": "红颈瓣蹼鹬",
+  "feb": 70,
+  "all": 291
+ },
+ "tringa-ochropus": {
+  "sci": "Tringa ochropus",
+  "zh": "白腰草鹬",
+  "feb": 381,
+  "all": 1743
+ },
+ "tringa-stagnatilis": {
+  "sci": "Tringa stagnatilis",
+  "zh": "泽鹬",
+  "feb": 1613,
+  "all": 6302
+ },
+ "tringa-erythropus": {
+  "sci": "Tringa erythropus",
+  "zh": "鹤鹬",
+  "feb": 2,
+  "all": 38
+ },
+ "arenaria-interpres": {
+  "sci": "Arenaria interpres",
+  "zh": "翻石鹬",
+  "feb": 503,
+  "all": 2640
+ },
+ "calidris-canutus": {
+  "sci": "Calidris canutus",
+  "zh": "红腹滨鹬",
+  "feb": 18,
+  "all": 85
+ },
+ "calidris-tenuirostris": {
+  "sci": "Calidris tenuirostris",
+  "zh": "大滨鹬",
+  "feb": 77,
+  "all": 357
+ },
+ "calidris-acuminata": {
+  "sci": "Calidris acuminata",
+  "zh": "尖尾滨鹬",
+  "feb": 3,
+  "all": 64
+ },
+ "calidris-falcinellus": {
+  "sci": "Calidris falcinellus",
+  "zh": "阔嘴鹬",
+  "feb": 52,
+  "all": 293
+ },
+ "calidris-ferruginea": {
+  "sci": "Calidris ferruginea",
+  "zh": "弯嘴滨鹬",
+  "feb": 716,
+  "all": 3091
+ },
+ "calidris-ruficollis": {
+  "sci": "Calidris ruficollis",
+  "zh": "红颈滨鹬",
+  "feb": 5,
+  "all": 55
+ },
+ "calidris-temminckii": {
+  "sci": "Calidris temminckii",
+  "zh": "青脚滨鹬",
+  "feb": 220,
+  "all": 888
+ },
+ "calidris-subminuta": {
+  "sci": "Calidris subminuta",
+  "zh": "长趾滨鹬",
+  "feb": 108,
+  "all": 271
+ },
+ "calidris-melanotos": {
+  "sci": "Calidris melanotos",
+  "zh": "斑胸滨鹬",
+  "feb": 1,
+  "all": 40
+ },
+ "calidris-minuta": {
+  "sci": "Calidris minuta",
+  "zh": "小滨鹬",
+  "feb": 1089,
+  "all": 4459
+ },
+ "turnix-suscitator": {
+  "sci": "Turnix suscitator",
+  "zh": "棕三趾鹑",
+  "feb": 297,
+  "all": 2235
+ },
+ "dromas-ardeola": {
+  "sci": "Dromas ardeola",
+  "zh": "蟹鸻",
+  "feb": 67,
+  "all": 320
+ },
+ "glareola-lactea": {
+  "sci": "Glareola lactea",
+  "zh": "灰燕鸻",
+  "feb": 191,
+  "all": 1009
+ },
+ "glareola-maldivarum": {
+  "sci": "Glareola maldivarum",
+  "zh": "普通燕鸻",
+  "feb": 98,
+  "all": 429
+ },
+ "glareola-nordmanni": {
+  "sci": "Glareola nordmanni",
+  "zh": "黑翅燕鸻",
+  "feb": 0,
+  "all": 58
+ },
+ "glareola-pratincola": {
+  "sci": "Glareola pratincola",
+  "zh": "领燕鸻",
+  "feb": 52,
+  "all": 80
+ },
+ "stercorarius-maccormicki": {
+  "sci": "Stercorarius maccormicki",
+  "zh": "南极贼鸥",
+  "feb": 0,
+  "all": 4
+ },
+ "stercorarius-antarcticus": {
+  "sci": "Stercorarius antarcticus",
+  "zh": "棕贼鸥",
+  "feb": 0,
+  "all": 3
+ },
+ "anous-tenuirostris": {
+  "sci": "Anous tenuirostris",
+  "zh": "小玄燕鸥",
+  "feb": 1,
+  "all": 101
+ },
+ "onychoprion-fuscatus": {
+  "sci": "Onychoprion fuscatus",
+  "zh": "乌燕鸥",
+  "feb": 10,
+  "all": 274
+ },
+ "onychoprion-anaethetus": {
+  "sci": "Onychoprion anaethetus",
+  "zh": "褐翅燕鸥",
+  "feb": 63,
+  "all": 1913
+ },
+ "sternula-albifrons": {
+  "sci": "Sternula albifrons",
+  "zh": "白额燕鸥",
+  "feb": 852,
+  "all": 4602
+ },
+ "sternula-saundersi": {
+  "sci": "Sternula saundersi",
+  "zh": "桑氏白额燕鸥",
+  "feb": 12,
+  "all": 114
+ },
+ "hydroprogne-caspia": {
+  "sci": "Hydroprogne caspia",
+  "zh": "红嘴巨燕鸥",
+  "feb": 1008,
+  "all": 4119
+ },
+ "chlidonias-hybrida": {
+  "sci": "Chlidonias hybrida",
+  "zh": "须浮鸥",
+  "feb": 2930,
+  "all": 13903
+ },
+ "chlidonias-leucopterus": {
+  "sci": "Chlidonias leucopterus",
+  "zh": "白翅浮鸥",
+  "feb": 570,
+  "all": 2597
+ },
+ "chlidonias-niger": {
+  "sci": "Chlidonias niger",
+  "zh": "黑浮鸥",
+  "feb": 0,
+  "all": 1
+ },
+ "thalasseus-bengalensis": {
+  "sci": "Thalasseus bengalensis",
+  "zh": "小凤头燕鸥",
+  "feb": 463,
+  "all": 3286
+ },
+ "sterna-paradisaea": {
+  "sci": "Sterna paradisaea",
+  "zh": "北极燕鸥",
+  "feb": 0,
+  "all": 5
+ },
+ "sterna-sumatrana": {
+  "sci": "Sterna sumatrana",
+  "zh": "黑枕燕鸥",
+  "feb": 0,
+  "all": 4
+ },
+ "chroicocephalus-genei": {
+  "sci": "Chroicocephalus genei",
+  "zh": "细嘴鸥",
+  "feb": 32,
+  "all": 83
+ },
+ "chroicocephalus-brunnicephalus": {
+  "sci": "Chroicocephalus brunnicephalus",
+  "zh": "棕头鸥",
+  "feb": 696,
+  "all": 2669
+ },
+ "ichthyaetus-ichthyaetus": {
+  "sci": "Ichthyaetus ichthyaetus",
+  "zh": "渔鸥",
+  "feb": 133,
+  "all": 375
+ },
+ "ichthyaetus-hemprichii": {
+  "sci": "Ichthyaetus hemprichii",
+  "zh": "白领鸥",
+  "feb": 0,
+  "all": 2
+ },
+ "phaethon-aethereus": {
+  "sci": "Phaethon aethereus",
+  "zh": "红嘴鹲",
+  "feb": 1,
+  "all": 62
+ },
+ "phaethon-lepturus": {
+  "sci": "Phaethon lepturus",
+  "zh": "白尾鹲",
+  "feb": 0,
+  "all": 31
+ },
+ "oceanites-oceanicus": {
+  "sci": "Oceanites oceanicus",
+  "zh": "黄蹼洋海燕",
+  "feb": 2,
+  "all": 439
+ },
+ "hydrobates-monorhis": {
+  "sci": "Hydrobates monorhis",
+  "zh": "黑叉尾海燕",
+  "feb": 0,
+  "all": 154
+ },
+ "bulweria-bulwerii": {
+  "sci": "Bulweria bulwerii",
+  "zh": "褐燕鹱",
+  "feb": 0,
+  "all": 9
+ },
+ "bulweria-fallax": {
+  "sci": "Bulweria fallax",
+  "zh": "厚嘴燕鹱",
+  "feb": 0,
+  "all": 4
+ },
+ "calonectris-leucomelas": {
+  "sci": "Calonectris leucomelas",
+  "zh": "白额鹱",
+  "feb": 0,
+  "all": 17
+ },
+ "ardenna-pacifica": {
+  "sci": "Ardenna pacifica",
+  "zh": "楔尾鹱",
+  "feb": 0,
+  "all": 529
+ },
+ "ardenna-grisea": {
+  "sci": "Ardenna grisea",
+  "zh": "灰鹱",
+  "feb": 0,
+  "all": 84
+ },
+ "ardenna-carneipes": {
+  "sci": "Ardenna carneipes",
+  "zh": "淡足鹱",
+  "feb": 2,
+  "all": 213
+ },
+ "puffinus-persicus": {
+  "sci": "Puffinus persicus",
+  "zh": "波斯鹱",
+  "feb": 0,
+  "all": 26
+ },
+ "puffinus-bailloni": {
+  "sci": "Puffinus bailloni",
+  "zh": "热带鹱",
+  "feb": 0,
+  "all": 13
+ },
+ "pterodroma-baraui": {
+  "sci": "Pterodroma baraui",
+  "zh": "留尼汪圆尾鹱",
+  "feb": 0,
+  "all": 9
+ },
+ "leptoptilos-javanicus": {
+  "sci": "Leptoptilos javanicus",
+  "zh": "秃鹳",
+  "feb": 323,
+  "all": 2680
+ },
+ "mycteria-leucocephala": {
+  "sci": "Mycteria leucocephala",
+  "zh": "彩鹳",
+  "feb": 2462,
+  "all": 14839
+ },
+ "ephippiorhynchus-asiaticus": {
+  "sci": "Ephippiorhynchus asiaticus",
+  "zh": "黑颈鹳",
+  "feb": 137,
+  "all": 951
+ },
+ "ciconia-episcopus": {
+  "sci": "Ciconia episcopus",
+  "zh": "白颈鹳",
+  "feb": 677,
+  "all": 5072
+ },
+ "fregata-ariel": {
+  "sci": "Fregata ariel",
+  "zh": "白斑军舰鸟",
+  "feb": 0,
+  "all": 32
+ },
+ "fregata-andrewsi": {
+  "sci": "Fregata andrewsi",
+  "zh": "白腹军舰鸟",
+  "feb": 0,
+  "all": 13
+ },
+ "fregata-minor": {
+  "sci": "Fregata minor",
+  "zh": "黑腹军舰鸟",
+  "feb": 0,
+  "all": 18
+ },
+ "anhinga-melanogaster": {
+  "sci": "Anhinga melanogaster",
+  "zh": "黑腹蛇鹈",
+  "feb": 2525,
+  "all": 19296
+ },
+ "phalacrocorax-fuscicollis": {
+  "sci": "Phalacrocorax fuscicollis",
+  "zh": "印度鸬鹚",
+  "feb": 2354,
+  "all": 17815
+ },
+ "threskiornis-melanocephalus": {
+  "sci": "Threskiornis melanocephalus",
+  "zh": "黑头白鹮",
+  "feb": 3154,
+  "all": 22370
+ },
+ "pelecanus-philippensis": {
+  "sci": "Pelecanus philippensis",
+  "zh": "斑嘴鹈鹕",
+  "feb": 2393,
+  "all": 17683
+ },
+ "botaurus-flavicollis": {
+  "sci": "Botaurus flavicollis",
+  "zh": "黑鳽",
+  "feb": 0,
+  "all": 0
+ },
+ "botaurus-cinnamomeus": {
+  "sci": "Botaurus cinnamomeus",
+  "zh": "栗苇鳽",
+  "feb": 0,
+  "all": 0
+ },
+ "botaurus-eurhythmus": {
+  "sci": "Botaurus eurhythmus",
+  "zh": "紫背苇鳽",
+  "feb": 0,
+  "all": 0
+ },
+ "gorsachius-melanolophus": {
+  "sci": "Gorsachius melanolophus",
+  "zh": "黑冠鳽",
+  "feb": 18,
+  "all": 97
+ },
+ "egretta-gularis": {
+  "sci": "Egretta gularis",
+  "zh": "西岩鹭",
+  "feb": 177,
+  "all": 583
+ },
+ "ardeola-grayii": {
+  "sci": "Ardeola grayii",
+  "zh": "印度池鹭",
+  "feb": 5392,
+  "all": 37832
+ },
+ "ardeola-bacchus": {
+  "sci": "Ardeola bacchus",
+  "zh": "池鹭",
+  "feb": 0,
+  "all": 20
+ },
+ "ardea-purpurea": {
+  "sci": "Ardea purpurea",
+  "zh": "草鹭",
+  "feb": 2403,
+  "all": 18477
+ },
+ "caprimulgus-indicus": {
+  "sci": "Caprimulgus indicus",
+  "zh": "丛林夜鹰",
+  "feb": 14,
+  "all": 181
+ },
+ "caprimulgus-atripennis": {
+  "sci": "Caprimulgus atripennis",
+  "zh": "印度长尾夜鹰",
+  "feb": 318,
+  "all": 1986
+ },
+ "caprimulgus-asiaticus": {
+  "sci": "Caprimulgus asiaticus",
+  "zh": "印度夜鹰",
+  "feb": 314,
+  "all": 1856
+ },
+ "batrachostomus-moniliger": {
+  "sci": "Batrachostomus moniliger",
+  "zh": "领蛙口夜鹰",
+  "feb": 406,
+  "all": 2598
+ },
+ "hemiprocne-coronata": {
+  "sci": "Hemiprocne coronata",
+  "zh": "凤头雨燕",
+  "feb": 1016,
+  "all": 6947
+ },
+ "apus-affinis": {
+  "sci": "Apus affinis",
+  "zh": "小雨燕",
+  "feb": 1503,
+  "all": 12738
+ },
+ "aerodramus-unicolor": {
+  "sci": "Aerodramus unicolor",
+  "zh": "印度金丝燕",
+  "feb": 1221,
+  "all": 11877
+ },
+ "phodilus-assimilis": {
+  "sci": "Phodilus assimilis",
+  "zh": "斯里兰卡栗鸮",
+  "feb": 47,
+  "all": 337
+ },
+ "tyto-javanica": {
+  "sci": "Tyto javanica",
+  "zh": "仓鸮",
+  "feb": 73,
+  "all": 510
+ },
+ "ninox-scutulata": {
+  "sci": "Ninox scutulata",
+  "zh": "鹰鸮",
+  "feb": 226,
+  "all": 1895
+ },
+ "glaucidium-radiatum": {
+  "sci": "Glaucidium radiatum",
+  "zh": "丛林鸺鹠",
+  "feb": 142,
+  "all": 1215
+ },
+ "glaucidium-castanotum": {
+  "sci": "Glaucidium castanotum",
+  "zh": "栗背鸺鹠",
+  "feb": 401,
+  "all": 2839
+ },
+ "otus-thilohoffmanni": {
+  "sci": "Otus thilohoffmanni",
+  "zh": "斯里兰卡角鸮",
+  "feb": 217,
+  "all": 1416
+ },
+ "otus-bakkamoena": {
+  "sci": "Otus bakkamoena",
+  "zh": "印度领角鸮",
+  "feb": 280,
+  "all": 2417
+ },
+ "otus-sunia": {
+  "sci": "Otus sunia",
+  "zh": "红角鸮",
+  "feb": 50,
+  "all": 389
+ },
+ "asio-flammeus": {
+  "sci": "Asio flammeus",
+  "zh": "短耳鸮",
+  "feb": 0,
+  "all": 1
+ },
+ "ketupa-zeylonensis": {
+  "sci": "Ketupa zeylonensis",
+  "zh": "褐渔鸮",
+  "feb": 396,
+  "all": 2654
+ },
+ "ketupa-nipalensis": {
+  "sci": "Ketupa nipalensis",
+  "zh": "林雕鸮",
+  "feb": 84,
+  "all": 585
+ },
+ "strix-leptogrammica": {
+  "sci": "Strix leptogrammica",
+  "zh": "褐林鸮",
+  "feb": 135,
+  "all": 944
+ },
+ "pandion-haliaetus": {
+  "sci": "Pandion haliaetus",
+  "zh": "鹗",
+  "feb": 146,
+  "all": 739
+ },
+ "elanus-caeruleus": {
+  "sci": "Elanus caeruleus",
+  "zh": "黑翅鸢",
+  "feb": 355,
+  "all": 1928
+ },
+ "aviceda-jerdoni": {
+  "sci": "Aviceda jerdoni",
+  "zh": "褐冠鹃隼",
+  "feb": 22,
+  "all": 149
+ },
+ "pernis-apivorus": {
+  "sci": "Pernis apivorus",
+  "zh": "鹃头蜂鹰",
+  "feb": 2,
+  "all": 13
+ },
+ "pernis-ptilorhynchus": {
+  "sci": "Pernis ptilorhynchus",
+  "zh": "凤头蜂鹰",
+  "feb": 911,
+  "all": 6048
+ },
+ "spilornis-cheela": {
+  "sci": "Spilornis cheela",
+  "zh": "蛇雕",
+  "feb": 1740,
+  "all": 13203
+ },
+ "nisaetus-kelaarti": {
+  "sci": "Nisaetus kelaarti",
+  "zh": "力氏鹰雕",
+  "feb": 163,
+  "all": 975
+ },
+ "nisaetus-cirrhatus": {
+  "sci": "Nisaetus cirrhatus",
+  "zh": "凤头鹰雕",
+  "feb": 1289,
+  "all": 9932
+ },
+ "lophotriorchis-kienerii": {
+  "sci": "Lophotriorchis kienerii",
+  "zh": "棕腹隼雕",
+  "feb": 98,
+  "all": 691
+ },
+ "ictinaetus-malaiensis": {
+  "sci": "Ictinaetus malaiensis",
+  "zh": "林雕",
+  "feb": 0,
+  "all": 0
+ },
+ "clanga-clanga": {
+  "sci": "Clanga clanga",
+  "zh": "乌雕",
+  "feb": 0,
+  "all": 12
+ },
+ "hieraaetus-pennatus": {
+  "sci": "Hieraaetus pennatus",
+  "zh": "靴隼雕",
+  "feb": 264,
+  "all": 1069
+ },
+ "lophospiza-trivirgata": {
+  "sci": "Lophospiza trivirgata",
+  "zh": "凤头鹰",
+  "feb": 0,
+  "all": 0
+ },
+ "tachyspiza-virgata": {
+  "sci": "Tachyspiza virgata",
+  "zh": "松雀鹰",
+  "feb": 0,
+  "all": 0
+ },
+ "tachyspiza-soloensis": {
+  "sci": "Tachyspiza soloensis",
+  "zh": "赤腹鹰",
+  "feb": 0,
+  "all": 0
+ },
+ "circus-macrourus": {
+  "sci": "Circus macrourus",
+  "zh": "草原鹞",
+  "feb": 33,
+  "all": 132
+ },
+ "circus-pygargus": {
+  "sci": "Circus pygargus",
+  "zh": "乌灰鹞",
+  "feb": 6,
+  "all": 73
+ },
+ "circus-melanoleucos": {
+  "sci": "Circus melanoleucos",
+  "zh": "鹊鹞",
+  "feb": 8,
+  "all": 95
+ },
+ "circus-spilonotus": {
+  "sci": "Circus spilonotus",
+  "zh": "白腹鹞",
+  "feb": 18,
+  "all": 65
+ },
+ "icthyophaga-ichthyaetus": {
+  "sci": "Icthyophaga ichthyaetus",
+  "zh": "灰头渔雕",
+  "feb": 797,
+  "all": 4839
+ },
+ "buteo-rufinus": {
+  "sci": "Buteo rufinus",
+  "zh": "棕尾鵟",
+  "feb": 2,
+  "all": 2
+ },
+ "buteo-refectus": {
+  "sci": "Buteo refectus",
+  "zh": "喜山鵟",
+  "feb": 4,
+  "all": 6
+ },
+ "harpactes-fasciatus": {
+  "sci": "Harpactes fasciatus",
+  "zh": "黑头咬鹃",
+  "feb": 457,
+  "all": 3168
+ },
+ "ocyceros-gingalensis": {
+  "sci": "Ocyceros gingalensis",
+  "zh": "斯里兰卡灰犀鸟",
+  "feb": 1301,
+  "all": 10443
+ },
+ "anthracoceros-coronatus": {
+  "sci": "Anthracoceros coronatus",
+  "zh": "印度冠斑犀鸟",
+  "feb": 957,
+  "all": 6939
+ },
+ "eurystomus-orientalis": {
+  "sci": "Eurystomus orientalis",
+  "zh": "三宝鸟",
+  "feb": 11,
+  "all": 188
+ },
+ "coracias-benghalensis": {
+  "sci": "Coracias benghalensis",
+  "zh": "西棕胸佛法僧",
+  "feb": 1019,
+  "all": 5960
+ },
+ "merops-leschenaulti": {
+  "sci": "Merops leschenaulti",
+  "zh": "栗头蜂虎",
+  "feb": 1066,
+  "all": 5986
+ },
+ "merops-persicus": {
+  "sci": "Merops persicus",
+  "zh": "蓝颊蜂虎",
+  "feb": 1,
+  "all": 71
+ },
+ "ceyx-erithaca": {
+  "sci": "Ceyx erithaca",
+  "zh": "三趾翠鸟",
+  "feb": 216,
+  "all": 1516
+ },
+ "pelargopsis-capensis": {
+  "sci": "Pelargopsis capensis",
+  "zh": "鹳嘴翡翠",
+  "feb": 1094,
+  "all": 9413
+ },
+ "halcyon-pileata": {
+  "sci": "Halcyon pileata",
+  "zh": "蓝翡翠",
+  "feb": 30,
+  "all": 164
+ },
+ "psilopogon-rubricapillus": {
+  "sci": "Psilopogon rubricapillus",
+  "zh": "斯里兰卡拟啄木鸟",
+  "feb": 1619,
+  "all": 17038
+ },
+ "psilopogon-haemacephalus": {
+  "sci": "Psilopogon haemacephalus",
+  "zh": "赤胸拟啄木鸟",
+  "feb": 1243,
+  "all": 7931
+ },
+ "psilopogon-zeylanicus": {
+  "sci": "Psilopogon zeylanicus",
+  "zh": "棕头绿拟啄木鸟",
+  "feb": 4344,
+  "all": 42110
+ },
+ "psilopogon-flavifrons": {
+  "sci": "Psilopogon flavifrons",
+  "zh": "黄额拟啄木鸟",
+  "feb": 1503,
+  "all": 12948
+ },
+ "jynx-torquilla": {
+  "sci": "Jynx torquilla",
+  "zh": "蚁䴕",
+  "feb": 18,
+  "all": 26
+ },
+ "micropternus-brachyurus": {
+  "sci": "Micropternus brachyurus",
+  "zh": "栗啄木鸟",
+  "feb": 79,
+  "all": 487
+ },
+ "dinopium-benghalense": {
+  "sci": "Dinopium benghalense",
+  "zh": "小金背啄木鸟",
+  "feb": 252,
+  "all": 1891
+ },
+ "dinopium-psarodes": {
+  "sci": "Dinopium psarodes",
+  "zh": "红背三趾啄木鸟",
+  "feb": 1873,
+  "all": 20720
+ },
+ "picus-chlorolophus": {
+  "sci": "Picus chlorolophus",
+  "zh": "黄冠啄木鸟",
+  "feb": 509,
+  "all": 4432
+ },
+ "picus-xanthopygaeus": {
+  "sci": "Picus xanthopygaeus",
+  "zh": "鳞喉绿啄木鸟",
+  "feb": 63,
+  "all": 565
+ },
+ "chrysocolaptes-stricklandi": {
+  "sci": "Chrysocolaptes stricklandi",
+  "zh": "绯红背啄木鸟",
+  "feb": 607,
+  "all": 4934
+ },
+ "chrysocolaptes-festivus": {
+  "sci": "Chrysocolaptes festivus",
+  "zh": "黑腰啄木鸟",
+  "feb": 139,
+  "all": 848
+ },
+ "yungipicus-nanus": {
+  "sci": "Yungipicus nanus",
+  "zh": "褐头啄木鸟",
+  "feb": 312,
+  "all": 2310
+ },
+ "leiopicus-mahrattensis": {
+  "sci": "Leiopicus mahrattensis",
+  "zh": "黄冠斑啄木鸟",
+  "feb": 262,
+  "all": 1683
+ },
+ "falco-amurensis": {
+  "sci": "Falco amurensis",
+  "zh": "红脚隼",
+  "feb": 5,
+  "all": 83
+ },
+ "falco-subbuteo": {
+  "sci": "Falco subbuteo",
+  "zh": "燕隼",
+  "feb": 1,
+  "all": 12
+ },
+ "falco-peregrinus": {
+  "sci": "Falco peregrinus",
+  "zh": "游隼",
+  "feb": 198,
+  "all": 1303
+ },
+ "psittacula-eupatria": {
+  "sci": "Psittacula eupatria",
+  "zh": "亚历山大鹦鹉",
+  "feb": 961,
+  "all": 7367
+ },
+ "psittacula-cyanocephala": {
+  "sci": "Psittacula cyanocephala",
+  "zh": "紫头鹦鹉",
+  "feb": 299,
+  "all": 2601
+ },
+ "psittacula-calthrapae": {
+  "sci": "Psittacula calthrapae",
+  "zh": "艳绿领鹦鹉",
+  "feb": 843,
+  "all": 6979
+ },
+ "loriculus-beryllinus": {
+  "sci": "Loriculus beryllinus",
+  "zh": "斯里兰卡短尾鹦鹉",
+  "feb": 1663,
+  "all": 16607
+ },
+ "pitta-brachyura": {
+  "sci": "Pitta brachyura",
+  "zh": "印度八色鸫",
+  "feb": 867,
+  "all": 6234
+ },
+ "pericrocotus-cinnamomeus": {
+  "sci": "Pericrocotus cinnamomeus",
+  "zh": "小山椒鸟",
+  "feb": 1068,
+  "all": 8307
+ },
+ "pericrocotus-flammeus": {
+  "sci": "Pericrocotus flammeus",
+  "zh": "赤黄山椒鸟",
+  "feb": 1206,
+  "all": 10039
+ },
+ "coracina-macei": {
+  "sci": "Coracina macei",
+  "zh": "印度鹃鵙",
+  "feb": 177,
+  "all": 1403
+ },
+ "lalage-melanoptera": {
+  "sci": "Lalage melanoptera",
+  "zh": "黑头鹃鵙",
+  "feb": 526,
+  "all": 4419
+ },
+ "artamus-fuscus": {
+  "sci": "Artamus fuscus",
+  "zh": "灰燕鵙",
+  "feb": 470,
+  "all": 4184
+ },
+ "aegithina-tiphia": {
+  "sci": "Aegithina tiphia",
+  "zh": "黑翅雀鹎",
+  "feb": 2014,
+  "all": 14529
+ },
+ "aegithina-nigrolutea": {
+  "sci": "Aegithina nigrolutea",
+  "zh": "白尾雀鹎",
+  "feb": 179,
+  "all": 1002
+ },
+ "hemipus-picatus": {
+  "sci": "Hemipus picatus",
+  "zh": "褐背鹟鵙",
+  "feb": 695,
+  "all": 5345
+ },
+ "tephrodornis-affinis": {
+  "sci": "Tephrodornis affinis",
+  "zh": "斯里兰卡林鵙",
+  "feb": 885,
+  "all": 5221
+ },
+ "oriolus-xanthornus": {
+  "sci": "Oriolus xanthornus",
+  "zh": "黑头黄鹂",
+  "feb": 3959,
+  "all": 37200
+ },
+ "oriolus-kundoo": {
+  "sci": "Oriolus kundoo",
+  "zh": "印度金黄鹂",
+  "feb": 31,
+  "all": 166
+ },
+ "rhipidura-aureola": {
+  "sci": "Rhipidura aureola",
+  "zh": "白眉扇尾鹟",
+  "feb": 1269,
+  "all": 12147
+ },
+ "dicrurus-lophorinus": {
+  "sci": "Dicrurus lophorinus",
+  "zh": "斯里兰卡卷尾",
+  "feb": 637,
+  "all": 4761
+ },
+ "dicrurus-paradiseus": {
+  "sci": "Dicrurus paradiseus",
+  "zh": "大盘尾",
+  "feb": 47,
+  "all": 672
+ },
+ "dicrurus-caerulescens": {
+  "sci": "Dicrurus caerulescens",
+  "zh": "白腹卷尾",
+  "feb": 3160,
+  "all": 32778
+ },
+ "dicrurus-leucophaeus": {
+  "sci": "Dicrurus leucophaeus",
+  "zh": "灰卷尾",
+  "feb": 102,
+  "all": 493
+ },
+ "hypothymis-azurea": {
+  "sci": "Hypothymis azurea",
+  "zh": "黑枕王鹟",
+  "feb": 652,
+  "all": 5063
+ },
+ "terpsiphone-paradisi": {
+  "sci": "Terpsiphone paradisi",
+  "zh": "印度寿带",
+  "feb": 2659,
+  "all": 16434
+ },
+ "urocissa-ornata": {
+  "sci": "Urocissa ornata",
+  "zh": "斯里兰卡蓝鹊",
+  "feb": 563,
+  "all": 3987
+ },
+ "corvus-levaillantii": {
+  "sci": "Corvus levaillantii",
+  "zh": "丛林鸦",
+  "feb": 0,
+  "all": 1
+ },
+ "culicicapa-ceylonensis": {
+  "sci": "Culicicapa ceylonensis",
+  "zh": "方尾鹟",
+  "feb": 397,
+  "all": 3519
+ },
+ "eremopterix-griseus": {
+  "sci": "Eremopterix griseus",
+  "zh": "灰顶雀百灵",
+  "feb": 666,
+  "all": 3562
+ },
+ "plocealauda-affinis": {
+  "sci": "Plocealauda affinis",
+  "zh": "斯里兰卡歌百灵",
+  "feb": 0,
+  "all": 0
+ },
+ "calandrella-dukhunensis": {
+  "sci": "Calandrella dukhunensis",
+  "zh": "蒙古短趾百灵",
+  "feb": 1,
+  "all": 149
+ },
+ "prinia-sylvatica": {
+  "sci": "Prinia sylvatica",
+  "zh": "丛林山鹪莺",
+  "feb": 513,
+  "all": 3062
+ },
+ "prinia-socialis": {
+  "sci": "Prinia socialis",
+  "zh": "灰山鹪莺",
+  "feb": 951,
+  "all": 6925
+ },
+ "elaphrornis-palliseri": {
+  "sci": "Elaphrornis palliseri",
+  "zh": "帕氏短翅莺",
+  "feb": 244,
+  "all": 1482
+ },
+ "hirundo-domicola": {
+  "sci": "Hirundo domicola",
+  "zh": "山燕",
+  "feb": 372,
+  "all": 2668
+ },
+ "cecropis-hyperythra": {
+  "sci": "Cecropis hyperythra",
+  "zh": "斯里兰卡燕",
+  "feb": 1699,
+  "all": 17585
+ },
+ "phylloscopus-nitidus": {
+  "sci": "Phylloscopus nitidus",
+  "zh": "绿柳莺",
+  "feb": 908,
+  "all": 6568
+ },
+ "phylloscopus-magnirostris": {
+  "sci": "Phylloscopus magnirostris",
+  "zh": "乌嘴柳莺",
+  "feb": 431,
+  "all": 3115
+ },
+ "rubigula-melanictera": {
+  "sci": "Rubigula melanictera",
+  "zh": "黑顶黄鹎",
+  "feb": 999,
+  "all": 8236
+ },
+ "pycnonotus-luteolus": {
+  "sci": "Pycnonotus luteolus",
+  "zh": "白眉鹎",
+  "feb": 2338,
+  "all": 20371
+ },
+ "pycnonotus-penicillatus": {
+  "sci": "Pycnonotus penicillatus",
+  "zh": "黄耳鹎",
+  "feb": 690,
+  "all": 4277
+ },
+ "acritillas-indica": {
+  "sci": "Acritillas indica",
+  "zh": "黄眉鹎",
+  "feb": 1112,
+  "all": 8928
+ },
+ "hypsipetes-ganeesa": {
+  "sci": "Hypsipetes ganeesa",
+  "zh": "方尾黑鹎",
+  "feb": 1394,
+  "all": 10336
+ },
+ "chrysomma-sinense": {
+  "sci": "Chrysomma sinense",
+  "zh": "金眼鹛雀",
+  "feb": 329,
+  "all": 2478
+ },
+ "zosterops-ceylonensis": {
+  "sci": "Zosterops ceylonensis",
+  "zh": "斯里兰卡绣眼鸟",
+  "feb": 907,
+  "all": 6526
+ },
+ "dumetia-hyperythra": {
+  "sci": "Dumetia hyperythra",
+  "zh": "棕腹鹛",
+  "feb": 389,
+  "all": 3140
+ },
+ "dumetia-atriceps": {
+  "sci": "Dumetia atriceps",
+  "zh": "黑头鹛",
+  "feb": 822,
+  "all": 6314
+ },
+ "pomatorhinus-melanurus": {
+  "sci": "Pomatorhinus melanurus",
+  "zh": "斯里兰卡钩嘴鹛",
+  "feb": 866,
+  "all": 7001
+ },
+ "pellorneum-fuscocapillus": {
+  "sci": "Pellorneum fuscocapillus",
+  "zh": "褐冠幽鹛",
+  "feb": 634,
+  "all": 6041
+ },
+ "argya-cinereifrons": {
+  "sci": "Argya cinereifrons",
+  "zh": "灰头噪鹛",
+  "feb": 369,
+  "all": 2434
+ },
+ "argya-rufescens": {
+  "sci": "Argya rufescens",
+  "zh": "橙嘴鸫鹛",
+  "feb": 794,
+  "all": 5720
+ },
+ "argya-affinis": {
+  "sci": "Argya affinis",
+  "zh": "印度白头鸫鹛",
+  "feb": 4680,
+  "all": 47111
+ },
+ "garrulax-leucolophus": {
+  "sci": "Garrulax leucolophus",
+  "zh": "白冠噪鹛",
+  "feb": 0,
+  "all": 1
+ },
+ "sitta-frontalis": {
+  "sci": "Sitta frontalis",
+  "zh": "绒额䴓",
+  "feb": 646,
+  "all": 4981
+ },
+ "gracula-ptilogenys": {
+  "sci": "Gracula ptilogenys",
+  "zh": "斯里兰卡鹩哥",
+  "feb": 571,
+  "all": 4309
+ },
+ "gracula-indica": {
+  "sci": "Gracula indica",
+  "zh": "南鹩哥",
+  "feb": 692,
+  "all": 6345
+ },
+ "agropsar-sturninus": {
+  "sci": "Agropsar sturninus",
+  "zh": "北椋鸟",
+  "feb": 3,
+  "all": 46
+ },
+ "sturnornis-albofrontatus": {
+  "sci": "Sturnornis albofrontatus",
+  "zh": "白脸椋鸟",
+  "feb": 297,
+  "all": 2102
+ },
+ "sturnia-pagodarum": {
+  "sci": "Sturnia pagodarum",
+  "zh": "黑冠椋鸟",
+  "feb": 263,
+  "all": 1352
+ },
+ "zoothera-imbricata": {
+  "sci": "Zoothera imbricata",
+  "zh": "斯里兰卡地鸫",
+  "feb": 220,
+  "all": 1349
+ },
+ "geokichla-wardii": {
+  "sci": "Geokichla wardii",
+  "zh": "杂色地鸫",
+  "feb": 296,
+  "all": 1191
+ },
+ "geokichla-spiloptera": {
+  "sci": "Geokichla spiloptera",
+  "zh": "斑翅地鸫",
+  "feb": 678,
+  "all": 4632
+ },
+ "geokichla-citrina": {
+  "sci": "Geokichla citrina",
+  "zh": "橙头地鸫",
+  "feb": 158,
+  "all": 681
+ },
+ "turdus-simillimus": {
+  "sci": "Turdus simillimus",
+  "zh": "南亚乌鸫",
+  "feb": 314,
+  "all": 1813
+ },
+ "turdus-obscurus": {
+  "sci": "Turdus obscurus",
+  "zh": "白眉鸫",
+  "feb": 18,
+  "all": 36
+ },
+ "cercotrichas-galactotes": {
+  "sci": "Cercotrichas galactotes",
+  "zh": "棕薮鸲",
+  "feb": 1,
+  "all": 1
+ },
+ "copsychus-fulicatus": {
+  "sci": "Copsychus fulicatus",
+  "zh": "印度鸲",
+  "feb": 2184,
+  "all": 16682
+ },
+ "copsychus-leggei": {
+  "sci": "Copsychus leggei",
+  "zh": "斯里兰卡鹊鸲",
+  "feb": 0,
+  "all": 0
+ },
+ "muscicapa-sibirica": {
+  "sci": "Muscicapa sibirica",
+  "zh": "乌鹟",
+  "feb": 0,
+  "all": 1
+ },
+ "muscicapa-dauurica": {
+  "sci": "Muscicapa dauurica",
+  "zh": "北灰鹟",
+  "feb": 1008,
+  "all": 5830
+ },
+ "muscicapa-muttui": {
+  "sci": "Muscicapa muttui",
+  "zh": "褐胸鹟",
+  "feb": 1289,
+  "all": 6296
+ },
+ "cyanoptila-cyanomelana": {
+  "sci": "Cyanoptila cyanomelana",
+  "zh": "白腹蓝鹟",
+  "feb": 4,
+  "all": 36
+ },
+ "eumyias-sordidus": {
+  "sci": "Eumyias sordidus",
+  "zh": "暗蓝仙鹟",
+  "feb": 503,
+  "all": 3059
+ },
+ "cyornis-hainanus": {
+  "sci": "Cyornis hainanus",
+  "zh": "海南蓝仙鹟",
+  "feb": 0,
+  "all": 0
+ },
+ "cyornis-rubeculoides": {
+  "sci": "Cyornis rubeculoides",
+  "zh": "蓝喉仙鹟",
+  "feb": 9,
+  "all": 56
+ },
+ "cyornis-tickelliae": {
+  "sci": "Cyornis tickelliae",
+  "zh": "梯氏仙鹟",
+  "feb": 1020,
+  "all": 9217
+ },
+ "myophonus-blighi": {
+  "sci": "Myophonus blighi",
+  "zh": "斯里兰卡啸鸫",
+  "feb": 237,
+  "all": 1358
+ },
+ "larvivora-brunnea": {
+  "sci": "Larvivora brunnea",
+  "zh": "栗腹歌鸲",
+  "feb": 431,
+  "all": 2374
+ },
+ "ficedula-zanthopygia": {
+  "sci": "Ficedula zanthopygia",
+  "zh": "白眉姬鹟",
+  "feb": 1,
+  "all": 3
+ },
+ "ficedula-subrubra": {
+  "sci": "Ficedula subrubra",
+  "zh": "印巴姬鹟",
+  "feb": 296,
+  "all": 1583
+ },
+ "monticola-saxatilis": {
+  "sci": "Monticola saxatilis",
+  "zh": "白背矶鸫",
+  "feb": 15,
+  "all": 26
+ },
+ "monticola-solitarius": {
+  "sci": "Monticola solitarius",
+  "zh": "蓝矶鸫",
+  "feb": 16,
+  "all": 50
+ },
+ "oenanthe-pleschanka": {
+  "sci": "Oenanthe pleschanka",
+  "zh": "白顶䳭",
+  "feb": 0,
+  "all": 0
+ },
+ "pachyglossa-agilis": {
+  "sci": "Pachyglossa agilis",
+  "zh": "厚嘴啄花鸟",
+  "feb": 0,
+  "all": 0
+ },
+ "pachyglossa-vincens": {
+  "sci": "Pachyglossa vincens",
+  "zh": "白喉啄花鸟",
+  "feb": 0,
+  "all": 0
+ },
+ "dicaeum-erythrorhynchos": {
+  "sci": "Dicaeum erythrorhynchos",
+  "zh": "淡嘴啄花鸟",
+  "feb": 3043,
+  "all": 33172
+ },
+ "leptocoma-zeylonica": {
+  "sci": "Leptocoma zeylonica",
+  "zh": "紫腰花蜜鸟",
+  "feb": 4005,
+  "all": 39805
+ },
+ "cinnyris-lotenius": {
+  "sci": "Cinnyris lotenius",
+  "zh": "罗氏花蜜鸟",
+  "feb": 2188,
+  "all": 21268
+ },
+ "chloropsis-jerdoni": {
+  "sci": "Chloropsis jerdoni",
+  "zh": "南亚叶鹎",
+  "feb": 734,
+  "all": 6104
+ },
+ "chloropsis-aurifrons": {
+  "sci": "Chloropsis aurifrons",
+  "zh": "金额叶鹎",
+  "feb": 454,
+  "all": 3449
+ },
+ "ploceus-manyar": {
+  "sci": "Ploceus manyar",
+  "zh": "纹胸织雀",
+  "feb": 366,
+  "all": 1459
+ },
+ "lonchura-kelaarti": {
+  "sci": "Lonchura kelaarti",
+  "zh": "红胸文鸟",
+  "feb": 251,
+  "all": 1637
+ },
+ "lonchura-striata": {
+  "sci": "Lonchura striata",
+  "zh": "白腰文鸟",
+  "feb": 1649,
+  "all": 16812
+ },
+ "lonchura-malacca": {
+  "sci": "Lonchura malacca",
+  "zh": "黑头文鸟",
+  "feb": 896,
+  "all": 6123
+ },
+ "anthus-godlewskii": {
+  "sci": "Anthus godlewskii",
+  "zh": "布氏鹨",
+  "feb": 113,
+  "all": 512
+ },
+ "curruca-althaea": {
+  "sci": "Curruca althaea",
+  "zh": "休氏白喉林莺",
+  "feb": 0,
+  "all": 0
+ },
+ "sturnia-malabarica": {
+  "sci": "Sturnia malabarica",
+  "zh": "灰头椋鸟",
+  "feb": 1,
+  "all": 34
+ }
+}

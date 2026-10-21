@@ -1,0 +1,5385 @@
+{
+ "_meta": {
+  "source": "eBird API v2 /data/obs/{regionCode}/historic",
+  "regions": {
+   "CN-11": "北京",
+   "CN-12": "天津",
+   "CN-13": "河北"
+  },
+  "years": [
+   2024,
+   2025
+  ],
+  "days_of_month": [
+   8,
+   18,
+   28
+  ],
+  "metric": "freq = 该区有报到此种的观鸟日 ÷ 该区有数据的观鸟日",
+  "freq_max": "三区中的最高频次。判据是「能不能容易见到」，北京鸟友去天津滩涂两小时车程，取最高才贴合实际",
+  "sample_days": {
+   "CN-11": 72,
+   "CN-12": 64,
+   "CN-13": 64
+  },
+  "note": "阈值不在本文件；判断在 build_target_list.py 的 CN_EASY_FREQ"
+ },
+ "species": {
+  "Abroscopus albogularis": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0156,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0156,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 1,
+    "CN-13": 0
+   }
+  },
+  "Acanthis flammea": {
+   "by_region": {
+    "CN-11": 0.0278,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0278,
+   "days_seen": {
+    "CN-11": 2,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Accipiter nisus": {
+   "by_region": {
+    "CN-11": 0.6806,
+    "CN-12": 0.2031,
+    "CN-13": 0.1719
+   },
+   "freq_max": 0.6806,
+   "days_seen": {
+    "CN-11": 49,
+    "CN-12": 13,
+    "CN-13": 11
+   }
+  },
+  "Acridotheres cristatellus": {
+   "by_region": {
+    "CN-11": 0.8056,
+    "CN-12": 0.3281,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.8056,
+   "days_seen": {
+    "CN-11": 58,
+    "CN-12": 21,
+    "CN-13": 3
+   }
+  },
+  "Acrocephalus bistrigiceps": {
+   "by_region": {
+    "CN-11": 0.3056,
+    "CN-12": 0.0938,
+    "CN-13": 0.0781
+   },
+   "freq_max": 0.3056,
+   "days_seen": {
+    "CN-11": 22,
+    "CN-12": 6,
+    "CN-13": 5
+   }
+  },
+  "Acrocephalus concinens": {
+   "by_region": {
+    "CN-11": 0.0694,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0694,
+   "days_seen": {
+    "CN-11": 5,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Acrocephalus orientalis": {
+   "by_region": {
+    "CN-11": 0.3889,
+    "CN-12": 0.2344,
+    "CN-13": 0.2031
+   },
+   "freq_max": 0.3889,
+   "days_seen": {
+    "CN-11": 28,
+    "CN-12": 15,
+    "CN-13": 13
+   }
+  },
+  "Actitis hypoleucos": {
+   "by_region": {
+    "CN-11": 0.1806,
+    "CN-12": 0.0625,
+    "CN-13": 0.125
+   },
+   "freq_max": 0.1806,
+   "days_seen": {
+    "CN-11": 13,
+    "CN-12": 4,
+    "CN-13": 8
+   }
+  },
+  "Aegithalos caudatus": {
+   "by_region": {
+    "CN-11": 0.2222,
+    "CN-12": 0.0156,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.2222,
+   "days_seen": {
+    "CN-11": 16,
+    "CN-12": 1,
+    "CN-13": 2
+   }
+  },
+  "Aegithalos concinnus": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0139,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Aegithalos glaucogularis": {
+   "by_region": {
+    "CN-11": 0.9306,
+    "CN-12": 0.0938,
+    "CN-13": 0.375
+   },
+   "freq_max": 0.9306,
+   "days_seen": {
+    "CN-11": 67,
+    "CN-12": 6,
+    "CN-13": 24
+   }
+  },
+  "Aegypius monachus": {
+   "by_region": {
+    "CN-11": 0.0694,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0694,
+   "days_seen": {
+    "CN-11": 5,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Agropsar sturninus": {
+   "by_region": {
+    "CN-11": 0.1111,
+    "CN-12": 0.0156,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.1111,
+   "days_seen": {
+    "CN-11": 8,
+    "CN-12": 1,
+    "CN-13": 1
+   }
+  },
+  "Aix galericulata": {
+   "by_region": {
+    "CN-11": 0.9444,
+    "CN-12": 0.0312,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.9444,
+   "days_seen": {
+    "CN-11": 68,
+    "CN-12": 2,
+    "CN-13": 1
+   }
+  },
+  "Alauda arvensis": {
+   "by_region": {
+    "CN-11": 0.2083,
+    "CN-12": 0.0781,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.2083,
+   "days_seen": {
+    "CN-11": 15,
+    "CN-12": 5,
+    "CN-13": 3
+   }
+  },
+  "Alaudala cheleensis": {
+   "by_region": {
+    "CN-11": 0.0278,
+    "CN-12": 0.0312,
+    "CN-13": 0.0781
+   },
+   "freq_max": 0.0781,
+   "days_seen": {
+    "CN-11": 2,
+    "CN-12": 2,
+    "CN-13": 5
+   }
+  },
+  "Alcedo atthis": {
+   "by_region": {
+    "CN-11": 0.8056,
+    "CN-12": 0.2188,
+    "CN-13": 0.2344
+   },
+   "freq_max": 0.8056,
+   "days_seen": {
+    "CN-11": 58,
+    "CN-12": 14,
+    "CN-13": 15
+   }
+  },
+  "Alectoris chukar": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0139,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Amaurornis phoenicurus": {
+   "by_region": {
+    "CN-11": 0.1528,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.1528,
+   "days_seen": {
+    "CN-11": 11,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Anarhynchus alexandrinus": {
+   "by_region": {
+    "CN-11": 0.0833,
+    "CN-12": 0.1094,
+    "CN-13": 0.1719
+   },
+   "freq_max": 0.1719,
+   "days_seen": {
+    "CN-11": 6,
+    "CN-12": 7,
+    "CN-13": 11
+   }
+  },
+  "Anarhynchus leschenaultii": {
+   "by_region": {
+    "CN-11": 0.0278,
+    "CN-12": 0.0,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.0312,
+   "days_seen": {
+    "CN-11": 2,
+    "CN-12": 0,
+    "CN-13": 2
+   }
+  },
+  "Anarhynchus mongolus": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0625,
+    "CN-13": 0.1094
+   },
+   "freq_max": 0.1094,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 4,
+    "CN-13": 7
+   }
+  },
+  "Anas acuta": {
+   "by_region": {
+    "CN-11": 0.1667,
+    "CN-12": 0.0469,
+    "CN-13": 0.0625
+   },
+   "freq_max": 0.1667,
+   "days_seen": {
+    "CN-11": 12,
+    "CN-12": 3,
+    "CN-13": 4
+   }
+  },
+  "Anas crecca": {
+   "by_region": {
+    "CN-11": 0.5833,
+    "CN-12": 0.2188,
+    "CN-13": 0.25
+   },
+   "freq_max": 0.5833,
+   "days_seen": {
+    "CN-11": 42,
+    "CN-12": 14,
+    "CN-13": 16
+   }
+  },
+  "Anas platyrhynchos": {
+   "by_region": {
+    "CN-11": 1.0,
+    "CN-12": 0.5469,
+    "CN-13": 0.5469
+   },
+   "freq_max": 1.0,
+   "days_seen": {
+    "CN-11": 72,
+    "CN-12": 35,
+    "CN-13": 35
+   }
+  },
+  "Anas platyrhynchos x Netta rufina": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0139,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Anas platyrhynchos x acuta": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0139,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Anas zonorhyncha": {
+   "by_region": {
+    "CN-11": 0.8472,
+    "CN-12": 0.6562,
+    "CN-13": 0.5156
+   },
+   "freq_max": 0.8472,
+   "days_seen": {
+    "CN-11": 61,
+    "CN-12": 42,
+    "CN-13": 33
+   }
+  },
+  "Anas zonorhyncha x platyrhynchos": {
+   "by_region": {
+    "CN-11": 0.125,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.125,
+   "days_seen": {
+    "CN-11": 9,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Anser albifrons": {
+   "by_region": {
+    "CN-11": 0.0278,
+    "CN-12": 0.0,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.0312,
+   "days_seen": {
+    "CN-11": 2,
+    "CN-12": 0,
+    "CN-13": 2
+   }
+  },
+  "Anser anser": {
+   "by_region": {
+    "CN-11": 0.4722,
+    "CN-12": 0.1094,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.4722,
+   "days_seen": {
+    "CN-11": 34,
+    "CN-12": 7,
+    "CN-13": 2
+   }
+  },
+  "Anser anser x cygnoides": {
+   "by_region": {
+    "CN-11": 0.0972,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0972,
+   "days_seen": {
+    "CN-11": 7,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Anser cygnoides": {
+   "by_region": {
+    "CN-11": 0.6389,
+    "CN-12": 0.0156,
+    "CN-13": 0.0625
+   },
+   "freq_max": 0.6389,
+   "days_seen": {
+    "CN-11": 46,
+    "CN-12": 1,
+    "CN-13": 4
+   }
+  },
+  "Anser erythropus": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0156,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Anser fabalis": {
+   "by_region": {
+    "CN-11": 0.1389,
+    "CN-12": 0.0781,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.1389,
+   "days_seen": {
+    "CN-11": 10,
+    "CN-12": 5,
+    "CN-13": 3
+   }
+  },
+  "Anser indicus": {
+   "by_region": {
+    "CN-11": 0.2639,
+    "CN-12": 0.0312,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.2639,
+   "days_seen": {
+    "CN-11": 19,
+    "CN-12": 2,
+    "CN-13": 0
+   }
+  },
+  "Anser serrirostris": {
+   "by_region": {
+    "CN-11": 0.2083,
+    "CN-12": 0.0312,
+    "CN-13": 0.0625
+   },
+   "freq_max": 0.2083,
+   "days_seen": {
+    "CN-11": 15,
+    "CN-12": 2,
+    "CN-13": 4
+   }
+  },
+  "Anthus cervinus": {
+   "by_region": {
+    "CN-11": 0.125,
+    "CN-12": 0.0312,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.125,
+   "days_seen": {
+    "CN-11": 9,
+    "CN-12": 2,
+    "CN-13": 2
+   }
+  },
+  "Anthus godlewskii": {
+   "by_region": {
+    "CN-11": 0.0278,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0278,
+   "days_seen": {
+    "CN-11": 2,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Anthus gustavi": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0156,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Anthus hodgsoni": {
+   "by_region": {
+    "CN-11": 0.3194,
+    "CN-12": 0.1094,
+    "CN-13": 0.2969
+   },
+   "freq_max": 0.3194,
+   "days_seen": {
+    "CN-11": 23,
+    "CN-12": 7,
+    "CN-13": 19
+   }
+  },
+  "Anthus japonicus": {
+   "by_region": {
+    "CN-11": 0.1667,
+    "CN-12": 0.1094,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.1667,
+   "days_seen": {
+    "CN-11": 12,
+    "CN-12": 7,
+    "CN-13": 2
+   }
+  },
+  "Anthus pratensis": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0139,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Anthus richardi": {
+   "by_region": {
+    "CN-11": 0.2361,
+    "CN-12": 0.0,
+    "CN-13": 0.0625
+   },
+   "freq_max": 0.2361,
+   "days_seen": {
+    "CN-11": 17,
+    "CN-12": 0,
+    "CN-13": 4
+   }
+  },
+  "Anthus roseatus": {
+   "by_region": {
+    "CN-11": 0.0278,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0278,
+   "days_seen": {
+    "CN-11": 2,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Anthus spinoletta": {
+   "by_region": {
+    "CN-11": 0.4583,
+    "CN-12": 0.125,
+    "CN-13": 0.1562
+   },
+   "freq_max": 0.4583,
+   "days_seen": {
+    "CN-11": 33,
+    "CN-12": 8,
+    "CN-13": 10
+   }
+  },
+  "Antigone vipio": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0156,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0156,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 1,
+    "CN-13": 0
+   }
+  },
+  "Apus apus": {
+   "by_region": {
+    "CN-11": 0.3472,
+    "CN-12": 0.2031,
+    "CN-13": 0.1094
+   },
+   "freq_max": 0.3472,
+   "days_seen": {
+    "CN-11": 25,
+    "CN-12": 13,
+    "CN-13": 7
+   }
+  },
+  "Apus pacificus": {
+   "by_region": {
+    "CN-11": 0.1528,
+    "CN-12": 0.0156,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.1528,
+   "days_seen": {
+    "CN-11": 11,
+    "CN-12": 1,
+    "CN-13": 2
+   }
+  },
+  "Aquila chrysaetos": {
+   "by_region": {
+    "CN-11": 0.0833,
+    "CN-12": 0.0,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.0833,
+   "days_seen": {
+    "CN-11": 6,
+    "CN-12": 0,
+    "CN-13": 2
+   }
+  },
+  "Aquila nipalensis": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0139,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Ardea alba": {
+   "by_region": {
+    "CN-11": 0.7083,
+    "CN-12": 0.4531,
+    "CN-13": 0.4688
+   },
+   "freq_max": 0.7083,
+   "days_seen": {
+    "CN-11": 51,
+    "CN-12": 29,
+    "CN-13": 30
+   }
+  },
+  "Ardea cinerea": {
+   "by_region": {
+    "CN-11": 0.9861,
+    "CN-12": 0.5,
+    "CN-13": 0.5312
+   },
+   "freq_max": 0.9861,
+   "days_seen": {
+    "CN-11": 71,
+    "CN-12": 32,
+    "CN-13": 34
+   }
+  },
+  "Ardea coromanda": {
+   "by_region": {
+    "CN-11": 0.0972,
+    "CN-12": 0.1094,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.1094,
+   "days_seen": {
+    "CN-11": 7,
+    "CN-12": 7,
+    "CN-13": 3
+   }
+  },
+  "Ardea intermedia": {
+   "by_region": {
+    "CN-11": 0.1806,
+    "CN-12": 0.0469,
+    "CN-13": 0.1562
+   },
+   "freq_max": 0.1806,
+   "days_seen": {
+    "CN-11": 13,
+    "CN-12": 3,
+    "CN-13": 10
+   }
+  },
+  "Ardea purpurea": {
+   "by_region": {
+    "CN-11": 0.2083,
+    "CN-12": 0.1875,
+    "CN-13": 0.0781
+   },
+   "freq_max": 0.2083,
+   "days_seen": {
+    "CN-11": 15,
+    "CN-12": 12,
+    "CN-13": 5
+   }
+  },
+  "Ardeola bacchus": {
+   "by_region": {
+    "CN-11": 0.4167,
+    "CN-12": 0.2656,
+    "CN-13": 0.2656
+   },
+   "freq_max": 0.4167,
+   "days_seen": {
+    "CN-11": 30,
+    "CN-12": 17,
+    "CN-13": 17
+   }
+  },
+  "Arenaria interpres": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0469,
+    "CN-13": 0.0625
+   },
+   "freq_max": 0.0625,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 3,
+    "CN-13": 4
+   }
+  },
+  "Arundinax aedon": {
+   "by_region": {
+    "CN-11": 0.1389,
+    "CN-12": 0.0312,
+    "CN-13": 0.1094
+   },
+   "freq_max": 0.1389,
+   "days_seen": {
+    "CN-11": 10,
+    "CN-12": 2,
+    "CN-13": 7
+   }
+  },
+  "Asio flammeus": {
+   "by_region": {
+    "CN-11": 0.0694,
+    "CN-12": 0.0781,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0781,
+   "days_seen": {
+    "CN-11": 5,
+    "CN-12": 5,
+    "CN-13": 1
+   }
+  },
+  "Asio otus": {
+   "by_region": {
+    "CN-11": 0.1528,
+    "CN-12": 0.0469,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.1528,
+   "days_seen": {
+    "CN-11": 11,
+    "CN-12": 3,
+    "CN-13": 2
+   }
+  },
+  "Astur gentilis": {
+   "by_region": {
+    "CN-11": 0.2639,
+    "CN-12": 0.0469,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.2639,
+   "days_seen": {
+    "CN-11": 19,
+    "CN-12": 3,
+    "CN-13": 1
+   }
+  },
+  "Athene noctua": {
+   "by_region": {
+    "CN-11": 0.25,
+    "CN-12": 0.125,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.25,
+   "days_seen": {
+    "CN-11": 18,
+    "CN-12": 8,
+    "CN-13": 2
+   }
+  },
+  "Aythya baeri": {
+   "by_region": {
+    "CN-11": 0.1667,
+    "CN-12": 0.0312,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.1667,
+   "days_seen": {
+    "CN-11": 12,
+    "CN-12": 2,
+    "CN-13": 2
+   }
+  },
+  "Aythya ferina": {
+   "by_region": {
+    "CN-11": 0.3889,
+    "CN-12": 0.1562,
+    "CN-13": 0.1094
+   },
+   "freq_max": 0.3889,
+   "days_seen": {
+    "CN-11": 28,
+    "CN-12": 10,
+    "CN-13": 7
+   }
+  },
+  "Aythya ferina x nyroca": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0139,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Aythya fuligula": {
+   "by_region": {
+    "CN-11": 0.4306,
+    "CN-12": 0.0625,
+    "CN-13": 0.125
+   },
+   "freq_max": 0.4306,
+   "days_seen": {
+    "CN-11": 31,
+    "CN-12": 4,
+    "CN-13": 8
+   }
+  },
+  "Aythya marila": {
+   "by_region": {
+    "CN-11": 0.0694,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0694,
+   "days_seen": {
+    "CN-11": 5,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Aythya nyroca": {
+   "by_region": {
+    "CN-11": 0.4028,
+    "CN-12": 0.3906,
+    "CN-13": 0.1562
+   },
+   "freq_max": 0.4028,
+   "days_seen": {
+    "CN-11": 29,
+    "CN-12": 25,
+    "CN-13": 10
+   }
+  },
+  "Aythya nyroca x baeri": {
+   "by_region": {
+    "CN-11": 0.0417,
+    "CN-12": 0.0156,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0417,
+   "days_seen": {
+    "CN-11": 3,
+    "CN-12": 1,
+    "CN-13": 0
+   }
+  },
+  "Bombycilla garrulus": {
+   "by_region": {
+    "CN-11": 0.1528,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.1528,
+   "days_seen": {
+    "CN-11": 11,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Bombycilla japonica": {
+   "by_region": {
+    "CN-11": 0.2222,
+    "CN-12": 0.0312,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.2222,
+   "days_seen": {
+    "CN-11": 16,
+    "CN-12": 2,
+    "CN-13": 0
+   }
+  },
+  "Botaurus cinnamomeus": {
+   "by_region": {
+    "CN-11": 0.0417,
+    "CN-12": 0.0156,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0417,
+   "days_seen": {
+    "CN-11": 3,
+    "CN-12": 1,
+    "CN-13": 0
+   }
+  },
+  "Botaurus eurhythmus": {
+   "by_region": {
+    "CN-11": 0.0417,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0417,
+   "days_seen": {
+    "CN-11": 3,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Botaurus sinensis": {
+   "by_region": {
+    "CN-11": 0.3472,
+    "CN-12": 0.1094,
+    "CN-13": 0.0625
+   },
+   "freq_max": 0.3472,
+   "days_seen": {
+    "CN-11": 25,
+    "CN-12": 7,
+    "CN-13": 4
+   }
+  },
+  "Botaurus stellaris": {
+   "by_region": {
+    "CN-11": 0.3056,
+    "CN-12": 0.3438,
+    "CN-13": 0.0781
+   },
+   "freq_max": 0.3438,
+   "days_seen": {
+    "CN-11": 22,
+    "CN-12": 22,
+    "CN-13": 5
+   }
+  },
+  "Branta canadensis": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0312,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0312,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 2,
+    "CN-13": 0
+   }
+  },
+  "Branta ruficollis": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0156,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Bubo bubo": {
+   "by_region": {
+    "CN-11": 0.0833,
+    "CN-12": 0.0,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.0833,
+   "days_seen": {
+    "CN-11": 6,
+    "CN-12": 0,
+    "CN-13": 2
+   }
+  },
+  "Bucephala clangula": {
+   "by_region": {
+    "CN-11": 0.375,
+    "CN-12": 0.0312,
+    "CN-13": 0.1094
+   },
+   "freq_max": 0.375,
+   "days_seen": {
+    "CN-11": 27,
+    "CN-12": 2,
+    "CN-13": 7
+   }
+  },
+  "Butastur indicus": {
+   "by_region": {
+    "CN-11": 0.1806,
+    "CN-12": 0.0312,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.1806,
+   "days_seen": {
+    "CN-11": 13,
+    "CN-12": 2,
+    "CN-13": 2
+   }
+  },
+  "Buteo hemilasius": {
+   "by_region": {
+    "CN-11": 0.2917,
+    "CN-12": 0.1406,
+    "CN-13": 0.0781
+   },
+   "freq_max": 0.2917,
+   "days_seen": {
+    "CN-11": 21,
+    "CN-12": 9,
+    "CN-13": 5
+   }
+  },
+  "Buteo japonicus": {
+   "by_region": {
+    "CN-11": 0.4583,
+    "CN-12": 0.2344,
+    "CN-13": 0.0938
+   },
+   "freq_max": 0.4583,
+   "days_seen": {
+    "CN-11": 33,
+    "CN-12": 15,
+    "CN-13": 6
+   }
+  },
+  "Buteo lagopus": {
+   "by_region": {
+    "CN-11": 0.0556,
+    "CN-12": 0.0156,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0556,
+   "days_seen": {
+    "CN-11": 4,
+    "CN-12": 1,
+    "CN-13": 0
+   }
+  },
+  "Butorides atricapilla": {
+   "by_region": {
+    "CN-11": 0.0694,
+    "CN-12": 0.0,
+    "CN-13": 0.0625
+   },
+   "freq_max": 0.0694,
+   "days_seen": {
+    "CN-11": 5,
+    "CN-12": 0,
+    "CN-13": 4
+   }
+  },
+  "Cairina moschata": {
+   "by_region": {
+    "CN-11": 0.0694,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0694,
+   "days_seen": {
+    "CN-11": 5,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Calandrella dukhunensis": {
+   "by_region": {
+    "CN-11": 0.0417,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0417,
+   "days_seen": {
+    "CN-11": 3,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Calcarius lapponicus": {
+   "by_region": {
+    "CN-11": 0.0694,
+    "CN-12": 0.0469,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0694,
+   "days_seen": {
+    "CN-11": 5,
+    "CN-12": 3,
+    "CN-13": 1
+   }
+  },
+  "Calidris acuminata": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0625,
+    "CN-13": 0.1094
+   },
+   "freq_max": 0.1094,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 4,
+    "CN-13": 7
+   }
+  },
+  "Calidris alba": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0,
+    "CN-13": 0.0781
+   },
+   "freq_max": 0.0781,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 0,
+    "CN-13": 5
+   }
+  },
+  "Calidris alpina": {
+   "by_region": {
+    "CN-11": 0.0278,
+    "CN-12": 0.0156,
+    "CN-13": 0.1562
+   },
+   "freq_max": 0.1562,
+   "days_seen": {
+    "CN-11": 2,
+    "CN-12": 1,
+    "CN-13": 10
+   }
+  },
+  "Calidris canutus": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0625,
+    "CN-13": 0.1094
+   },
+   "freq_max": 0.1094,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 4,
+    "CN-13": 7
+   }
+  },
+  "Calidris falcinellus": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0156,
+    "CN-13": 0.125
+   },
+   "freq_max": 0.125,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 1,
+    "CN-13": 8
+   }
+  },
+  "Calidris ferruginea": {
+   "by_region": {
+    "CN-11": 0.0278,
+    "CN-12": 0.0469,
+    "CN-13": 0.125
+   },
+   "freq_max": 0.125,
+   "days_seen": {
+    "CN-11": 2,
+    "CN-12": 3,
+    "CN-13": 8
+   }
+  },
+  "Calidris minuta": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.0312,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 2
+   }
+  },
+  "Calidris pugnax": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0156,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Calidris ruficollis": {
+   "by_region": {
+    "CN-11": 0.0556,
+    "CN-12": 0.0625,
+    "CN-13": 0.1094
+   },
+   "freq_max": 0.1094,
+   "days_seen": {
+    "CN-11": 4,
+    "CN-12": 4,
+    "CN-13": 7
+   }
+  },
+  "Calidris subminuta": {
+   "by_region": {
+    "CN-11": 0.0556,
+    "CN-12": 0.0156,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.0556,
+   "days_seen": {
+    "CN-11": 4,
+    "CN-12": 1,
+    "CN-13": 3
+   }
+  },
+  "Calidris temminckii": {
+   "by_region": {
+    "CN-11": 0.0833,
+    "CN-12": 0.0156,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0833,
+   "days_seen": {
+    "CN-11": 6,
+    "CN-12": 1,
+    "CN-13": 1
+   }
+  },
+  "Calidris tenuirostris": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0,
+    "CN-13": 0.125
+   },
+   "freq_max": 0.125,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 0,
+    "CN-13": 8
+   }
+  },
+  "Calliope calliope": {
+   "by_region": {
+    "CN-11": 0.125,
+    "CN-12": 0.0469,
+    "CN-13": 0.0625
+   },
+   "freq_max": 0.125,
+   "days_seen": {
+    "CN-11": 9,
+    "CN-12": 3,
+    "CN-13": 4
+   }
+  },
+  "Caprimulgus jotaka": {
+   "by_region": {
+    "CN-11": 0.0833,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0833,
+   "days_seen": {
+    "CN-11": 6,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Carpodacus davidianus": {
+   "by_region": {
+    "CN-11": 0.2083,
+    "CN-12": 0.0,
+    "CN-13": 0.125
+   },
+   "freq_max": 0.2083,
+   "days_seen": {
+    "CN-11": 15,
+    "CN-12": 0,
+    "CN-13": 8
+   }
+  },
+  "Carpodacus erythrinus": {
+   "by_region": {
+    "CN-11": 0.2639,
+    "CN-12": 0.0469,
+    "CN-13": 0.1094
+   },
+   "freq_max": 0.2639,
+   "days_seen": {
+    "CN-11": 19,
+    "CN-12": 3,
+    "CN-13": 7
+   }
+  },
+  "Carpodacus roseus": {
+   "by_region": {
+    "CN-11": 0.1111,
+    "CN-12": 0.0469,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.1111,
+   "days_seen": {
+    "CN-11": 8,
+    "CN-12": 3,
+    "CN-13": 0
+   }
+  },
+  "Carpodacus sibiricus": {
+   "by_region": {
+    "CN-11": 0.1389,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.1389,
+   "days_seen": {
+    "CN-11": 10,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Cecropis daurica": {
+   "by_region": {
+    "CN-11": 0.4861,
+    "CN-12": 0.1875,
+    "CN-13": 0.2031
+   },
+   "freq_max": 0.4861,
+   "days_seen": {
+    "CN-11": 35,
+    "CN-12": 12,
+    "CN-13": 13
+   }
+  },
+  "Certhia familiaris": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0139,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Chlidonias hybrida": {
+   "by_region": {
+    "CN-11": 0.1528,
+    "CN-12": 0.1719,
+    "CN-13": 0.0781
+   },
+   "freq_max": 0.1719,
+   "days_seen": {
+    "CN-11": 11,
+    "CN-12": 11,
+    "CN-13": 5
+   }
+  },
+  "Chlidonias leucopterus": {
+   "by_region": {
+    "CN-11": 0.0833,
+    "CN-12": 0.1406,
+    "CN-13": 0.1094
+   },
+   "freq_max": 0.1406,
+   "days_seen": {
+    "CN-11": 6,
+    "CN-12": 9,
+    "CN-13": 7
+   }
+  },
+  "Chloris sinica": {
+   "by_region": {
+    "CN-11": 0.9444,
+    "CN-12": 0.5938,
+    "CN-13": 0.5156
+   },
+   "freq_max": 0.9444,
+   "days_seen": {
+    "CN-11": 68,
+    "CN-12": 38,
+    "CN-13": 33
+   }
+  },
+  "Chroicocephalus brunnicephalus": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0139,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Chroicocephalus ridibundus": {
+   "by_region": {
+    "CN-11": 0.3472,
+    "CN-12": 0.5469,
+    "CN-13": 0.4062
+   },
+   "freq_max": 0.5469,
+   "days_seen": {
+    "CN-11": 25,
+    "CN-12": 35,
+    "CN-13": 26
+   }
+  },
+  "Ciconia boyciana": {
+   "by_region": {
+    "CN-11": 0.0694,
+    "CN-12": 0.1719,
+    "CN-13": 0.0938
+   },
+   "freq_max": 0.1719,
+   "days_seen": {
+    "CN-11": 5,
+    "CN-12": 11,
+    "CN-13": 6
+   }
+  },
+  "Ciconia nigra": {
+   "by_region": {
+    "CN-11": 0.2778,
+    "CN-12": 0.0,
+    "CN-13": 0.1719
+   },
+   "freq_max": 0.2778,
+   "days_seen": {
+    "CN-11": 20,
+    "CN-12": 0,
+    "CN-13": 11
+   }
+  },
+  "Cinclus pallasii": {
+   "by_region": {
+    "CN-11": 0.0278,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0278,
+   "days_seen": {
+    "CN-11": 2,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Circaetus gallicus": {
+   "by_region": {
+    "CN-11": 0.125,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.125,
+   "days_seen": {
+    "CN-11": 9,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Circus cyaneus": {
+   "by_region": {
+    "CN-11": 0.2917,
+    "CN-12": 0.375,
+    "CN-13": 0.125
+   },
+   "freq_max": 0.375,
+   "days_seen": {
+    "CN-11": 21,
+    "CN-12": 24,
+    "CN-13": 8
+   }
+  },
+  "Circus melanoleucos": {
+   "by_region": {
+    "CN-11": 0.1389,
+    "CN-12": 0.1094,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.1389,
+   "days_seen": {
+    "CN-11": 10,
+    "CN-12": 7,
+    "CN-13": 2
+   }
+  },
+  "Circus spilonotus": {
+   "by_region": {
+    "CN-11": 0.2917,
+    "CN-12": 0.1562,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.2917,
+   "days_seen": {
+    "CN-11": 21,
+    "CN-12": 10,
+    "CN-13": 3
+   }
+  },
+  "Cisticola juncidis": {
+   "by_region": {
+    "CN-11": 0.2917,
+    "CN-12": 0.0156,
+    "CN-13": 0.2188
+   },
+   "freq_max": 0.2917,
+   "days_seen": {
+    "CN-11": 21,
+    "CN-12": 1,
+    "CN-13": 14
+   }
+  },
+  "Clamator coromandus": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0139,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Clanga clanga": {
+   "by_region": {
+    "CN-11": 0.0972,
+    "CN-12": 0.0156,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0972,
+   "days_seen": {
+    "CN-11": 7,
+    "CN-12": 1,
+    "CN-13": 1
+   }
+  },
+  "Clangula hyemalis": {
+   "by_region": {
+    "CN-11": 0.0417,
+    "CN-12": 0.0156,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0417,
+   "days_seen": {
+    "CN-11": 3,
+    "CN-12": 1,
+    "CN-13": 0
+   }
+  },
+  "Coccothraustes coccothraustes": {
+   "by_region": {
+    "CN-11": 0.4861,
+    "CN-12": 0.0625,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.4861,
+   "days_seen": {
+    "CN-11": 35,
+    "CN-12": 4,
+    "CN-13": 3
+   }
+  },
+  "Coloeus dauuricus": {
+   "by_region": {
+    "CN-11": 0.3472,
+    "CN-12": 0.2188,
+    "CN-13": 0.0938
+   },
+   "freq_max": 0.3472,
+   "days_seen": {
+    "CN-11": 25,
+    "CN-12": 14,
+    "CN-13": 6
+   }
+  },
+  "Columba livia": {
+   "by_region": {
+    "CN-11": 0.625,
+    "CN-12": 0.0469,
+    "CN-13": 0.2656
+   },
+   "freq_max": 0.625,
+   "days_seen": {
+    "CN-11": 45,
+    "CN-12": 3,
+    "CN-13": 17
+   }
+  },
+  "Columba rupestris": {
+   "by_region": {
+    "CN-11": 0.1111,
+    "CN-12": 0.0312,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.1111,
+   "days_seen": {
+    "CN-11": 8,
+    "CN-12": 2,
+    "CN-13": 1
+   }
+  },
+  "Corvus corone": {
+   "by_region": {
+    "CN-11": 0.7361,
+    "CN-12": 0.1562,
+    "CN-13": 0.0625
+   },
+   "freq_max": 0.7361,
+   "days_seen": {
+    "CN-11": 53,
+    "CN-12": 10,
+    "CN-13": 4
+   }
+  },
+  "Corvus frugilegus": {
+   "by_region": {
+    "CN-11": 0.2222,
+    "CN-12": 0.3125,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.3125,
+   "days_seen": {
+    "CN-11": 16,
+    "CN-12": 20,
+    "CN-13": 3
+   }
+  },
+  "Corvus macrorhynchos": {
+   "by_region": {
+    "CN-11": 0.9444,
+    "CN-12": 0.0156,
+    "CN-13": 0.2188
+   },
+   "freq_max": 0.9444,
+   "days_seen": {
+    "CN-11": 68,
+    "CN-12": 1,
+    "CN-13": 14
+   }
+  },
+  "Corvus torquatus": {
+   "by_region": {
+    "CN-11": 0.0278,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0278,
+   "days_seen": {
+    "CN-11": 2,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Coturnicops exquisitus": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0139,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Coturnix japonica": {
+   "by_region": {
+    "CN-11": 0.1528,
+    "CN-12": 0.0469,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.1528,
+   "days_seen": {
+    "CN-11": 11,
+    "CN-12": 3,
+    "CN-13": 3
+   }
+  },
+  "Cuculus canorus": {
+   "by_region": {
+    "CN-11": 0.3194,
+    "CN-12": 0.1406,
+    "CN-13": 0.1562
+   },
+   "freq_max": 0.3194,
+   "days_seen": {
+    "CN-11": 23,
+    "CN-12": 9,
+    "CN-13": 10
+   }
+  },
+  "Cuculus micropterus": {
+   "by_region": {
+    "CN-11": 0.2639,
+    "CN-12": 0.0938,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.2639,
+   "days_seen": {
+    "CN-11": 19,
+    "CN-12": 6,
+    "CN-13": 3
+   }
+  },
+  "Cuculus optatus": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0139,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Cuculus poliocephalus": {
+   "by_region": {
+    "CN-11": 0.0278,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0278,
+   "days_seen": {
+    "CN-11": 2,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Cuculus saturatus": {
+   "by_region": {
+    "CN-11": 0.0417,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0417,
+   "days_seen": {
+    "CN-11": 3,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Curruca curruca": {
+   "by_region": {
+    "CN-11": 0.0278,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0278,
+   "days_seen": {
+    "CN-11": 2,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Cyanopica cyanus": {
+   "by_region": {
+    "CN-11": 1.0,
+    "CN-12": 0.8906,
+    "CN-13": 0.7188
+   },
+   "freq_max": 1.0,
+   "days_seen": {
+    "CN-11": 72,
+    "CN-12": 57,
+    "CN-13": 46
+   }
+  },
+  "Cyanoptila cumatilis": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0139,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Cyanoptila cyanomelana": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0156,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Cygnus atratus": {
+   "by_region": {
+    "CN-11": 0.6111,
+    "CN-12": 0.0156,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.6111,
+   "days_seen": {
+    "CN-11": 44,
+    "CN-12": 1,
+    "CN-13": 0
+   }
+  },
+  "Cygnus columbianus": {
+   "by_region": {
+    "CN-11": 0.0972,
+    "CN-12": 0.0625,
+    "CN-13": 0.0938
+   },
+   "freq_max": 0.0972,
+   "days_seen": {
+    "CN-11": 7,
+    "CN-12": 4,
+    "CN-13": 6
+   }
+  },
+  "Cygnus cygnus": {
+   "by_region": {
+    "CN-11": 0.2917,
+    "CN-12": 0.0469,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.2917,
+   "days_seen": {
+    "CN-11": 21,
+    "CN-12": 3,
+    "CN-13": 2
+   }
+  },
+  "Cygnus olor": {
+   "by_region": {
+    "CN-11": 0.0278,
+    "CN-12": 0.0469,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0469,
+   "days_seen": {
+    "CN-11": 2,
+    "CN-12": 3,
+    "CN-13": 0
+   }
+  },
+  "Delichon dasypus": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.0469,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 3
+   }
+  },
+  "Delichon lagopodum": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0156,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0156,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 1,
+    "CN-13": 0
+   }
+  },
+  "Dendrocitta formosae": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0156,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Dendrocopos hyperythrus": {
+   "by_region": {
+    "CN-11": 0.125,
+    "CN-12": 0.0312,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.125,
+   "days_seen": {
+    "CN-11": 9,
+    "CN-12": 2,
+    "CN-13": 1
+   }
+  },
+  "Dendrocopos leucotos": {
+   "by_region": {
+    "CN-11": 0.0278,
+    "CN-12": 0.0,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.0312,
+   "days_seen": {
+    "CN-11": 2,
+    "CN-12": 0,
+    "CN-13": 2
+   }
+  },
+  "Dendrocopos major": {
+   "by_region": {
+    "CN-11": 0.9861,
+    "CN-12": 0.5,
+    "CN-13": 0.3438
+   },
+   "freq_max": 0.9861,
+   "days_seen": {
+    "CN-11": 71,
+    "CN-12": 32,
+    "CN-13": 22
+   }
+  },
+  "Dendronanthus indicus": {
+   "by_region": {
+    "CN-11": 0.0972,
+    "CN-12": 0.0,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.0972,
+   "days_seen": {
+    "CN-11": 7,
+    "CN-12": 0,
+    "CN-13": 2
+   }
+  },
+  "Dicrurus hottentottus": {
+   "by_region": {
+    "CN-11": 0.0833,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0833,
+   "days_seen": {
+    "CN-11": 6,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Dicrurus macrocercus": {
+   "by_region": {
+    "CN-11": 0.3194,
+    "CN-12": 0.1406,
+    "CN-13": 0.1719
+   },
+   "freq_max": 0.3194,
+   "days_seen": {
+    "CN-11": 23,
+    "CN-12": 9,
+    "CN-13": 11
+   }
+  },
+  "Egretta eulophotes": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0156,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Egretta garzetta": {
+   "by_region": {
+    "CN-11": 0.7083,
+    "CN-12": 0.5625,
+    "CN-13": 0.4844
+   },
+   "freq_max": 0.7083,
+   "days_seen": {
+    "CN-11": 51,
+    "CN-12": 36,
+    "CN-13": 31
+   }
+  },
+  "Elanus caeruleus": {
+   "by_region": {
+    "CN-11": 0.3333,
+    "CN-12": 0.2812,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.3333,
+   "days_seen": {
+    "CN-11": 24,
+    "CN-12": 18,
+    "CN-13": 3
+   }
+  },
+  "Emberiza chrysophrys": {
+   "by_region": {
+    "CN-11": 0.125,
+    "CN-12": 0.0781,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.125,
+   "days_seen": {
+    "CN-11": 9,
+    "CN-12": 5,
+    "CN-13": 1
+   }
+  },
+  "Emberiza cioides": {
+   "by_region": {
+    "CN-11": 0.3056,
+    "CN-12": 0.0156,
+    "CN-13": 0.0938
+   },
+   "freq_max": 0.3056,
+   "days_seen": {
+    "CN-11": 22,
+    "CN-12": 1,
+    "CN-13": 6
+   }
+  },
+  "Emberiza elegans": {
+   "by_region": {
+    "CN-11": 0.5417,
+    "CN-12": 0.0625,
+    "CN-13": 0.125
+   },
+   "freq_max": 0.5417,
+   "days_seen": {
+    "CN-11": 39,
+    "CN-12": 4,
+    "CN-13": 8
+   }
+  },
+  "Emberiza fucata": {
+   "by_region": {
+    "CN-11": 0.125,
+    "CN-12": 0.0312,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.125,
+   "days_seen": {
+    "CN-11": 9,
+    "CN-12": 2,
+    "CN-13": 2
+   }
+  },
+  "Emberiza godlewskii": {
+   "by_region": {
+    "CN-11": 0.3472,
+    "CN-12": 0.0,
+    "CN-13": 0.0938
+   },
+   "freq_max": 0.3472,
+   "days_seen": {
+    "CN-11": 25,
+    "CN-12": 0,
+    "CN-13": 6
+   }
+  },
+  "Emberiza leucocephalos": {
+   "by_region": {
+    "CN-11": 0.1389,
+    "CN-12": 0.0156,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.1389,
+   "days_seen": {
+    "CN-11": 10,
+    "CN-12": 1,
+    "CN-13": 2
+   }
+  },
+  "Emberiza pallasi": {
+   "by_region": {
+    "CN-11": 0.5556,
+    "CN-12": 0.3281,
+    "CN-13": 0.1562
+   },
+   "freq_max": 0.5556,
+   "days_seen": {
+    "CN-11": 40,
+    "CN-12": 21,
+    "CN-13": 10
+   }
+  },
+  "Emberiza pusilla": {
+   "by_region": {
+    "CN-11": 0.625,
+    "CN-12": 0.4062,
+    "CN-13": 0.3438
+   },
+   "freq_max": 0.625,
+   "days_seen": {
+    "CN-11": 45,
+    "CN-12": 26,
+    "CN-13": 22
+   }
+  },
+  "Emberiza rustica": {
+   "by_region": {
+    "CN-11": 0.25,
+    "CN-12": 0.1562,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.25,
+   "days_seen": {
+    "CN-11": 18,
+    "CN-12": 10,
+    "CN-13": 3
+   }
+  },
+  "Emberiza rutila": {
+   "by_region": {
+    "CN-11": 0.0694,
+    "CN-12": 0.0156,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.0694,
+   "days_seen": {
+    "CN-11": 5,
+    "CN-12": 1,
+    "CN-13": 2
+   }
+  },
+  "Emberiza schoeniclus": {
+   "by_region": {
+    "CN-11": 0.1111,
+    "CN-12": 0.1406,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.1406,
+   "days_seen": {
+    "CN-11": 8,
+    "CN-12": 9,
+    "CN-13": 0
+   }
+  },
+  "Emberiza spodocephala": {
+   "by_region": {
+    "CN-11": 0.4306,
+    "CN-12": 0.2188,
+    "CN-13": 0.2344
+   },
+   "freq_max": 0.4306,
+   "days_seen": {
+    "CN-11": 31,
+    "CN-12": 14,
+    "CN-13": 15
+   }
+  },
+  "Emberiza tristrami": {
+   "by_region": {
+    "CN-11": 0.1389,
+    "CN-12": 0.0312,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.1389,
+   "days_seen": {
+    "CN-11": 10,
+    "CN-12": 2,
+    "CN-13": 2
+   }
+  },
+  "Emberiza yessoensis": {
+   "by_region": {
+    "CN-11": 0.1111,
+    "CN-12": 0.0625,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.1111,
+   "days_seen": {
+    "CN-11": 8,
+    "CN-12": 4,
+    "CN-13": 0
+   }
+  },
+  "Eophona migratoria": {
+   "by_region": {
+    "CN-11": 0.9028,
+    "CN-12": 0.2656,
+    "CN-13": 0.2188
+   },
+   "freq_max": 0.9028,
+   "days_seen": {
+    "CN-11": 65,
+    "CN-12": 17,
+    "CN-13": 14
+   }
+  },
+  "Eophona personata": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0156,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0156,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 1,
+    "CN-13": 0
+   }
+  },
+  "Erithacus rubecula": {
+   "by_region": {
+    "CN-11": 0.0417,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0417,
+   "days_seen": {
+    "CN-11": 3,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Eudynamys scolopaceus": {
+   "by_region": {
+    "CN-11": 0.1389,
+    "CN-12": 0.0156,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.1389,
+   "days_seen": {
+    "CN-11": 10,
+    "CN-12": 1,
+    "CN-13": 1
+   }
+  },
+  "Eurystomus orientalis": {
+   "by_region": {
+    "CN-11": 0.0556,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0556,
+   "days_seen": {
+    "CN-11": 4,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Falco amurensis": {
+   "by_region": {
+    "CN-11": 0.375,
+    "CN-12": 0.0938,
+    "CN-13": 0.2188
+   },
+   "freq_max": 0.375,
+   "days_seen": {
+    "CN-11": 27,
+    "CN-12": 6,
+    "CN-13": 14
+   }
+  },
+  "Falco columbarius": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0156,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0156,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 1,
+    "CN-13": 1
+   }
+  },
+  "Falco peregrinus": {
+   "by_region": {
+    "CN-11": 0.5417,
+    "CN-12": 0.0938,
+    "CN-13": 0.0938
+   },
+   "freq_max": 0.5417,
+   "days_seen": {
+    "CN-11": 39,
+    "CN-12": 6,
+    "CN-13": 6
+   }
+  },
+  "Falco subbuteo": {
+   "by_region": {
+    "CN-11": 0.4167,
+    "CN-12": 0.0312,
+    "CN-13": 0.1094
+   },
+   "freq_max": 0.4167,
+   "days_seen": {
+    "CN-11": 30,
+    "CN-12": 2,
+    "CN-13": 7
+   }
+  },
+  "Falco tinnunculus": {
+   "by_region": {
+    "CN-11": 0.7778,
+    "CN-12": 0.5625,
+    "CN-13": 0.3125
+   },
+   "freq_max": 0.7778,
+   "days_seen": {
+    "CN-11": 56,
+    "CN-12": 36,
+    "CN-13": 20
+   }
+  },
+  "Ficedula albicilla": {
+   "by_region": {
+    "CN-11": 0.2361,
+    "CN-12": 0.1875,
+    "CN-13": 0.1875
+   },
+   "freq_max": 0.2361,
+   "days_seen": {
+    "CN-11": 17,
+    "CN-12": 12,
+    "CN-13": 12
+   }
+  },
+  "Ficedula elisae": {
+   "by_region": {
+    "CN-11": 0.1389,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.1389,
+   "days_seen": {
+    "CN-11": 10,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Ficedula erithacus": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0,
+    "CN-13": 0.0781
+   },
+   "freq_max": 0.0781,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 0,
+    "CN-13": 5
+   }
+  },
+  "Ficedula mugimaki": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0156,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Ficedula parva": {
+   "by_region": {
+    "CN-11": 0.0972,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0972,
+   "days_seen": {
+    "CN-11": 7,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Ficedula tricolor": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0156,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Ficedula zanthopygia": {
+   "by_region": {
+    "CN-11": 0.1944,
+    "CN-12": 0.0469,
+    "CN-13": 0.0781
+   },
+   "freq_max": 0.1944,
+   "days_seen": {
+    "CN-11": 14,
+    "CN-12": 3,
+    "CN-13": 5
+   }
+  },
+  "Fringilla coelebs": {
+   "by_region": {
+    "CN-11": 0.1111,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.1111,
+   "days_seen": {
+    "CN-11": 8,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Fringilla montifringilla": {
+   "by_region": {
+    "CN-11": 0.5972,
+    "CN-12": 0.3281,
+    "CN-13": 0.2656
+   },
+   "freq_max": 0.5972,
+   "days_seen": {
+    "CN-11": 43,
+    "CN-12": 21,
+    "CN-13": 17
+   }
+  },
+  "Fulica atra": {
+   "by_region": {
+    "CN-11": 0.9861,
+    "CN-12": 0.7344,
+    "CN-13": 0.5781
+   },
+   "freq_max": 0.9861,
+   "days_seen": {
+    "CN-11": 71,
+    "CN-12": 47,
+    "CN-13": 37
+   }
+  },
+  "Galerida cristata": {
+   "by_region": {
+    "CN-11": 0.0417,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0417,
+   "days_seen": {
+    "CN-11": 3,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Gallinago gallinago": {
+   "by_region": {
+    "CN-11": 0.2778,
+    "CN-12": 0.0938,
+    "CN-13": 0.125
+   },
+   "freq_max": 0.2778,
+   "days_seen": {
+    "CN-11": 20,
+    "CN-12": 6,
+    "CN-13": 8
+   }
+  },
+  "Gallinago megala": {
+   "by_region": {
+    "CN-11": 0.0278,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0278,
+   "days_seen": {
+    "CN-11": 2,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Gallinago solitaria": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0139,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Gallinago stenura": {
+   "by_region": {
+    "CN-11": 0.0278,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0278,
+   "days_seen": {
+    "CN-11": 2,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Gallinula chloropus": {
+   "by_region": {
+    "CN-11": 0.9861,
+    "CN-12": 0.5,
+    "CN-13": 0.5469
+   },
+   "freq_max": 0.9861,
+   "days_seen": {
+    "CN-11": 71,
+    "CN-12": 32,
+    "CN-13": 35
+   }
+  },
+  "Garrulus glandarius": {
+   "by_region": {
+    "CN-11": 0.125,
+    "CN-12": 0.0,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.125,
+   "days_seen": {
+    "CN-11": 9,
+    "CN-12": 0,
+    "CN-13": 2
+   }
+  },
+  "Gelochelidon nilotica": {
+   "by_region": {
+    "CN-11": 0.0833,
+    "CN-12": 0.1094,
+    "CN-13": 0.125
+   },
+   "freq_max": 0.125,
+   "days_seen": {
+    "CN-11": 6,
+    "CN-12": 7,
+    "CN-13": 8
+   }
+  },
+  "Geokichla sibirica": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0156,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Glareola maldivarum": {
+   "by_region": {
+    "CN-11": 0.0417,
+    "CN-12": 0.0469,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0469,
+   "days_seen": {
+    "CN-11": 3,
+    "CN-12": 3,
+    "CN-13": 0
+   }
+  },
+  "Grus grus": {
+   "by_region": {
+    "CN-11": 0.1389,
+    "CN-12": 0.0625,
+    "CN-13": 0.0938
+   },
+   "freq_max": 0.1389,
+   "days_seen": {
+    "CN-11": 10,
+    "CN-12": 4,
+    "CN-13": 6
+   }
+  },
+  "Haematopus ostralegus": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0156,
+    "CN-13": 0.1406
+   },
+   "freq_max": 0.1406,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 1,
+    "CN-13": 9
+   }
+  },
+  "Halcyon pileata": {
+   "by_region": {
+    "CN-11": 0.0278,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0278,
+   "days_seen": {
+    "CN-11": 2,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Haliaeetus albicilla": {
+   "by_region": {
+    "CN-11": 0.1111,
+    "CN-12": 0.0156,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.1111,
+   "days_seen": {
+    "CN-11": 8,
+    "CN-12": 1,
+    "CN-13": 2
+   }
+  },
+  "Helopsaltes certhiola": {
+   "by_region": {
+    "CN-11": 0.0694,
+    "CN-12": 0.0312,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0694,
+   "days_seen": {
+    "CN-11": 5,
+    "CN-12": 2,
+    "CN-13": 0
+   }
+  },
+  "Hieraaetus pennatus": {
+   "by_region": {
+    "CN-11": 0.0694,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0694,
+   "days_seen": {
+    "CN-11": 5,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Hierococcyx sparverioides": {
+   "by_region": {
+    "CN-11": 0.1111,
+    "CN-12": 0.0312,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.1111,
+   "days_seen": {
+    "CN-11": 8,
+    "CN-12": 2,
+    "CN-13": 2
+   }
+  },
+  "Himantopus himantopus": {
+   "by_region": {
+    "CN-11": 0.2639,
+    "CN-12": 0.3438,
+    "CN-13": 0.2344
+   },
+   "freq_max": 0.3438,
+   "days_seen": {
+    "CN-11": 19,
+    "CN-12": 22,
+    "CN-13": 15
+   }
+  },
+  "Hirundo rustica": {
+   "by_region": {
+    "CN-11": 0.5972,
+    "CN-12": 0.4844,
+    "CN-13": 0.4219
+   },
+   "freq_max": 0.5972,
+   "days_seen": {
+    "CN-11": 43,
+    "CN-12": 31,
+    "CN-13": 27
+   }
+  },
+  "Horornis canturians": {
+   "by_region": {
+    "CN-11": 0.1389,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.1389,
+   "days_seen": {
+    "CN-11": 10,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Horornis fortipes": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0156,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Hydrocoloeus minutus": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0139,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Hydrophasianus chirurgus": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0139,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Hydroprogne caspia": {
+   "by_region": {
+    "CN-11": 0.0417,
+    "CN-12": 0.0312,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.0417,
+   "days_seen": {
+    "CN-11": 3,
+    "CN-12": 2,
+    "CN-13": 2
+   }
+  },
+  "Hypsipetes amaurotis": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0156,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0156,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 1,
+    "CN-13": 1
+   }
+  },
+  "Ichthyaetus ichthyaetus": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0156,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Ichthyaetus relictus": {
+   "by_region": {
+    "CN-11": 0.0417,
+    "CN-12": 0.0156,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0417,
+   "days_seen": {
+    "CN-11": 3,
+    "CN-12": 1,
+    "CN-13": 1
+   }
+  },
+  "Jynx torquilla": {
+   "by_region": {
+    "CN-11": 0.0556,
+    "CN-12": 0.0156,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0556,
+   "days_seen": {
+    "CN-11": 4,
+    "CN-12": 1,
+    "CN-13": 1
+   }
+  },
+  "Lalage melaschistos": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0156,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0156,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 1,
+    "CN-13": 0
+   }
+  },
+  "Lanius borealis": {
+   "by_region": {
+    "CN-11": 0.0417,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0417,
+   "days_seen": {
+    "CN-11": 3,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Lanius bucephalus": {
+   "by_region": {
+    "CN-11": 0.1111,
+    "CN-12": 0.0312,
+    "CN-13": 0.125
+   },
+   "freq_max": 0.125,
+   "days_seen": {
+    "CN-11": 8,
+    "CN-12": 2,
+    "CN-13": 8
+   }
+  },
+  "Lanius cristatus": {
+   "by_region": {
+    "CN-11": 0.2917,
+    "CN-12": 0.1719,
+    "CN-13": 0.1562
+   },
+   "freq_max": 0.2917,
+   "days_seen": {
+    "CN-11": 21,
+    "CN-12": 11,
+    "CN-13": 10
+   }
+  },
+  "Lanius schach": {
+   "by_region": {
+    "CN-11": 0.3889,
+    "CN-12": 0.2969,
+    "CN-13": 0.2656
+   },
+   "freq_max": 0.3889,
+   "days_seen": {
+    "CN-11": 28,
+    "CN-12": 19,
+    "CN-13": 17
+   }
+  },
+  "Lanius sphenocercus": {
+   "by_region": {
+    "CN-11": 0.2639,
+    "CN-12": 0.25,
+    "CN-13": 0.1094
+   },
+   "freq_max": 0.2639,
+   "days_seen": {
+    "CN-11": 19,
+    "CN-12": 16,
+    "CN-13": 7
+   }
+  },
+  "Larus canus": {
+   "by_region": {
+    "CN-11": 0.0556,
+    "CN-12": 0.0312,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0556,
+   "days_seen": {
+    "CN-11": 4,
+    "CN-12": 2,
+    "CN-13": 0
+   }
+  },
+  "Larus crassirostris": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0625,
+    "CN-13": 0.1719
+   },
+   "freq_max": 0.1719,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 4,
+    "CN-13": 11
+   }
+  },
+  "Larus fuscus": {
+   "by_region": {
+    "CN-11": 0.0556,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0556,
+   "days_seen": {
+    "CN-11": 4,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Larus mongolicus": {
+   "by_region": {
+    "CN-11": 0.2639,
+    "CN-12": 0.1562,
+    "CN-13": 0.1094
+   },
+   "freq_max": 0.2639,
+   "days_seen": {
+    "CN-11": 19,
+    "CN-12": 10,
+    "CN-13": 7
+   }
+  },
+  "Larus vegae": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.1719,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.1719,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 11,
+    "CN-13": 3
+   }
+  },
+  "Larvivora akahige": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0139,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Larvivora cyane": {
+   "by_region": {
+    "CN-11": 0.1667,
+    "CN-12": 0.0312,
+    "CN-13": 0.0781
+   },
+   "freq_max": 0.1667,
+   "days_seen": {
+    "CN-11": 12,
+    "CN-12": 2,
+    "CN-13": 5
+   }
+  },
+  "Larvivora sibilans": {
+   "by_region": {
+    "CN-11": 0.0278,
+    "CN-12": 0.0156,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0278,
+   "days_seen": {
+    "CN-11": 2,
+    "CN-12": 1,
+    "CN-13": 0
+   }
+  },
+  "Leucogeranus leucogeranus": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0139,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Leucosticte arctoa": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0139,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Limnodromus semipalmatus": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.0312,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 0,
+    "CN-13": 2
+   }
+  },
+  "Limosa lapponica": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0156,
+    "CN-13": 0.1406
+   },
+   "freq_max": 0.1406,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 1,
+    "CN-13": 9
+   }
+  },
+  "Limosa limosa": {
+   "by_region": {
+    "CN-11": 0.0417,
+    "CN-12": 0.1094,
+    "CN-13": 0.0625
+   },
+   "freq_max": 0.1094,
+   "days_seen": {
+    "CN-11": 3,
+    "CN-12": 7,
+    "CN-13": 4
+   }
+  },
+  "Locustella davidi": {
+   "by_region": {
+    "CN-11": 0.0833,
+    "CN-12": 0.0,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.0833,
+   "days_seen": {
+    "CN-11": 6,
+    "CN-12": 0,
+    "CN-13": 3
+   }
+  },
+  "Locustella lanceolata": {
+   "by_region": {
+    "CN-11": 0.1389,
+    "CN-12": 0.0,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.1389,
+   "days_seen": {
+    "CN-11": 10,
+    "CN-12": 0,
+    "CN-13": 3
+   }
+  },
+  "Locustella tacsanowskia": {
+   "by_region": {
+    "CN-11": 0.0278,
+    "CN-12": 0.0,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.0312,
+   "days_seen": {
+    "CN-11": 2,
+    "CN-12": 0,
+    "CN-13": 2
+   }
+  },
+  "Loxia curvirostra": {
+   "by_region": {
+    "CN-11": 0.0417,
+    "CN-12": 0.0,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.0417,
+   "days_seen": {
+    "CN-11": 3,
+    "CN-12": 0,
+    "CN-13": 2
+   }
+  },
+  "Loxia leucoptera": {
+   "by_region": {
+    "CN-11": 0.0833,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0833,
+   "days_seen": {
+    "CN-11": 6,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Luscinia phaenicuroides": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0625
+   },
+   "freq_max": 0.0625,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 4
+   }
+  },
+  "Luscinia svecica": {
+   "by_region": {
+    "CN-11": 0.1389,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.1389,
+   "days_seen": {
+    "CN-11": 10,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Mareca falcata": {
+   "by_region": {
+    "CN-11": 0.4583,
+    "CN-12": 0.1406,
+    "CN-13": 0.1875
+   },
+   "freq_max": 0.4583,
+   "days_seen": {
+    "CN-11": 33,
+    "CN-12": 9,
+    "CN-13": 12
+   }
+  },
+  "Mareca penelope": {
+   "by_region": {
+    "CN-11": 0.3194,
+    "CN-12": 0.0156,
+    "CN-13": 0.0625
+   },
+   "freq_max": 0.3194,
+   "days_seen": {
+    "CN-11": 23,
+    "CN-12": 1,
+    "CN-13": 4
+   }
+  },
+  "Mareca strepera": {
+   "by_region": {
+    "CN-11": 0.4861,
+    "CN-12": 0.25,
+    "CN-13": 0.1719
+   },
+   "freq_max": 0.4861,
+   "days_seen": {
+    "CN-11": 35,
+    "CN-12": 16,
+    "CN-13": 11
+   }
+  },
+  "Megaceryle lugubris": {
+   "by_region": {
+    "CN-11": 0.2361,
+    "CN-12": 0.0,
+    "CN-13": 0.125
+   },
+   "freq_max": 0.2361,
+   "days_seen": {
+    "CN-11": 17,
+    "CN-12": 0,
+    "CN-13": 8
+   }
+  },
+  "Melanitta americana": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0139,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Melanitta stejnegeri": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0156,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0156,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 1,
+    "CN-13": 0
+   }
+  },
+  "Mergellus albellus": {
+   "by_region": {
+    "CN-11": 0.3194,
+    "CN-12": 0.1562,
+    "CN-13": 0.0938
+   },
+   "freq_max": 0.3194,
+   "days_seen": {
+    "CN-11": 23,
+    "CN-12": 10,
+    "CN-13": 6
+   }
+  },
+  "Mergus merganser": {
+   "by_region": {
+    "CN-11": 0.4028,
+    "CN-12": 0.1406,
+    "CN-13": 0.125
+   },
+   "freq_max": 0.4028,
+   "days_seen": {
+    "CN-11": 29,
+    "CN-12": 9,
+    "CN-13": 8
+   }
+  },
+  "Mergus serrator": {
+   "by_region": {
+    "CN-11": 0.0694,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0694,
+   "days_seen": {
+    "CN-11": 5,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Mergus squamatus": {
+   "by_region": {
+    "CN-11": 0.0278,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0278,
+   "days_seen": {
+    "CN-11": 2,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Milvus migrans": {
+   "by_region": {
+    "CN-11": 0.2083,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.2083,
+   "days_seen": {
+    "CN-11": 15,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Monticola gularis": {
+   "by_region": {
+    "CN-11": 0.0417,
+    "CN-12": 0.0,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.0469,
+   "days_seen": {
+    "CN-11": 3,
+    "CN-12": 0,
+    "CN-13": 3
+   }
+  },
+  "Monticola solitarius": {
+   "by_region": {
+    "CN-11": 0.0417,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0417,
+   "days_seen": {
+    "CN-11": 3,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Motacilla alba": {
+   "by_region": {
+    "CN-11": 0.5556,
+    "CN-12": 0.4219,
+    "CN-13": 0.4219
+   },
+   "freq_max": 0.5556,
+   "days_seen": {
+    "CN-11": 40,
+    "CN-12": 27,
+    "CN-13": 27
+   }
+  },
+  "Motacilla cinerea": {
+   "by_region": {
+    "CN-11": 0.5139,
+    "CN-12": 0.0156,
+    "CN-13": 0.1875
+   },
+   "freq_max": 0.5139,
+   "days_seen": {
+    "CN-11": 37,
+    "CN-12": 1,
+    "CN-13": 12
+   }
+  },
+  "Motacilla citreola": {
+   "by_region": {
+    "CN-11": 0.0417,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0417,
+   "days_seen": {
+    "CN-11": 3,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Motacilla tschutschensis": {
+   "by_region": {
+    "CN-11": 0.2361,
+    "CN-12": 0.0156,
+    "CN-13": 0.0938
+   },
+   "freq_max": 0.2361,
+   "days_seen": {
+    "CN-11": 17,
+    "CN-12": 1,
+    "CN-13": 6
+   }
+  },
+  "Muscicapa dauurica": {
+   "by_region": {
+    "CN-11": 0.1111,
+    "CN-12": 0.1094,
+    "CN-13": 0.0938
+   },
+   "freq_max": 0.1111,
+   "days_seen": {
+    "CN-11": 8,
+    "CN-12": 7,
+    "CN-13": 6
+   }
+  },
+  "Muscicapa griseisticta": {
+   "by_region": {
+    "CN-11": 0.0556,
+    "CN-12": 0.0312,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.0556,
+   "days_seen": {
+    "CN-11": 4,
+    "CN-12": 2,
+    "CN-13": 2
+   }
+  },
+  "Muscicapa muttui": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0156,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0156,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 1,
+    "CN-13": 0
+   }
+  },
+  "Muscicapa sibirica": {
+   "by_region": {
+    "CN-11": 0.1528,
+    "CN-12": 0.0781,
+    "CN-13": 0.0781
+   },
+   "freq_max": 0.1528,
+   "days_seen": {
+    "CN-11": 11,
+    "CN-12": 5,
+    "CN-13": 5
+   }
+  },
+  "Netta rufina": {
+   "by_region": {
+    "CN-11": 0.4583,
+    "CN-12": 0.0,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.4583,
+   "days_seen": {
+    "CN-11": 33,
+    "CN-12": 0,
+    "CN-13": 3
+   }
+  },
+  "Ninox japonica": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0156,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0156,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 1,
+    "CN-13": 0
+   }
+  },
+  "Nucifraga hemispila": {
+   "by_region": {
+    "CN-11": 0.0972,
+    "CN-12": 0.0,
+    "CN-13": 0.0781
+   },
+   "freq_max": 0.0972,
+   "days_seen": {
+    "CN-11": 7,
+    "CN-12": 0,
+    "CN-13": 5
+   }
+  },
+  "Numenius arquata": {
+   "by_region": {
+    "CN-11": 0.0278,
+    "CN-12": 0.0625,
+    "CN-13": 0.1875
+   },
+   "freq_max": 0.1875,
+   "days_seen": {
+    "CN-11": 2,
+    "CN-12": 4,
+    "CN-13": 12
+   }
+  },
+  "Numenius madagascariensis": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0312,
+    "CN-13": 0.1875
+   },
+   "freq_max": 0.1875,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 2,
+    "CN-13": 12
+   }
+  },
+  "Numenius minutus": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0312,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0312,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 2,
+    "CN-13": 0
+   }
+  },
+  "Numenius phaeopus": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0625,
+    "CN-13": 0.125
+   },
+   "freq_max": 0.125,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 4,
+    "CN-13": 8
+   }
+  },
+  "Nycticorax nycticorax": {
+   "by_region": {
+    "CN-11": 0.7222,
+    "CN-12": 0.4531,
+    "CN-13": 0.2031
+   },
+   "freq_max": 0.7222,
+   "days_seen": {
+    "CN-11": 52,
+    "CN-12": 29,
+    "CN-13": 13
+   }
+  },
+  "Oenanthe oenanthe": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0156,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Oriolus chinensis": {
+   "by_region": {
+    "CN-11": 0.2083,
+    "CN-12": 0.0469,
+    "CN-13": 0.0781
+   },
+   "freq_max": 0.2083,
+   "days_seen": {
+    "CN-11": 15,
+    "CN-12": 3,
+    "CN-13": 5
+   }
+  },
+  "Otis tarda": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.0312,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 0,
+    "CN-13": 2
+   }
+  },
+  "Otus sunia": {
+   "by_region": {
+    "CN-11": 0.1806,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.1806,
+   "days_seen": {
+    "CN-11": 13,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Pandion haliaetus": {
+   "by_region": {
+    "CN-11": 0.1806,
+    "CN-12": 0.0469,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.1806,
+   "days_seen": {
+    "CN-11": 13,
+    "CN-12": 3,
+    "CN-13": 2
+   }
+  },
+  "Panurus biarmicus": {
+   "by_region": {
+    "CN-11": 0.2917,
+    "CN-12": 0.0469,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.2917,
+   "days_seen": {
+    "CN-11": 21,
+    "CN-12": 3,
+    "CN-13": 3
+   }
+  },
+  "Paradoxornis heudei": {
+   "by_region": {
+    "CN-11": 0.5556,
+    "CN-12": 0.4844,
+    "CN-13": 0.2969
+   },
+   "freq_max": 0.5556,
+   "days_seen": {
+    "CN-11": 40,
+    "CN-12": 31,
+    "CN-13": 19
+   }
+  },
+  "Parus cinereus": {
+   "by_region": {
+    "CN-11": 0.9583,
+    "CN-12": 0.1719,
+    "CN-13": 0.5
+   },
+   "freq_max": 0.9583,
+   "days_seen": {
+    "CN-11": 69,
+    "CN-12": 11,
+    "CN-13": 32
+   }
+  },
+  "Passer cinnamomeus": {
+   "by_region": {
+    "CN-11": 0.2083,
+    "CN-12": 0.0156,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.2083,
+   "days_seen": {
+    "CN-11": 15,
+    "CN-12": 1,
+    "CN-13": 0
+   }
+  },
+  "Passer montanus": {
+   "by_region": {
+    "CN-11": 1.0,
+    "CN-12": 0.9062,
+    "CN-13": 0.8125
+   },
+   "freq_max": 1.0,
+   "days_seen": {
+    "CN-11": 72,
+    "CN-12": 58,
+    "CN-13": 52
+   }
+  },
+  "Pavo cristatus": {
+   "by_region": {
+    "CN-11": 0.0278,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0278,
+   "days_seen": {
+    "CN-11": 2,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Pelecanus crispus": {
+   "by_region": {
+    "CN-11": 0.0417,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0417,
+   "days_seen": {
+    "CN-11": 3,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Pericrocotus divaricatus": {
+   "by_region": {
+    "CN-11": 0.0417,
+    "CN-12": 0.0156,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.0469,
+   "days_seen": {
+    "CN-11": 3,
+    "CN-12": 1,
+    "CN-13": 3
+   }
+  },
+  "Pericrocotus ethologus": {
+   "by_region": {
+    "CN-11": 0.0972,
+    "CN-12": 0.0,
+    "CN-13": 0.0625
+   },
+   "freq_max": 0.0972,
+   "days_seen": {
+    "CN-11": 7,
+    "CN-12": 0,
+    "CN-13": 4
+   }
+  },
+  "Periparus ater": {
+   "by_region": {
+    "CN-11": 0.2778,
+    "CN-12": 0.0625,
+    "CN-13": 0.0938
+   },
+   "freq_max": 0.2778,
+   "days_seen": {
+    "CN-11": 20,
+    "CN-12": 4,
+    "CN-13": 6
+   }
+  },
+  "Periparus venustulus": {
+   "by_region": {
+    "CN-11": 0.5417,
+    "CN-12": 0.0312,
+    "CN-13": 0.2188
+   },
+   "freq_max": 0.5417,
+   "days_seen": {
+    "CN-11": 39,
+    "CN-12": 2,
+    "CN-13": 14
+   }
+  },
+  "Pernis ptilorhynchus": {
+   "by_region": {
+    "CN-11": 0.1806,
+    "CN-12": 0.0625,
+    "CN-13": 0.0625
+   },
+   "freq_max": 0.1806,
+   "days_seen": {
+    "CN-11": 13,
+    "CN-12": 4,
+    "CN-13": 4
+   }
+  },
+  "Phalacrocorax carbo": {
+   "by_region": {
+    "CN-11": 0.8611,
+    "CN-12": 0.4375,
+    "CN-13": 0.4062
+   },
+   "freq_max": 0.8611,
+   "days_seen": {
+    "CN-11": 62,
+    "CN-12": 28,
+    "CN-13": 26
+   }
+  },
+  "Phalaropus lobatus": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0156,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Phasianus colchicus": {
+   "by_region": {
+    "CN-11": 0.75,
+    "CN-12": 0.5781,
+    "CN-13": 0.5
+   },
+   "freq_max": 0.75,
+   "days_seen": {
+    "CN-11": 54,
+    "CN-12": 37,
+    "CN-13": 32
+   }
+  },
+  "Phoenicurus auroreus": {
+   "by_region": {
+    "CN-11": 0.7917,
+    "CN-12": 0.3125,
+    "CN-13": 0.3438
+   },
+   "freq_max": 0.7917,
+   "days_seen": {
+    "CN-11": 57,
+    "CN-12": 20,
+    "CN-13": 22
+   }
+  },
+  "Phoenicurus erythrogastrus": {
+   "by_region": {
+    "CN-11": 0.0694,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0694,
+   "days_seen": {
+    "CN-11": 5,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Phoenicurus fuliginosus": {
+   "by_region": {
+    "CN-11": 0.1944,
+    "CN-12": 0.0,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.1944,
+   "days_seen": {
+    "CN-11": 14,
+    "CN-12": 0,
+    "CN-13": 2
+   }
+  },
+  "Phylloscopus armandii": {
+   "by_region": {
+    "CN-11": 0.0972,
+    "CN-12": 0.0156,
+    "CN-13": 0.1094
+   },
+   "freq_max": 0.1094,
+   "days_seen": {
+    "CN-11": 7,
+    "CN-12": 1,
+    "CN-13": 7
+   }
+  },
+  "Phylloscopus borealis": {
+   "by_region": {
+    "CN-11": 0.125,
+    "CN-12": 0.1406,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.1406,
+   "days_seen": {
+    "CN-11": 9,
+    "CN-12": 9,
+    "CN-13": 3
+   }
+  },
+  "Phylloscopus claudiae": {
+   "by_region": {
+    "CN-11": 0.1528,
+    "CN-12": 0.0,
+    "CN-13": 0.0938
+   },
+   "freq_max": 0.1528,
+   "days_seen": {
+    "CN-11": 11,
+    "CN-12": 0,
+    "CN-13": 6
+   }
+  },
+  "Phylloscopus coronatus": {
+   "by_region": {
+    "CN-11": 0.125,
+    "CN-12": 0.0156,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.125,
+   "days_seen": {
+    "CN-11": 9,
+    "CN-12": 1,
+    "CN-13": 2
+   }
+  },
+  "Phylloscopus fuscatus": {
+   "by_region": {
+    "CN-11": 0.2917,
+    "CN-12": 0.1719,
+    "CN-13": 0.2812
+   },
+   "freq_max": 0.2917,
+   "days_seen": {
+    "CN-11": 21,
+    "CN-12": 11,
+    "CN-13": 18
+   }
+  },
+  "Phylloscopus humei": {
+   "by_region": {
+    "CN-11": 0.1111,
+    "CN-12": 0.0,
+    "CN-13": 0.125
+   },
+   "freq_max": 0.125,
+   "days_seen": {
+    "CN-11": 8,
+    "CN-12": 0,
+    "CN-13": 8
+   }
+  },
+  "Phylloscopus inornatus": {
+   "by_region": {
+    "CN-11": 0.3472,
+    "CN-12": 0.2188,
+    "CN-13": 0.2188
+   },
+   "freq_max": 0.3472,
+   "days_seen": {
+    "CN-11": 25,
+    "CN-12": 14,
+    "CN-13": 14
+   }
+  },
+  "Phylloscopus plumbeitarsus": {
+   "by_region": {
+    "CN-11": 0.1667,
+    "CN-12": 0.0469,
+    "CN-13": 0.125
+   },
+   "freq_max": 0.1667,
+   "days_seen": {
+    "CN-11": 12,
+    "CN-12": 3,
+    "CN-13": 8
+   }
+  },
+  "Phylloscopus proregulus": {
+   "by_region": {
+    "CN-11": 0.4722,
+    "CN-12": 0.3438,
+    "CN-13": 0.3594
+   },
+   "freq_max": 0.4722,
+   "days_seen": {
+    "CN-11": 34,
+    "CN-12": 22,
+    "CN-13": 23
+   }
+  },
+  "Phylloscopus schwarzi": {
+   "by_region": {
+    "CN-11": 0.1806,
+    "CN-12": 0.0938,
+    "CN-13": 0.0625
+   },
+   "freq_max": 0.1806,
+   "days_seen": {
+    "CN-11": 13,
+    "CN-12": 6,
+    "CN-13": 4
+   }
+  },
+  "Phylloscopus soror": {
+   "by_region": {
+    "CN-11": 0.0417,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0417,
+   "days_seen": {
+    "CN-11": 3,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Phylloscopus tenellipes": {
+   "by_region": {
+    "CN-11": 0.0556,
+    "CN-12": 0.0,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.0556,
+   "days_seen": {
+    "CN-11": 4,
+    "CN-12": 0,
+    "CN-13": 3
+   }
+  },
+  "Phylloscopus yunnanensis": {
+   "by_region": {
+    "CN-11": 0.0833,
+    "CN-12": 0.0,
+    "CN-13": 0.1406
+   },
+   "freq_max": 0.1406,
+   "days_seen": {
+    "CN-11": 6,
+    "CN-12": 0,
+    "CN-13": 9
+   }
+  },
+  "Pica serica": {
+   "by_region": {
+    "CN-11": 1.0,
+    "CN-12": 0.9062,
+    "CN-13": 0.8594
+   },
+   "freq_max": 1.0,
+   "days_seen": {
+    "CN-11": 72,
+    "CN-12": 58,
+    "CN-13": 55
+   }
+  },
+  "Picus canus": {
+   "by_region": {
+    "CN-11": 0.9722,
+    "CN-12": 0.1719,
+    "CN-13": 0.25
+   },
+   "freq_max": 0.9722,
+   "days_seen": {
+    "CN-11": 70,
+    "CN-12": 11,
+    "CN-13": 16
+   }
+  },
+  "Platalea leucorodia": {
+   "by_region": {
+    "CN-11": 0.25,
+    "CN-12": 0.1719,
+    "CN-13": 0.125
+   },
+   "freq_max": 0.25,
+   "days_seen": {
+    "CN-11": 18,
+    "CN-12": 11,
+    "CN-13": 8
+   }
+  },
+  "Pluvialis fulva": {
+   "by_region": {
+    "CN-11": 0.1111,
+    "CN-12": 0.0156,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.1111,
+   "days_seen": {
+    "CN-11": 8,
+    "CN-12": 1,
+    "CN-13": 3
+   }
+  },
+  "Pluvialis squatarola": {
+   "by_region": {
+    "CN-11": 0.0417,
+    "CN-12": 0.0469,
+    "CN-13": 0.1406
+   },
+   "freq_max": 0.1406,
+   "days_seen": {
+    "CN-11": 3,
+    "CN-12": 3,
+    "CN-13": 9
+   }
+  },
+  "Podiceps auritus": {
+   "by_region": {
+    "CN-11": 0.0278,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0278,
+   "days_seen": {
+    "CN-11": 2,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Podiceps cristatus": {
+   "by_region": {
+    "CN-11": 0.9028,
+    "CN-12": 0.5156,
+    "CN-13": 0.3438
+   },
+   "freq_max": 0.9028,
+   "days_seen": {
+    "CN-11": 65,
+    "CN-12": 33,
+    "CN-13": 22
+   }
+  },
+  "Podiceps grisegena": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0139,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Podiceps nigricollis": {
+   "by_region": {
+    "CN-11": 0.0833,
+    "CN-12": 0.0156,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0833,
+   "days_seen": {
+    "CN-11": 6,
+    "CN-12": 1,
+    "CN-13": 0
+   }
+  },
+  "Poecile montanus": {
+   "by_region": {
+    "CN-11": 0.3056,
+    "CN-12": 0.0,
+    "CN-13": 0.1406
+   },
+   "freq_max": 0.3056,
+   "days_seen": {
+    "CN-11": 22,
+    "CN-12": 0,
+    "CN-13": 9
+   }
+  },
+  "Poecile palustris": {
+   "by_region": {
+    "CN-11": 1.0,
+    "CN-12": 0.2656,
+    "CN-13": 0.1875
+   },
+   "freq_max": 1.0,
+   "days_seen": {
+    "CN-11": 72,
+    "CN-12": 17,
+    "CN-13": 12
+   }
+  },
+  "Prunella collaris": {
+   "by_region": {
+    "CN-11": 0.0833,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0833,
+   "days_seen": {
+    "CN-11": 6,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Prunella montanella": {
+   "by_region": {
+    "CN-11": 0.2917,
+    "CN-12": 0.0,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.2917,
+   "days_seen": {
+    "CN-11": 21,
+    "CN-12": 0,
+    "CN-13": 2
+   }
+  },
+  "Pterorhinus davidi": {
+   "by_region": {
+    "CN-11": 0.6111,
+    "CN-12": 0.0156,
+    "CN-13": 0.1562
+   },
+   "freq_max": 0.6111,
+   "days_seen": {
+    "CN-11": 44,
+    "CN-12": 1,
+    "CN-13": 10
+   }
+  },
+  "Ptyonoprogne rupestris": {
+   "by_region": {
+    "CN-11": 0.0833,
+    "CN-12": 0.0,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.0833,
+   "days_seen": {
+    "CN-11": 6,
+    "CN-12": 0,
+    "CN-13": 3
+   }
+  },
+  "Pucrasia macrolopha": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.0312,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 0,
+    "CN-13": 2
+   }
+  },
+  "Pycnonotus jocosus": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0156,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0156,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 1,
+    "CN-13": 0
+   }
+  },
+  "Pycnonotus sinensis": {
+   "by_region": {
+    "CN-11": 1.0,
+    "CN-12": 0.8125,
+    "CN-13": 0.75
+   },
+   "freq_max": 1.0,
+   "days_seen": {
+    "CN-11": 72,
+    "CN-12": 52,
+    "CN-13": 48
+   }
+  },
+  "Pyrrhocorax pyrrhocorax": {
+   "by_region": {
+    "CN-11": 0.1111,
+    "CN-12": 0.0156,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.1111,
+   "days_seen": {
+    "CN-11": 8,
+    "CN-12": 1,
+    "CN-13": 3
+   }
+  },
+  "Pyrrhula pyrrhula": {
+   "by_region": {
+    "CN-11": 0.0556,
+    "CN-12": 0.0312,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0556,
+   "days_seen": {
+    "CN-11": 4,
+    "CN-12": 2,
+    "CN-13": 0
+   }
+  },
+  "Rallus aquaticus": {
+   "by_region": {
+    "CN-11": 0.0417,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0417,
+   "days_seen": {
+    "CN-11": 3,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Rallus indicus": {
+   "by_region": {
+    "CN-11": 0.2639,
+    "CN-12": 0.0156,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.2639,
+   "days_seen": {
+    "CN-11": 19,
+    "CN-12": 1,
+    "CN-13": 2
+   }
+  },
+  "Recurvirostra avosetta": {
+   "by_region": {
+    "CN-11": 0.1111,
+    "CN-12": 0.2344,
+    "CN-13": 0.1875
+   },
+   "freq_max": 0.2344,
+   "days_seen": {
+    "CN-11": 8,
+    "CN-12": 15,
+    "CN-13": 12
+   }
+  },
+  "Regulus regulus": {
+   "by_region": {
+    "CN-11": 0.2361,
+    "CN-12": 0.1406,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.2361,
+   "days_seen": {
+    "CN-11": 17,
+    "CN-12": 9,
+    "CN-13": 1
+   }
+  },
+  "Remiz consobrinus": {
+   "by_region": {
+    "CN-11": 0.2778,
+    "CN-12": 0.2344,
+    "CN-13": 0.1719
+   },
+   "freq_max": 0.2778,
+   "days_seen": {
+    "CN-11": 20,
+    "CN-12": 15,
+    "CN-13": 11
+   }
+  },
+  "Remiz coronatus": {
+   "by_region": {
+    "CN-11": 0.0278,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0278,
+   "days_seen": {
+    "CN-11": 2,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Rhopophilus pekinensis": {
+   "by_region": {
+    "CN-11": 0.375,
+    "CN-12": 0.0156,
+    "CN-13": 0.125
+   },
+   "freq_max": 0.375,
+   "days_seen": {
+    "CN-11": 27,
+    "CN-12": 1,
+    "CN-13": 8
+   }
+  },
+  "Riparia riparia": {
+   "by_region": {
+    "CN-11": 0.0972,
+    "CN-12": 0.0312,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.0972,
+   "days_seen": {
+    "CN-11": 7,
+    "CN-12": 2,
+    "CN-13": 2
+   }
+  },
+  "Saundersilarus saundersi": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0312,
+    "CN-13": 0.0938
+   },
+   "freq_max": 0.0938,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 2,
+    "CN-13": 6
+   }
+  },
+  "Saxicola stejnegeri": {
+   "by_region": {
+    "CN-11": 0.2917,
+    "CN-12": 0.1719,
+    "CN-13": 0.1875
+   },
+   "freq_max": 0.2917,
+   "days_seen": {
+    "CN-11": 21,
+    "CN-12": 11,
+    "CN-13": 12
+   }
+  },
+  "Scolopax rusticola": {
+   "by_region": {
+    "CN-11": 0.0694,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0694,
+   "days_seen": {
+    "CN-11": 5,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Sibirionetta formosa": {
+   "by_region": {
+    "CN-11": 0.2361,
+    "CN-12": 0.0625,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.2361,
+   "days_seen": {
+    "CN-11": 17,
+    "CN-12": 4,
+    "CN-13": 3
+   }
+  },
+  "Sitta europaea": {
+   "by_region": {
+    "CN-11": 0.1806,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.1806,
+   "days_seen": {
+    "CN-11": 13,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Sitta villosa": {
+   "by_region": {
+    "CN-11": 0.7917,
+    "CN-12": 0.0,
+    "CN-13": 0.1094
+   },
+   "freq_max": 0.7917,
+   "days_seen": {
+    "CN-11": 57,
+    "CN-12": 0,
+    "CN-13": 7
+   }
+  },
+  "Spatula clypeata": {
+   "by_region": {
+    "CN-11": 0.2222,
+    "CN-12": 0.0781,
+    "CN-13": 0.0938
+   },
+   "freq_max": 0.2222,
+   "days_seen": {
+    "CN-11": 16,
+    "CN-12": 5,
+    "CN-13": 6
+   }
+  },
+  "Spatula querquedula": {
+   "by_region": {
+    "CN-11": 0.1111,
+    "CN-12": 0.0312,
+    "CN-13": 0.0781
+   },
+   "freq_max": 0.1111,
+   "days_seen": {
+    "CN-11": 8,
+    "CN-12": 2,
+    "CN-13": 5
+   }
+  },
+  "Spilopelia chinensis": {
+   "by_region": {
+    "CN-11": 1.0,
+    "CN-12": 0.875,
+    "CN-13": 0.625
+   },
+   "freq_max": 1.0,
+   "days_seen": {
+    "CN-11": 72,
+    "CN-12": 56,
+    "CN-13": 40
+   }
+  },
+  "Spinus spinus": {
+   "by_region": {
+    "CN-11": 0.2778,
+    "CN-12": 0.0469,
+    "CN-13": 0.0781
+   },
+   "freq_max": 0.2778,
+   "days_seen": {
+    "CN-11": 20,
+    "CN-12": 3,
+    "CN-13": 5
+   }
+  },
+  "Spizixos semitorques": {
+   "by_region": {
+    "CN-11": 0.0278,
+    "CN-12": 0.0156,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0278,
+   "days_seen": {
+    "CN-11": 2,
+    "CN-12": 1,
+    "CN-13": 1
+   }
+  },
+  "Spodiopsar cineraceus": {
+   "by_region": {
+    "CN-11": 0.9861,
+    "CN-12": 0.6719,
+    "CN-13": 0.5469
+   },
+   "freq_max": 0.9861,
+   "days_seen": {
+    "CN-11": 71,
+    "CN-12": 43,
+    "CN-13": 35
+   }
+  },
+  "Spodiopsar sericeus": {
+   "by_region": {
+    "CN-11": 0.4167,
+    "CN-12": 0.1875,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.4167,
+   "days_seen": {
+    "CN-11": 30,
+    "CN-12": 12,
+    "CN-13": 2
+   }
+  },
+  "Sterna hirundo": {
+   "by_region": {
+    "CN-11": 0.2917,
+    "CN-12": 0.2344,
+    "CN-13": 0.1875
+   },
+   "freq_max": 0.2917,
+   "days_seen": {
+    "CN-11": 21,
+    "CN-12": 15,
+    "CN-13": 12
+   }
+  },
+  "Sternula albifrons": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.1094,
+    "CN-13": 0.1562
+   },
+   "freq_max": 0.1562,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 7,
+    "CN-13": 10
+   }
+  },
+  "Streptopelia decaocto": {
+   "by_region": {
+    "CN-11": 0.6806,
+    "CN-12": 0.1875,
+    "CN-13": 0.3125
+   },
+   "freq_max": 0.6806,
+   "days_seen": {
+    "CN-11": 49,
+    "CN-12": 12,
+    "CN-13": 20
+   }
+  },
+  "Streptopelia orientalis": {
+   "by_region": {
+    "CN-11": 0.9583,
+    "CN-12": 0.5469,
+    "CN-13": 0.625
+   },
+   "freq_max": 0.9583,
+   "days_seen": {
+    "CN-11": 69,
+    "CN-12": 35,
+    "CN-13": 40
+   }
+  },
+  "Streptopelia tranquebarica": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0156,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Strix nivicolum": {
+   "by_region": {
+    "CN-11": 0.0417,
+    "CN-12": 0.0,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.0469,
+   "days_seen": {
+    "CN-11": 3,
+    "CN-12": 0,
+    "CN-13": 3
+   }
+  },
+  "Sturnus vulgaris": {
+   "by_region": {
+    "CN-11": 0.0972,
+    "CN-12": 0.0469,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0972,
+   "days_seen": {
+    "CN-11": 7,
+    "CN-12": 3,
+    "CN-13": 1
+   }
+  },
+  "Suthora webbiana": {
+   "by_region": {
+    "CN-11": 0.9444,
+    "CN-12": 0.5781,
+    "CN-13": 0.6406
+   },
+   "freq_max": 0.9444,
+   "days_seen": {
+    "CN-11": 68,
+    "CN-12": 37,
+    "CN-13": 41
+   }
+  },
+  "Tachybaptus ruficollis": {
+   "by_region": {
+    "CN-11": 1.0,
+    "CN-12": 0.6406,
+    "CN-13": 0.625
+   },
+   "freq_max": 1.0,
+   "days_seen": {
+    "CN-11": 72,
+    "CN-12": 41,
+    "CN-13": 40
+   }
+  },
+  "Tachyspiza gularis": {
+   "by_region": {
+    "CN-11": 0.1528,
+    "CN-12": 0.0156,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.1528,
+   "days_seen": {
+    "CN-11": 11,
+    "CN-12": 1,
+    "CN-13": 1
+   }
+  },
+  "Tachyspiza soloensis": {
+   "by_region": {
+    "CN-11": 0.125,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.125,
+   "days_seen": {
+    "CN-11": 9,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Tachyspiza virgata": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0139,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Tadorna ferruginea": {
+   "by_region": {
+    "CN-11": 0.6667,
+    "CN-12": 0.2656,
+    "CN-13": 0.1562
+   },
+   "freq_max": 0.6667,
+   "days_seen": {
+    "CN-11": 48,
+    "CN-12": 17,
+    "CN-13": 10
+   }
+  },
+  "Tadorna tadorna": {
+   "by_region": {
+    "CN-11": 0.0833,
+    "CN-12": 0.0781,
+    "CN-13": 0.1719
+   },
+   "freq_max": 0.1719,
+   "days_seen": {
+    "CN-11": 6,
+    "CN-12": 5,
+    "CN-13": 11
+   }
+  },
+  "Tarsiger albocoeruleus": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.0469,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 0,
+    "CN-13": 3
+   }
+  },
+  "Tarsiger cyanurus": {
+   "by_region": {
+    "CN-11": 0.2639,
+    "CN-12": 0.125,
+    "CN-13": 0.0938
+   },
+   "freq_max": 0.2639,
+   "days_seen": {
+    "CN-11": 19,
+    "CN-12": 8,
+    "CN-13": 6
+   }
+  },
+  "Terpsiphone incei": {
+   "by_region": {
+    "CN-11": 0.0278,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0278,
+   "days_seen": {
+    "CN-11": 2,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Thinornis dubius": {
+   "by_region": {
+    "CN-11": 0.2778,
+    "CN-12": 0.1406,
+    "CN-13": 0.1094
+   },
+   "freq_max": 0.2778,
+   "days_seen": {
+    "CN-11": 20,
+    "CN-12": 9,
+    "CN-13": 7
+   }
+  },
+  "Thinornis placidus": {
+   "by_region": {
+    "CN-11": 0.2222,
+    "CN-12": 0.0312,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.2222,
+   "days_seen": {
+    "CN-11": 16,
+    "CN-12": 2,
+    "CN-13": 2
+   }
+  },
+  "Tichodroma muraria": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0139,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Tringa brevipes": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.0312,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 0,
+    "CN-13": 2
+   }
+  },
+  "Tringa erythropus": {
+   "by_region": {
+    "CN-11": 0.0833,
+    "CN-12": 0.0938,
+    "CN-13": 0.0781
+   },
+   "freq_max": 0.0938,
+   "days_seen": {
+    "CN-11": 6,
+    "CN-12": 6,
+    "CN-13": 5
+   }
+  },
+  "Tringa glareola": {
+   "by_region": {
+    "CN-11": 0.1667,
+    "CN-12": 0.0938,
+    "CN-13": 0.125
+   },
+   "freq_max": 0.1667,
+   "days_seen": {
+    "CN-11": 12,
+    "CN-12": 6,
+    "CN-13": 8
+   }
+  },
+  "Tringa guttifer": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0156,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Tringa nebularia": {
+   "by_region": {
+    "CN-11": 0.0417,
+    "CN-12": 0.0938,
+    "CN-13": 0.25
+   },
+   "freq_max": 0.25,
+   "days_seen": {
+    "CN-11": 3,
+    "CN-12": 6,
+    "CN-13": 16
+   }
+  },
+  "Tringa ochropus": {
+   "by_region": {
+    "CN-11": 0.3889,
+    "CN-12": 0.1406,
+    "CN-13": 0.2031
+   },
+   "freq_max": 0.3889,
+   "days_seen": {
+    "CN-11": 28,
+    "CN-12": 9,
+    "CN-13": 13
+   }
+  },
+  "Tringa stagnatilis": {
+   "by_region": {
+    "CN-11": 0.0556,
+    "CN-12": 0.0781,
+    "CN-13": 0.1406
+   },
+   "freq_max": 0.1406,
+   "days_seen": {
+    "CN-11": 4,
+    "CN-12": 5,
+    "CN-13": 9
+   }
+  },
+  "Tringa totanus": {
+   "by_region": {
+    "CN-11": 0.0,
+    "CN-12": 0.0469,
+    "CN-13": 0.0938
+   },
+   "freq_max": 0.0938,
+   "days_seen": {
+    "CN-11": 0,
+    "CN-12": 3,
+    "CN-13": 6
+   }
+  },
+  "Troglodytes troglodytes": {
+   "by_region": {
+    "CN-11": 0.4167,
+    "CN-12": 0.0781,
+    "CN-13": 0.0938
+   },
+   "freq_max": 0.4167,
+   "days_seen": {
+    "CN-11": 30,
+    "CN-12": 5,
+    "CN-13": 6
+   }
+  },
+  "Turdus atrogularis": {
+   "by_region": {
+    "CN-11": 0.1806,
+    "CN-12": 0.0156,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.1806,
+   "days_seen": {
+    "CN-11": 13,
+    "CN-12": 1,
+    "CN-13": 1
+   }
+  },
+  "Turdus atrogularis x ruficollis": {
+   "by_region": {
+    "CN-11": 0.0556,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0556,
+   "days_seen": {
+    "CN-11": 4,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Turdus cardis": {
+   "by_region": {
+    "CN-11": 0.0278,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0278,
+   "days_seen": {
+    "CN-11": 2,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Turdus eunomus": {
+   "by_region": {
+    "CN-11": 0.3472,
+    "CN-12": 0.0938,
+    "CN-13": 0.0781
+   },
+   "freq_max": 0.3472,
+   "days_seen": {
+    "CN-11": 25,
+    "CN-12": 6,
+    "CN-13": 5
+   }
+  },
+  "Turdus eunomus x naumanni": {
+   "by_region": {
+    "CN-11": 0.0694,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0694,
+   "days_seen": {
+    "CN-11": 5,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Turdus feae": {
+   "by_region": {
+    "CN-11": 0.0278,
+    "CN-12": 0.0,
+    "CN-13": 0.0781
+   },
+   "freq_max": 0.0781,
+   "days_seen": {
+    "CN-11": 2,
+    "CN-12": 0,
+    "CN-13": 5
+   }
+  },
+  "Turdus hortulorum": {
+   "by_region": {
+    "CN-11": 0.0556,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0556,
+   "days_seen": {
+    "CN-11": 4,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Turdus iliacus": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0139,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Turdus mandarinus": {
+   "by_region": {
+    "CN-11": 1.0,
+    "CN-12": 0.5,
+    "CN-13": 0.5469
+   },
+   "freq_max": 1.0,
+   "days_seen": {
+    "CN-11": 72,
+    "CN-12": 32,
+    "CN-13": 35
+   }
+  },
+  "Turdus mupinensis": {
+   "by_region": {
+    "CN-11": 0.1111,
+    "CN-12": 0.0156,
+    "CN-13": 0.0781
+   },
+   "freq_max": 0.1111,
+   "days_seen": {
+    "CN-11": 8,
+    "CN-12": 1,
+    "CN-13": 5
+   }
+  },
+  "Turdus naumanni": {
+   "by_region": {
+    "CN-11": 0.5278,
+    "CN-12": 0.25,
+    "CN-13": 0.1094
+   },
+   "freq_max": 0.5278,
+   "days_seen": {
+    "CN-11": 38,
+    "CN-12": 16,
+    "CN-13": 7
+   }
+  },
+  "Turdus obscurus": {
+   "by_region": {
+    "CN-11": 0.0833,
+    "CN-12": 0.0156,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.0833,
+   "days_seen": {
+    "CN-11": 6,
+    "CN-12": 1,
+    "CN-13": 3
+   }
+  },
+  "Turdus pallidus": {
+   "by_region": {
+    "CN-11": 0.0278,
+    "CN-12": 0.0156,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0278,
+   "days_seen": {
+    "CN-11": 2,
+    "CN-12": 1,
+    "CN-13": 0
+   }
+  },
+  "Turdus pilaris": {
+   "by_region": {
+    "CN-11": 0.0278,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0278,
+   "days_seen": {
+    "CN-11": 2,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Turdus ruficollis": {
+   "by_region": {
+    "CN-11": 0.4306,
+    "CN-12": 0.0625,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.4306,
+   "days_seen": {
+    "CN-11": 31,
+    "CN-12": 4,
+    "CN-13": 3
+   }
+  },
+  "Turdus ruficollis x naumanni": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0139,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Turnix tanki": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0139,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Upupa epops": {
+   "by_region": {
+    "CN-11": 0.7222,
+    "CN-12": 0.3125,
+    "CN-13": 0.2656
+   },
+   "freq_max": 0.7222,
+   "days_seen": {
+    "CN-11": 52,
+    "CN-12": 20,
+    "CN-13": 17
+   }
+  },
+  "Urocissa erythroryncha": {
+   "by_region": {
+    "CN-11": 0.7361,
+    "CN-12": 0.0312,
+    "CN-13": 0.25
+   },
+   "freq_max": 0.7361,
+   "days_seen": {
+    "CN-11": 53,
+    "CN-12": 2,
+    "CN-13": 16
+   }
+  },
+  "Urosphena squameiceps": {
+   "by_region": {
+    "CN-11": 0.0694,
+    "CN-12": 0.0,
+    "CN-13": 0.0156
+   },
+   "freq_max": 0.0694,
+   "days_seen": {
+    "CN-11": 5,
+    "CN-12": 0,
+    "CN-13": 1
+   }
+  },
+  "Vanellus cinereus": {
+   "by_region": {
+    "CN-11": 0.1528,
+    "CN-12": 0.0625,
+    "CN-13": 0.0781
+   },
+   "freq_max": 0.1528,
+   "days_seen": {
+    "CN-11": 11,
+    "CN-12": 4,
+    "CN-13": 5
+   }
+  },
+  "Vanellus vanellus": {
+   "by_region": {
+    "CN-11": 0.1667,
+    "CN-12": 0.125,
+    "CN-13": 0.0625
+   },
+   "freq_max": 0.1667,
+   "days_seen": {
+    "CN-11": 12,
+    "CN-12": 8,
+    "CN-13": 4
+   }
+  },
+  "Xenus cinereus": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0156,
+    "CN-13": 0.125
+   },
+   "freq_max": 0.125,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 1,
+    "CN-13": 8
+   }
+  },
+  "Yungipicus canicapillus": {
+   "by_region": {
+    "CN-11": 0.9444,
+    "CN-12": 0.4375,
+    "CN-13": 0.3906
+   },
+   "freq_max": 0.9444,
+   "days_seen": {
+    "CN-11": 68,
+    "CN-12": 28,
+    "CN-13": 25
+   }
+  },
+  "Yungipicus kizuki": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0312
+   },
+   "freq_max": 0.0312,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 2
+   }
+  },
+  "Zapornia fusca": {
+   "by_region": {
+    "CN-11": 0.0139,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0139,
+   "days_seen": {
+    "CN-11": 1,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Zapornia pusilla": {
+   "by_region": {
+    "CN-11": 0.0417,
+    "CN-12": 0.0,
+    "CN-13": 0.0
+   },
+   "freq_max": 0.0417,
+   "days_seen": {
+    "CN-11": 3,
+    "CN-12": 0,
+    "CN-13": 0
+   }
+  },
+  "Zoothera aurea": {
+   "by_region": {
+    "CN-11": 0.0694,
+    "CN-12": 0.0312,
+    "CN-13": 0.0469
+   },
+   "freq_max": 0.0694,
+   "days_seen": {
+    "CN-11": 5,
+    "CN-12": 2,
+    "CN-13": 3
+   }
+  },
+  "Zosterops erythropleurus": {
+   "by_region": {
+    "CN-11": 0.1389,
+    "CN-12": 0.0938,
+    "CN-13": 0.125
+   },
+   "freq_max": 0.1389,
+   "days_seen": {
+    "CN-11": 10,
+    "CN-12": 6,
+    "CN-13": 8
+   }
+  },
+  "Zosterops simplex": {
+   "by_region": {
+    "CN-11": 0.3472,
+    "CN-12": 0.1094,
+    "CN-13": 0.2969
+   },
+   "freq_max": 0.3472,
+   "days_seen": {
+    "CN-11": 25,
+    "CN-12": 7,
+    "CN-13": 19
+   }
+  }
+ }
+}

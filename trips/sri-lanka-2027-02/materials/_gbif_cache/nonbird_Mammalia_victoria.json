@@ -1,0 +1,1 @@
+{"count": 21, "query": {"classKey": 359, "decimalLatitude": "6.9430,6.9970", "decimalLongitude": "80.7428,80.7972", "month": [2], "limit": 0, "facet": "speciesKey", "facetLimit": 30}, "facets": [{"field": "SPECIES_KEY", "counts": [{"name": "2437246", "count": 17}, {"name": "2436613", "count": 3}, {"name": "2437247", "count": 1}]}]}

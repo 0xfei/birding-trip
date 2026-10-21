@@ -1,0 +1,95 @@
+{
+ "kitulgala": {
+  "locs": [
+   "L3872874",
+   "L4205542",
+   "L5107164"
+  ],
+  "via": "钉死",
+  "name": "Kitulgala 基图尔加拉"
+ },
+ "makandawa": {
+  "locs": [
+   "L4985570"
+  ],
+  "via": "钉死",
+  "name": "Makandawa 森林保护区"
+ },
+ "nuwara": {
+  "locs": [
+   "L5605072",
+   "L4855627",
+   "L4855599",
+   "L6251155"
+  ],
+  "via": "钉死",
+  "name": "Nuwara Eliya 努沃勒埃利耶"
+ },
+ "horton": {
+  "locs": [
+   "L3989081",
+   "L20957293",
+   "L4884276"
+  ],
+  "via": "钉死",
+  "name": "Horton Plains 霍顿平原"
+ },
+ "victoria": {
+  "locs": [
+   "L936705"
+  ],
+  "via": "钉死",
+  "name": "Victoria Park（市区公园）"
+ },
+ "tissa": {
+  "locs": [
+   "L4884280",
+   "L4866398",
+   "L6959102"
+  ],
+  "via": "钉死",
+  "name": "Tissa 蒂瑟湖"
+ },
+ "yala": {
+  "locs": [
+   "L1122648",
+   "L15944549",
+   "L15917274"
+  ],
+  "via": "钉死",
+  "name": "Yala 雅拉国家公园"
+ },
+ "bundala": {
+  "locs": [
+   "L1078558",
+   "L8067960",
+   "L8822337"
+  ],
+  "via": "钉死",
+  "name": "Bundala 本塔拉"
+ },
+ "sinharaja": {
+  "locs": [
+   "L6251335",
+   "L936689"
+  ],
+  "via": "钉死",
+  "name": "Sinharaja 辛哈拉贾"
+ },
+ "mirissa": {
+  "locs": [
+   "L8267482",
+   "L6808748"
+  ],
+  "via": "钉死",
+  "name": "Mirissa 出海"
+ },
+ "galle": {
+  "locs": [
+   "L6618159",
+   "L6629349"
+  ],
+  "via": "钉死",
+  "name": "Galle 加勒"
+ }
+}

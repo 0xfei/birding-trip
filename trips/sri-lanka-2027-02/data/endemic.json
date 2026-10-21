@@ -1,0 +1,128 @@
+{
+"region": "LK",
+"method": "eBird spplist 全地区倒排",
+"n_regions_compared": 253,
+"endemic": [
+"ashlau1",
+"bkcbul2",
+"bkrfla2",
+"bncbab1",
+"ceghor1",
+"cehpar1",
+"ceybuw1",
+"ceyjun1",
+"ceymag1",
+"ceymyn1",
+"ceyspu1",
+"ceywhe1",
+"ceywht1",
+"ceywop1",
+"chbowl1",
+"crbfla1",
+"crfbar3",
+"dubfly3",
+"grbcou2",
+"laypar1",
+"orbbab1",
+"pogpig1",
+"refmal1",
+"scathr5",
+"sersco1",
+"spwthr1",
+"srldro1",
+"srlscb1",
+"srlswa1",
+"srlwoo1",
+"whfsta2",
+"whrsha5",
+"whtflo1",
+"yeebul1",
+"yefbar1"
+],
+"near_endemic": [
+{
+"code": "blfmal1",
+"also_in": "IN"
+},
+{
+"code": "bltmun1",
+"also_in": "IN"
+},
+{
+"code": "ceyfro1",
+"also_in": "IN"
+},
+{
+"code": "dafbab1",
+"also_in": "IN"
+},
+{
+"code": "eurbla2",
+"also_in": "IN"
+},
+{
+"code": "grynig2",
+"also_in": "IN"
+},
+{
+"code": "jerbus2",
+"also_in": "IN"
+},
+{
+"code": "jernig1",
+"also_in": "IN"
+},
+{
+"code": "lobsun2",
+"also_in": "IN"
+},
+{
+"code": "maltro1",
+"also_in": "IN"
+},
+{
+"code": "maphor1",
+"also_in": "IN"
+},
+{
+"code": "mouhae2",
+"also_in": "IN"
+},
+{
+"code": "pacswa3",
+"also_in": "IN"
+},
+{
+"code": "paifra1",
+"also_in": "IN"
+},
+{
+"code": "scamin3",
+"also_in": "IN"
+},
+{
+"code": "sohmyn1",
+"also_in": "IN"
+},
+{
+"code": "sqtbul1",
+"also_in": "IN"
+},
+{
+"code": "srlbao1",
+"also_in": "IN"
+},
+{
+"code": "whtior1",
+"also_in": "IN"
+},
+{
+"code": "yebbab1",
+"also_in": "IN"
+},
+{
+"code": "yebbul3",
+"also_in": "IN"
+}
+]
+}

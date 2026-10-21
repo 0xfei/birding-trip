@@ -1,0 +1,1 @@
+酒店确认：Wildlife Kingdom Deniyaya 已改到南侧入口，02-08 19:30 夜探由酒店鸟导带。

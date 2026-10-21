@@ -1,0 +1,8072 @@
+{
+"_meta": {
+"source": "eBird API v2 /data/obs/{locId}/historic",
+"years": [
+2025,
+2026
+],
+"window": "02-01..02-28",
+"metric": "freq = 该点位窗口内报到此种的观鸟日 ÷ 该点位窗口内有清单的观鸟日（空清单日不计入分母）",
+"denominators": {
+"kitulgala": 38,
+"makandawa": 29,
+"nuwara": 34,
+"horton": 43,
+"victoria": 48,
+"tissa": 36,
+"yala": 44,
+"bundala": 43,
+"sinharaja": 34,
+"mirissa": 19,
+"galle": 23
+},
+"n_requests": 1512,
+"failed_requests": 0,
+"failed_sample": []
+},
+"alepar2": {
+"sites": {
+"bundala": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.4474,
+"days": 17,
+"of": 38
+},
+"makandawa": {
+"freq": 0.1379,
+"days": 4,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.1471,
+"days": 5,
+"of": 34
+},
+"tissa": {
+"freq": 0.0278,
+"days": 1,
+"of": 36
+},
+"yala": {
+"freq": 0.1818,
+"days": 8,
+"of": 44
+}
+}
+},
+"alpswi1": {
+"sites": {
+"bundala": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"horton": {
+"freq": 0.1163,
+"days": 5,
+"of": 43
+},
+"nuwara": {
+"freq": 0.0588,
+"days": 2,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"victoria": {
+"freq": 0.0625,
+"days": 3,
+"of": 48
+}
+}
+},
+"asbfly": {
+"sites": {
+"galle": {
+"freq": 0.0435,
+"days": 1,
+"of": 23
+},
+"horton": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.2632,
+"days": 10,
+"of": 38
+},
+"makandawa": {
+"freq": 0.069,
+"days": 2,
+"of": 29
+},
+"nuwara": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.2059,
+"days": 7,
+"of": 34
+},
+"victoria": {
+"freq": 0.0208,
+"days": 1,
+"of": 48
+},
+"yala": {
+"freq": 0.0227,
+"days": 1,
+"of": 44
+}
+}
+},
+"ascspl1": {
+"sites": {
+"bundala": {
+"freq": 0.7442,
+"days": 32,
+"of": 43
+},
+"horton": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"yala": {
+"freq": 0.0909,
+"days": 4,
+"of": 44
+}
+}
+},
+"ashdro1": {
+"sites": {
+"yala": {
+"freq": 0.1136,
+"days": 5,
+"of": 44
+}
+}
+},
+"ashlau1": {
+"sites": {
+"sinharaja": {
+"freq": 0.4412,
+"days": 15,
+"of": 34
+}
+}
+},
+"ashpri1": {
+"sites": {
+"bundala": {
+"freq": 0.2326,
+"days": 10,
+"of": 43
+},
+"horton": {
+"freq": 0.0698,
+"days": 3,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.0263,
+"days": 1,
+"of": 38
+},
+"nuwara": {
+"freq": 0.1765,
+"days": 6,
+"of": 34
+},
+"tissa": {
+"freq": 0.1111,
+"days": 4,
+"of": 36
+},
+"victoria": {
+"freq": 0.1667,
+"days": 8,
+"of": 48
+},
+"yala": {
+"freq": 0.1818,
+"days": 8,
+"of": 44
+}
+}
+},
+"ashwoo2": {
+"sites": {
+"bundala": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.0263,
+"days": 1,
+"of": 38
+},
+"tissa": {
+"freq": 0.0278,
+"days": 1,
+"of": 36
+}
+}
+},
+"asidrc2": {
+"sites": {
+"galle": {
+"freq": 0.0435,
+"days": 1,
+"of": 23
+},
+"sinharaja": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"yala": {
+"freq": 0.0455,
+"days": 2,
+"of": 44
+}
+}
+},
+"asikoe2": {
+"sites": {
+"bundala": {
+"freq": 0.3953,
+"days": 17,
+"of": 43
+},
+"galle": {
+"freq": 0.1739,
+"days": 4,
+"of": 23
+},
+"kitulgala": {
+"freq": 0.0263,
+"days": 1,
+"of": 38
+},
+"makandawa": {
+"freq": 0.0345,
+"days": 1,
+"of": 29
+},
+"mirissa": {
+"freq": 0.1579,
+"days": 3,
+"of": 19
+},
+"sinharaja": {
+"freq": 0.1176,
+"days": 4,
+"of": 34
+},
+"tissa": {
+"freq": 0.2778,
+"days": 10,
+"of": 36
+},
+"yala": {
+"freq": 0.5,
+"days": 22,
+"of": 44
+}
+}
+},
+"asiope1": {
+"sites": {
+"bundala": {
+"freq": 0.907,
+"days": 39,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.1842,
+"days": 7,
+"of": 38
+},
+"makandawa": {
+"freq": 0.1034,
+"days": 3,
+"of": 29
+},
+"mirissa": {
+"freq": 0.1579,
+"days": 3,
+"of": 19
+},
+"sinharaja": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"tissa": {
+"freq": 0.6389,
+"days": 23,
+"of": 36
+},
+"yala": {
+"freq": 0.9091,
+"days": 40,
+"of": 44
+}
+}
+},
+"aspfly1": {
+"sites": {
+"bundala": {
+"freq": 0.3256,
+"days": 14,
+"of": 43
+},
+"galle": {
+"freq": 0.0435,
+"days": 1,
+"of": 23
+},
+"horton": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.1842,
+"days": 7,
+"of": 38
+},
+"makandawa": {
+"freq": 0.2414,
+"days": 7,
+"of": 29
+},
+"mirissa": {
+"freq": 0.0526,
+"days": 1,
+"of": 19
+},
+"nuwara": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.5,
+"days": 17,
+"of": 34
+},
+"tissa": {
+"freq": 0.2222,
+"days": 8,
+"of": 36
+},
+"yala": {
+"freq": 0.8182,
+"days": 36,
+"of": 44
+}
+}
+},
+"aspswi1": {
+"sites": {
+"bundala": {
+"freq": 0.1628,
+"days": 7,
+"of": 43
+},
+"galle": {
+"freq": 0.1739,
+"days": 4,
+"of": 23
+},
+"kitulgala": {
+"freq": 0.3158,
+"days": 12,
+"of": 38
+},
+"makandawa": {
+"freq": 0.3103,
+"days": 9,
+"of": 29
+},
+"mirissa": {
+"freq": 0.2105,
+"days": 4,
+"of": 19
+},
+"nuwara": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.1176,
+"days": 4,
+"of": 34
+},
+"tissa": {
+"freq": 0.3333,
+"days": 12,
+"of": 36
+},
+"yala": {
+"freq": 0.3636,
+"days": 16,
+"of": 44
+}
+}
+},
+"babcuc2": {
+"sites": {
+"makandawa": {
+"freq": 0.1034,
+"days": 3,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.0588,
+"days": 2,
+"of": 34
+}
+}
+},
+"banswa": {
+"sites": {
+"bundala": {
+"freq": 0.3721,
+"days": 16,
+"of": 43
+},
+"tissa": {
+"freq": 0.0278,
+"days": 1,
+"of": 36
+}
+}
+},
+"barbut1": {
+"sites": {
+"bundala": {
+"freq": 0.186,
+"days": 8,
+"of": 43
+},
+"yala": {
+"freq": 0.3409,
+"days": 15,
+"of": 44
+}
+}
+},
+"barswa": {
+"sites": {
+"bundala": {
+"freq": 0.9535,
+"days": 41,
+"of": 43
+},
+"galle": {
+"freq": 0.0435,
+"days": 1,
+"of": 23
+},
+"horton": {
+"freq": 0.1395,
+"days": 6,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.0263,
+"days": 1,
+"of": 38
+},
+"mirissa": {
+"freq": 0.3158,
+"days": 6,
+"of": 19
+},
+"nuwara": {
+"freq": 0.0882,
+"days": 3,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"tissa": {
+"freq": 0.7222,
+"days": 26,
+"of": 36
+},
+"victoria": {
+"freq": 0.0208,
+"days": 1,
+"of": 48
+},
+"yala": {
+"freq": 0.8182,
+"days": 36,
+"of": 44
+}
+}
+},
+"batgod": {
+"sites": {
+"bundala": {
+"freq": 0.093,
+"days": 4,
+"of": 43
+},
+"yala": {
+"freq": 0.0682,
+"days": 3,
+"of": 44
+}
+}
+},
+"baywea1": {
+"sites": {
+"bundala": {
+"freq": 0.0465,
+"days": 2,
+"of": 43
+},
+"tissa": {
+"freq": 0.3889,
+"days": 14,
+"of": 36
+},
+"yala": {
+"freq": 0.25,
+"days": 11,
+"of": 44
+}
+}
+},
+"bcnher": {
+"sites": {
+"bundala": {
+"freq": 0.2326,
+"days": 10,
+"of": 43
+},
+"tissa": {
+"freq": 0.5,
+"days": 18,
+"of": 36
+},
+"victoria": {
+"freq": 0.0208,
+"days": 1,
+"of": 48
+},
+"yala": {
+"freq": 0.1818,
+"days": 8,
+"of": 44
+}
+}
+},
+"bkbkin1": {
+"sites": {
+"kitulgala": {
+"freq": 0.1053,
+"days": 4,
+"of": 38
+},
+"makandawa": {
+"freq": 0.069,
+"days": 2,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"yala": {
+"freq": 0.0227,
+"days": 1,
+"of": 44
+}
+}
+},
+"bkbplo": {
+"sites": {
+"bundala": {
+"freq": 0.3953,
+"days": 17,
+"of": 43
+}
+}
+},
+"bkcbul2": {
+"sites": {
+"kitulgala": {
+"freq": 0.3421,
+"days": 13,
+"of": 38
+},
+"makandawa": {
+"freq": 0.2759,
+"days": 8,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.5294,
+"days": 18,
+"of": 34
+},
+"yala": {
+"freq": 0.0227,
+"days": 1,
+"of": 44
+}
+}
+},
+"bkhcus1": {
+"sites": {
+"bundala": {
+"freq": 0.0465,
+"days": 2,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.1053,
+"days": 4,
+"of": 38
+},
+"makandawa": {
+"freq": 0.1034,
+"days": 3,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.1471,
+"days": 5,
+"of": 34
+},
+"tissa": {
+"freq": 0.0278,
+"days": 1,
+"of": 36
+},
+"victoria": {
+"freq": 0.0208,
+"days": 1,
+"of": 48
+},
+"yala": {
+"freq": 0.1136,
+"days": 5,
+"of": 44
+}
+}
+},
+"bkrfla2": {
+"sites": {
+"bundala": {
+"freq": 0.3023,
+"days": 13,
+"of": 43
+},
+"galle": {
+"freq": 0.087,
+"days": 2,
+"of": 23
+},
+"horton": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.5263,
+"days": 20,
+"of": 38
+},
+"makandawa": {
+"freq": 0.4138,
+"days": 12,
+"of": 29
+},
+"mirissa": {
+"freq": 0.1053,
+"days": 2,
+"of": 19
+},
+"sinharaja": {
+"freq": 0.2941,
+"days": 10,
+"of": 34
+},
+"tissa": {
+"freq": 0.5278,
+"days": 19,
+"of": 36
+},
+"yala": {
+"freq": 0.25,
+"days": 11,
+"of": 44
+}
+}
+},
+"bkskit1": {
+"sites": {
+"bundala": {
+"freq": 0.186,
+"days": 8,
+"of": 43
+},
+"horton": {
+"freq": 0.1628,
+"days": 7,
+"of": 43
+},
+"yala": {
+"freq": 0.0455,
+"days": 2,
+"of": 44
+}
+}
+},
+"bktgod": {
+"sites": {
+"bundala": {
+"freq": 0.814,
+"days": 35,
+"of": 43
+},
+"tissa": {
+"freq": 0.0833,
+"days": 3,
+"of": 36
+},
+"yala": {
+"freq": 0.5455,
+"days": 24,
+"of": 44
+}
+}
+},
+"bkwsti": {
+"sites": {
+"bundala": {
+"freq": 0.9535,
+"days": 41,
+"of": 43
+},
+"tissa": {
+"freq": 0.3611,
+"days": 13,
+"of": 36
+},
+"yala": {
+"freq": 0.8636,
+"days": 38,
+"of": 44
+}
+}
+},
+"blabit1": {
+"sites": {
+"bundala": {
+"freq": 0.2791,
+"days": 12,
+"of": 43
+},
+"makandawa": {
+"freq": 0.0345,
+"days": 1,
+"of": 29
+},
+"tissa": {
+"freq": 0.1944,
+"days": 7,
+"of": 36
+}
+}
+},
+"blaeag1": {
+"sites": {
+"horton": {
+"freq": 0.3256,
+"days": 14,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.1316,
+"days": 5,
+"of": 38
+},
+"makandawa": {
+"freq": 0.1034,
+"days": 3,
+"of": 29
+},
+"nuwara": {
+"freq": 0.0882,
+"days": 3,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.1471,
+"days": 5,
+"of": 34
+},
+"tissa": {
+"freq": 0.0556,
+"days": 2,
+"of": 36
+},
+"yala": {
+"freq": 0.0227,
+"days": 1,
+"of": 44
+}
+}
+},
+"blbqua1": {
+"sites": {
+"bundala": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+}
+}
+},
+"blckin1": {
+"sites": {
+"bundala": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+}
+}
+},
+"blfmal1": {
+"sites": {
+"bundala": {
+"freq": 0.5814,
+"days": 25,
+"of": 43
+},
+"tissa": {
+"freq": 0.0278,
+"days": 1,
+"of": 36
+},
+"yala": {
+"freq": 0.5,
+"days": 22,
+"of": 44
+}
+}
+},
+"blhibi1": {
+"sites": {
+"bundala": {
+"freq": 0.9302,
+"days": 40,
+"of": 43
+},
+"mirissa": {
+"freq": 0.0526,
+"days": 1,
+"of": 19
+},
+"sinharaja": {
+"freq": 0.0882,
+"days": 3,
+"of": 34
+},
+"tissa": {
+"freq": 0.75,
+"days": 27,
+"of": 36
+},
+"victoria": {
+"freq": 0.0208,
+"days": 1,
+"of": 48
+},
+"yala": {
+"freq": 0.9318,
+"days": 41,
+"of": 44
+}
+}
+},
+"blhori1": {
+"sites": {
+"bundala": {
+"freq": 0.2791,
+"days": 12,
+"of": 43
+},
+"galle": {
+"freq": 0.3478,
+"days": 8,
+"of": 23
+},
+"horton": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.5,
+"days": 19,
+"of": 38
+},
+"makandawa": {
+"freq": 0.4483,
+"days": 13,
+"of": 29
+},
+"mirissa": {
+"freq": 0.2632,
+"days": 5,
+"of": 19
+},
+"nuwara": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.3235,
+"days": 11,
+"of": 34
+},
+"tissa": {
+"freq": 0.5,
+"days": 18,
+"of": 36
+},
+"victoria": {
+"freq": 0.0208,
+"days": 1,
+"of": 48
+},
+"yala": {
+"freq": 0.7273,
+"days": 32,
+"of": 44
+}
+}
+},
+"blnmon1": {
+"sites": {
+"horton": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.0789,
+"days": 3,
+"of": 38
+},
+"makandawa": {
+"freq": 0.2414,
+"days": 7,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.3529,
+"days": 12,
+"of": 34
+},
+"victoria": {
+"freq": 0.0208,
+"days": 1,
+"of": 48
+},
+"yala": {
+"freq": 0.0455,
+"days": 2,
+"of": 44
+}
+}
+},
+"blnsto1": {
+"sites": {
+"bundala": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"yala": {
+"freq": 0.3636,
+"days": 16,
+"of": 44
+}
+}
+},
+"blrwar1": {
+"sites": {
+"bundala": {
+"freq": 0.1628,
+"days": 7,
+"of": 43
+},
+"horton": {
+"freq": 0.1628,
+"days": 7,
+"of": 43
+},
+"makandawa": {
+"freq": 0.069,
+"days": 2,
+"of": 29
+},
+"nuwara": {
+"freq": 0.0588,
+"days": 2,
+"of": 34
+},
+"tissa": {
+"freq": 0.0556,
+"days": 2,
+"of": 36
+},
+"victoria": {
+"freq": 0.5208,
+"days": 25,
+"of": 48
+},
+"yala": {
+"freq": 0.0227,
+"days": 1,
+"of": 44
+}
+}
+},
+"bltmun1": {
+"sites": {
+"kitulgala": {
+"freq": 0.0526,
+"days": 2,
+"of": 38
+},
+"sinharaja": {
+"freq": 0.0588,
+"days": 2,
+"of": 34
+}
+}
+},
+"bncbab1": {
+"sites": {
+"horton": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.1316,
+"days": 5,
+"of": 38
+},
+"makandawa": {
+"freq": 0.2069,
+"days": 6,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.0882,
+"days": 3,
+"of": 34
+},
+"yala": {
+"freq": 0.2045,
+"days": 9,
+"of": 44
+}
+}
+},
+"bncwoo3": {
+"sites": {
+"bundala": {
+"freq": 0.0698,
+"days": 3,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.0526,
+"days": 2,
+"of": 38
+},
+"makandawa": {
+"freq": 0.069,
+"days": 2,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.0588,
+"days": 2,
+"of": 34
+},
+"yala": {
+"freq": 0.0455,
+"days": 2,
+"of": 44
+}
+}
+},
+"bnhgul1": {
+"sites": {
+"bundala": {
+"freq": 0.1163,
+"days": 5,
+"of": 43
+},
+"galle": {
+"freq": 0.0435,
+"days": 1,
+"of": 23
+}
+}
+},
+"booeag1": {
+"sites": {
+"bundala": {
+"freq": 0.1163,
+"days": 5,
+"of": 43
+},
+"horton": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.0263,
+"days": 1,
+"of": 38
+},
+"tissa": {
+"freq": 0.0278,
+"days": 1,
+"of": 36
+},
+"yala": {
+"freq": 0.0227,
+"days": 1,
+"of": 44
+}
+}
+},
+"brakit1": {
+"sites": {
+"bundala": {
+"freq": 0.907,
+"days": 39,
+"of": 43
+},
+"galle": {
+"freq": 0.087,
+"days": 2,
+"of": 23
+},
+"horton": {
+"freq": 0.7442,
+"days": 32,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.1316,
+"days": 5,
+"of": 38
+},
+"makandawa": {
+"freq": 0.069,
+"days": 2,
+"of": 29
+},
+"mirissa": {
+"freq": 0.3684,
+"days": 7,
+"of": 19
+},
+"nuwara": {
+"freq": 0.2059,
+"days": 7,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.1765,
+"days": 6,
+"of": 34
+},
+"tissa": {
+"freq": 0.6667,
+"days": 24,
+"of": 36
+},
+"victoria": {
+"freq": 0.1875,
+"days": 9,
+"of": 48
+},
+"yala": {
+"freq": 0.8864,
+"days": 39,
+"of": 44
+}
+}
+},
+"brasta1": {
+"sites": {
+"bundala": {
+"freq": 0.6279,
+"days": 27,
+"of": 43
+},
+"yala": {
+"freq": 0.2727,
+"days": 12,
+"of": 44
+}
+}
+},
+"brbfly2": {
+"sites": {
+"horton": {
+"freq": 0.0465,
+"days": 2,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.2895,
+"days": 11,
+"of": 38
+},
+"makandawa": {
+"freq": 0.4483,
+"days": 13,
+"of": 29
+},
+"nuwara": {
+"freq": 0.1176,
+"days": 4,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.5882,
+"days": 20,
+"of": 34
+},
+"victoria": {
+"freq": 0.375,
+"days": 18,
+"of": 48
+},
+"yala": {
+"freq": 0.0455,
+"days": 2,
+"of": 44
+}
+}
+},
+"brbnee1": {
+"sites": {
+"bundala": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.0789,
+"days": 3,
+"of": 38
+},
+"sinharaja": {
+"freq": 0.1471,
+"days": 5,
+"of": 34
+},
+"yala": {
+"freq": 0.0227,
+"days": 1,
+"of": 44
+}
+}
+},
+"brfowl1": {
+"sites": {
+"sinharaja": {
+"freq": 0.0588,
+"days": 2,
+"of": 34
+},
+"tissa": {
+"freq": 0.4167,
+"days": 15,
+"of": 36
+},
+"yala": {
+"freq": 0.5455,
+"days": 24,
+"of": 44
+}
+}
+},
+"brhbar1": {
+"sites": {
+"bundala": {
+"freq": 0.2558,
+"days": 11,
+"of": 43
+},
+"galle": {
+"freq": 0.2174,
+"days": 5,
+"of": 23
+},
+"horton": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.1579,
+"days": 6,
+"of": 38
+},
+"makandawa": {
+"freq": 0.1034,
+"days": 3,
+"of": 29
+},
+"mirissa": {
+"freq": 0.3158,
+"days": 6,
+"of": 19
+},
+"nuwara": {
+"freq": 0.0588,
+"days": 2,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.3529,
+"days": 12,
+"of": 34
+},
+"tissa": {
+"freq": 0.6389,
+"days": 23,
+"of": 36
+},
+"victoria": {
+"freq": 0.0625,
+"days": 3,
+"of": 48
+},
+"yala": {
+"freq": 0.6364,
+"days": 28,
+"of": 44
+}
+}
+},
+"briter1": {
+"sites": {
+"bundala": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"mirissa": {
+"freq": 0.1053,
+"days": 2,
+"of": 19
+}
+}
+},
+"brnhao1": {
+"sites": {
+"makandawa": {
+"freq": 0.1034,
+"days": 3,
+"of": 29
+},
+"mirissa": {
+"freq": 0.0526,
+"days": 1,
+"of": 19
+},
+"sinharaja": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"tissa": {
+"freq": 0.5278,
+"days": 19,
+"of": 36
+}
+}
+},
+"brnshr": {
+"sites": {
+"bundala": {
+"freq": 0.6512,
+"days": 28,
+"of": 43
+},
+"galle": {
+"freq": 0.0435,
+"days": 1,
+"of": 23
+},
+"horton": {
+"freq": 0.2558,
+"days": 11,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.1842,
+"days": 7,
+"of": 38
+},
+"makandawa": {
+"freq": 0.2069,
+"days": 6,
+"of": 29
+},
+"nuwara": {
+"freq": 0.2059,
+"days": 7,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.2647,
+"days": 9,
+"of": 34
+},
+"tissa": {
+"freq": 0.2222,
+"days": 8,
+"of": 36
+},
+"victoria": {
+"freq": 0.5,
+"days": 24,
+"of": 48
+},
+"yala": {
+"freq": 0.8409,
+"days": 37,
+"of": 44
+}
+}
+},
+"brwowl1": {
+"sites": {
+"horton": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"makandawa": {
+"freq": 0.0345,
+"days": 1,
+"of": 29
+}
+}
+},
+"btbeat1": {
+"sites": {
+"bundala": {
+"freq": 0.9535,
+"days": 41,
+"of": 43
+},
+"galle": {
+"freq": 0.3913,
+"days": 9,
+"of": 23
+},
+"horton": {
+"freq": 0.3023,
+"days": 13,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.1053,
+"days": 4,
+"of": 38
+},
+"makandawa": {
+"freq": 0.3103,
+"days": 9,
+"of": 29
+},
+"mirissa": {
+"freq": 0.2105,
+"days": 4,
+"of": 19
+},
+"nuwara": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.4118,
+"days": 14,
+"of": 34
+},
+"tissa": {
+"freq": 0.7222,
+"days": 26,
+"of": 36
+},
+"victoria": {
+"freq": 0.0417,
+"days": 2,
+"of": 48
+},
+"yala": {
+"freq": 0.9318,
+"days": 41,
+"of": 44
+}
+}
+},
+"bwfshr1": {
+"sites": {
+"horton": {
+"freq": 0.2558,
+"days": 11,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.2632,
+"days": 10,
+"of": 38
+},
+"makandawa": {
+"freq": 0.2069,
+"days": 6,
+"of": 29
+},
+"nuwara": {
+"freq": 0.2647,
+"days": 9,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.1176,
+"days": 4,
+"of": 34
+},
+"tissa": {
+"freq": 0.0278,
+"days": 1,
+"of": 36
+},
+"victoria": {
+"freq": 0.2708,
+"days": 13,
+"of": 48
+}
+}
+},
+"caster1": {
+"sites": {
+"bundala": {
+"freq": 0.814,
+"days": 35,
+"of": 43
+},
+"mirissa": {
+"freq": 0.0526,
+"days": 1,
+"of": 19
+},
+"tissa": {
+"freq": 0.25,
+"days": 9,
+"of": 36
+},
+"yala": {
+"freq": 0.2273,
+"days": 10,
+"of": 44
+}
+}
+},
+"categr2": {
+"sites": {
+"bundala": {
+"freq": 0.907,
+"days": 39,
+"of": 43
+},
+"galle": {
+"freq": 0.5217,
+"days": 12,
+"of": 23
+},
+"horton": {
+"freq": 0.093,
+"days": 4,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.1316,
+"days": 5,
+"of": 38
+},
+"makandawa": {
+"freq": 0.0345,
+"days": 1,
+"of": 29
+},
+"mirissa": {
+"freq": 0.1053,
+"days": 2,
+"of": 19
+},
+"nuwara": {
+"freq": 0.3235,
+"days": 11,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.1471,
+"days": 5,
+"of": 34
+},
+"tissa": {
+"freq": 0.75,
+"days": 27,
+"of": 36
+},
+"victoria": {
+"freq": 0.9792,
+"days": 47,
+"of": 48
+},
+"yala": {
+"freq": 0.75,
+"days": 33,
+"of": 44
+}
+}
+},
+"ceghor1": {
+"sites": {
+"kitulgala": {
+"freq": 0.4474,
+"days": 17,
+"of": 38
+},
+"makandawa": {
+"freq": 0.6207,
+"days": 18,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.5588,
+"days": 19,
+"of": 34
+},
+"victoria": {
+"freq": 0.0208,
+"days": 1,
+"of": 48
+},
+"yala": {
+"freq": 0.2045,
+"days": 9,
+"of": 44
+}
+}
+},
+"cehpar1": {
+"sites": {
+"bundala": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.5263,
+"days": 20,
+"of": 38
+},
+"makandawa": {
+"freq": 0.4828,
+"days": 14,
+"of": 29
+},
+"nuwara": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.6471,
+"days": 22,
+"of": 34
+},
+"victoria": {
+"freq": 0.0208,
+"days": 1,
+"of": 48
+}
+}
+},
+"ceybuw1": {
+"sites": {
+"horton": {
+"freq": 0.6744,
+"days": 29,
+"of": 43
+},
+"nuwara": {
+"freq": 0.1471,
+"days": 5,
+"of": 34
+},
+"victoria": {
+"freq": 0.0208,
+"days": 1,
+"of": 48
+}
+}
+},
+"ceyfro1": {
+"sites": {
+"kitulgala": {
+"freq": 0.0263,
+"days": 1,
+"of": 38
+},
+"makandawa": {
+"freq": 0.2414,
+"days": 7,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.5294,
+"days": 18,
+"of": 34
+}
+}
+},
+"ceyjun1": {
+"sites": {
+"bundala": {
+"freq": 0.6279,
+"days": 27,
+"of": 43
+},
+"horton": {
+"freq": 0.7674,
+"days": 33,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.1579,
+"days": 6,
+"of": 38
+},
+"makandawa": {
+"freq": 0.5172,
+"days": 15,
+"of": 29
+},
+"nuwara": {
+"freq": 0.2647,
+"days": 9,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.7059,
+"days": 24,
+"of": 34
+},
+"tissa": {
+"freq": 0.1389,
+"days": 5,
+"of": 36
+},
+"victoria": {
+"freq": 0.0417,
+"days": 2,
+"of": 48
+},
+"yala": {
+"freq": 0.9091,
+"days": 40,
+"of": 44
+}
+}
+},
+"ceymag1": {
+"sites": {
+"kitulgala": {
+"freq": 0.0526,
+"days": 2,
+"of": 38
+},
+"nuwara": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.6765,
+"days": 23,
+"of": 34
+}
+}
+},
+"ceymyn1": {
+"sites": {
+"kitulgala": {
+"freq": 0.0526,
+"days": 2,
+"of": 38
+},
+"makandawa": {
+"freq": 0.069,
+"days": 2,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.4412,
+"days": 15,
+"of": 34
+},
+"tissa": {
+"freq": 0.0278,
+"days": 1,
+"of": 36
+}
+}
+},
+"ceyspu1": {
+"sites": {
+"kitulgala": {
+"freq": 0.0263,
+"days": 1,
+"of": 38
+},
+"makandawa": {
+"freq": 0.069,
+"days": 2,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.4118,
+"days": 14,
+"of": 34
+}
+}
+},
+"ceywhe1": {
+"sites": {
+"horton": {
+"freq": 0.9302,
+"days": 40,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.0263,
+"days": 1,
+"of": 38
+},
+"makandawa": {
+"freq": 0.0345,
+"days": 1,
+"of": 29
+},
+"nuwara": {
+"freq": 0.7059,
+"days": 24,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.1176,
+"days": 4,
+"of": 34
+},
+"victoria": {
+"freq": 0.8542,
+"days": 41,
+"of": 48
+}
+}
+},
+"ceywht1": {
+"sites": {
+"horton": {
+"freq": 0.7674,
+"days": 33,
+"of": 43
+},
+"nuwara": {
+"freq": 0.2059,
+"days": 7,
+"of": 34
+},
+"victoria": {
+"freq": 0.0417,
+"days": 2,
+"of": 48
+}
+}
+},
+"ceywop1": {
+"sites": {
+"horton": {
+"freq": 0.8372,
+"days": 36,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.0263,
+"days": 1,
+"of": 38
+},
+"nuwara": {
+"freq": 0.1471,
+"days": 5,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.1471,
+"days": 5,
+"of": 34
+}
+}
+},
+"chbeat1": {
+"sites": {
+"bundala": {
+"freq": 0.2326,
+"days": 10,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.2632,
+"days": 10,
+"of": 38
+},
+"makandawa": {
+"freq": 0.3103,
+"days": 9,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.1176,
+"days": 4,
+"of": 34
+},
+"tissa": {
+"freq": 0.0278,
+"days": 1,
+"of": 36
+},
+"yala": {
+"freq": 0.6364,
+"days": 28,
+"of": 44
+}
+}
+},
+"chbowl1": {
+"sites": {
+"kitulgala": {
+"freq": 0.2105,
+"days": 8,
+"of": 38
+},
+"makandawa": {
+"freq": 0.3448,
+"days": 10,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.3235,
+"days": 11,
+"of": 34
+}
+}
+},
+"chwcuc1": {
+"sites": {
+"bundala": {
+"freq": 0.093,
+"days": 4,
+"of": 43
+}
+}
+},
+"cinbit1": {
+"sites": {
+"bundala": {
+"freq": 0.1395,
+"days": 6,
+"of": 43
+},
+"tissa": {
+"freq": 0.0556,
+"days": 2,
+"of": 36
+},
+"yala": {
+"freq": 0.0227,
+"days": 1,
+"of": 44
+}
+}
+},
+"cintit13": {
+"sites": {
+"horton": {
+"freq": 0.7209,
+"days": 31,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.0789,
+"days": 3,
+"of": 38
+},
+"nuwara": {
+"freq": 0.5882,
+"days": 20,
+"of": 34
+},
+"victoria": {
+"freq": 0.75,
+"days": 36,
+"of": 48
+},
+"yala": {
+"freq": 0.0227,
+"days": 1,
+"of": 44
+}
+}
+},
+"citwag": {
+"sites": {
+"kitulgala": {
+"freq": 0.0263,
+"days": 1,
+"of": 38
+}
+}
+},
+"clrwar1": {
+"sites": {
+"bundala": {
+"freq": 0.5581,
+"days": 24,
+"of": 43
+},
+"tissa": {
+"freq": 0.2778,
+"days": 10,
+"of": 36
+},
+"yala": {
+"freq": 0.0227,
+"days": 1,
+"of": 44
+}
+}
+},
+"cohcuc1": {
+"sites": {
+"horton": {
+"freq": 0.2558,
+"days": 11,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.0263,
+"days": 1,
+"of": 38
+},
+"nuwara": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.0588,
+"days": 2,
+"of": 34
+},
+"victoria": {
+"freq": 0.0208,
+"days": 1,
+"of": 48
+},
+"yala": {
+"freq": 0.0227,
+"days": 1,
+"of": 44
+}
+}
+},
+"colpra": {
+"sites": {
+"bundala": {
+"freq": 0.0698,
+"days": 3,
+"of": 43
+},
+"yala": {
+"freq": 0.0227,
+"days": 1,
+"of": 44
+}
+}
+},
+"combuz1": {
+"sites": {
+"horton": {
+"freq": 0.4419,
+"days": 19,
+"of": 43
+}
+}
+},
+"comchi1": {
+"sites": {
+"victoria": {
+"freq": 0.1042,
+"days": 5,
+"of": 48
+}
+}
+},
+"comduc2": {
+"sites": {
+"yala": {
+"freq": 0.1818,
+"days": 8,
+"of": 44
+}
+}
+},
+"comgre": {
+"sites": {
+"bundala": {
+"freq": 0.7907,
+"days": 34,
+"of": 43
+},
+"yala": {
+"freq": 0.4773,
+"days": 21,
+"of": 44
+}
+}
+},
+"comior1": {
+"sites": {
+"bundala": {
+"freq": 0.4884,
+"days": 21,
+"of": 43
+},
+"horton": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.2368,
+"days": 9,
+"of": 38
+},
+"makandawa": {
+"freq": 0.1724,
+"days": 5,
+"of": 29
+},
+"mirissa": {
+"freq": 0.0526,
+"days": 1,
+"of": 19
+},
+"sinharaja": {
+"freq": 0.2647,
+"days": 9,
+"of": 34
+},
+"tissa": {
+"freq": 0.1667,
+"days": 6,
+"of": 36
+},
+"yala": {
+"freq": 0.7955,
+"days": 35,
+"of": 44
+}
+}
+},
+"comkin1": {
+"sites": {
+"bundala": {
+"freq": 0.7442,
+"days": 32,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.0789,
+"days": 3,
+"of": 38
+},
+"makandawa": {
+"freq": 0.069,
+"days": 2,
+"of": 29
+},
+"mirissa": {
+"freq": 0.0526,
+"days": 1,
+"of": 19
+},
+"sinharaja": {
+"freq": 0.0882,
+"days": 3,
+"of": 34
+},
+"tissa": {
+"freq": 0.3611,
+"days": 13,
+"of": 36
+},
+"victoria": {
+"freq": 0.1458,
+"days": 7,
+"of": 48
+},
+"yala": {
+"freq": 0.8636,
+"days": 38,
+"of": 44
+}
+}
+},
+"commoo3": {
+"sites": {
+"bundala": {
+"freq": 0.5581,
+"days": 24,
+"of": 43
+},
+"tissa": {
+"freq": 0.2778,
+"days": 10,
+"of": 36
+},
+"yala": {
+"freq": 0.0455,
+"days": 2,
+"of": 44
+}
+}
+},
+"commyn": {
+"sites": {
+"bundala": {
+"freq": 0.907,
+"days": 39,
+"of": 43
+},
+"galle": {
+"freq": 0.6522,
+"days": 15,
+"of": 23
+},
+"horton": {
+"freq": 0.0698,
+"days": 3,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.4737,
+"days": 18,
+"of": 38
+},
+"makandawa": {
+"freq": 0.3448,
+"days": 10,
+"of": 29
+},
+"mirissa": {
+"freq": 0.2105,
+"days": 4,
+"of": 19
+},
+"nuwara": {
+"freq": 0.4706,
+"days": 16,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.2941,
+"days": 10,
+"of": 34
+},
+"tissa": {
+"freq": 0.7222,
+"days": 26,
+"of": 36
+},
+"victoria": {
+"freq": 0.8542,
+"days": 41,
+"of": 48
+},
+"yala": {
+"freq": 0.8636,
+"days": 38,
+"of": 44
+}
+}
+},
+"compea": {
+"sites": {
+"bundala": {
+"freq": 0.9302,
+"days": 40,
+"of": 43
+},
+"galle": {
+"freq": 0.6087,
+"days": 14,
+"of": 23
+},
+"horton": {
+"freq": 0.2326,
+"days": 10,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.1053,
+"days": 4,
+"of": 38
+},
+"makandawa": {
+"freq": 0.069,
+"days": 2,
+"of": 29
+},
+"mirissa": {
+"freq": 0.1579,
+"days": 3,
+"of": 19
+},
+"nuwara": {
+"freq": 0.0588,
+"days": 2,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.3824,
+"days": 13,
+"of": 34
+},
+"tissa": {
+"freq": 0.6944,
+"days": 25,
+"of": 36
+},
+"yala": {
+"freq": 0.9545,
+"days": 42,
+"of": 44
+}
+}
+},
+"comred1": {
+"sites": {
+"bundala": {
+"freq": 1.0,
+"days": 43,
+"of": 43
+},
+"tissa": {
+"freq": 0.0556,
+"days": 2,
+"of": 36
+},
+"yala": {
+"freq": 0.6818,
+"days": 30,
+"of": 44
+}
+}
+},
+"comsan": {
+"sites": {
+"bundala": {
+"freq": 0.8605,
+"days": 37,
+"of": 43
+},
+"galle": {
+"freq": 0.2174,
+"days": 5,
+"of": 23
+},
+"horton": {
+"freq": 0.0465,
+"days": 2,
+"of": 43
+},
+"nuwara": {
+"freq": 0.0588,
+"days": 2,
+"of": 34
+},
+"tissa": {
+"freq": 0.0833,
+"days": 3,
+"of": 36
+},
+"victoria": {
+"freq": 0.7917,
+"days": 38,
+"of": 48
+},
+"yala": {
+"freq": 0.7045,
+"days": 31,
+"of": 44
+}
+}
+},
+"comtai1": {
+"sites": {
+"bundala": {
+"freq": 0.3256,
+"days": 14,
+"of": 43
+},
+"galle": {
+"freq": 0.1304,
+"days": 3,
+"of": 23
+},
+"horton": {
+"freq": 0.5349,
+"days": 23,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.4211,
+"days": 16,
+"of": 38
+},
+"makandawa": {
+"freq": 0.3448,
+"days": 10,
+"of": 29
+},
+"mirissa": {
+"freq": 0.1579,
+"days": 3,
+"of": 19
+},
+"nuwara": {
+"freq": 0.2941,
+"days": 10,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.2059,
+"days": 7,
+"of": 34
+},
+"tissa": {
+"freq": 0.2778,
+"days": 10,
+"of": 36
+},
+"victoria": {
+"freq": 0.8333,
+"days": 40,
+"of": 48
+},
+"yala": {
+"freq": 0.5227,
+"days": 23,
+"of": 44
+}
+}
+},
+"comter": {
+"sites": {
+"bundala": {
+"freq": 0.3953,
+"days": 17,
+"of": 43
+},
+"galle": {
+"freq": 0.0435,
+"days": 1,
+"of": 23
+},
+"mirissa": {
+"freq": 0.0526,
+"days": 1,
+"of": 19
+},
+"tissa": {
+"freq": 0.0278,
+"days": 1,
+"of": 36
+},
+"yala": {
+"freq": 0.0682,
+"days": 3,
+"of": 44
+}
+}
+},
+"copbar1": {
+"sites": {
+"bundala": {
+"freq": 0.0465,
+"days": 2,
+"of": 43
+},
+"sinharaja": {
+"freq": 0.0588,
+"days": 2,
+"of": 34
+},
+"tissa": {
+"freq": 0.4167,
+"days": 15,
+"of": 36
+},
+"yala": {
+"freq": 0.5909,
+"days": 26,
+"of": 44
+}
+}
+},
+"copgoo1": {
+"sites": {
+"bundala": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"tissa": {
+"freq": 0.2222,
+"days": 8,
+"of": 36
+},
+"yala": {
+"freq": 0.1591,
+"days": 7,
+"of": 44
+}
+}
+},
+"corplo": {
+"sites": {
+"bundala": {
+"freq": 0.0698,
+"days": 3,
+"of": 43
+}
+}
+},
+"crbfla1": {
+"sites": {
+"horton": {
+"freq": 0.3488,
+"days": 15,
+"of": 43
+},
+"makandawa": {
+"freq": 0.2759,
+"days": 8,
+"of": 29
+},
+"nuwara": {
+"freq": 0.1765,
+"days": 6,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.3529,
+"days": 12,
+"of": 34
+},
+"yala": {
+"freq": 0.0682,
+"days": 3,
+"of": 44
+}
+}
+},
+"cretre1": {
+"sites": {
+"bundala": {
+"freq": 0.1395,
+"days": 6,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.0789,
+"days": 3,
+"of": 38
+},
+"makandawa": {
+"freq": 0.069,
+"days": 2,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.1471,
+"days": 5,
+"of": 34
+},
+"tissa": {
+"freq": 0.1389,
+"days": 5,
+"of": 36
+},
+"victoria": {
+"freq": 0.0208,
+"days": 1,
+"of": 48
+},
+"yala": {
+"freq": 0.6364,
+"days": 28,
+"of": 44
+}
+}
+},
+"crfbar3": {
+"sites": {
+"galle": {
+"freq": 0.1304,
+"days": 3,
+"of": 23
+},
+"kitulgala": {
+"freq": 0.1053,
+"days": 4,
+"of": 38
+},
+"makandawa": {
+"freq": 0.1379,
+"days": 4,
+"of": 29
+},
+"mirissa": {
+"freq": 0.1053,
+"days": 2,
+"of": 19
+},
+"sinharaja": {
+"freq": 0.2941,
+"days": 10,
+"of": 34
+},
+"yala": {
+"freq": 0.0682,
+"days": 3,
+"of": 44
+}
+}
+},
+"crseag1": {
+"sites": {
+"bundala": {
+"freq": 0.2791,
+"days": 12,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.2368,
+"days": 9,
+"of": 38
+},
+"makandawa": {
+"freq": 0.3793,
+"days": 11,
+"of": 29
+},
+"nuwara": {
+"freq": 0.0588,
+"days": 2,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.2353,
+"days": 8,
+"of": 34
+},
+"victoria": {
+"freq": 0.0208,
+"days": 1,
+"of": 48
+},
+"yala": {
+"freq": 0.5682,
+"days": 25,
+"of": 44
+}
+}
+},
+"cursan": {
+"sites": {
+"bundala": {
+"freq": 0.5349,
+"days": 23,
+"of": 43
+},
+"yala": {
+"freq": 0.0682,
+"days": 3,
+"of": 44
+}
+}
+},
+"dafbab1": {
+"sites": {
+"horton": {
+"freq": 0.3488,
+"days": 15,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.0526,
+"days": 2,
+"of": 38
+},
+"makandawa": {
+"freq": 0.2069,
+"days": 6,
+"of": 29
+},
+"nuwara": {
+"freq": 0.0882,
+"days": 3,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.5,
+"days": 17,
+"of": 34
+},
+"victoria": {
+"freq": 0.0417,
+"days": 2,
+"of": 48
+},
+"yala": {
+"freq": 0.0455,
+"days": 2,
+"of": 44
+}
+}
+},
+"darter2": {
+"sites": {
+"bundala": {
+"freq": 0.907,
+"days": 39,
+"of": 43
+},
+"galle": {
+"freq": 0.0435,
+"days": 1,
+"of": 23
+},
+"nuwara": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"tissa": {
+"freq": 0.7222,
+"days": 26,
+"of": 36
+},
+"yala": {
+"freq": 0.9091,
+"days": 40,
+"of": 44
+}
+}
+},
+"dubfly3": {
+"sites": {
+"horton": {
+"freq": 0.907,
+"days": 39,
+"of": 43
+},
+"makandawa": {
+"freq": 0.0345,
+"days": 1,
+"of": 29
+},
+"nuwara": {
+"freq": 0.6176,
+"days": 21,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"victoria": {
+"freq": 0.1458,
+"days": 7,
+"of": 48
+}
+}
+},
+"eabowl1": {
+"sites": {
+"tissa": {
+"freq": 0.4167,
+"days": 15,
+"of": 36
+},
+"yala": {
+"freq": 0.0227,
+"days": 1,
+"of": 44
+}
+}
+},
+"eaywag": {
+"sites": {
+"bundala": {
+"freq": 0.093,
+"days": 4,
+"of": 43
+}
+}
+},
+"emedov2": {
+"sites": {
+"bundala": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"horton": {
+"freq": 0.186,
+"days": 8,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.2368,
+"days": 9,
+"of": 38
+},
+"makandawa": {
+"freq": 0.3448,
+"days": 10,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.5294,
+"days": 18,
+"of": 34
+},
+"yala": {
+"freq": 0.1591,
+"days": 7,
+"of": 44
+}
+}
+},
+"eubeat1": {
+"sites": {
+"yala": {
+"freq": 0.0455,
+"days": 2,
+"of": 44
+}
+}
+},
+"eucdov": {
+"sites": {
+"bundala": {
+"freq": 0.5581,
+"days": 24,
+"of": 43
+},
+"tissa": {
+"freq": 0.0278,
+"days": 1,
+"of": 36
+},
+"yala": {
+"freq": 0.0909,
+"days": 4,
+"of": 44
+}
+}
+},
+"eurbla2": {
+"sites": {
+"horton": {
+"freq": 0.814,
+"days": 35,
+"of": 43
+},
+"nuwara": {
+"freq": 0.1765,
+"days": 6,
+"of": 34
+},
+"victoria": {
+"freq": 0.1042,
+"days": 5,
+"of": 48
+}
+}
+},
+"eurcur": {
+"sites": {
+"bundala": {
+"freq": 0.1395,
+"days": 6,
+"of": 43
+},
+"yala": {
+"freq": 0.0227,
+"days": 1,
+"of": 44
+}
+}
+},
+"eurkes": {
+"sites": {
+"horton": {
+"freq": 0.2326,
+"days": 10,
+"of": 43
+},
+"yala": {
+"freq": 0.0909,
+"days": 4,
+"of": 44
+}
+}
+},
+"eurspo1": {
+"sites": {
+"bundala": {
+"freq": 0.9535,
+"days": 41,
+"of": 43
+},
+"tissa": {
+"freq": 0.1944,
+"days": 7,
+"of": 36
+},
+"yala": {
+"freq": 0.7273,
+"days": 32,
+"of": 44
+}
+}
+},
+"forwag1": {
+"sites": {
+"horton": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"nuwara": {
+"freq": 0.1176,
+"days": 4,
+"of": 34
+},
+"victoria": {
+"freq": 0.8125,
+"days": 39,
+"of": 48
+},
+"yala": {
+"freq": 0.1136,
+"days": 5,
+"of": 44
+}
+}
+},
+"gargan": {
+"sites": {
+"bundala": {
+"freq": 0.1163,
+"days": 5,
+"of": 43
+},
+"tissa": {
+"freq": 0.0278,
+"days": 1,
+"of": 36
+},
+"yala": {
+"freq": 0.1136,
+"days": 5,
+"of": 44
+}
+}
+},
+"gloibi": {
+"sites": {
+"bundala": {
+"freq": 0.8837,
+"days": 38,
+"of": 43
+},
+"tissa": {
+"freq": 0.0278,
+"days": 1,
+"of": 36
+},
+"yala": {
+"freq": 0.3182,
+"days": 14,
+"of": 44
+}
+}
+},
+"gnwtea": {
+"sites": {
+"tissa": {
+"freq": 0.0278,
+"days": 1,
+"of": 36
+}
+}
+},
+"goflea1": {
+"sites": {
+"bundala": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.1053,
+"days": 4,
+"of": 38
+},
+"makandawa": {
+"freq": 0.1379,
+"days": 4,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.2059,
+"days": 7,
+"of": 34
+},
+"tissa": {
+"freq": 0.0556,
+"days": 2,
+"of": 36
+},
+"yala": {
+"freq": 0.0227,
+"days": 1,
+"of": 44
+}
+}
+},
+"graher1": {
+"sites": {
+"bundala": {
+"freq": 0.9302,
+"days": 40,
+"of": 43
+},
+"galle": {
+"freq": 0.0435,
+"days": 1,
+"of": 23
+},
+"nuwara": {
+"freq": 0.2647,
+"days": 9,
+"of": 34
+},
+"tissa": {
+"freq": 0.8056,
+"days": 29,
+"of": 36
+},
+"victoria": {
+"freq": 0.0417,
+"days": 2,
+"of": 48
+},
+"yala": {
+"freq": 0.8864,
+"days": 39,
+"of": 44
+}
+}
+},
+"grbcou2": {
+"sites": {
+"kitulgala": {
+"freq": 0.1316,
+"days": 5,
+"of": 38
+},
+"makandawa": {
+"freq": 0.2069,
+"days": 6,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.2941,
+"days": 10,
+"of": 34
+}
+}
+},
+"grcter1": {
+"sites": {
+"bundala": {
+"freq": 0.2791,
+"days": 12,
+"of": 43
+},
+"galle": {
+"freq": 0.2609,
+"days": 6,
+"of": 23
+},
+"mirissa": {
+"freq": 0.4211,
+"days": 8,
+"of": 19
+},
+"tissa": {
+"freq": 0.0278,
+"days": 1,
+"of": 36
+}
+}
+},
+"grecor": {
+"sites": {
+"bundala": {
+"freq": 0.3721,
+"days": 16,
+"of": 43
+},
+"makandawa": {
+"freq": 0.0345,
+"days": 1,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"tissa": {
+"freq": 0.4722,
+"days": 17,
+"of": 36
+},
+"victoria": {
+"freq": 0.0208,
+"days": 1,
+"of": 48
+},
+"yala": {
+"freq": 0.2273,
+"days": 10,
+"of": 44
+}
+}
+},
+"grecou1": {
+"sites": {
+"bundala": {
+"freq": 0.5349,
+"days": 23,
+"of": 43
+},
+"horton": {
+"freq": 0.4651,
+"days": 20,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.3947,
+"days": 15,
+"of": 38
+},
+"makandawa": {
+"freq": 0.5172,
+"days": 15,
+"of": 29
+},
+"nuwara": {
+"freq": 0.1765,
+"days": 6,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.1765,
+"days": 6,
+"of": 34
+},
+"tissa": {
+"freq": 0.3056,
+"days": 11,
+"of": 36
+},
+"victoria": {
+"freq": 0.1042,
+"days": 5,
+"of": 48
+},
+"yala": {
+"freq": 0.5227,
+"days": 23,
+"of": 44
+}
+}
+},
+"greegr": {
+"sites": {
+"bundala": {
+"freq": 0.9302,
+"days": 40,
+"of": 43
+},
+"galle": {
+"freq": 0.0435,
+"days": 1,
+"of": 23
+},
+"nuwara": {
+"freq": 0.0588,
+"days": 2,
+"of": 34
+},
+"tissa": {
+"freq": 0.5833,
+"days": 21,
+"of": 36
+},
+"victoria": {
+"freq": 0.0417,
+"days": 2,
+"of": 48
+},
+"yala": {
+"freq": 0.8864,
+"days": 39,
+"of": 44
+}
+}
+},
+"grekno": {
+"sites": {
+"bundala": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+}
+}
+},
+"gripig1": {
+"sites": {
+"bundala": {
+"freq": 0.5814,
+"days": 25,
+"of": 43
+},
+"galle": {
+"freq": 0.2174,
+"days": 5,
+"of": 23
+},
+"horton": {
+"freq": 0.0465,
+"days": 2,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.5789,
+"days": 22,
+"of": 38
+},
+"makandawa": {
+"freq": 0.6552,
+"days": 19,
+"of": 29
+},
+"mirissa": {
+"freq": 0.0526,
+"days": 1,
+"of": 19
+},
+"nuwara": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.4706,
+"days": 16,
+"of": 34
+},
+"tissa": {
+"freq": 0.5833,
+"days": 21,
+"of": 36
+},
+"yala": {
+"freq": 0.7727,
+"days": 34,
+"of": 44
+}
+}
+},
+"grnbee3": {
+"sites": {
+"bundala": {
+"freq": 0.907,
+"days": 39,
+"of": 43
+},
+"sinharaja": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"tissa": {
+"freq": 0.5,
+"days": 18,
+"of": 36
+},
+"yala": {
+"freq": 0.9318,
+"days": 41,
+"of": 44
+}
+}
+},
+"grnsan": {
+"sites": {
+"bundala": {
+"freq": 0.3023,
+"days": 13,
+"of": 43
+},
+"tissa": {
+"freq": 0.0278,
+"days": 1,
+"of": 36
+},
+"victoria": {
+"freq": 0.2083,
+"days": 10,
+"of": 48
+},
+"yala": {
+"freq": 0.2045,
+"days": 9,
+"of": 44
+}
+}
+},
+"grnwar1": {
+"sites": {
+"bundala": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"horton": {
+"freq": 0.5349,
+"days": 23,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.2368,
+"days": 9,
+"of": 38
+},
+"makandawa": {
+"freq": 0.1034,
+"days": 3,
+"of": 29
+},
+"nuwara": {
+"freq": 0.2353,
+"days": 8,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.0882,
+"days": 3,
+"of": 34
+},
+"victoria": {
+"freq": 0.5417,
+"days": 26,
+"of": 48
+},
+"yala": {
+"freq": 0.0455,
+"days": 2,
+"of": 44
+}
+}
+},
+"grpsni1": {
+"sites": {
+"bundala": {
+"freq": 0.186,
+"days": 8,
+"of": 43
+}
+}
+},
+"grsplo": {
+"sites": {
+"bundala": {
+"freq": 0.4186,
+"days": 18,
+"of": 43
+},
+"yala": {
+"freq": 0.1364,
+"days": 6,
+"of": 44
+}
+}
+},
+"grtdro1": {
+"sites": {
+"yala": {
+"freq": 0.0227,
+"days": 1,
+"of": 44
+}
+}
+},
+"grtkne1": {
+"sites": {
+"bundala": {
+"freq": 0.8605,
+"days": 37,
+"of": 43
+},
+"tissa": {
+"freq": 0.0556,
+"days": 2,
+"of": 36
+},
+"yala": {
+"freq": 0.6591,
+"days": 29,
+"of": 44
+}
+}
+},
+"grynig2": {
+"sites": {
+"sinharaja": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+}
+}
+},
+"grywag": {
+"sites": {
+"bundala": {
+"freq": 0.0465,
+"days": 2,
+"of": 43
+},
+"horton": {
+"freq": 0.907,
+"days": 39,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.0789,
+"days": 3,
+"of": 38
+},
+"makandawa": {
+"freq": 0.1379,
+"days": 4,
+"of": 29
+},
+"nuwara": {
+"freq": 0.5,
+"days": 17,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.2647,
+"days": 9,
+"of": 34
+},
+"victoria": {
+"freq": 0.8958,
+"days": 43,
+"of": 48
+},
+"yala": {
+"freq": 0.0682,
+"days": 3,
+"of": 44
+}
+}
+},
+"gubter2": {
+"sites": {
+"bundala": {
+"freq": 0.7907,
+"days": 34,
+"of": 43
+},
+"galle": {
+"freq": 0.3913,
+"days": 9,
+"of": 23
+},
+"mirissa": {
+"freq": 0.2105,
+"days": 4,
+"of": 19
+},
+"tissa": {
+"freq": 0.3611,
+"days": 13,
+"of": 36
+},
+"yala": {
+"freq": 0.5227,
+"days": 23,
+"of": 44
+}
+}
+},
+"gybpri1": {
+"sites": {
+"bundala": {
+"freq": 0.093,
+"days": 4,
+"of": 43
+},
+"yala": {
+"freq": 0.1136,
+"days": 5,
+"of": 44
+}
+}
+},
+"gyhcaf1": {
+"sites": {
+"horton": {
+"freq": 0.6047,
+"days": 26,
+"of": 43
+},
+"nuwara": {
+"freq": 0.4118,
+"days": 14,
+"of": 34
+},
+"victoria": {
+"freq": 0.5417,
+"days": 26,
+"of": 48
+}
+}
+},
+"gyhfie1": {
+"sites": {
+"bundala": {
+"freq": 0.7209,
+"days": 31,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.0263,
+"days": 1,
+"of": 38
+},
+"mirissa": {
+"freq": 0.0526,
+"days": 1,
+"of": 19
+},
+"tissa": {
+"freq": 0.3056,
+"days": 11,
+"of": 36
+},
+"yala": {
+"freq": 0.6364,
+"days": 28,
+"of": 44
+}
+}
+},
+"hoopoe": {
+"sites": {
+"bundala": {
+"freq": 0.4651,
+"days": 20,
+"of": 43
+},
+"sinharaja": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"yala": {
+"freq": 0.7045,
+"days": 31,
+"of": 44
+}
+}
+},
+"houcro1": {
+"sites": {
+"bundala": {
+"freq": 0.6047,
+"days": 26,
+"of": 43
+},
+"galle": {
+"freq": 0.7826,
+"days": 18,
+"of": 23
+},
+"horton": {
+"freq": 0.1395,
+"days": 6,
+"of": 43
+},
+"makandawa": {
+"freq": 0.0345,
+"days": 1,
+"of": 29
+},
+"mirissa": {
+"freq": 0.5263,
+"days": 10,
+"of": 19
+},
+"nuwara": {
+"freq": 0.4118,
+"days": 14,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"tissa": {
+"freq": 0.5833,
+"days": 21,
+"of": 36
+},
+"victoria": {
+"freq": 0.4792,
+"days": 23,
+"of": 48
+},
+"yala": {
+"freq": 0.5227,
+"days": 23,
+"of": 44
+}
+}
+},
+"houspa": {
+"sites": {
+"bundala": {
+"freq": 0.093,
+"days": 4,
+"of": 43
+},
+"galle": {
+"freq": 0.3913,
+"days": 9,
+"of": 23
+},
+"horton": {
+"freq": 0.186,
+"days": 8,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.1053,
+"days": 4,
+"of": 38
+},
+"mirissa": {
+"freq": 0.0526,
+"days": 1,
+"of": 19
+},
+"nuwara": {
+"freq": 0.4706,
+"days": 16,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.0882,
+"days": 3,
+"of": 34
+},
+"tissa": {
+"freq": 0.1111,
+"days": 4,
+"of": 36
+},
+"victoria": {
+"freq": 0.8125,
+"days": 39,
+"of": 48
+},
+"yala": {
+"freq": 0.5682,
+"days": 25,
+"of": 44
+}
+}
+},
+"inbrob1": {
+"sites": {
+"bundala": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"horton": {
+"freq": 0.3023,
+"days": 13,
+"of": 43
+},
+"nuwara": {
+"freq": 0.2647,
+"days": 9,
+"of": 34
+},
+"victoria": {
+"freq": 0.4583,
+"days": 22,
+"of": 48
+}
+}
+},
+"indcor1": {
+"sites": {
+"bundala": {
+"freq": 0.7674,
+"days": 33,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.0263,
+"days": 1,
+"of": 38
+},
+"nuwara": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"tissa": {
+"freq": 0.6389,
+"days": 23,
+"of": 36
+},
+"yala": {
+"freq": 0.5682,
+"days": 25,
+"of": 44
+}
+}
+},
+"indcuc1": {
+"sites": {
+"bundala": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+}
+}
+},
+"indnig1": {
+"sites": {
+"bundala": {
+"freq": 0.1395,
+"days": 6,
+"of": 43
+},
+"sinharaja": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"yala": {
+"freq": 0.2727,
+"days": 12,
+"of": 44
+}
+}
+},
+"indpit1": {
+"sites": {
+"kitulgala": {
+"freq": 0.0789,
+"days": 3,
+"of": 38
+},
+"makandawa": {
+"freq": 0.2759,
+"days": 8,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.1176,
+"days": 4,
+"of": 34
+},
+"tissa": {
+"freq": 0.0556,
+"days": 2,
+"of": 36
+},
+"victoria": {
+"freq": 0.3958,
+"days": 19,
+"of": 48
+},
+"yala": {
+"freq": 0.2045,
+"days": 9,
+"of": 44
+}
+}
+},
+"indrob1": {
+"sites": {
+"bundala": {
+"freq": 0.814,
+"days": 35,
+"of": 43
+},
+"galle": {
+"freq": 0.1304,
+"days": 3,
+"of": 23
+},
+"horton": {
+"freq": 0.0465,
+"days": 2,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.0263,
+"days": 1,
+"of": 38
+},
+"mirissa": {
+"freq": 0.0526,
+"days": 1,
+"of": 19
+},
+"nuwara": {
+"freq": 0.0588,
+"days": 2,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"tissa": {
+"freq": 0.1667,
+"days": 6,
+"of": 36
+},
+"victoria": {
+"freq": 0.0208,
+"days": 1,
+"of": 48
+},
+"yala": {
+"freq": 0.9318,
+"days": 41,
+"of": 44
+}
+}
+},
+"indrol2": {
+"sites": {
+"bundala": {
+"freq": 0.3256,
+"days": 14,
+"of": 43
+},
+"galle": {
+"freq": 0.0435,
+"days": 1,
+"of": 23
+},
+"yala": {
+"freq": 0.1364,
+"days": 6,
+"of": 44
+}
+}
+},
+"indsil": {
+"sites": {
+"bundala": {
+"freq": 0.1395,
+"days": 6,
+"of": 43
+},
+"yala": {
+"freq": 0.0455,
+"days": 2,
+"of": 44
+}
+}
+},
+"indswi1": {
+"sites": {
+"bundala": {
+"freq": 0.1163,
+"days": 5,
+"of": 43
+},
+"galle": {
+"freq": 0.2609,
+"days": 6,
+"of": 23
+},
+"horton": {
+"freq": 0.1395,
+"days": 6,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.4211,
+"days": 16,
+"of": 38
+},
+"makandawa": {
+"freq": 0.3793,
+"days": 11,
+"of": 29
+},
+"mirissa": {
+"freq": 0.0526,
+"days": 1,
+"of": 19
+},
+"nuwara": {
+"freq": 0.1471,
+"days": 5,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.1765,
+"days": 6,
+"of": 34
+},
+"tissa": {
+"freq": 0.0278,
+"days": 1,
+"of": 36
+},
+"victoria": {
+"freq": 0.2083,
+"days": 10,
+"of": 48
+},
+"yala": {
+"freq": 0.0909,
+"days": 4,
+"of": 44
+}
+}
+},
+"indthk1": {
+"sites": {
+"bundala": {
+"freq": 0.6279,
+"days": 27,
+"of": 43
+},
+"tissa": {
+"freq": 0.0278,
+"days": 1,
+"of": 36
+},
+"yala": {
+"freq": 0.1136,
+"days": 5,
+"of": 44
+}
+}
+},
+"indwhe1": {
+"sites": {
+"bundala": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"horton": {
+"freq": 0.0465,
+"days": 2,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.3158,
+"days": 12,
+"of": 38
+},
+"makandawa": {
+"freq": 0.2759,
+"days": 8,
+"of": 29
+},
+"mirissa": {
+"freq": 0.0526,
+"days": 1,
+"of": 19
+},
+"nuwara": {
+"freq": 0.0588,
+"days": 2,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.1176,
+"days": 4,
+"of": 34
+},
+"tissa": {
+"freq": 0.0556,
+"days": 2,
+"of": 36
+},
+"victoria": {
+"freq": 0.1667,
+"days": 8,
+"of": 48
+},
+"yala": {
+"freq": 0.0909,
+"days": 4,
+"of": 44
+}
+}
+},
+"ingori1": {
+"sites": {
+"yala": {
+"freq": 0.0227,
+"days": 1,
+"of": 44
+}
+}
+},
+"inpher1": {
+"sites": {
+"bundala": {
+"freq": 0.8605,
+"days": 37,
+"of": 43
+},
+"galle": {
+"freq": 0.0435,
+"days": 1,
+"of": 23
+},
+"horton": {
+"freq": 0.0465,
+"days": 2,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.2632,
+"days": 10,
+"of": 38
+},
+"makandawa": {
+"freq": 0.2414,
+"days": 7,
+"of": 29
+},
+"mirissa": {
+"freq": 0.1053,
+"days": 2,
+"of": 19
+},
+"nuwara": {
+"freq": 0.2647,
+"days": 9,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.1471,
+"days": 5,
+"of": 34
+},
+"tissa": {
+"freq": 0.7778,
+"days": 28,
+"of": 36
+},
+"victoria": {
+"freq": 0.9375,
+"days": 45,
+"of": 48
+},
+"yala": {
+"freq": 0.9318,
+"days": 41,
+"of": 44
+}
+}
+},
+"insowl1": {
+"sites": {
+"bundala": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"tissa": {
+"freq": 0.5,
+"days": 18,
+"of": 36
+}
+}
+},
+"integr1": {
+"sites": {
+"bundala": {
+"freq": 0.8372,
+"days": 36,
+"of": 43
+},
+"galle": {
+"freq": 0.087,
+"days": 2,
+"of": 23
+},
+"kitulgala": {
+"freq": 0.0263,
+"days": 1,
+"of": 38
+},
+"mirissa": {
+"freq": 0.0526,
+"days": 1,
+"of": 19
+},
+"nuwara": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.0882,
+"days": 3,
+"of": 34
+},
+"tissa": {
+"freq": 0.6389,
+"days": 23,
+"of": 36
+},
+"victoria": {
+"freq": 0.0208,
+"days": 1,
+"of": 48
+},
+"yala": {
+"freq": 0.8182,
+"days": 36,
+"of": 44
+}
+}
+},
+"isbduc1": {
+"sites": {
+"nuwara": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+}
+}
+},
+"jerbaz1": {
+"sites": {
+"horton": {
+"freq": 0.0465,
+"days": 2,
+"of": 43
+}
+}
+},
+"jerbus2": {
+"sites": {
+"bundala": {
+"freq": 0.7209,
+"days": 31,
+"of": 43
+},
+"horton": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"tissa": {
+"freq": 0.0556,
+"days": 2,
+"of": 36
+},
+"yala": {
+"freq": 0.6364,
+"days": 28,
+"of": 44
+}
+}
+},
+"jerlea1": {
+"sites": {
+"bundala": {
+"freq": 0.0698,
+"days": 3,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.1053,
+"days": 4,
+"of": 38
+},
+"makandawa": {
+"freq": 0.069,
+"days": 2,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"tissa": {
+"freq": 0.3056,
+"days": 11,
+"of": 36
+},
+"yala": {
+"freq": 0.2273,
+"days": 10,
+"of": 44
+}
+}
+},
+"jernig1": {
+"sites": {
+"bundala": {
+"freq": 0.0698,
+"days": 3,
+"of": 43
+},
+"yala": {
+"freq": 0.1136,
+"days": 5,
+"of": 44
+}
+}
+},
+"junowl1": {
+"sites": {
+"tissa": {
+"freq": 0.5833,
+"days": 21,
+"of": 36
+},
+"yala": {
+"freq": 0.0909,
+"days": 4,
+"of": 44
+}
+}
+},
+"junpri1": {
+"sites": {
+"bundala": {
+"freq": 0.2791,
+"days": 12,
+"of": 43
+},
+"tissa": {
+"freq": 0.0278,
+"days": 1,
+"of": 36
+},
+"yala": {
+"freq": 0.2955,
+"days": 13,
+"of": 44
+}
+}
+},
+"kasfly1": {
+"sites": {
+"horton": {
+"freq": 0.0465,
+"days": 2,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.0263,
+"days": 1,
+"of": 38
+},
+"nuwara": {
+"freq": 0.2353,
+"days": 8,
+"of": 34
+},
+"victoria": {
+"freq": 0.8542,
+"days": 41,
+"of": 48
+}
+}
+},
+"kenplo1": {
+"sites": {
+"bundala": {
+"freq": 0.7442,
+"days": 32,
+"of": 43
+},
+"yala": {
+"freq": 0.3409,
+"days": 15,
+"of": 44
+}
+}
+},
+"labcro1": {
+"sites": {
+"bundala": {
+"freq": 0.6977,
+"days": 30,
+"of": 43
+},
+"galle": {
+"freq": 0.3478,
+"days": 8,
+"of": 23
+},
+"horton": {
+"freq": 0.8372,
+"days": 36,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.1579,
+"days": 6,
+"of": 38
+},
+"makandawa": {
+"freq": 0.0345,
+"days": 1,
+"of": 29
+},
+"mirissa": {
+"freq": 0.1053,
+"days": 2,
+"of": 19
+},
+"nuwara": {
+"freq": 0.6176,
+"days": 21,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.1765,
+"days": 6,
+"of": 34
+},
+"tissa": {
+"freq": 0.4444,
+"days": 16,
+"of": 36
+},
+"victoria": {
+"freq": 0.9375,
+"days": 45,
+"of": 48
+},
+"yala": {
+"freq": 0.6364,
+"days": 28,
+"of": 44
+}
+}
+},
+"larcuc1": {
+"sites": {
+"yala": {
+"freq": 0.0227,
+"days": 1,
+"of": 44
+}
+}
+},
+"laypar1": {
+"sites": {
+"kitulgala": {
+"freq": 0.3158,
+"days": 12,
+"of": 38
+},
+"makandawa": {
+"freq": 0.1724,
+"days": 5,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.4118,
+"days": 14,
+"of": 34
+},
+"tissa": {
+"freq": 0.0556,
+"days": 2,
+"of": 36
+},
+"yala": {
+"freq": 0.0227,
+"days": 1,
+"of": 44
+}
+}
+},
+"lblwar1": {
+"sites": {
+"horton": {
+"freq": 0.2791,
+"days": 12,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.0263,
+"days": 1,
+"of": 38
+},
+"makandawa": {
+"freq": 0.1034,
+"days": 3,
+"of": 29
+},
+"nuwara": {
+"freq": 0.1176,
+"days": 4,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.0882,
+"days": 3,
+"of": 34
+},
+"victoria": {
+"freq": 0.0625,
+"days": 3,
+"of": 48
+}
+}
+},
+"lecter2": {
+"sites": {
+"bundala": {
+"freq": 0.3256,
+"days": 14,
+"of": 43
+},
+"galle": {
+"freq": 0.1304,
+"days": 3,
+"of": 23
+},
+"mirissa": {
+"freq": 0.0526,
+"days": 1,
+"of": 19
+}
+}
+},
+"lesadj1": {
+"sites": {
+"bundala": {
+"freq": 0.4884,
+"days": 21,
+"of": 43
+},
+"tissa": {
+"freq": 0.0278,
+"days": 1,
+"of": 36
+},
+"yala": {
+"freq": 0.5682,
+"days": 25,
+"of": 44
+}
+}
+},
+"lescuc1": {
+"sites": {
+"horton": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+}
+}
+},
+"lessap1": {
+"sites": {
+"bundala": {
+"freq": 0.7907,
+"days": 34,
+"of": 43
+},
+"galle": {
+"freq": 0.1304,
+"days": 3,
+"of": 23
+},
+"yala": {
+"freq": 0.5227,
+"days": 23,
+"of": 44
+}
+}
+},
+"leswhi4": {
+"sites": {
+"bundala": {
+"freq": 0.1628,
+"days": 7,
+"of": 43
+},
+"tissa": {
+"freq": 0.0278,
+"days": 1,
+"of": 36
+},
+"yala": {
+"freq": 0.0227,
+"days": 1,
+"of": 44
+}
+}
+},
+"lesyel1": {
+"sites": {
+"horton": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.1316,
+"days": 5,
+"of": 38
+},
+"makandawa": {
+"freq": 0.3103,
+"days": 9,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.2059,
+"days": 7,
+"of": 34
+},
+"tissa": {
+"freq": 0.0278,
+"days": 1,
+"of": 36
+}
+}
+},
+"lewduc1": {
+"sites": {
+"bundala": {
+"freq": 0.9302,
+"days": 40,
+"of": 43
+},
+"tissa": {
+"freq": 0.5278,
+"days": 19,
+"of": 36
+},
+"yala": {
+"freq": 0.9318,
+"days": 41,
+"of": 44
+}
+}
+},
+"lirplo": {
+"sites": {
+"bundala": {
+"freq": 0.7674,
+"days": 33,
+"of": 43
+},
+"tissa": {
+"freq": 0.0278,
+"days": 1,
+"of": 36
+},
+"yala": {
+"freq": 0.5909,
+"days": 26,
+"of": 44
+}
+}
+},
+"litcor1": {
+"sites": {
+"bundala": {
+"freq": 0.8837,
+"days": 38,
+"of": 43
+},
+"galle": {
+"freq": 0.087,
+"days": 2,
+"of": 23
+},
+"horton": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.2632,
+"days": 10,
+"of": 38
+},
+"makandawa": {
+"freq": 0.1379,
+"days": 4,
+"of": 29
+},
+"nuwara": {
+"freq": 0.2941,
+"days": 10,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.0588,
+"days": 2,
+"of": 34
+},
+"tissa": {
+"freq": 0.6667,
+"days": 24,
+"of": 36
+},
+"victoria": {
+"freq": 0.3333,
+"days": 16,
+"of": 48
+},
+"yala": {
+"freq": 0.8409,
+"days": 37,
+"of": 44
+}
+}
+},
+"litegr": {
+"sites": {
+"bundala": {
+"freq": 0.9302,
+"days": 40,
+"of": 43
+},
+"galle": {
+"freq": 0.1304,
+"days": 3,
+"of": 23
+},
+"kitulgala": {
+"freq": 0.0263,
+"days": 1,
+"of": 38
+},
+"mirissa": {
+"freq": 0.1053,
+"days": 2,
+"of": 19
+},
+"nuwara": {
+"freq": 0.1765,
+"days": 6,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"tissa": {
+"freq": 0.6389,
+"days": 23,
+"of": 36
+},
+"victoria": {
+"freq": 0.2708,
+"days": 13,
+"of": 48
+},
+"yala": {
+"freq": 0.7955,
+"days": 35,
+"of": 44
+}
+}
+},
+"litgre1": {
+"sites": {
+"bundala": {
+"freq": 0.4419,
+"days": 19,
+"of": 43
+},
+"tissa": {
+"freq": 0.4167,
+"days": 15,
+"of": 36
+},
+"yala": {
+"freq": 0.2727,
+"days": 12,
+"of": 44
+}
+}
+},
+"litsti": {
+"sites": {
+"bundala": {
+"freq": 0.7907,
+"days": 34,
+"of": 43
+},
+"yala": {
+"freq": 0.3182,
+"days": 14,
+"of": 44
+}
+}
+},
+"litswi1": {
+"sites": {
+"bundala": {
+"freq": 0.3256,
+"days": 14,
+"of": 43
+},
+"galle": {
+"freq": 0.1304,
+"days": 3,
+"of": 23
+},
+"kitulgala": {
+"freq": 0.2368,
+"days": 9,
+"of": 38
+},
+"makandawa": {
+"freq": 0.069,
+"days": 2,
+"of": 29
+},
+"mirissa": {
+"freq": 0.0526,
+"days": 1,
+"of": 19
+},
+"sinharaja": {
+"freq": 0.1765,
+"days": 6,
+"of": 34
+},
+"tissa": {
+"freq": 0.1389,
+"days": 5,
+"of": 36
+},
+"yala": {
+"freq": 0.4773,
+"days": 21,
+"of": 44
+}
+}
+},
+"litter1": {
+"sites": {
+"bundala": {
+"freq": 0.6512,
+"days": 28,
+"of": 43
+},
+"galle": {
+"freq": 0.1304,
+"days": 3,
+"of": 23
+},
+"mirissa": {
+"freq": 0.1053,
+"days": 2,
+"of": 19
+},
+"tissa": {
+"freq": 0.25,
+"days": 9,
+"of": 36
+},
+"yala": {
+"freq": 0.25,
+"days": 11,
+"of": 44
+}
+}
+},
+"lobsun2": {
+"sites": {
+"bundala": {
+"freq": 0.1628,
+"days": 7,
+"of": 43
+},
+"galle": {
+"freq": 0.0435,
+"days": 1,
+"of": 23
+},
+"horton": {
+"freq": 0.1395,
+"days": 6,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.2368,
+"days": 9,
+"of": 38
+},
+"makandawa": {
+"freq": 0.1379,
+"days": 4,
+"of": 29
+},
+"mirissa": {
+"freq": 0.2632,
+"days": 5,
+"of": 19
+},
+"nuwara": {
+"freq": 0.1471,
+"days": 5,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.1471,
+"days": 5,
+"of": 34
+},
+"tissa": {
+"freq": 0.1111,
+"days": 4,
+"of": 36
+},
+"victoria": {
+"freq": 0.4167,
+"days": 20,
+"of": 48
+},
+"yala": {
+"freq": 0.3636,
+"days": 16,
+"of": 44
+}
+}
+},
+"lotshr1": {
+"sites": {
+"bundala": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+}
+}
+},
+"lotsti": {
+"sites": {
+"bundala": {
+"freq": 0.0698,
+"days": 3,
+"of": 43
+}
+}
+},
+"magrob": {
+"sites": {
+"bundala": {
+"freq": 0.7209,
+"days": 31,
+"of": 43
+},
+"galle": {
+"freq": 0.3913,
+"days": 9,
+"of": 23
+},
+"horton": {
+"freq": 0.2093,
+"days": 9,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.3684,
+"days": 14,
+"of": 38
+},
+"makandawa": {
+"freq": 0.4483,
+"days": 13,
+"of": 29
+},
+"mirissa": {
+"freq": 0.1579,
+"days": 3,
+"of": 19
+},
+"nuwara": {
+"freq": 0.4706,
+"days": 16,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.4412,
+"days": 15,
+"of": 34
+},
+"tissa": {
+"freq": 0.3333,
+"days": 12,
+"of": 36
+},
+"victoria": {
+"freq": 0.9583,
+"days": 46,
+"of": 48
+},
+"yala": {
+"freq": 0.7273,
+"days": 32,
+"of": 44
+}
+}
+},
+"maltro1": {
+"sites": {
+"kitulgala": {
+"freq": 0.0526,
+"days": 2,
+"of": 38
+},
+"makandawa": {
+"freq": 0.4138,
+"days": 12,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.5588,
+"days": 19,
+"of": 34
+}
+}
+},
+"maphor1": {
+"sites": {
+"bundala": {
+"freq": 0.1163,
+"days": 5,
+"of": 43
+},
+"tissa": {
+"freq": 0.2778,
+"days": 10,
+"of": 36
+},
+"yala": {
+"freq": 0.75,
+"days": 33,
+"of": 44
+}
+}
+},
+"marsan": {
+"sites": {
+"bundala": {
+"freq": 0.8837,
+"days": 38,
+"of": 43
+},
+"tissa": {
+"freq": 0.0833,
+"days": 3,
+"of": 36
+},
+"yala": {
+"freq": 0.6136,
+"days": 27,
+"of": 44
+}
+}
+},
+"mouhae2": {
+"sites": {
+"horton": {
+"freq": 0.1163,
+"days": 5,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.0263,
+"days": 1,
+"of": 38
+},
+"victoria": {
+"freq": 0.0208,
+"days": 1,
+"of": 48
+}
+}
+},
+"nutman": {
+"sites": {
+"bundala": {
+"freq": 0.3953,
+"days": 17,
+"of": 43
+},
+"galle": {
+"freq": 0.2174,
+"days": 5,
+"of": 23
+},
+"horton": {
+"freq": 0.0465,
+"days": 2,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.0789,
+"days": 3,
+"of": 38
+},
+"mirissa": {
+"freq": 0.0526,
+"days": 1,
+"of": 19
+},
+"nuwara": {
+"freq": 0.1176,
+"days": 4,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.0882,
+"days": 3,
+"of": 34
+},
+"tissa": {
+"freq": 0.3889,
+"days": 14,
+"of": 36
+},
+"victoria": {
+"freq": 0.1458,
+"days": 7,
+"of": 48
+},
+"yala": {
+"freq": 0.4318,
+"days": 19,
+"of": 44
+}
+}
+},
+"orbbab1": {
+"sites": {
+"horton": {
+"freq": 0.1395,
+"days": 6,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.2105,
+"days": 8,
+"of": 38
+},
+"makandawa": {
+"freq": 0.4828,
+"days": 14,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.6765,
+"days": 23,
+"of": 34
+},
+"victoria": {
+"freq": 0.0208,
+"days": 1,
+"of": 48
+}
+}
+},
+"orbpig1": {
+"sites": {
+"bundala": {
+"freq": 0.5349,
+"days": 23,
+"of": 43
+},
+"mirissa": {
+"freq": 0.0526,
+"days": 1,
+"of": 19
+},
+"sinharaja": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"tissa": {
+"freq": 0.2222,
+"days": 8,
+"of": 36
+},
+"yala": {
+"freq": 0.8409,
+"days": 37,
+"of": 44
+}
+}
+},
+"orihob2": {
+"sites": {
+"bundala": {
+"freq": 0.093,
+"days": 4,
+"of": 43
+},
+"horton": {
+"freq": 0.3721,
+"days": 16,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.1842,
+"days": 7,
+"of": 38
+},
+"makandawa": {
+"freq": 0.1034,
+"days": 3,
+"of": 29
+},
+"nuwara": {
+"freq": 0.0588,
+"days": 2,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.1471,
+"days": 5,
+"of": 34
+},
+"victoria": {
+"freq": 0.0208,
+"days": 1,
+"of": 48
+},
+"yala": {
+"freq": 0.0909,
+"days": 4,
+"of": 44
+}
+}
+},
+"oripip1": {
+"sites": {
+"bundala": {
+"freq": 0.907,
+"days": 39,
+"of": 43
+},
+"horton": {
+"freq": 0.8372,
+"days": 36,
+"of": 43
+},
+"nuwara": {
+"freq": 0.2353,
+"days": 8,
+"of": 34
+},
+"tissa": {
+"freq": 0.1944,
+"days": 7,
+"of": 36
+},
+"victoria": {
+"freq": 0.0208,
+"days": 1,
+"of": 48
+},
+"yala": {
+"freq": 0.75,
+"days": 33,
+"of": 44
+}
+}
+},
+"oripra": {
+"sites": {
+"bundala": {
+"freq": 0.3023,
+"days": 13,
+"of": 43
+},
+"yala": {
+"freq": 0.0682,
+"days": 3,
+"of": 44
+}
+}
+},
+"orisky1": {
+"sites": {
+"bundala": {
+"freq": 0.3721,
+"days": 16,
+"of": 43
+},
+"yala": {
+"freq": 0.1364,
+"days": 6,
+"of": 44
+}
+}
+},
+"osprey": {
+"sites": {
+"bundala": {
+"freq": 0.3023,
+"days": 13,
+"of": 43
+},
+"galle": {
+"freq": 0.0435,
+"days": 1,
+"of": 23
+},
+"yala": {
+"freq": 0.0455,
+"days": 2,
+"of": 44
+}
+}
+},
+"pabflo1": {
+"sites": {
+"bundala": {
+"freq": 0.186,
+"days": 8,
+"of": 43
+},
+"galle": {
+"freq": 0.1304,
+"days": 3,
+"of": 23
+},
+"horton": {
+"freq": 0.5814,
+"days": 25,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.3421,
+"days": 13,
+"of": 38
+},
+"makandawa": {
+"freq": 0.1379,
+"days": 4,
+"of": 29
+},
+"mirissa": {
+"freq": 0.1053,
+"days": 2,
+"of": 19
+},
+"nuwara": {
+"freq": 0.2647,
+"days": 9,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.3235,
+"days": 11,
+"of": 34
+},
+"tissa": {
+"freq": 0.1944,
+"days": 7,
+"of": 36
+},
+"victoria": {
+"freq": 0.4792,
+"days": 23,
+"of": 48
+},
+"yala": {
+"freq": 0.4091,
+"days": 18,
+"of": 44
+}
+}
+},
+"pacswa3": {
+"sites": {
+"horton": {
+"freq": 0.9535,
+"days": 41,
+"of": 43
+},
+"nuwara": {
+"freq": 0.2353,
+"days": 8,
+"of": 34
+},
+"victoria": {
+"freq": 0.1042,
+"days": 5,
+"of": 48
+}
+}
+},
+"pagplo": {
+"sites": {
+"bundala": {
+"freq": 0.907,
+"days": 39,
+"of": 43
+},
+"tissa": {
+"freq": 0.0556,
+"days": 2,
+"of": 36
+},
+"yala": {
+"freq": 0.3636,
+"days": 16,
+"of": 44
+}
+}
+},
+"pagwar1": {
+"sites": {
+"bundala": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"tissa": {
+"freq": 0.0556,
+"days": 2,
+"of": 36
+}
+}
+},
+"paisto1": {
+"sites": {
+"bundala": {
+"freq": 0.907,
+"days": 39,
+"of": 43
+},
+"mirissa": {
+"freq": 0.0526,
+"days": 1,
+"of": 19
+},
+"tissa": {
+"freq": 0.4167,
+"days": 15,
+"of": 36
+},
+"yala": {
+"freq": 0.9091,
+"days": 40,
+"of": 44
+}
+}
+},
+"perfal": {
+"sites": {
+"horton": {
+"freq": 0.0698,
+"days": 3,
+"of": 43
+},
+"yala": {
+"freq": 0.0909,
+"days": 4,
+"of": 44
+}
+}
+},
+"phtjac1": {
+"sites": {
+"bundala": {
+"freq": 0.907,
+"days": 39,
+"of": 43
+},
+"tissa": {
+"freq": 0.6389,
+"days": 23,
+"of": 36
+},
+"yala": {
+"freq": 0.5682,
+"days": 25,
+"of": 44
+}
+}
+},
+"piebus1": {
+"sites": {
+"bundala": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"horton": {
+"freq": 1.0,
+"days": 43,
+"of": 43
+},
+"nuwara": {
+"freq": 0.2941,
+"days": 10,
+"of": 34
+},
+"victoria": {
+"freq": 0.0833,
+"days": 4,
+"of": 48
+},
+"yala": {
+"freq": 0.0455,
+"days": 2,
+"of": 44
+}
+}
+},
+"piecuc1": {
+"sites": {
+"bundala": {
+"freq": 0.6047,
+"days": 26,
+"of": 43
+},
+"sinharaja": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"tissa": {
+"freq": 0.0556,
+"days": 2,
+"of": 36
+},
+"yala": {
+"freq": 0.2955,
+"days": 13,
+"of": 44
+}
+}
+},
+"piekin1": {
+"sites": {
+"bundala": {
+"freq": 0.8372,
+"days": 36,
+"of": 43
+},
+"tissa": {
+"freq": 0.25,
+"days": 9,
+"of": 36
+},
+"yala": {
+"freq": 0.6591,
+"days": 29,
+"of": 44
+}
+}
+},
+"piethr1": {
+"sites": {
+"horton": {
+"freq": 0.0465,
+"days": 2,
+"of": 43
+},
+"victoria": {
+"freq": 0.7917,
+"days": 38,
+"of": 48
+}
+}
+},
+"pitsni": {
+"sites": {
+"bundala": {
+"freq": 0.5581,
+"days": 24,
+"of": 43
+},
+"horton": {
+"freq": 0.093,
+"days": 4,
+"of": 43
+},
+"tissa": {
+"freq": 0.0556,
+"days": 2,
+"of": 36
+},
+"yala": {
+"freq": 0.2955,
+"days": 13,
+"of": 44
+}
+}
+},
+"placuc3": {
+"sites": {
+"bundala": {
+"freq": 0.2558,
+"days": 11,
+"of": 43
+},
+"yala": {
+"freq": 0.2727,
+"days": 12,
+"of": 44
+}
+}
+},
+"plapri1": {
+"sites": {
+"bundala": {
+"freq": 0.6047,
+"days": 26,
+"of": 43
+},
+"horton": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"makandawa": {
+"freq": 0.0345,
+"days": 1,
+"of": 29
+},
+"nuwara": {
+"freq": 0.0588,
+"days": 2,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.0882,
+"days": 3,
+"of": 34
+},
+"tissa": {
+"freq": 0.4167,
+"days": 15,
+"of": 36
+},
+"yala": {
+"freq": 0.5227,
+"days": 23,
+"of": 44
+}
+}
+},
+"plhpar1": {
+"sites": {
+"sinharaja": {
+"freq": 0.1176,
+"days": 4,
+"of": 34
+}
+}
+},
+"pogpig1": {
+"sites": {
+"bundala": {
+"freq": 0.1628,
+"days": 7,
+"of": 43
+},
+"horton": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.2895,
+"days": 11,
+"of": 38
+},
+"makandawa": {
+"freq": 0.2069,
+"days": 6,
+"of": 29
+},
+"mirissa": {
+"freq": 0.0526,
+"days": 1,
+"of": 19
+},
+"nuwara": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.3824,
+"days": 13,
+"of": 34
+},
+"tissa": {
+"freq": 0.1667,
+"days": 6,
+"of": 36
+},
+"yala": {
+"freq": 0.5455,
+"days": 24,
+"of": 44
+}
+}
+},
+"purher1": {
+"sites": {
+"bundala": {
+"freq": 0.907,
+"days": 39,
+"of": 43
+},
+"tissa": {
+"freq": 0.7222,
+"days": 26,
+"of": 36
+},
+"yala": {
+"freq": 0.8409,
+"days": 37,
+"of": 44
+}
+}
+},
+"pursun3": {
+"sites": {
+"bundala": {
+"freq": 0.5349,
+"days": 23,
+"of": 43
+},
+"galle": {
+"freq": 0.2174,
+"days": 5,
+"of": 23
+},
+"horton": {
+"freq": 0.0465,
+"days": 2,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.5526,
+"days": 21,
+"of": 38
+},
+"makandawa": {
+"freq": 0.5517,
+"days": 16,
+"of": 29
+},
+"mirissa": {
+"freq": 0.1579,
+"days": 3,
+"of": 19
+},
+"nuwara": {
+"freq": 0.0588,
+"days": 2,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.3824,
+"days": 13,
+"of": 34
+},
+"tissa": {
+"freq": 0.4444,
+"days": 16,
+"of": 36
+},
+"victoria": {
+"freq": 0.1042,
+"days": 5,
+"of": 48
+},
+"yala": {
+"freq": 0.7045,
+"days": 31,
+"of": 44
+}
+}
+},
+"pursun4": {
+"sites": {
+"bundala": {
+"freq": 0.6512,
+"days": 28,
+"of": 43
+},
+"galle": {
+"freq": 0.0435,
+"days": 1,
+"of": 23
+},
+"horton": {
+"freq": 0.0465,
+"days": 2,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.0526,
+"days": 2,
+"of": 38
+},
+"makandawa": {
+"freq": 0.069,
+"days": 2,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.0588,
+"days": 2,
+"of": 34
+},
+"tissa": {
+"freq": 0.1667,
+"days": 6,
+"of": 36
+},
+"victoria": {
+"freq": 0.0625,
+"days": 3,
+"of": 48
+},
+"yala": {
+"freq": 0.75,
+"days": 33,
+"of": 44
+}
+}
+},
+"purswa3": {
+"sites": {
+"bundala": {
+"freq": 0.9302,
+"days": 40,
+"of": 43
+},
+"nuwara": {
+"freq": 0.0882,
+"days": 3,
+"of": 34
+},
+"tissa": {
+"freq": 0.7222,
+"days": 26,
+"of": 36
+},
+"yala": {
+"freq": 0.4545,
+"days": 20,
+"of": 44
+}
+}
+},
+"refmal1": {
+"sites": {
+"kitulgala": {
+"freq": 0.0263,
+"days": 1,
+"of": 38
+},
+"makandawa": {
+"freq": 0.1034,
+"days": 3,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.5,
+"days": 17,
+"of": 34
+}
+}
+},
+"renpha": {
+"sites": {
+"bundala": {
+"freq": 0.2558,
+"days": 11,
+"of": 43
+}
+}
+},
+"revbul": {
+"sites": {
+"bundala": {
+"freq": 0.8372,
+"days": 36,
+"of": 43
+},
+"galle": {
+"freq": 0.5217,
+"days": 12,
+"of": 23
+},
+"horton": {
+"freq": 0.3953,
+"days": 17,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.7368,
+"days": 28,
+"of": 38
+},
+"makandawa": {
+"freq": 0.6897,
+"days": 20,
+"of": 29
+},
+"mirissa": {
+"freq": 0.2105,
+"days": 4,
+"of": 19
+},
+"nuwara": {
+"freq": 0.3529,
+"days": 12,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.5294,
+"days": 18,
+"of": 34
+},
+"tissa": {
+"freq": 0.6667,
+"days": 24,
+"of": 36
+},
+"victoria": {
+"freq": 0.8958,
+"days": 43,
+"of": 48
+},
+"yala": {
+"freq": 0.9318,
+"days": 41,
+"of": 44
+}
+}
+},
+"rewlap1": {
+"sites": {
+"bundala": {
+"freq": 0.9535,
+"days": 41,
+"of": 43
+},
+"galle": {
+"freq": 0.5217,
+"days": 12,
+"of": 23
+},
+"horton": {
+"freq": 0.5581,
+"days": 24,
+"of": 43
+},
+"mirissa": {
+"freq": 0.0526,
+"days": 1,
+"of": 19
+},
+"nuwara": {
+"freq": 0.0588,
+"days": 2,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"tissa": {
+"freq": 0.5556,
+"days": 20,
+"of": 36
+},
+"victoria": {
+"freq": 0.0625,
+"days": 3,
+"of": 48
+},
+"yala": {
+"freq": 0.9318,
+"days": 41,
+"of": 44
+}
+}
+},
+"rivter1": {
+"sites": {
+"bundala": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+}
+}
+},
+"rocpig": {
+"sites": {
+"bundala": {
+"freq": 0.4186,
+"days": 18,
+"of": 43
+},
+"galle": {
+"freq": 0.3478,
+"days": 8,
+"of": 23
+},
+"horton": {
+"freq": 0.1395,
+"days": 6,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.2368,
+"days": 9,
+"of": 38
+},
+"makandawa": {
+"freq": 0.1379,
+"days": 4,
+"of": 29
+},
+"mirissa": {
+"freq": 0.2632,
+"days": 5,
+"of": 19
+},
+"nuwara": {
+"freq": 0.4412,
+"days": 15,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.1471,
+"days": 5,
+"of": 34
+},
+"tissa": {
+"freq": 0.5556,
+"days": 20,
+"of": 36
+},
+"victoria": {
+"freq": 0.7292,
+"days": 35,
+"of": 48
+},
+"yala": {
+"freq": 0.2955,
+"days": 13,
+"of": 44
+}
+}
+},
+"rorpar": {
+"sites": {
+"bundala": {
+"freq": 0.8372,
+"days": 36,
+"of": 43
+},
+"galle": {
+"freq": 0.5217,
+"days": 12,
+"of": 23
+},
+"horton": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.2105,
+"days": 8,
+"of": 38
+},
+"makandawa": {
+"freq": 0.1379,
+"days": 4,
+"of": 29
+},
+"mirissa": {
+"freq": 0.1579,
+"days": 3,
+"of": 19
+},
+"nuwara": {
+"freq": 0.0882,
+"days": 3,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.1176,
+"days": 4,
+"of": 34
+},
+"tissa": {
+"freq": 0.8056,
+"days": 29,
+"of": 36
+},
+"victoria": {
+"freq": 0.5,
+"days": 24,
+"of": 48
+},
+"yala": {
+"freq": 0.8636,
+"days": 38,
+"of": 44
+}
+}
+},
+"rossta2": {
+"sites": {
+"bundala": {
+"freq": 0.5349,
+"days": 23,
+"of": 43
+},
+"tissa": {
+"freq": 0.0278,
+"days": 1,
+"of": 36
+},
+"yala": {
+"freq": 0.5682,
+"days": 25,
+"of": 44
+}
+}
+},
+"rubcra1": {
+"sites": {
+"bundala": {
+"freq": 0.0465,
+"days": 2,
+"of": 43
+},
+"makandawa": {
+"freq": 0.0345,
+"days": 1,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+}
+}
+},
+"rubeag2": {
+"sites": {
+"kitulgala": {
+"freq": 0.0526,
+"days": 2,
+"of": 38
+},
+"makandawa": {
+"freq": 0.0345,
+"days": 1,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.0588,
+"days": 2,
+"of": 34
+}
+}
+},
+"rudtur": {
+"sites": {
+"bundala": {
+"freq": 0.5116,
+"days": 22,
+"of": 43
+},
+"galle": {
+"freq": 0.1304,
+"days": 3,
+"of": 23
+},
+"yala": {
+"freq": 0.0909,
+"days": 4,
+"of": 44
+}
+}
+},
+"ruff": {
+"sites": {
+"bundala": {
+"freq": 0.2093,
+"days": 9,
+"of": 43
+},
+"yala": {
+"freq": 0.0227,
+"days": 1,
+"of": 44
+}
+}
+},
+"rufwoo2": {
+"sites": {
+"kitulgala": {
+"freq": 0.0263,
+"days": 1,
+"of": 38
+}
+}
+},
+"sander": {
+"sites": {
+"bundala": {
+"freq": 0.093,
+"days": 4,
+"of": 43
+}
+}
+},
+"santer1": {
+"sites": {
+"galle": {
+"freq": 0.0435,
+"days": 1,
+"of": 23
+}
+}
+},
+"sbeowl1": {
+"sites": {
+"kitulgala": {
+"freq": 0.0263,
+"days": 1,
+"of": 38
+},
+"sinharaja": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+}
+}
+},
+"scamin3": {
+"sites": {
+"horton": {
+"freq": 0.4884,
+"days": 21,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.3421,
+"days": 13,
+"of": 38
+},
+"makandawa": {
+"freq": 0.4138,
+"days": 12,
+"of": 29
+},
+"mirissa": {
+"freq": 0.0526,
+"days": 1,
+"of": 19
+},
+"nuwara": {
+"freq": 0.2059,
+"days": 7,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.5,
+"days": 17,
+"of": 34
+},
+"tissa": {
+"freq": 0.0556,
+"days": 2,
+"of": 36
+},
+"yala": {
+"freq": 0.0455,
+"days": 2,
+"of": 44
+}
+}
+},
+"scathr5": {
+"sites": {
+"horton": {
+"freq": 0.0698,
+"days": 3,
+"of": 43
+},
+"nuwara": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.2059,
+"days": 7,
+"of": 34
+},
+"victoria": {
+"freq": 0.0208,
+"days": 1,
+"of": 48
+}
+}
+},
+"sersco1": {
+"sites": {
+"kitulgala": {
+"freq": 0.0263,
+"days": 1,
+"of": 38
+},
+"makandawa": {
+"freq": 0.3448,
+"days": 10,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.2353,
+"days": 8,
+"of": 34
+}
+}
+},
+"sheowl": {
+"sites": {
+"horton": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+}
+}
+},
+"shikra1": {
+"sites": {
+"bundala": {
+"freq": 0.3023,
+"days": 13,
+"of": 43
+},
+"horton": {
+"freq": 0.0698,
+"days": 3,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.1053,
+"days": 4,
+"of": 38
+},
+"makandawa": {
+"freq": 0.069,
+"days": 2,
+"of": 29
+},
+"nuwara": {
+"freq": 0.0588,
+"days": 2,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.0588,
+"days": 2,
+"of": 34
+},
+"tissa": {
+"freq": 0.1111,
+"days": 4,
+"of": 36
+},
+"victoria": {
+"freq": 0.0417,
+"days": 2,
+"of": 48
+},
+"yala": {
+"freq": 0.1818,
+"days": 8,
+"of": 44
+}
+}
+},
+"sirmal1": {
+"sites": {
+"yala": {
+"freq": 0.0909,
+"days": 4,
+"of": 44
+}
+}
+},
+"slbgul1": {
+"sites": {
+"bundala": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+}
+}
+},
+"slbrai1": {
+"sites": {
+"bundala": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+}
+}
+},
+"sllcra1": {
+"sites": {
+"kitulgala": {
+"freq": 0.0526,
+"days": 2,
+"of": 38
+},
+"makandawa": {
+"freq": 0.0345,
+"days": 1,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.1176,
+"days": 4,
+"of": 34
+},
+"yala": {
+"freq": 0.0227,
+"days": 1,
+"of": 44
+}
+}
+},
+"smamin1": {
+"sites": {
+"bundala": {
+"freq": 0.0465,
+"days": 2,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.1579,
+"days": 6,
+"of": 38
+},
+"sinharaja": {
+"freq": 0.0588,
+"days": 2,
+"of": 34
+},
+"tissa": {
+"freq": 0.1389,
+"days": 5,
+"of": 36
+},
+"victoria": {
+"freq": 0.0208,
+"days": 1,
+"of": 48
+},
+"yala": {
+"freq": 0.4091,
+"days": 18,
+"of": 44
+}
+}
+},
+"smapra1": {
+"sites": {
+"bundala": {
+"freq": 0.2093,
+"days": 9,
+"of": 43
+},
+"yala": {
+"freq": 0.0455,
+"days": 2,
+"of": 44
+}
+}
+},
+"sohmyn1": {
+"sites": {
+"horton": {
+"freq": 0.0465,
+"days": 2,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.1053,
+"days": 4,
+"of": 38
+},
+"makandawa": {
+"freq": 0.2759,
+"days": 8,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.0882,
+"days": 3,
+"of": 34
+}
+}
+},
+"spbpel1": {
+"sites": {
+"bundala": {
+"freq": 0.8837,
+"days": 38,
+"of": 43
+},
+"tissa": {
+"freq": 0.75,
+"days": 27,
+"of": 36
+},
+"yala": {
+"freq": 0.7045,
+"days": 31,
+"of": 44
+}
+}
+},
+"spodov": {
+"sites": {
+"bundala": {
+"freq": 0.907,
+"days": 39,
+"of": 43
+},
+"galle": {
+"freq": 0.3913,
+"days": 9,
+"of": 23
+},
+"horton": {
+"freq": 0.186,
+"days": 8,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.7105,
+"days": 27,
+"of": 38
+},
+"makandawa": {
+"freq": 0.6897,
+"days": 20,
+"of": 29
+},
+"mirissa": {
+"freq": 0.3684,
+"days": 7,
+"of": 19
+},
+"nuwara": {
+"freq": 0.4706,
+"days": 16,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.4706,
+"days": 16,
+"of": 34
+},
+"tissa": {
+"freq": 0.6944,
+"days": 25,
+"of": 36
+},
+"victoria": {
+"freq": 0.9167,
+"days": 44,
+"of": 48
+},
+"yala": {
+"freq": 0.9773,
+"days": 43,
+"of": 44
+}
+}
+},
+"spored": {
+"sites": {
+"bundala": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+}
+}
+},
+"spwthr1": {
+"sites": {
+"horton": {
+"freq": 0.1395,
+"days": 6,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.1579,
+"days": 6,
+"of": 38
+},
+"makandawa": {
+"freq": 0.4828,
+"days": 14,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.6176,
+"days": 21,
+"of": 34
+},
+"victoria": {
+"freq": 0.0208,
+"days": 1,
+"of": 48
+},
+"yala": {
+"freq": 0.0227,
+"days": 1,
+"of": 44
+}
+}
+},
+"sqtbul1": {
+"sites": {
+"bundala": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"horton": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.6579,
+"days": 25,
+"of": 38
+},
+"makandawa": {
+"freq": 0.7241,
+"days": 21,
+"of": 29
+},
+"nuwara": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.7353,
+"days": 25,
+"of": 34
+},
+"tissa": {
+"freq": 0.0278,
+"days": 1,
+"of": 36
+},
+"victoria": {
+"freq": 0.0208,
+"days": 1,
+"of": 48
+}
+}
+},
+"srlbao1": {
+"sites": {
+"makandawa": {
+"freq": 0.1034,
+"days": 3,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.0882,
+"days": 3,
+"of": 34
+}
+}
+},
+"srldro1": {
+"sites": {
+"kitulgala": {
+"freq": 0.0526,
+"days": 2,
+"of": 38
+},
+"makandawa": {
+"freq": 0.2414,
+"days": 7,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.7647,
+"days": 26,
+"of": 34
+}
+}
+},
+"srlscb1": {
+"sites": {
+"horton": {
+"freq": 0.5349,
+"days": 23,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.0263,
+"days": 1,
+"of": 38
+},
+"makandawa": {
+"freq": 0.2759,
+"days": 8,
+"of": 29
+},
+"nuwara": {
+"freq": 0.1765,
+"days": 6,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.3235,
+"days": 11,
+"of": 34
+},
+"victoria": {
+"freq": 0.5208,
+"days": 25,
+"of": 48
+}
+}
+},
+"srlswa1": {
+"sites": {
+"bundala": {
+"freq": 0.5349,
+"days": 23,
+"of": 43
+},
+"galle": {
+"freq": 0.1739,
+"days": 4,
+"of": 23
+},
+"horton": {
+"freq": 0.0465,
+"days": 2,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.2895,
+"days": 11,
+"of": 38
+},
+"makandawa": {
+"freq": 0.3448,
+"days": 10,
+"of": 29
+},
+"mirissa": {
+"freq": 0.2632,
+"days": 5,
+"of": 19
+},
+"sinharaja": {
+"freq": 0.3529,
+"days": 12,
+"of": 34
+},
+"tissa": {
+"freq": 0.1111,
+"days": 4,
+"of": 36
+},
+"yala": {
+"freq": 0.5227,
+"days": 23,
+"of": 44
+}
+}
+},
+"srlwoo1": {
+"sites": {
+"bundala": {
+"freq": 0.2791,
+"days": 12,
+"of": 43
+},
+"tissa": {
+"freq": 0.25,
+"days": 9,
+"of": 36
+},
+"yala": {
+"freq": 0.5455,
+"days": 24,
+"of": 44
+}
+}
+},
+"stbkin1": {
+"sites": {
+"bundala": {
+"freq": 0.1163,
+"days": 5,
+"of": 43
+},
+"galle": {
+"freq": 0.087,
+"days": 2,
+"of": 23
+},
+"kitulgala": {
+"freq": 0.3421,
+"days": 13,
+"of": 38
+},
+"makandawa": {
+"freq": 0.2759,
+"days": 8,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.1176,
+"days": 4,
+"of": 34
+},
+"tissa": {
+"freq": 0.4167,
+"days": 15,
+"of": 36
+},
+"yala": {
+"freq": 0.1591,
+"days": 7,
+"of": 44
+}
+}
+},
+"strher1": {
+"sites": {
+"bundala": {
+"freq": 0.4419,
+"days": 19,
+"of": 43
+},
+"makandawa": {
+"freq": 0.0345,
+"days": 1,
+"of": 29
+},
+"mirissa": {
+"freq": 0.1053,
+"days": 2,
+"of": 19
+},
+"tissa": {
+"freq": 0.0278,
+"days": 1,
+"of": 36
+},
+"yala": {
+"freq": 0.0455,
+"days": 2,
+"of": 44
+}
+}
+},
+"strwea2": {
+"sites": {
+"bundala": {
+"freq": 0.186,
+"days": 8,
+"of": 43
+},
+"tissa": {
+"freq": 0.1389,
+"days": 5,
+"of": 36
+},
+"yala": {
+"freq": 0.3409,
+"days": 15,
+"of": 44
+}
+}
+},
+"sttwoo1": {
+"sites": {
+"nuwara": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+}
+}
+},
+"tabbab1": {
+"sites": {
+"bundala": {
+"freq": 0.093,
+"days": 4,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.0526,
+"days": 2,
+"of": 38
+},
+"makandawa": {
+"freq": 0.0345,
+"days": 1,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.0588,
+"days": 2,
+"of": 34
+},
+"tissa": {
+"freq": 0.0278,
+"days": 1,
+"of": 36
+},
+"yala": {
+"freq": 0.0682,
+"days": 3,
+"of": 44
+}
+}
+},
+"temsti": {
+"sites": {
+"bundala": {
+"freq": 0.2791,
+"days": 12,
+"of": 43
+},
+"yala": {
+"freq": 0.0227,
+"days": 1,
+"of": 44
+}
+}
+},
+"tersan": {
+"sites": {
+"bundala": {
+"freq": 0.093,
+"days": 4,
+"of": 43
+},
+"yala": {
+"freq": 0.0227,
+"days": 1,
+"of": 44
+}
+}
+},
+"thbflo1": {
+"sites": {
+"bundala": {
+"freq": 0.0465,
+"days": 2,
+"of": 43
+},
+"horton": {
+"freq": 0.0465,
+"days": 2,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.0263,
+"days": 1,
+"of": 38
+},
+"makandawa": {
+"freq": 0.0345,
+"days": 1,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.0882,
+"days": 3,
+"of": 34
+},
+"tissa": {
+"freq": 0.0278,
+"days": 1,
+"of": 36
+},
+"yala": {
+"freq": 0.1591,
+"days": 7,
+"of": 44
+}
+}
+},
+"tibfly3": {
+"sites": {
+"horton": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.3421,
+"days": 13,
+"of": 38
+},
+"makandawa": {
+"freq": 0.5172,
+"days": 15,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.1765,
+"days": 6,
+"of": 34
+},
+"victoria": {
+"freq": 0.0208,
+"days": 1,
+"of": 48
+},
+"yala": {
+"freq": 0.0227,
+"days": 1,
+"of": 44
+}
+}
+},
+"trimun": {
+"sites": {
+"bundala": {
+"freq": 0.6047,
+"days": 26,
+"of": 43
+},
+"horton": {
+"freq": 0.7209,
+"days": 31,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.0263,
+"days": 1,
+"of": 38
+},
+"tissa": {
+"freq": 0.3333,
+"days": 12,
+"of": 36
+},
+"yala": {
+"freq": 0.3182,
+"days": 14,
+"of": 44
+}
+}
+},
+"vefnut1": {
+"sites": {
+"horton": {
+"freq": 0.4884,
+"days": 21,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.0263,
+"days": 1,
+"of": 38
+},
+"makandawa": {
+"freq": 0.0345,
+"days": 1,
+"of": 29
+},
+"nuwara": {
+"freq": 0.3529,
+"days": 12,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.2353,
+"days": 8,
+"of": 34
+},
+"victoria": {
+"freq": 0.5,
+"days": 24,
+"of": 48
+},
+"yala": {
+"freq": 0.0227,
+"days": 1,
+"of": 44
+}
+}
+},
+"waterc1": {
+"sites": {
+"bundala": {
+"freq": 0.3953,
+"days": 17,
+"of": 43
+},
+"tissa": {
+"freq": 0.1389,
+"days": 5,
+"of": 36
+},
+"yala": {
+"freq": 0.0455,
+"days": 2,
+"of": 44
+}
+}
+},
+"wbseag1": {
+"sites": {
+"bundala": {
+"freq": 0.5581,
+"days": 24,
+"of": 43
+},
+"galle": {
+"freq": 0.1304,
+"days": 3,
+"of": 23
+},
+"horton": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.4474,
+"days": 17,
+"of": 38
+},
+"makandawa": {
+"freq": 0.2759,
+"days": 8,
+"of": 29
+},
+"mirissa": {
+"freq": 0.2632,
+"days": 5,
+"of": 19
+},
+"nuwara": {
+"freq": 0.1765,
+"days": 6,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"tissa": {
+"freq": 0.5278,
+"days": 19,
+"of": 36
+},
+"victoria": {
+"freq": 0.0417,
+"days": 2,
+"of": 48
+},
+"yala": {
+"freq": 0.7727,
+"days": 34,
+"of": 44
+}
+}
+},
+"werher": {
+"sites": {
+"bundala": {
+"freq": 0.093,
+"days": 4,
+"of": 43
+},
+"galle": {
+"freq": 0.0435,
+"days": 1,
+"of": 23
+},
+"yala": {
+"freq": 0.0682,
+"days": 3,
+"of": 44
+}
+}
+},
+"whbbul2": {
+"sites": {
+"bundala": {
+"freq": 0.4651,
+"days": 20,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.0789,
+"days": 3,
+"of": 38
+},
+"makandawa": {
+"freq": 0.0345,
+"days": 1,
+"of": 29
+},
+"mirissa": {
+"freq": 0.0526,
+"days": 1,
+"of": 19
+},
+"sinharaja": {
+"freq": 0.2353,
+"days": 8,
+"of": 34
+},
+"tissa": {
+"freq": 0.1667,
+"days": 6,
+"of": 36
+},
+"yala": {
+"freq": 0.6591,
+"days": 29,
+"of": 44
+}
+}
+},
+"whbdro1": {
+"sites": {
+"bundala": {
+"freq": 0.0465,
+"days": 2,
+"of": 43
+},
+"galle": {
+"freq": 0.3478,
+"days": 8,
+"of": 23
+},
+"kitulgala": {
+"freq": 0.4211,
+"days": 16,
+"of": 38
+},
+"makandawa": {
+"freq": 0.4483,
+"days": 13,
+"of": 29
+},
+"mirissa": {
+"freq": 0.1053,
+"days": 2,
+"of": 19
+},
+"nuwara": {
+"freq": 0.0882,
+"days": 3,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.2941,
+"days": 10,
+"of": 34
+},
+"tissa": {
+"freq": 0.0833,
+"days": 3,
+"of": 36
+},
+"yala": {
+"freq": 0.2045,
+"days": 9,
+"of": 44
+}
+}
+},
+"whbfan2": {
+"sites": {
+"bundala": {
+"freq": 0.3023,
+"days": 13,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.2368,
+"days": 9,
+"of": 38
+},
+"makandawa": {
+"freq": 0.069,
+"days": 2,
+"of": 29
+},
+"mirissa": {
+"freq": 0.0526,
+"days": 1,
+"of": 19
+},
+"nuwara": {
+"freq": 0.0588,
+"days": 2,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"tissa": {
+"freq": 0.1111,
+"days": 4,
+"of": 36
+},
+"yala": {
+"freq": 0.7045,
+"days": 31,
+"of": 44
+}
+}
+},
+"whbwat1": {
+"sites": {
+"bundala": {
+"freq": 0.9302,
+"days": 40,
+"of": 43
+},
+"horton": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.1316,
+"days": 5,
+"of": 38
+},
+"makandawa": {
+"freq": 0.1379,
+"days": 4,
+"of": 29
+},
+"nuwara": {
+"freq": 0.2059,
+"days": 7,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.1765,
+"days": 6,
+"of": 34
+},
+"tissa": {
+"freq": 0.7222,
+"days": 26,
+"of": 36
+},
+"victoria": {
+"freq": 0.7083,
+"days": 34,
+"of": 48
+},
+"yala": {
+"freq": 0.7727,
+"days": 34,
+"of": 44
+}
+}
+},
+"whfsta2": {
+"sites": {
+"kitulgala": {
+"freq": 0.0263,
+"days": 1,
+"of": 38
+},
+"sinharaja": {
+"freq": 0.3529,
+"days": 12,
+"of": 34
+}
+}
+},
+"whimbr5": {
+"sites": {
+"bundala": {
+"freq": 0.3488,
+"days": 15,
+"of": 43
+},
+"galle": {
+"freq": 0.0435,
+"days": 1,
+"of": 23
+},
+"yala": {
+"freq": 0.0682,
+"days": 3,
+"of": 44
+}
+}
+},
+"whiter2": {
+"sites": {
+"bundala": {
+"freq": 0.814,
+"days": 35,
+"of": 43
+},
+"galle": {
+"freq": 0.3913,
+"days": 9,
+"of": 23
+},
+"mirissa": {
+"freq": 0.4211,
+"days": 8,
+"of": 19
+},
+"tissa": {
+"freq": 0.6944,
+"days": 25,
+"of": 36
+},
+"yala": {
+"freq": 0.75,
+"days": 33,
+"of": 44
+}
+}
+},
+"whnwoo1": {
+"sites": {
+"tissa": {
+"freq": 0.4167,
+"days": 15,
+"of": 36
+},
+"yala": {
+"freq": 0.0227,
+"days": 1,
+"of": 44
+}
+}
+},
+"whrmun": {
+"sites": {
+"bundala": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"horton": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.2895,
+"days": 11,
+"of": 38
+},
+"makandawa": {
+"freq": 0.2414,
+"days": 7,
+"of": 29
+},
+"mirissa": {
+"freq": 0.1053,
+"days": 2,
+"of": 19
+},
+"sinharaja": {
+"freq": 0.2059,
+"days": 7,
+"of": 34
+},
+"tissa": {
+"freq": 0.0833,
+"days": 3,
+"of": 36
+},
+"yala": {
+"freq": 0.2727,
+"days": 12,
+"of": 44
+}
+}
+},
+"whrsha5": {
+"sites": {
+"kitulgala": {
+"freq": 0.0263,
+"days": 1,
+"of": 38
+},
+"yala": {
+"freq": 0.3182,
+"days": 14,
+"of": 44
+}
+}
+},
+"whtflo1": {
+"sites": {
+"bundala": {
+"freq": 0.0465,
+"days": 2,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.1842,
+"days": 7,
+"of": 38
+},
+"makandawa": {
+"freq": 0.1379,
+"days": 4,
+"of": 29
+},
+"sinharaja": {
+"freq": 0.3529,
+"days": 12,
+"of": 34
+},
+"yala": {
+"freq": 0.0227,
+"days": 1,
+"of": 44
+}
+}
+},
+"whtior1": {
+"sites": {
+"bundala": {
+"freq": 0.0465,
+"days": 2,
+"of": 43
+},
+"yala": {
+"freq": 0.0909,
+"days": 4,
+"of": 44
+}
+}
+},
+"whtkin2": {
+"sites": {
+"bundala": {
+"freq": 0.9302,
+"days": 40,
+"of": 43
+},
+"galle": {
+"freq": 0.4348,
+"days": 10,
+"of": 23
+},
+"horton": {
+"freq": 0.0698,
+"days": 3,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.3421,
+"days": 13,
+"of": 38
+},
+"makandawa": {
+"freq": 0.2414,
+"days": 7,
+"of": 29
+},
+"mirissa": {
+"freq": 0.3684,
+"days": 7,
+"of": 19
+},
+"nuwara": {
+"freq": 0.1176,
+"days": 4,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.3824,
+"days": 13,
+"of": 34
+},
+"tissa": {
+"freq": 0.7222,
+"days": 26,
+"of": 36
+},
+"victoria": {
+"freq": 0.0833,
+"days": 4,
+"of": 48
+},
+"yala": {
+"freq": 0.9318,
+"days": 41,
+"of": 44
+}
+}
+},
+"whwter": {
+"sites": {
+"bundala": {
+"freq": 0.3721,
+"days": 16,
+"of": 43
+},
+"mirissa": {
+"freq": 0.0526,
+"days": 1,
+"of": 19
+},
+"tissa": {
+"freq": 0.1111,
+"days": 4,
+"of": 36
+},
+"yala": {
+"freq": 0.0682,
+"days": 3,
+"of": 44
+}
+}
+},
+"wonsto1": {
+"sites": {
+"bundala": {
+"freq": 0.093,
+"days": 4,
+"of": 43
+},
+"sinharaja": {
+"freq": 0.1176,
+"days": 4,
+"of": 34
+},
+"tissa": {
+"freq": 0.0556,
+"days": 2,
+"of": 36
+},
+"yala": {
+"freq": 0.4091,
+"days": 18,
+"of": 44
+}
+}
+},
+"woosan": {
+"sites": {
+"bundala": {
+"freq": 0.8372,
+"days": 36,
+"of": 43
+},
+"tissa": {
+"freq": 0.1111,
+"days": 4,
+"of": 36
+},
+"victoria": {
+"freq": 0.0417,
+"days": 2,
+"of": 48
+},
+"yala": {
+"freq": 0.6136,
+"days": 27,
+"of": 44
+}
+}
+},
+"y00839": {
+"sites": {
+"bundala": {
+"freq": 0.3488,
+"days": 15,
+"of": 43
+},
+"horton": {
+"freq": 0.0465,
+"days": 2,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.0526,
+"days": 2,
+"of": 38
+},
+"makandawa": {
+"freq": 0.1034,
+"days": 3,
+"of": 29
+},
+"nuwara": {
+"freq": 0.0882,
+"days": 3,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.1176,
+"days": 4,
+"of": 34
+},
+"tissa": {
+"freq": 0.1389,
+"days": 5,
+"of": 36
+},
+"victoria": {
+"freq": 0.1042,
+"days": 5,
+"of": 48
+},
+"yala": {
+"freq": 0.75,
+"days": 33,
+"of": 44
+}
+}
+},
+"yebbab1": {
+"sites": {
+"bundala": {
+"freq": 0.4884,
+"days": 21,
+"of": 43
+},
+"galle": {
+"freq": 0.3478,
+"days": 8,
+"of": 23
+},
+"horton": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.3158,
+"days": 12,
+"of": 38
+},
+"makandawa": {
+"freq": 0.4138,
+"days": 12,
+"of": 29
+},
+"mirissa": {
+"freq": 0.1053,
+"days": 2,
+"of": 19
+},
+"nuwara": {
+"freq": 0.0588,
+"days": 2,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.3235,
+"days": 11,
+"of": 34
+},
+"tissa": {
+"freq": 0.4722,
+"days": 17,
+"of": 36
+},
+"victoria": {
+"freq": 0.0625,
+"days": 3,
+"of": 48
+},
+"yala": {
+"freq": 0.7273,
+"days": 32,
+"of": 44
+}
+}
+},
+"yebbul3": {
+"sites": {
+"bundala": {
+"freq": 0.0465,
+"days": 2,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.3947,
+"days": 15,
+"of": 38
+},
+"makandawa": {
+"freq": 0.5517,
+"days": 16,
+"of": 29
+},
+"nuwara": {
+"freq": 0.0588,
+"days": 2,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.6176,
+"days": 21,
+"of": 34
+},
+"victoria": {
+"freq": 0.0417,
+"days": 2,
+"of": 48
+},
+"yala": {
+"freq": 0.0682,
+"days": 3,
+"of": 44
+}
+}
+},
+"yecwoo1": {
+"sites": {
+"bundala": {
+"freq": 0.186,
+"days": 8,
+"of": 43
+},
+"sinharaja": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"yala": {
+"freq": 0.3182,
+"days": 14,
+"of": 44
+}
+}
+},
+"yeebab1": {
+"sites": {
+"bundala": {
+"freq": 0.1628,
+"days": 7,
+"of": 43
+},
+"sinharaja": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"yala": {
+"freq": 0.1364,
+"days": 6,
+"of": 44
+}
+}
+},
+"yeebul1": {
+"sites": {
+"horton": {
+"freq": 0.8372,
+"days": 36,
+"of": 43
+},
+"nuwara": {
+"freq": 0.5294,
+"days": 18,
+"of": 34
+},
+"victoria": {
+"freq": 0.6042,
+"days": 29,
+"of": 48
+},
+"yala": {
+"freq": 0.0227,
+"days": 1,
+"of": 44
+}
+}
+},
+"yefbar1": {
+"sites": {
+"horton": {
+"freq": 0.093,
+"days": 4,
+"of": 43
+},
+"kitulgala": {
+"freq": 0.4737,
+"days": 18,
+"of": 38
+},
+"makandawa": {
+"freq": 0.6207,
+"days": 18,
+"of": 29
+},
+"nuwara": {
+"freq": 0.1471,
+"days": 5,
+"of": 34
+},
+"sinharaja": {
+"freq": 0.5882,
+"days": 20,
+"of": 34
+},
+"victoria": {
+"freq": 0.3125,
+"days": 15,
+"of": 48
+}
+}
+},
+"yelbit": {
+"sites": {
+"bundala": {
+"freq": 0.6744,
+"days": 29,
+"of": 43
+},
+"nuwara": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"tissa": {
+"freq": 0.4444,
+"days": 16,
+"of": 36
+},
+"yala": {
+"freq": 0.0455,
+"days": 2,
+"of": 44
+}
+}
+},
+"yewlap2": {
+"sites": {
+"bundala": {
+"freq": 0.7907,
+"days": 34,
+"of": 43
+},
+"horton": {
+"freq": 0.0233,
+"days": 1,
+"of": 43
+},
+"yala": {
+"freq": 0.7727,
+"days": 34,
+"of": 44
+}
+}
+},
+"zitcis1": {
+"sites": {
+"bundala": {
+"freq": 0.3488,
+"days": 15,
+"of": 43
+},
+"horton": {
+"freq": 0.6512,
+"days": 28,
+"of": 43
+},
+"sinharaja": {
+"freq": 0.0294,
+"days": 1,
+"of": 34
+},
+"tissa": {
+"freq": 0.3056,
+"days": 11,
+"of": 36
+},
+"victoria": {
+"freq": 0.0208,
+"days": 1,
+"of": 48
+},
+"yala": {
+"freq": 0.1818,
+"days": 8,
+"of": 44
+}
+}
+}
+}

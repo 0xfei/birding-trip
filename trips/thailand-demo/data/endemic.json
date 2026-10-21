@@ -1,0 +1,72 @@
+{
+"region": "TH",
+"method": "eBird spplist 全地区倒排",
+"n_regions_compared": 253,
+"endemic": [
+"limwrb2",
+"tutbar1",
+"wermar2"
+],
+"near_endemic": [
+{
+"code": "ayebul1",
+"also_in": "MM"
+},
+{
+"code": "btbrob1",
+"also_in": "CN"
+},
+{
+"code": "buryuh1",
+"also_in": "MM"
+},
+{
+"code": "chhpar1",
+"also_in": "KH"
+},
+{
+"code": "fibflo3",
+"also_in": "KH"
+},
+{
+"code": "gurpit1",
+"also_in": "MM"
+},
+{
+"code": "gybpar3",
+"also_in": "MY"
+},
+{
+"code": "larcuc3",
+"also_in": "MY"
+},
+{
+"code": "limwrb3",
+"also_in": "MM"
+},
+{
+"code": "mallau1",
+"also_in": "MY"
+},
+{
+"code": "mapphe1",
+"also_in": "MY"
+},
+{
+"code": "mawthr2",
+"also_in": "MY"
+},
+{
+"code": "mopphe1",
+"also_in": "MY"
+},
+{
+"code": "pincoc1",
+"also_in": "AU"
+},
+{
+"code": "ruchor1",
+"also_in": "MM"
+}
+]
+}

@@ -1,0 +1,1407 @@
+{
+ "nettapus-coromandelianus": {
+  "zh": "棉凫",
+  "sci": "Nettapus coromandelianus",
+  "en": "Cotton Pygmy Goose"
+ },
+ "cairina-moschata": {
+  "zh": "疣鼻栖鸭",
+  "sci": "Cairina moschata",
+  "en": "Muscovy Duck"
+ },
+ "sarkidiornis-melanotos": {
+  "zh": "瘤鸭",
+  "sci": "Sarkidiornis melanotos",
+  "en": "Knob-billed Duck"
+ },
+ "spatula-querquedula": {
+  "zh": "白眉鸭",
+  "sci": "Spatula querquedula",
+  "en": "Garganey"
+ },
+ "spatula-clypeata": {
+  "zh": "琵嘴鸭",
+  "sci": "Spatula clypeata",
+  "en": "Northern Shoveler"
+ },
+ "anas-poecilorhyncha": {
+  "zh": "印缅斑嘴鸭",
+  "sci": "Anas poecilorhyncha",
+  "en": "Indian Spot-billed Duck"
+ },
+ "anas-acuta": {
+  "zh": "针尾鸭",
+  "sci": "Anas acuta",
+  "en": "Northern Pintail"
+ },
+ "numida-meleagris": {
+  "zh": "珠鸡",
+  "sci": "Numida meleagris",
+  "en": "Helmeted Guineafowl"
+ },
+ "galloperdix-bicalcarata": {
+  "zh": "斯里兰卡鸡鹑",
+  "sci": "Galloperdix bicalcarata",
+  "en": "Sri Lanka Spurfowl"
+ },
+ "gallus-lafayettii": {
+  "zh": "蓝喉原鸡",
+  "sci": "Gallus lafayettii",
+  "en": "Sri Lanka Junglefowl"
+ },
+ "ortygornis-pondicerianus": {
+  "zh": "灰鹧鸪",
+  "sci": "Ortygornis pondicerianus",
+  "en": "Grey Francolin"
+ },
+ "francolinus-pictus": {
+  "zh": "花彩鹧鸪",
+  "sci": "Francolinus pictus",
+  "en": "Painted Francolin"
+ },
+ "synoicus-chinensis": {
+  "zh": "蓝胸鹑",
+  "sci": "Synoicus chinensis",
+  "en": "King Quail"
+ },
+ "coturnix-coturnix": {
+  "zh": "西鹌鹑",
+  "sci": "Coturnix coturnix",
+  "en": "Common Quail"
+ },
+ "coturnix-coromandelica": {
+  "zh": "黑胸鹌鹑",
+  "sci": "Coturnix coromandelica",
+  "en": "Rain Quail"
+ },
+ "perdicula-asiatica": {
+  "zh": "丛林鹑",
+  "sci": "Perdicula asiatica",
+  "en": "Jungle Bush Quail"
+ },
+ "phoenicopterus-roseus": {
+  "zh": "大红鹳",
+  "sci": "Phoenicopterus roseus",
+  "en": "Greater Flamingo"
+ },
+ "centropus-chlororhynchos": {
+  "zh": "绿嘴鸦鹃",
+  "sci": "Centropus chlororhynchos",
+  "en": "Green-billed Coucal"
+ },
+ "centropus-sinensis": {
+  "zh": "褐翅鸦鹃",
+  "sci": "Centropus sinensis",
+  "en": "Greater Coucal"
+ },
+ "taccocua-leschenaultii": {
+  "zh": "短嘴地鹃",
+  "sci": "Taccocua leschenaultii",
+  "en": "Sirkeer Malkoha"
+ },
+ "phaenicophaeus-pyrrhocephalus": {
+  "zh": "红脸地鹃",
+  "sci": "Phaenicophaeus pyrrhocephalus",
+  "en": "Red-faced Malkoha"
+ },
+ "phaenicophaeus-viridirostris": {
+  "zh": "小绿嘴地鹃",
+  "sci": "Phaenicophaeus viridirostris",
+  "en": "Blue-faced Malkoha"
+ },
+ "clamator-coromandus": {
+  "zh": "红翅凤头鹃",
+  "sci": "Clamator coromandus",
+  "en": "Chestnut-winged Cuckoo"
+ },
+ "clamator-jacobinus": {
+  "zh": "斑翅凤头鹃",
+  "sci": "Clamator jacobinus",
+  "en": "Jacobin Cuckoo"
+ },
+ "cacomantis-sonneratii": {
+  "zh": "栗斑杜鹃",
+  "sci": "Cacomantis sonneratii",
+  "en": "Banded Bay Cuckoo"
+ },
+ "cacomantis-passerinus": {
+  "zh": "灰腹杜鹃",
+  "sci": "Cacomantis passerinus",
+  "en": "Grey-bellied Cuckoo"
+ },
+ "surniculus-dicruroides": {
+  "zh": "叉尾乌鹃",
+  "sci": "Surniculus dicruroides",
+  "en": "Fork-tailed Drongo-Cuckoo"
+ },
+ "hierococcyx-varius": {
+  "zh": "普通鹰鹃",
+  "sci": "Hierococcyx varius",
+  "en": "Common Hawk-Cuckoo"
+ },
+ "cuculus-poliocephalus": {
+  "zh": "小杜鹃",
+  "sci": "Cuculus poliocephalus",
+  "en": "Lesser Cuckoo"
+ },
+ "cuculus-micropterus": {
+  "zh": "四声杜鹃",
+  "sci": "Cuculus micropterus",
+  "en": "Indian Cuckoo"
+ },
+ "columba-torringtoniae": {
+  "zh": "紫头林鸽",
+  "sci": "Columba torringtoniae",
+  "en": "Sri Lanka Wood Pigeon"
+ },
+ "chalcophaps-indica": {
+  "zh": "绿翅金鸠",
+  "sci": "Chalcophaps indica",
+  "en": "Common Emerald Dove"
+ },
+ "treron-bicinctus": {
+  "zh": "橙胸绿鸠",
+  "sci": "Treron bicinctus",
+  "en": "Orange-breasted Green Pigeon"
+ },
+ "treron-pompadora": {
+  "zh": "斯里兰卡绿鸠",
+  "sci": "Treron pompadora",
+  "en": "Sri Lanka Green Pigeon"
+ },
+ "treron-phoenicopterus": {
+  "zh": "黄脚绿鸠",
+  "sci": "Treron phoenicopterus",
+  "en": "Yellow-footed Green Pigeon"
+ },
+ "ducula-aenea": {
+  "zh": "绿皇鸠",
+  "sci": "Ducula aenea",
+  "en": "Green Imperial Pigeon"
+ },
+ "lewinia-striata": {
+  "zh": "灰胸秧鸡",
+  "sci": "Lewinia striata",
+  "en": "Slaty-breasted Rail"
+ },
+ "gallicrex-cinerea": {
+  "zh": "董鸡",
+  "sci": "Gallicrex cinerea",
+  "en": "Watercock"
+ },
+ "rallina-eurizonoides": {
+  "zh": "白喉斑秧鸡",
+  "sci": "Rallina eurizonoides",
+  "en": "Slaty-legged Crake"
+ },
+ "zapornia-fusca": {
+  "zh": "红胸田鸡",
+  "sci": "Zapornia fusca",
+  "en": "Ruddy-breasted Crake"
+ },
+ "zapornia-pusilla": {
+  "zh": "小田鸡",
+  "sci": "Zapornia pusilla",
+  "en": "Baillon's Crake"
+ },
+ "esacus-recurvirostris": {
+  "zh": "大石鸻",
+  "sci": "Esacus recurvirostris",
+  "en": "Great Stone-curlew"
+ },
+ "burhinus-indicus": {
+  "zh": "印度石鸻",
+  "sci": "Burhinus indicus",
+  "en": "Indian Stone-curlew"
+ },
+ "recurvirostra-avosetta": {
+  "zh": "反嘴鹬",
+  "sci": "Recurvirostra avosetta",
+  "en": "Pied Avocet"
+ },
+ "haematopus-ostralegus": {
+  "zh": "蛎鹬",
+  "sci": "Haematopus ostralegus",
+  "en": "Eurasian Oystercatcher"
+ },
+ "vanellus-malabaricus": {
+  "zh": "黄垂麦鸡",
+  "sci": "Vanellus malabaricus",
+  "en": "Yellow-wattled Lapwing"
+ },
+ "anarhynchus-asiaticus": {
+  "zh": "红胸鸻",
+  "sci": "Anarhynchus asiaticus",
+  "en": "Caspian Plover"
+ },
+ "anarhynchus-atrifrons": {
+  "zh": "青藏沙鸻",
+  "sci": "Anarhynchus atrifrons",
+  "en": "Tibetan Sand Plover"
+ },
+ "rostratula-benghalensis": {
+  "zh": "彩鹬",
+  "sci": "Rostratula benghalensis",
+  "en": "Greater Painted-snipe"
+ },
+ "hydrophasianus-chirurgus": {
+  "zh": "水雉",
+  "sci": "Hydrophasianus chirurgus",
+  "en": "Pheasant-tailed Jacana"
+ },
+ "limnodromus-semipalmatus": {
+  "zh": "半蹼鹬",
+  "sci": "Limnodromus semipalmatus",
+  "en": "Asian Dowitcher"
+ },
+ "scolopax-rusticola": {
+  "zh": "丘鹬",
+  "sci": "Scolopax rusticola",
+  "en": "Eurasian Woodcock"
+ },
+ "gallinago-stenura": {
+  "zh": "针尾沙锥",
+  "sci": "Gallinago stenura",
+  "en": "Pin-tailed Snipe"
+ },
+ "phalaropus-lobatus": {
+  "zh": "红颈瓣蹼鹬",
+  "sci": "Phalaropus lobatus",
+  "en": "Red-necked Phalarope"
+ },
+ "tringa-erythropus": {
+  "zh": "鹤鹬",
+  "sci": "Tringa erythropus",
+  "en": "Spotted Redshank"
+ },
+ "arenaria-interpres": {
+  "zh": "翻石鹬",
+  "sci": "Arenaria interpres",
+  "en": "Ruddy Turnstone"
+ },
+ "calidris-tenuirostris": {
+  "zh": "大滨鹬",
+  "sci": "Calidris tenuirostris",
+  "en": "Great Knot"
+ },
+ "calidris-acuminata": {
+  "zh": "尖尾滨鹬",
+  "sci": "Calidris acuminata",
+  "en": "Sharp-tailed Sandpiper"
+ },
+ "calidris-falcinellus": {
+  "zh": "阔嘴鹬",
+  "sci": "Calidris falcinellus",
+  "en": "Broad-billed Sandpiper"
+ },
+ "calidris-ferruginea": {
+  "zh": "弯嘴滨鹬",
+  "sci": "Calidris ferruginea",
+  "en": "Curlew Sandpiper"
+ },
+ "calidris-ruficollis": {
+  "zh": "红颈滨鹬",
+  "sci": "Calidris ruficollis",
+  "en": "Red-necked Stint"
+ },
+ "calidris-temminckii": {
+  "zh": "青脚滨鹬",
+  "sci": "Calidris temminckii",
+  "en": "Temminck's Stint"
+ },
+ "calidris-subminuta": {
+  "zh": "长趾滨鹬",
+  "sci": "Calidris subminuta",
+  "en": "Long-toed Stint"
+ },
+ "calidris-melanotos": {
+  "zh": "斑胸滨鹬",
+  "sci": "Calidris melanotos",
+  "en": "Pectoral Sandpiper"
+ },
+ "calidris-minuta": {
+  "zh": "小滨鹬",
+  "sci": "Calidris minuta",
+  "en": "Little Stint"
+ },
+ "turnix-suscitator": {
+  "zh": "棕三趾鹑",
+  "sci": "Turnix suscitator",
+  "en": "Barred Buttonquail"
+ },
+ "dromas-ardeola": {
+  "zh": "蟹鸻",
+  "sci": "Dromas ardeola",
+  "en": "Crab-plover"
+ },
+ "glareola-lactea": {
+  "zh": "灰燕鸻",
+  "sci": "Glareola lactea",
+  "en": "Small Pratincole"
+ },
+ "glareola-maldivarum": {
+  "zh": "普通燕鸻",
+  "sci": "Glareola maldivarum",
+  "en": "Oriental Pratincole"
+ },
+ "glareola-nordmanni": {
+  "zh": "黑翅燕鸻",
+  "sci": "Glareola nordmanni",
+  "en": "Black-winged Pratincole"
+ },
+ "glareola-pratincola": {
+  "zh": "领燕鸻",
+  "sci": "Glareola pratincola",
+  "en": "Collared Pratincole"
+ },
+ "stercorarius-maccormicki": {
+  "zh": "南极贼鸥",
+  "sci": "Stercorarius maccormicki",
+  "en": "South Polar Skua"
+ },
+ "stercorarius-antarcticus": {
+  "zh": "棕贼鸥",
+  "sci": "Stercorarius antarcticus",
+  "en": "Brown Skua"
+ },
+ "anous-tenuirostris": {
+  "zh": "小玄燕鸥",
+  "sci": "Anous tenuirostris",
+  "en": "Lesser Noddy"
+ },
+ "onychoprion-fuscatus": {
+  "zh": "乌燕鸥",
+  "sci": "Onychoprion fuscatus",
+  "en": "Sooty Tern"
+ },
+ "onychoprion-anaethetus": {
+  "zh": "褐翅燕鸥",
+  "sci": "Onychoprion anaethetus",
+  "en": "Bridled Tern"
+ },
+ "sternula-saundersi": {
+  "zh": "桑氏白额燕鸥",
+  "sci": "Sternula saundersi",
+  "en": "Saunders's Tern"
+ },
+ "hydroprogne-caspia": {
+  "zh": "红嘴巨燕鸥",
+  "sci": "Hydroprogne caspia",
+  "en": "Caspian Tern"
+ },
+ "chlidonias-niger": {
+  "zh": "黑浮鸥",
+  "sci": "Chlidonias niger",
+  "en": "Black Tern"
+ },
+ "thalasseus-bengalensis": {
+  "zh": "小凤头燕鸥",
+  "sci": "Thalasseus bengalensis",
+  "en": "Lesser Crested Tern"
+ },
+ "sterna-paradisaea": {
+  "zh": "北极燕鸥",
+  "sci": "Sterna paradisaea",
+  "en": "Arctic Tern"
+ },
+ "sterna-sumatrana": {
+  "zh": "黑枕燕鸥",
+  "sci": "Sterna sumatrana",
+  "en": "Black-naped Tern"
+ },
+ "chroicocephalus-genei": {
+  "zh": "细嘴鸥",
+  "sci": "Chroicocephalus genei",
+  "en": "Slender-billed Gull"
+ },
+ "chroicocephalus-brunnicephalus": {
+  "zh": "棕头鸥",
+  "sci": "Chroicocephalus brunnicephalus",
+  "en": "Brown-headed Gull"
+ },
+ "ichthyaetus-ichthyaetus": {
+  "zh": "渔鸥",
+  "sci": "Ichthyaetus ichthyaetus",
+  "en": "Pallas's Gull"
+ },
+ "ichthyaetus-hemprichii": {
+  "zh": "白领鸥",
+  "sci": "Ichthyaetus hemprichii",
+  "en": "Sooty Gull"
+ },
+ "phaethon-aethereus": {
+  "zh": "红嘴鹲",
+  "sci": "Phaethon aethereus",
+  "en": "Red-billed Tropicbird"
+ },
+ "phaethon-lepturus": {
+  "zh": "白尾鹲",
+  "sci": "Phaethon lepturus",
+  "en": "White-tailed Tropicbird"
+ },
+ "oceanites-oceanicus": {
+  "zh": "黄蹼洋海燕",
+  "sci": "Oceanites oceanicus",
+  "en": "Wilson's Storm Petrel"
+ },
+ "hydrobates-monorhis": {
+  "zh": "黑叉尾海燕",
+  "sci": "Hydrobates monorhis",
+  "en": "Swinhoe's Storm Petrel"
+ },
+ "bulweria-bulwerii": {
+  "zh": "褐燕鹱",
+  "sci": "Bulweria bulwerii",
+  "en": "Bulwer's Petrel"
+ },
+ "bulweria-fallax": {
+  "zh": "厚嘴燕鹱",
+  "sci": "Bulweria fallax",
+  "en": "Jouanin's Petrel"
+ },
+ "calonectris-leucomelas": {
+  "zh": "白额鹱",
+  "sci": "Calonectris leucomelas",
+  "en": "Streaked Shearwater"
+ },
+ "ardenna-pacifica": {
+  "zh": "楔尾鹱",
+  "sci": "Ardenna pacifica",
+  "en": "Wedge-tailed Shearwater"
+ },
+ "ardenna-grisea": {
+  "zh": "灰鹱",
+  "sci": "Ardenna grisea",
+  "en": "Sooty Shearwater"
+ },
+ "ardenna-carneipes": {
+  "zh": "淡足鹱",
+  "sci": "Ardenna carneipes",
+  "en": "Flesh-footed Shearwater"
+ },
+ "puffinus-persicus": {
+  "zh": "波斯鹱",
+  "sci": "Puffinus persicus",
+  "en": "Persian Shearwater"
+ },
+ "puffinus-bailloni": {
+  "zh": "热带鹱",
+  "sci": "Puffinus bailloni",
+  "en": "Tropical Shearwater"
+ },
+ "pterodroma-baraui": {
+  "zh": "留尼汪圆尾鹱",
+  "sci": "Pterodroma baraui",
+  "en": "Barau's Petrel"
+ },
+ "leptoptilos-javanicus": {
+  "zh": "秃鹳",
+  "sci": "Leptoptilos javanicus",
+  "en": "Lesser Adjutant"
+ },
+ "mycteria-leucocephala": {
+  "zh": "彩鹳",
+  "sci": "Mycteria leucocephala",
+  "en": "Painted Stork"
+ },
+ "ephippiorhynchus-asiaticus": {
+  "zh": "黑颈鹳",
+  "sci": "Ephippiorhynchus asiaticus",
+  "en": "Black-necked Stork"
+ },
+ "ciconia-episcopus": {
+  "zh": "白颈鹳",
+  "sci": "Ciconia episcopus",
+  "en": "Asian Woolly-necked Stork"
+ },
+ "fregata-ariel": {
+  "zh": "白斑军舰鸟",
+  "sci": "Fregata ariel",
+  "en": "Lesser Frigatebird"
+ },
+ "fregata-andrewsi": {
+  "zh": "白腹军舰鸟",
+  "sci": "Fregata andrewsi",
+  "en": "Christmas Frigatebird"
+ },
+ "fregata-minor": {
+  "zh": "黑腹军舰鸟",
+  "sci": "Fregata minor",
+  "en": "Great Frigatebird"
+ },
+ "anhinga-melanogaster": {
+  "zh": "黑腹蛇鹈",
+  "sci": "Anhinga melanogaster",
+  "en": "Oriental Darter"
+ },
+ "phalacrocorax-fuscicollis": {
+  "zh": "印度鸬鹚",
+  "sci": "Phalacrocorax fuscicollis",
+  "en": "Indian Cormorant"
+ },
+ "threskiornis-melanocephalus": {
+  "zh": "黑头白鹮",
+  "sci": "Threskiornis melanocephalus",
+  "en": "Black-headed Ibis"
+ },
+ "pelecanus-philippensis": {
+  "zh": "斑嘴鹈鹕",
+  "sci": "Pelecanus philippensis",
+  "en": "Spot-billed Pelican"
+ },
+ "botaurus-flavicollis": {
+  "zh": "黑鳽",
+  "sci": "Botaurus flavicollis",
+  "en": "Black Bittern"
+ },
+ "botaurus-cinnamomeus": {
+  "zh": "栗苇鳽",
+  "sci": "Botaurus cinnamomeus",
+  "en": "Cinnamon Bittern"
+ },
+ "botaurus-eurhythmus": {
+  "zh": "紫背苇鳽",
+  "sci": "Botaurus eurhythmus",
+  "en": "Von Schrenck's Bittern"
+ },
+ "gorsachius-melanolophus": {
+  "zh": "黑冠鳽",
+  "sci": "Gorsachius melanolophus",
+  "en": "Malayan Night Heron"
+ },
+ "egretta-gularis": {
+  "zh": "西岩鹭",
+  "sci": "Egretta gularis",
+  "en": "Western Reef Heron"
+ },
+ "ardeola-grayii": {
+  "zh": "印度池鹭",
+  "sci": "Ardeola grayii",
+  "en": "Indian Pond Heron"
+ },
+ "ardeola-bacchus": {
+  "zh": "池鹭",
+  "sci": "Ardeola bacchus",
+  "en": "Chinese Pond Heron"
+ },
+ "ardea-purpurea": {
+  "zh": "草鹭",
+  "sci": "Ardea purpurea",
+  "en": "Purple Heron"
+ },
+ "caprimulgus-indicus": {
+  "zh": "丛林夜鹰",
+  "sci": "Caprimulgus indicus",
+  "en": "Jungle Nightjar"
+ },
+ "caprimulgus-atripennis": {
+  "zh": "印度长尾夜鹰",
+  "sci": "Caprimulgus atripennis",
+  "en": "Jerdon's Nightjar"
+ },
+ "caprimulgus-asiaticus": {
+  "zh": "印度夜鹰",
+  "sci": "Caprimulgus asiaticus",
+  "en": "Indian Nightjar"
+ },
+ "batrachostomus-moniliger": {
+  "zh": "领蛙口夜鹰",
+  "sci": "Batrachostomus moniliger",
+  "en": "Sri Lanka Frogmouth"
+ },
+ "hemiprocne-coronata": {
+  "zh": "凤头雨燕",
+  "sci": "Hemiprocne coronata",
+  "en": "Crested Treeswift"
+ },
+ "apus-affinis": {
+  "zh": "小雨燕",
+  "sci": "Apus affinis",
+  "en": "Little Swift"
+ },
+ "aerodramus-unicolor": {
+  "zh": "印度金丝燕",
+  "sci": "Aerodramus unicolor",
+  "en": "Indian Swiftlet"
+ },
+ "phodilus-assimilis": {
+  "zh": "斯里兰卡栗鸮",
+  "sci": "Phodilus assimilis",
+  "en": "Sri Lanka Bay Owl"
+ },
+ "tyto-javanica": {
+  "zh": "仓鸮",
+  "sci": "Tyto javanica",
+  "en": "Eastern Barn Owl"
+ },
+ "ninox-scutulata": {
+  "zh": "鹰鸮",
+  "sci": "Ninox scutulata",
+  "en": "Brown Boobook"
+ },
+ "glaucidium-radiatum": {
+  "zh": "丛林鸺鹠",
+  "sci": "Glaucidium radiatum",
+  "en": "Jungle Owlet"
+ },
+ "glaucidium-castanotum": {
+  "zh": "栗背鸺鹠",
+  "sci": "Glaucidium castanotum",
+  "en": "Chestnut-backed Owlet"
+ },
+ "otus-thilohoffmanni": {
+  "zh": "斯里兰卡角鸮",
+  "sci": "Otus thilohoffmanni",
+  "en": "Serendib Scops Owl"
+ },
+ "otus-bakkamoena": {
+  "zh": "印度领角鸮",
+  "sci": "Otus bakkamoena",
+  "en": "Indian Scops Owl"
+ },
+ "otus-sunia": {
+  "zh": "红角鸮",
+  "sci": "Otus sunia",
+  "en": "Oriental Scops Owl"
+ },
+ "asio-flammeus": {
+  "zh": "短耳鸮",
+  "sci": "Asio flammeus",
+  "en": "Short-eared Owl"
+ },
+ "ketupa-zeylonensis": {
+  "zh": "褐渔鸮",
+  "sci": "Ketupa zeylonensis",
+  "en": "Brown Fish Owl"
+ },
+ "ketupa-nipalensis": {
+  "zh": "林雕鸮",
+  "sci": "Ketupa nipalensis",
+  "en": "Spot-bellied Eagle-Owl"
+ },
+ "strix-leptogrammica": {
+  "zh": "褐林鸮",
+  "sci": "Strix leptogrammica",
+  "en": "Brown Wood Owl"
+ },
+ "pandion-haliaetus": {
+  "zh": "鹗",
+  "sci": "Pandion haliaetus",
+  "en": "Osprey"
+ },
+ "elanus-caeruleus": {
+  "zh": "黑翅鸢",
+  "sci": "Elanus caeruleus",
+  "en": "Black-winged Kite"
+ },
+ "aviceda-jerdoni": {
+  "zh": "褐冠鹃隼",
+  "sci": "Aviceda jerdoni",
+  "en": "Jerdon's Baza"
+ },
+ "pernis-apivorus": {
+  "zh": "鹃头蜂鹰",
+  "sci": "Pernis apivorus",
+  "en": "European Honey Buzzard"
+ },
+ "pernis-ptilorhynchus": {
+  "zh": "凤头蜂鹰",
+  "sci": "Pernis ptilorhynchus",
+  "en": "Crested Honey Buzzard"
+ },
+ "spilornis-cheela": {
+  "zh": "蛇雕",
+  "sci": "Spilornis cheela",
+  "en": "Crested Serpent Eagle"
+ },
+ "nisaetus-kelaarti": {
+  "zh": "力氏鹰雕",
+  "sci": "Nisaetus kelaarti",
+  "en": "Legge's Hawk-Eagle"
+ },
+ "nisaetus-cirrhatus": {
+  "zh": "凤头鹰雕",
+  "sci": "Nisaetus cirrhatus",
+  "en": "Changeable Hawk-Eagle"
+ },
+ "lophotriorchis-kienerii": {
+  "zh": "棕腹隼雕",
+  "sci": "Lophotriorchis kienerii",
+  "en": "Rufous-bellied Eagle"
+ },
+ "ictinaetus-malaiensis": {
+  "zh": "林雕",
+  "sci": "Ictinaetus malaiensis",
+  "en": "Black Eagle"
+ },
+ "clanga-clanga": {
+  "zh": "乌雕",
+  "sci": "Clanga clanga",
+  "en": "Greater Spotted Eagle"
+ },
+ "hieraaetus-pennatus": {
+  "zh": "靴隼雕",
+  "sci": "Hieraaetus pennatus",
+  "en": "Booted Eagle"
+ },
+ "lophospiza-trivirgata": {
+  "zh": "凤头鹰",
+  "sci": "Lophospiza trivirgata",
+  "en": "Crested Goshawk"
+ },
+ "tachyspiza-virgata": {
+  "zh": "松雀鹰",
+  "sci": "Tachyspiza virgata",
+  "en": "Besra"
+ },
+ "tachyspiza-soloensis": {
+  "zh": "赤腹鹰",
+  "sci": "Tachyspiza soloensis",
+  "en": "Chinese Sparrowhawk"
+ },
+ "circus-macrourus": {
+  "zh": "草原鹞",
+  "sci": "Circus macrourus",
+  "en": "Pallid Harrier"
+ },
+ "circus-pygargus": {
+  "zh": "乌灰鹞",
+  "sci": "Circus pygargus",
+  "en": "Montagu's Harrier"
+ },
+ "circus-melanoleucos": {
+  "zh": "鹊鹞",
+  "sci": "Circus melanoleucos",
+  "en": "Pied Harrier"
+ },
+ "circus-spilonotus": {
+  "zh": "白腹鹞",
+  "sci": "Circus spilonotus",
+  "en": "Eastern Marsh Harrier"
+ },
+ "icthyophaga-ichthyaetus": {
+  "zh": "灰头渔雕",
+  "sci": "Icthyophaga ichthyaetus",
+  "en": "Grey-headed Fish Eagle"
+ },
+ "buteo-rufinus": {
+  "zh": "棕尾鵟",
+  "sci": "Buteo rufinus",
+  "en": "Long-legged Buzzard"
+ },
+ "buteo-refectus": {
+  "zh": "喜山鵟",
+  "sci": "Buteo refectus",
+  "en": "Himalayan Buzzard"
+ },
+ "harpactes-fasciatus": {
+  "zh": "黑头咬鹃",
+  "sci": "Harpactes fasciatus",
+  "en": "Malabar Trogon"
+ },
+ "ocyceros-gingalensis": {
+  "zh": "斯里兰卡灰犀鸟",
+  "sci": "Ocyceros gingalensis",
+  "en": "Sri Lanka Grey Hornbill"
+ },
+ "anthracoceros-coronatus": {
+  "zh": "印度冠斑犀鸟",
+  "sci": "Anthracoceros coronatus",
+  "en": "Malabar Pied Hornbill"
+ },
+ "eurystomus-orientalis": {
+  "zh": "三宝鸟",
+  "sci": "Eurystomus orientalis",
+  "en": "Oriental Dollarbird"
+ },
+ "coracias-benghalensis": {
+  "zh": "西棕胸佛法僧",
+  "sci": "Coracias benghalensis",
+  "en": "Indian Roller"
+ },
+ "merops-leschenaulti": {
+  "zh": "栗头蜂虎",
+  "sci": "Merops leschenaulti",
+  "en": "Chestnut-headed Bee-eater"
+ },
+ "merops-persicus": {
+  "zh": "蓝颊蜂虎",
+  "sci": "Merops persicus",
+  "en": "Blue-cheeked Bee-eater"
+ },
+ "ceyx-erithaca": {
+  "zh": "三趾翠鸟",
+  "sci": "Ceyx erithaca",
+  "en": "Black-backed Dwarf Kingfisher"
+ },
+ "pelargopsis-capensis": {
+  "zh": "鹳嘴翡翠",
+  "sci": "Pelargopsis capensis",
+  "en": "Stork-billed Kingfisher"
+ },
+ "halcyon-pileata": {
+  "zh": "蓝翡翠",
+  "sci": "Halcyon pileata",
+  "en": "Black-capped Kingfisher"
+ },
+ "psilopogon-rubricapillus": {
+  "zh": "斯里兰卡拟啄木鸟",
+  "sci": "Psilopogon rubricapillus",
+  "en": "Crimson-fronted Barbet"
+ },
+ "psilopogon-haemacephalus": {
+  "zh": "赤胸拟啄木鸟",
+  "sci": "Psilopogon haemacephalus",
+  "en": "Coppersmith Barbet"
+ },
+ "psilopogon-zeylanicus": {
+  "zh": "棕头绿拟啄木鸟",
+  "sci": "Psilopogon zeylanicus",
+  "en": "Brown-headed Barbet"
+ },
+ "psilopogon-flavifrons": {
+  "zh": "黄额拟啄木鸟",
+  "sci": "Psilopogon flavifrons",
+  "en": "Yellow-fronted Barbet"
+ },
+ "jynx-torquilla": {
+  "zh": "蚁䴕",
+  "sci": "Jynx torquilla",
+  "en": "Eurasian Wryneck"
+ },
+ "micropternus-brachyurus": {
+  "zh": "栗啄木鸟",
+  "sci": "Micropternus brachyurus",
+  "en": "Rufous Woodpecker"
+ },
+ "dinopium-benghalense": {
+  "zh": "小金背啄木鸟",
+  "sci": "Dinopium benghalense",
+  "en": "Black-rumped Flameback"
+ },
+ "dinopium-psarodes": {
+  "zh": "红背三趾啄木鸟",
+  "sci": "Dinopium psarodes",
+  "en": "Red-backed Flameback"
+ },
+ "picus-chlorolophus": {
+  "zh": "黄冠啄木鸟",
+  "sci": "Picus chlorolophus",
+  "en": "Lesser Yellownape"
+ },
+ "picus-xanthopygaeus": {
+  "zh": "鳞喉绿啄木鸟",
+  "sci": "Picus xanthopygaeus",
+  "en": "Streak-throated Woodpecker"
+ },
+ "chrysocolaptes-stricklandi": {
+  "zh": "绯红背啄木鸟",
+  "sci": "Chrysocolaptes stricklandi",
+  "en": "Crimson-backed Flameback"
+ },
+ "chrysocolaptes-festivus": {
+  "zh": "黑腰啄木鸟",
+  "sci": "Chrysocolaptes festivus",
+  "en": "White-naped Woodpecker"
+ },
+ "yungipicus-nanus": {
+  "zh": "褐头啄木鸟",
+  "sci": "Yungipicus nanus",
+  "en": "Brown-capped Pygmy Woodpecker"
+ },
+ "leiopicus-mahrattensis": {
+  "zh": "黄冠斑啄木鸟",
+  "sci": "Leiopicus mahrattensis",
+  "en": "Yellow-crowned Woodpecker"
+ },
+ "falco-amurensis": {
+  "zh": "红脚隼",
+  "sci": "Falco amurensis",
+  "en": "Amur Falcon"
+ },
+ "falco-subbuteo": {
+  "zh": "燕隼",
+  "sci": "Falco subbuteo",
+  "en": "Eurasian Hobby"
+ },
+ "falco-peregrinus": {
+  "zh": "游隼",
+  "sci": "Falco peregrinus",
+  "en": "Peregrine Falcon"
+ },
+ "psittacula-eupatria": {
+  "zh": "亚历山大鹦鹉",
+  "sci": "Psittacula eupatria",
+  "en": "Alexandrine Parakeet"
+ },
+ "psittacula-cyanocephala": {
+  "zh": "紫头鹦鹉",
+  "sci": "Psittacula cyanocephala",
+  "en": "Plum-headed Parakeet"
+ },
+ "psittacula-calthrapae": {
+  "zh": "艳绿领鹦鹉",
+  "sci": "Psittacula calthrapae",
+  "en": "Layard's Parakeet"
+ },
+ "loriculus-beryllinus": {
+  "zh": "斯里兰卡短尾鹦鹉",
+  "sci": "Loriculus beryllinus",
+  "en": "Sri Lanka Hanging Parrot"
+ },
+ "pitta-brachyura": {
+  "zh": "印度八色鸫",
+  "sci": "Pitta brachyura",
+  "en": "Indian Pitta"
+ },
+ "pericrocotus-cinnamomeus": {
+  "zh": "小山椒鸟",
+  "sci": "Pericrocotus cinnamomeus",
+  "en": "Small Minivet"
+ },
+ "pericrocotus-flammeus": {
+  "zh": "赤黄山椒鸟",
+  "sci": "Pericrocotus flammeus",
+  "en": "Orange Minivet"
+ },
+ "coracina-macei": {
+  "zh": "印度鹃鵙",
+  "sci": "Coracina macei",
+  "en": "Indian Cuckooshrike"
+ },
+ "lalage-melanoptera": {
+  "zh": "黑头鹃鵙",
+  "sci": "Lalage melanoptera",
+  "en": "Black-headed Cuckooshrike"
+ },
+ "artamus-fuscus": {
+  "zh": "灰燕鵙",
+  "sci": "Artamus fuscus",
+  "en": "Ashy Woodswallow"
+ },
+ "aegithina-tiphia": {
+  "zh": "黑翅雀鹎",
+  "sci": "Aegithina tiphia",
+  "en": "Common Iora"
+ },
+ "aegithina-nigrolutea": {
+  "zh": "白尾雀鹎",
+  "sci": "Aegithina nigrolutea",
+  "en": "Marshall's Iora"
+ },
+ "hemipus-picatus": {
+  "zh": "褐背鹟鵙",
+  "sci": "Hemipus picatus",
+  "en": "Bar-winged Flycatcher-shrike"
+ },
+ "tephrodornis-affinis": {
+  "zh": "斯里兰卡林鵙",
+  "sci": "Tephrodornis affinis",
+  "en": "Sri Lanka Woodshrike"
+ },
+ "oriolus-xanthornus": {
+  "zh": "黑头黄鹂",
+  "sci": "Oriolus xanthornus",
+  "en": "Black-hooded Oriole"
+ },
+ "oriolus-kundoo": {
+  "zh": "印度金黄鹂",
+  "sci": "Oriolus kundoo",
+  "en": "Indian Golden Oriole"
+ },
+ "rhipidura-aureola": {
+  "zh": "白眉扇尾鹟",
+  "sci": "Rhipidura aureola",
+  "en": "White-browed Fantail"
+ },
+ "dicrurus-lophorinus": {
+  "zh": "斯里兰卡卷尾",
+  "sci": "Dicrurus lophorinus",
+  "en": "Sri Lanka Drongo"
+ },
+ "dicrurus-paradiseus": {
+  "zh": "大盘尾",
+  "sci": "Dicrurus paradiseus",
+  "en": "Greater Racket-tailed Drongo"
+ },
+ "dicrurus-caerulescens": {
+  "zh": "白腹卷尾",
+  "sci": "Dicrurus caerulescens",
+  "en": "White-bellied Drongo"
+ },
+ "dicrurus-leucophaeus": {
+  "zh": "灰卷尾",
+  "sci": "Dicrurus leucophaeus",
+  "en": "Ashy Drongo"
+ },
+ "hypothymis-azurea": {
+  "zh": "黑枕王鹟",
+  "sci": "Hypothymis azurea",
+  "en": "Black-naped Monarch"
+ },
+ "terpsiphone-paradisi": {
+  "zh": "印度寿带",
+  "sci": "Terpsiphone paradisi",
+  "en": "Indian Paradise Flycatcher"
+ },
+ "urocissa-ornata": {
+  "zh": "斯里兰卡蓝鹊",
+  "sci": "Urocissa ornata",
+  "en": "Sri Lanka Blue Magpie"
+ },
+ "corvus-levaillantii": {
+  "zh": "丛林鸦",
+  "sci": "Corvus levaillantii",
+  "en": "Jungle Crow"
+ },
+ "culicicapa-ceylonensis": {
+  "zh": "方尾鹟",
+  "sci": "Culicicapa ceylonensis",
+  "en": "Grey-headed Canary-flycatcher"
+ },
+ "eremopterix-griseus": {
+  "zh": "灰顶雀百灵",
+  "sci": "Eremopterix griseus",
+  "en": "Ashy-crowned Sparrow-Lark"
+ },
+ "plocealauda-affinis": {
+  "zh": "斯里兰卡歌百灵",
+  "sci": "Plocealauda affinis",
+  "en": "Jerdon's Bush Lark"
+ },
+ "calandrella-dukhunensis": {
+  "zh": "蒙古短趾百灵",
+  "sci": "Calandrella dukhunensis",
+  "en": "Mongolian Short-toed Lark"
+ },
+ "prinia-sylvatica": {
+  "zh": "丛林山鹪莺",
+  "sci": "Prinia sylvatica",
+  "en": "Jungle Prinia"
+ },
+ "prinia-socialis": {
+  "zh": "灰山鹪莺",
+  "sci": "Prinia socialis",
+  "en": "Ashy Prinia"
+ },
+ "elaphrornis-palliseri": {
+  "zh": "帕氏短翅莺",
+  "sci": "Elaphrornis palliseri",
+  "en": "Sri Lanka Bush Warbler"
+ },
+ "hirundo-domicola": {
+  "zh": "山燕",
+  "sci": "Hirundo domicola",
+  "en": "Hill Swallow"
+ },
+ "cecropis-hyperythra": {
+  "zh": "斯里兰卡燕",
+  "sci": "Cecropis hyperythra",
+  "en": "Sri Lanka Swallow"
+ },
+ "phylloscopus-nitidus": {
+  "zh": "绿柳莺",
+  "sci": "Phylloscopus nitidus",
+  "en": "Green Warbler"
+ },
+ "phylloscopus-magnirostris": {
+  "zh": "乌嘴柳莺",
+  "sci": "Phylloscopus magnirostris",
+  "en": "Large-billed Leaf Warbler"
+ },
+ "rubigula-melanictera": {
+  "zh": "黑顶黄鹎",
+  "sci": "Rubigula melanictera",
+  "en": "Black-capped Bulbul"
+ },
+ "pycnonotus-luteolus": {
+  "zh": "白眉鹎",
+  "sci": "Pycnonotus luteolus",
+  "en": "White-browed Bulbul"
+ },
+ "pycnonotus-penicillatus": {
+  "zh": "黄耳鹎",
+  "sci": "Pycnonotus penicillatus",
+  "en": "Yellow-eared Bulbul"
+ },
+ "acritillas-indica": {
+  "zh": "黄眉鹎",
+  "sci": "Acritillas indica",
+  "en": "Yellow-browed Bulbul"
+ },
+ "hypsipetes-ganeesa": {
+  "zh": "方尾黑鹎",
+  "sci": "Hypsipetes ganeesa",
+  "en": "Square-tailed Bulbul"
+ },
+ "chrysomma-sinense": {
+  "zh": "金眼鹛雀",
+  "sci": "Chrysomma sinense",
+  "en": "Yellow-eyed Babbler"
+ },
+ "zosterops-ceylonensis": {
+  "zh": "斯里兰卡绣眼鸟",
+  "sci": "Zosterops ceylonensis",
+  "en": "Sri Lanka White-eye"
+ },
+ "dumetia-hyperythra": {
+  "zh": "棕腹鹛",
+  "sci": "Dumetia hyperythra",
+  "en": "Tawny-bellied Babbler"
+ },
+ "dumetia-atriceps": {
+  "zh": "黑头鹛",
+  "sci": "Dumetia atriceps",
+  "en": "Dark-fronted Babbler"
+ },
+ "pomatorhinus-melanurus": {
+  "zh": "斯里兰卡钩嘴鹛",
+  "sci": "Pomatorhinus melanurus",
+  "en": "Sri Lanka Scimitar Babbler"
+ },
+ "pellorneum-fuscocapillus": {
+  "zh": "褐冠幽鹛",
+  "sci": "Pellorneum fuscocapillus",
+  "en": "Brown-capped Babbler"
+ },
+ "argya-cinereifrons": {
+  "zh": "灰头噪鹛",
+  "sci": "Argya cinereifrons",
+  "en": "Ashy-headed Laughingthrush"
+ },
+ "argya-rufescens": {
+  "zh": "橙嘴鸫鹛",
+  "sci": "Argya rufescens",
+  "en": "Orange-billed Babbler"
+ },
+ "argya-affinis": {
+  "zh": "印度白头鸫鹛",
+  "sci": "Argya affinis",
+  "en": "Yellow-billed Babbler"
+ },
+ "garrulax-leucolophus": {
+  "zh": "白冠噪鹛",
+  "sci": "Garrulax leucolophus",
+  "en": "White-crested Laughingthrush"
+ },
+ "sitta-frontalis": {
+  "zh": "绒额䴓",
+  "sci": "Sitta frontalis",
+  "en": "Velvet-fronted Nuthatch"
+ },
+ "gracula-ptilogenys": {
+  "zh": "斯里兰卡鹩哥",
+  "sci": "Gracula ptilogenys",
+  "en": "Sri Lanka Hill Myna"
+ },
+ "gracula-indica": {
+  "zh": "南鹩哥",
+  "sci": "Gracula indica",
+  "en": "Southern Hill Myna"
+ },
+ "agropsar-sturninus": {
+  "zh": "北椋鸟",
+  "sci": "Agropsar sturninus",
+  "en": "Daurian Starling"
+ },
+ "sturnornis-albofrontatus": {
+  "zh": "白脸椋鸟",
+  "sci": "Sturnornis albofrontatus",
+  "en": "White-faced Starling"
+ },
+ "sturnia-pagodarum": {
+  "zh": "黑冠椋鸟",
+  "sci": "Sturnia pagodarum",
+  "en": "Brahminy Starling"
+ },
+ "zoothera-imbricata": {
+  "zh": "斯里兰卡地鸫",
+  "sci": "Zoothera imbricata",
+  "en": "Sri Lanka Thrush"
+ },
+ "geokichla-wardii": {
+  "zh": "杂色地鸫",
+  "sci": "Geokichla wardii",
+  "en": "Pied Thrush"
+ },
+ "geokichla-spiloptera": {
+  "zh": "斑翅地鸫",
+  "sci": "Geokichla spiloptera",
+  "en": "Spot-winged Thrush"
+ },
+ "geokichla-citrina": {
+  "zh": "橙头地鸫",
+  "sci": "Geokichla citrina",
+  "en": "Orange-headed Thrush"
+ },
+ "turdus-simillimus": {
+  "zh": "南亚乌鸫",
+  "sci": "Turdus simillimus",
+  "en": "Indian Blackbird"
+ },
+ "turdus-obscurus": {
+  "zh": "白眉鸫",
+  "sci": "Turdus obscurus",
+  "en": "Eyebrowed Thrush"
+ },
+ "cercotrichas-galactotes": {
+  "zh": "棕薮鸲",
+  "sci": "Cercotrichas galactotes",
+  "en": "Rufous-tailed Scrub Robin"
+ },
+ "copsychus-fulicatus": {
+  "zh": "印度鸲",
+  "sci": "Copsychus fulicatus",
+  "en": "Indian Robin"
+ },
+ "copsychus-leggei": {
+  "zh": "斯里兰卡鹊鸲",
+  "sci": "Copsychus leggei",
+  "en": "Sri Lanka Shama"
+ },
+ "muscicapa-sibirica": {
+  "zh": "乌鹟",
+  "sci": "Muscicapa sibirica",
+  "en": "Dark-sided Flycatcher"
+ },
+ "muscicapa-dauurica": {
+  "zh": "北灰鹟",
+  "sci": "Muscicapa dauurica",
+  "en": "Asian Brown Flycatcher"
+ },
+ "muscicapa-muttui": {
+  "zh": "褐胸鹟",
+  "sci": "Muscicapa muttui",
+  "en": "Brown-breasted Flycatcher"
+ },
+ "cyanoptila-cyanomelana": {
+  "zh": "白腹蓝鹟",
+  "sci": "Cyanoptila cyanomelana",
+  "en": "Blue-and-white Flycatcher"
+ },
+ "eumyias-sordidus": {
+  "zh": "暗蓝仙鹟",
+  "sci": "Eumyias sordidus",
+  "en": "Dull-blue Flycatcher"
+ },
+ "cyornis-hainanus": {
+  "zh": "海南蓝仙鹟",
+  "sci": "Cyornis hainanus",
+  "en": "Hainan Blue Flycatcher"
+ },
+ "cyornis-rubeculoides": {
+  "zh": "蓝喉仙鹟",
+  "sci": "Cyornis rubeculoides",
+  "en": "Blue-throated Blue Flycatcher"
+ },
+ "cyornis-tickelliae": {
+  "zh": "梯氏仙鹟",
+  "sci": "Cyornis tickelliae",
+  "en": "Tickell's Blue Flycatcher"
+ },
+ "myophonus-blighi": {
+  "zh": "斯里兰卡啸鸫",
+  "sci": "Myophonus blighi",
+  "en": "Sri Lanka Whistling Thrush"
+ },
+ "larvivora-brunnea": {
+  "zh": "栗腹歌鸲",
+  "sci": "Larvivora brunnea",
+  "en": "Indian Blue Robin"
+ },
+ "ficedula-zanthopygia": {
+  "zh": "白眉姬鹟",
+  "sci": "Ficedula zanthopygia",
+  "en": "Yellow-rumped Flycatcher"
+ },
+ "ficedula-subrubra": {
+  "zh": "印巴姬鹟",
+  "sci": "Ficedula subrubra",
+  "en": "Kashmir Flycatcher"
+ },
+ "monticola-saxatilis": {
+  "zh": "白背矶鸫",
+  "sci": "Monticola saxatilis",
+  "en": "Common Rock Thrush"
+ },
+ "monticola-solitarius": {
+  "zh": "蓝矶鸫",
+  "sci": "Monticola solitarius",
+  "en": "Blue Rock Thrush"
+ },
+ "oenanthe-pleschanka": {
+  "zh": "白顶䳭",
+  "sci": "Oenanthe pleschanka",
+  "en": "Pied Wheatear"
+ },
+ "pachyglossa-agilis": {
+  "zh": "厚嘴啄花鸟",
+  "sci": "Pachyglossa agilis",
+  "en": "Thick-billed Flowerpecker"
+ },
+ "pachyglossa-vincens": {
+  "zh": "白喉啄花鸟",
+  "sci": "Pachyglossa vincens",
+  "en": "Legge's Flowerpecker"
+ },
+ "dicaeum-erythrorhynchos": {
+  "zh": "淡嘴啄花鸟",
+  "sci": "Dicaeum erythrorhynchos",
+  "en": "Pale-billed Flowerpecker"
+ },
+ "leptocoma-zeylonica": {
+  "zh": "紫腰花蜜鸟",
+  "sci": "Leptocoma zeylonica",
+  "en": "Purple-rumped Sunbird"
+ },
+ "cinnyris-lotenius": {
+  "zh": "罗氏花蜜鸟",
+  "sci": "Cinnyris lotenius",
+  "en": "Loten's Sunbird"
+ },
+ "chloropsis-jerdoni": {
+  "zh": "南亚叶鹎",
+  "sci": "Chloropsis jerdoni",
+  "en": "Jerdon's Leafbird"
+ },
+ "chloropsis-aurifrons": {
+  "zh": "金额叶鹎",
+  "sci": "Chloropsis aurifrons",
+  "en": "Golden-fronted Leafbird"
+ },
+ "ploceus-manyar": {
+  "zh": "纹胸织雀",
+  "sci": "Ploceus manyar",
+  "en": "Streaked Weaver"
+ },
+ "lonchura-kelaarti": {
+  "zh": "红胸文鸟",
+  "sci": "Lonchura kelaarti",
+  "en": "Black-throated Munia"
+ },
+ "lonchura-striata": {
+  "zh": "白腰文鸟",
+  "sci": "Lonchura striata",
+  "en": "White-rumped Munia"
+ },
+ "lonchura-malacca": {
+  "zh": "黑头文鸟",
+  "sci": "Lonchura malacca",
+  "en": "Tricolored Munia"
+ },
+ "anthus-godlewskii": {
+  "zh": "布氏鹨",
+  "sci": "Anthus godlewskii",
+  "en": "Blyth's Pipit"
+ },
+ "curruca-althaea": {
+  "zh": "休氏白喉林莺",
+  "sci": "Curruca althaea",
+  "en": "Hume's Whitethroat"
+ },
+ "sturnia-malabarica": {
+  "zh": "灰头椋鸟",
+  "sci": "Sturnia malabarica",
+  "en": "Chestnut-tailed Starling"
+ }
+}

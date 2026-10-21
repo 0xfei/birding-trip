@@ -1,0 +1,26 @@
+{
+ "kaengkrachan": {
+  "locs": [
+   "L921118",
+   "L920770"
+  ],
+  "via": "半径搜 20km",
+  "name": "Kaeng Krachan 国家公园",
+  "loc_names": [
+   "Kaeng Krachan NP & surroundings* general (use more precise loc.)",
+   "Kaeng Krachan NP--Ban Krang Campgrounds"
+  ]
+ },
+ "bangpu": {
+  "locs": [
+   "L66849468",
+   "L946060"
+  ],
+  "via": "半径搜 8km",
+  "name": "Bang Pu 滨海",
+  "loc_names": [
+   "Bang Pu – Bang Pla* (general area)",
+   "Bang Pu--Nature Education Center"
+  ]
+ }
+}

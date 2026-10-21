@@ -1,0 +1,302 @@
+{
+ "source": "用户 2026-10-15 提供的 35 种特有种清单",
+ "en_policy": "优先用用户提供的英文名（老牌图鉴常用名）",
+ "n_user": 35,
+ "species": {
+  "glaucidium-castanotum": {
+   "slug": "glaucidium-castanotum",
+   "platform_zh": "栗背鸺鹠",
+   "platform_en": "Chestnut-backed Owlet",
+   "sci": "Glaucidium castanotum",
+   "cat": 1,
+   "preferred_en": "Chestnut-backed owlet"
+  },
+  "argya-rufescens": {
+   "slug": "argya-rufescens",
+   "platform_zh": "橙嘴鸫鹛",
+   "platform_en": "Orange-billed Babbler",
+   "sci": "Argya rufescens",
+   "cat": 1,
+   "user_zh": "棕鸫鹛",
+   "preferred_en": "Sri Lanka Rufous Babbler",
+   "user_en": "Sri Lanka Rufous Babbler"
+  },
+  "urocissa-ornata": {
+   "slug": "urocissa-ornata",
+   "platform_zh": "斯里兰卡蓝鹊",
+   "platform_en": "Sri Lanka Blue Magpie",
+   "sci": "Urocissa ornata",
+   "cat": 1,
+   "preferred_en": "Sri Lanka Blue-Magpie"
+  },
+  "ocyceros-gingalensis": {
+   "slug": "ocyceros-gingalensis",
+   "platform_zh": "斯里兰卡灰犀鸟",
+   "platform_en": "Sri Lanka Grey Hornbill",
+   "sci": "Ocyceros gingalensis",
+   "cat": 1,
+   "preferred_en": "Sri Lanka Grey Hornbill"
+  },
+  "rubigula-melanictera": {
+   "slug": "rubigula-melanictera",
+   "platform_zh": "黑顶黄鹎",
+   "platform_en": "Black-capped Bulbul",
+   "sci": "Rubigula melanictera",
+   "cat": 1,
+   "preferred_en": "Black-capped Bulbul"
+  },
+  "galloperdix-bicalcarata": {
+   "slug": "galloperdix-bicalcarata",
+   "platform_zh": "斯里兰卡鸡鹑",
+   "platform_en": "Sri Lanka Spurfowl",
+   "sci": "Galloperdix bicalcarata",
+   "cat": 1,
+   "preferred_en": "Sri Lanka Spurfowl"
+  },
+  "pomatorhinus-melanurus": {
+   "slug": "pomatorhinus-melanurus",
+   "platform_zh": "斯里兰卡钩嘴鹛",
+   "platform_en": "Sri Lanka Scimitar Babbler",
+   "sci": "Pomatorhinus melanurus",
+   "cat": 1,
+   "preferred_en": "Sri Lanka Scimitar Babbler"
+  },
+  "pachyglossa-vincens": {
+   "slug": "pachyglossa-vincens",
+   "platform_zh": "白喉啄花鸟",
+   "platform_en": "Legge's Flowerpecker",
+   "sci": "Pachyglossa vincens",
+   "cat": 1,
+   "preferred_en": "Legge’s Flowerpecker"
+  },
+  "centropus-chlororhynchos": {
+   "slug": "centropus-chlororhynchos",
+   "platform_zh": "绿嘴鸦鹃",
+   "platform_en": "Green-billed Coucal",
+   "sci": "Centropus chlororhynchos",
+   "cat": 1,
+   "preferred_en": "Green-billed Coucal"
+  },
+  "treron-pompadora": {
+   "slug": "treron-pompadora",
+   "platform_zh": "斯里兰卡绿鸠",
+   "platform_en": "Sri Lanka Green Pigeon",
+   "sci": "Treron pompadora",
+   "cat": 1,
+   "preferred_en": "Pompadour Green Pigeon",
+   "user_en": "Pompadour Green Pigeon"
+  },
+  "otus-thilohoffmanni": {
+   "slug": "otus-thilohoffmanni",
+   "platform_zh": "斯里兰卡角鸮",
+   "platform_en": "Serendib Scops Owl",
+   "sci": "Otus thilohoffmanni",
+   "cat": 1,
+   "preferred_en": "Serendib Scops Owl"
+  },
+  "pycnonotus-penicillatus": {
+   "slug": "pycnonotus-penicillatus",
+   "platform_zh": "黄耳鹎",
+   "platform_en": "Yellow-eared Bulbul",
+   "sci": "Pycnonotus penicillatus",
+   "cat": 1,
+   "preferred_en": "Yellow-eared Bulbul"
+  },
+  "eumyias-sordidus": {
+   "slug": "eumyias-sordidus",
+   "platform_zh": "暗蓝仙鹟",
+   "platform_en": "Dull-blue Flycatcher",
+   "sci": "Eumyias sordidus",
+   "cat": 1,
+   "preferred_en": "Dull-blue Flycatcher"
+  },
+  "zosterops-ceylonensis": {
+   "slug": "zosterops-ceylonensis",
+   "platform_zh": "斯里兰卡绣眼鸟",
+   "platform_en": "Sri Lanka White-eye",
+   "sci": "Zosterops ceylonensis",
+   "cat": 1,
+   "preferred_en": "Sri Lanka Hill White-eye",
+   "user_en": "Sri Lanka Hill White-eye"
+  },
+  "columba-torringtoniae": {
+   "slug": "columba-torringtoniae",
+   "platform_zh": "紫头林鸽",
+   "platform_en": "Sri Lanka Wood Pigeon",
+   "sci": "Columba torringtoniae",
+   "cat": 1,
+   "preferred_en": "Sri Lanka Wood Pigeon"
+  },
+  "elaphrornis-palliseri": {
+   "slug": "elaphrornis-palliseri",
+   "platform_zh": "帕氏短翅莺",
+   "platform_en": "Sri Lanka Bush Warbler",
+   "sci": "Elaphrornis palliseri",
+   "cat": 1,
+   "preferred_en": "Sri Lanka Bush Warbler"
+  },
+  "geokichla-spiloptera": {
+   "slug": "geokichla-spiloptera",
+   "platform_zh": "斑翅地鸫",
+   "platform_en": "Spot-winged Thrush",
+   "sci": "Geokichla spiloptera",
+   "cat": 1,
+   "preferred_en": "Spotted-winged Thrush",
+   "user_en": "Spotted-winged Thrush"
+  },
+  "myophonus-blighi": {
+   "slug": "myophonus-blighi",
+   "platform_zh": "斯里兰卡啸鸫",
+   "platform_en": "Sri Lanka Whistling Thrush",
+   "sci": "Myophonus blighi",
+   "cat": 1,
+   "preferred_en": "Sri Lanka Whistling Thrush"
+  },
+  "chrysocolaptes-stricklandi": {
+   "slug": "chrysocolaptes-stricklandi",
+   "platform_zh": "绯红背啄木鸟",
+   "platform_en": "Crimson-backed Flameback",
+   "sci": "Chrysocolaptes stricklandi",
+   "cat": 1,
+   "user_zh": "红背啄木鸟",
+   "preferred_en": "Crimson-backed Woodpecker",
+   "user_en": "Crimson-backed Woodpecker"
+  },
+  "tephrodornis-affinis": {
+   "slug": "tephrodornis-affinis",
+   "platform_zh": "斯里兰卡林鵙",
+   "platform_en": "Sri Lanka Woodshrike",
+   "sci": "Tephrodornis affinis",
+   "cat": 1,
+   "user_zh": "斯里兰卡林鵙ju",
+   "preferred_en": "Sri Lanka Wood Shrike",
+   "user_en": "Sri Lanka Wood Shrike"
+  },
+  "gracula-ptilogenys": {
+   "slug": "gracula-ptilogenys",
+   "platform_zh": "斯里兰卡鹩哥",
+   "platform_en": "Sri Lanka Hill Myna",
+   "sci": "Gracula ptilogenys",
+   "cat": 1,
+   "preferred_en": "Sri Lanka Hill Myna"
+  },
+  "psittacula-calthrapae": {
+   "slug": "psittacula-calthrapae",
+   "platform_zh": "艳绿领鹦鹉",
+   "platform_en": "Layard's Parakeet",
+   "sci": "Psittacula calthrapae",
+   "cat": 1,
+   "preferred_en": "Layard's Parakeet"
+  },
+  "psilopogon-flavifrons": {
+   "slug": "psilopogon-flavifrons",
+   "platform_zh": "黄额拟啄木鸟",
+   "platform_en": "Yellow-fronted Barbet",
+   "sci": "Psilopogon flavifrons",
+   "cat": 1,
+   "preferred_en": "Yellow-Fronted Barbet"
+  },
+  "gallus-lafayettii": {
+   "slug": "gallus-lafayettii",
+   "platform_zh": "蓝喉原鸡",
+   "platform_en": "Sri Lanka Junglefowl",
+   "sci": "Gallus lafayettii",
+   "cat": 1,
+   "preferred_en": "Sri Lanka Junglefowl"
+  },
+  "loriculus-beryllinus": {
+   "slug": "loriculus-beryllinus",
+   "platform_zh": "斯里兰卡短尾鹦鹉",
+   "platform_en": "Sri Lanka Hanging Parrot",
+   "sci": "Loriculus beryllinus",
+   "cat": 1,
+   "preferred_en": "Sri Lanka Lorikeet",
+   "user_en": "Sri Lanka Lorikeet"
+  },
+  "psilopogon-rubricapillus": {
+   "slug": "psilopogon-rubricapillus",
+   "platform_zh": "斯里兰卡拟啄木鸟",
+   "platform_en": "Crimson-fronted Barbet",
+   "sci": "Psilopogon rubricapillus",
+   "cat": 1,
+   "preferred_en": "Sri Lanka Small Barbet",
+   "user_en": "Sri Lanka Small Barbet"
+  },
+  "zoothera-imbricata": {
+   "slug": "zoothera-imbricata",
+   "platform_zh": "斯里兰卡地鸫",
+   "platform_en": "Sri Lanka Thrush",
+   "sci": "Zoothera imbricata",
+   "cat": 1,
+   "preferred_en": "Sri Lanka Scaly Thrush",
+   "user_en": "Sri Lanka Scaly Thrush"
+  },
+  "dicrurus-lophorinus": {
+   "slug": "dicrurus-lophorinus",
+   "platform_zh": "斯里兰卡卷尾",
+   "platform_en": "Sri Lanka Drongo",
+   "sci": "Dicrurus lophorinus",
+   "cat": 1,
+   "preferred_en": "Sri Lanka Crested Drongo",
+   "user_en": "Sri Lanka Crested Drongo"
+  },
+  "phaenicophaeus-pyrrhocephalus": {
+   "slug": "phaenicophaeus-pyrrhocephalus",
+   "platform_zh": "红脸地鹃",
+   "platform_en": "Red-faced Malkoha",
+   "sci": "Phaenicophaeus pyrrhocephalus",
+   "cat": 1,
+   "preferred_en": "Red-faced Malkoha"
+  },
+  "sturnornis-albofrontatus": {
+   "slug": "sturnornis-albofrontatus",
+   "platform_zh": "白脸椋鸟",
+   "platform_en": "White-faced Starling",
+   "sci": "Sturnornis albofrontatus",
+   "cat": 1,
+   "preferred_en": "Sri Lanka White-faced Starling",
+   "user_en": "Sri Lanka White-faced Starling"
+  },
+  "argya-cinereifrons": {
+   "slug": "argya-cinereifrons",
+   "platform_zh": "灰头噪鹛",
+   "platform_en": "Ashy-headed Laughingthrush",
+   "sci": "Argya cinereifrons",
+   "cat": 1,
+   "preferred_en": "Ashy-headed Laughingthrush"
+  },
+  "cecropis-hyperythra": {
+   "slug": "cecropis-hyperythra",
+   "platform_zh": "斯里兰卡燕",
+   "platform_en": "Sri Lanka Swallow",
+   "sci": "Cecropis hyperythra",
+   "cat": 1,
+   "preferred_en": "Sri Lanka Swallow"
+  },
+  "pellorneum-fuscocapillus": {
+   "slug": "pellorneum-fuscocapillus",
+   "platform_zh": "褐冠幽鹛",
+   "platform_en": "Brown-capped Babbler",
+   "sci": "Pellorneum fuscocapillus",
+   "cat": 1,
+   "preferred_en": "Brown-capped Babbler"
+  },
+  "copsychus-leggei": {
+   "slug": "copsychus-leggei",
+   "platform_zh": "斯里兰卡鹊鸲",
+   "platform_en": "Sri Lanka Shama",
+   "sci": "Copsychus leggei",
+   "cat": 1,
+   "preferred_en": "Sri Lanka Shama"
+  },
+  "dinopium-psarodes": {
+   "slug": "dinopium-psarodes",
+   "platform_zh": "红背三趾啄木鸟",
+   "platform_en": "Red-backed Flameback",
+   "sci": "Dinopium psarodes",
+   "cat": 1,
+   "preferred_en": "Red-backed Flameback"
+  }
+ },
+ "unmatched": []
+}

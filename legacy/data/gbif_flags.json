@@ -1,0 +1,128 @@
+{
+ "botaurus-flavicollis": {
+  "zh": "黑鳽",
+  "sci": "Botaurus flavicollis",
+  "verdict": "未能核验",
+  "why": "GBIF 只匹配到 GENUS 级（Botaurus）；平台用的是较新分类学名，与 GBIF 骨干分类不一致",
+  "lk_all": null,
+  "lk_feb": null,
+  "global": null
+ },
+ "botaurus-cinnamomeus": {
+  "zh": "栗苇鳽",
+  "sci": "Botaurus cinnamomeus",
+  "verdict": "未能核验",
+  "why": "GBIF 只匹配到 GENUS 级（Botaurus）；平台用的是较新分类学名，与 GBIF 骨干分类不一致",
+  "lk_all": null,
+  "lk_feb": null,
+  "global": null
+ },
+ "botaurus-eurhythmus": {
+  "zh": "紫背苇鳽",
+  "sci": "Botaurus eurhythmus",
+  "verdict": "未能核验",
+  "why": "GBIF 只匹配到 GENUS 级（Botaurus）；平台用的是较新分类学名，与 GBIF 骨干分类不一致",
+  "lk_all": null,
+  "lk_feb": null,
+  "global": null
+ },
+ "ictinaetus-malaiensis": {
+  "zh": "林雕",
+  "sci": "Ictinaetus malaiensis",
+  "verdict": "已修正",
+  "why": "GBIF 接受名为 Ictinaetus malayensis（拼写/组合差异）",
+  "lk_all": 3830,
+  "lk_feb": 563,
+  "global": 72552
+ },
+ "lophospiza-trivirgata": {
+  "zh": "凤头鹰",
+  "sci": "Lophospiza trivirgata",
+  "verdict": "未能核验",
+  "why": "GBIF 只匹配到 GENUS 级（Lophospiza）；平台用的是较新分类学名，与 GBIF 骨干分类不一致",
+  "lk_all": null,
+  "lk_feb": null,
+  "global": null
+ },
+ "tachyspiza-virgata": {
+  "zh": "松雀鹰",
+  "sci": "Tachyspiza virgata",
+  "verdict": "未能核验",
+  "why": "GBIF 只匹配到 GENUS 级（Tachyspiza）；平台用的是较新分类学名，与 GBIF 骨干分类不一致",
+  "lk_all": null,
+  "lk_feb": null,
+  "global": null
+ },
+ "tachyspiza-soloensis": {
+  "zh": "赤腹鹰",
+  "sci": "Tachyspiza soloensis",
+  "verdict": "未能核验",
+  "why": "GBIF 只匹配到 GENUS 级（Tachyspiza）；平台用的是较新分类学名，与 GBIF 骨干分类不一致",
+  "lk_all": null,
+  "lk_feb": null,
+  "global": null
+ },
+ "plocealauda-affinis": {
+  "zh": "斯里兰卡歌百灵",
+  "sci": "Plocealauda affinis",
+  "verdict": "未能核验",
+  "why": "GBIF 只匹配到 GENUS 级（Plocealauda）；平台用的是较新分类学名，与 GBIF 骨干分类不一致",
+  "lk_all": null,
+  "lk_feb": null,
+  "global": null
+ },
+ "copsychus-leggei": {
+  "zh": "斯里兰卡鹊鸲",
+  "sci": "Copsychus leggei",
+  "verdict": "未能核验",
+  "why": "GBIF 只匹配到 GENUS 级（Copsychus）；平台用的是较新分类学名，与 GBIF 骨干分类不一致",
+  "lk_all": null,
+  "lk_feb": null,
+  "global": null
+ },
+ "cyornis-hainanus": {
+  "zh": "海南蓝仙鹟",
+  "sci": "Cyornis hainanus",
+  "verdict": "记录存疑",
+  "why": "学名在 GBIF 为种级接受名，全球 18,198 条记录，但**斯里兰卡 0 条**",
+  "lk_all": 0,
+  "lk_feb": 0,
+  "global": 18198
+ },
+ "oenanthe-pleschanka": {
+  "zh": "白顶䳭",
+  "sci": "Oenanthe pleschanka",
+  "verdict": "记录存疑",
+  "why": "学名在 GBIF 为种级接受名，全球 46,011 条记录，但**斯里兰卡 0 条**",
+  "lk_all": 0,
+  "lk_feb": 0,
+  "global": 46011
+ },
+ "pachyglossa-agilis": {
+  "zh": "厚嘴啄花鸟",
+  "sci": "Pachyglossa agilis",
+  "verdict": "未能核验",
+  "why": "GBIF 只匹配到 无 级（—）；平台用的是较新分类学名，与 GBIF 骨干分类不一致",
+  "lk_all": null,
+  "lk_feb": null,
+  "global": null
+ },
+ "pachyglossa-vincens": {
+  "zh": "白喉啄花鸟",
+  "sci": "Pachyglossa vincens",
+  "verdict": "未能核验",
+  "why": "GBIF 只匹配到 无 级（—）；平台用的是较新分类学名，与 GBIF 骨干分类不一致",
+  "lk_all": null,
+  "lk_feb": null,
+  "global": null
+ },
+ "curruca-althaea": {
+  "zh": "休氏白喉林莺",
+  "sci": "Curruca althaea",
+  "verdict": "未能核验",
+  "why": "GBIF 只匹配到 GENUS 级（Curruca）；平台用的是较新分类学名，与 GBIF 骨干分类不一致",
+  "lk_all": null,
+  "lk_feb": null,
+  "global": null
+ }
+}

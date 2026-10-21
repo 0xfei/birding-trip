@@ -1,0 +1,5046 @@
+{
+ "_meta": {
+  "source": "eBird API v2 /data/obs/{locId}/historic",
+  "years": [
+   2025,
+   2026
+  ],
+  "month": 2,
+  "hotspots_per_site": 3,
+  "metric": "freq = 该点 2 月有报到此种的观鸟日 ÷ 该点 2 月有数据的观鸟日",
+  "failed_requests": 0,
+  "failed_sample": [],
+  "not_target_sci": {
+   "Spilopelia chinensis": 287,
+   "Pycnonotus cafer": 285,
+   "Acridotheres tristis": 245,
+   "Corvus macrorhynchos": 228,
+   "Ardeola grayii": 210,
+   "Copsychus saularis": 208,
+   "Ardea coromanda": 208,
+   "Haliastur indus": 199,
+   "Merops philippinus": 197,
+   "Halcyon smyrnensis": 192,
+   "Psittacula krameri": 185,
+   "Orthotomus sutorius": 179,
+   "Amaurornis phoenicurus": 178,
+   "Pavo cristatus": 177,
+   "Vanellus indicus": 169,
+   "Microcarbo niger": 163,
+   "Anthus rufulus": 152,
+   "Columba livia": 151,
+   "Corvus splendens": 149,
+   "Lanius cristatus": 148,
+   "Hirundo rustica": 145,
+   "Egretta garzetta": 145,
+   "Ardea cinerea": 144,
+   "Anastomus oscitans": 137,
+   "Motacilla cinerea": 135,
+   "Chlidonias hybrida": 131,
+   "Actitis hypoleucos": 129,
+   "Ardea alba": 126,
+   "Icthyophaga leucogaster": 123,
+   "Ardea intermedia": 121,
+   "Dendrocygna javanica": 120,
+   "Passer domesticus": 117,
+   "Merops orientalis": 114,
+   "Himantopus himantopus": 112,
+   "Porphyrio poliocephalus": 111,
+   "Alcedo atthis": 106,
+   "Parus cinereus": 105,
+   "Gelochelidon nilotica": 99,
+   "Platalea leucorodia": 98,
+   "Tringa totanus": 91
+  },
+  "truly_unmatched_sci": {}
+ },
+ "dicrurus-caerulescens": {
+  "sci": "Dicrurus caerulescens",
+  "zh": "白腹卷尾",
+  "sites": {
+   "kitulgala": {
+    "days": 16,
+    "of": 38,
+    "freq": 0.4211
+   },
+   "makandawa": {
+    "days": 13,
+    "of": 29,
+    "freq": 0.4483
+   },
+   "nuwara": {
+    "days": 3,
+    "of": 34,
+    "freq": 0.0882
+   },
+   "tissa": {
+    "days": 3,
+    "of": 36,
+    "freq": 0.0833
+   },
+   "yala": {
+    "days": 9,
+    "of": 44,
+    "freq": 0.2045
+   },
+   "bundala": {
+    "days": 2,
+    "of": 43,
+    "freq": 0.0465
+   },
+   "sinharaja": {
+    "days": 10,
+    "of": 34,
+    "freq": 0.2941
+   },
+   "mirissa": {
+    "days": 2,
+    "of": 19,
+    "freq": 0.1053
+   },
+   "galle": {
+    "days": 8,
+    "of": 23,
+    "freq": 0.3478
+   }
+  }
+ },
+ "ducula-aenea": {
+  "sci": "Ducula aenea",
+  "zh": "绿皇鸠",
+  "sites": {
+   "kitulgala": {
+    "days": 22,
+    "of": 38,
+    "freq": 0.5789
+   },
+   "makandawa": {
+    "days": 19,
+    "of": 29,
+    "freq": 0.6552
+   },
+   "nuwara": {
+    "days": 1,
+    "of": 34,
+    "freq": 0.0294
+   },
+   "horton": {
+    "days": 2,
+    "of": 43,
+    "freq": 0.0465
+   },
+   "tissa": {
+    "days": 21,
+    "of": 36,
+    "freq": 0.5833
+   },
+   "yala": {
+    "days": 34,
+    "of": 44,
+    "freq": 0.7727
+   },
+   "bundala": {
+    "days": 25,
+    "of": 43,
+    "freq": 0.5814
+   },
+   "sinharaja": {
+    "days": 16,
+    "of": 34,
+    "freq": 0.4706
+   },
+   "mirissa": {
+    "days": 1,
+    "of": 19,
+    "freq": 0.0526
+   },
+   "galle": {
+    "days": 5,
+    "of": 23,
+    "freq": 0.2174
+   }
+  }
+ },
+ "rubigula-melanictera": {
+  "sci": "Rubigula melanictera",
+  "zh": "黑顶黄鹎",
+  "sites": {
+   "kitulgala": {
+    "days": 13,
+    "of": 38,
+    "freq": 0.3421
+   },
+   "makandawa": {
+    "days": 8,
+    "of": 29,
+    "freq": 0.2759
+   },
+   "yala": {
+    "days": 1,
+    "of": 44,
+    "freq": 0.0227
+   },
+   "sinharaja": {
+    "days": 18,
+    "of": 34,
+    "freq": 0.5294
+   }
+  }
+ },
+ "muscicapa-muttui": {
+  "sci": "Muscicapa muttui",
+  "zh": "褐胸鹟",
+  "sites": {
+   "kitulgala": {
+    "days": 11,
+    "of": 38,
+    "freq": 0.2895
+   },
+   "makandawa": {
+    "days": 13,
+    "of": 29,
+    "freq": 0.4483
+   },
+   "nuwara": {
+    "days": 4,
+    "of": 34,
+    "freq": 0.1176
+   },
+   "horton": {
+    "days": 2,
+    "of": 43,
+    "freq": 0.0465
+   },
+   "victoria": {
+    "days": 18,
+    "of": 48,
+    "freq": 0.375
+   },
+   "yala": {
+    "days": 2,
+    "of": 44,
+    "freq": 0.0455
+   },
+   "sinharaja": {
+    "days": 20,
+    "of": 34,
+    "freq": 0.5882
+   }
+  }
+ },
+ "hypsipetes-ganeesa": {
+  "sci": "Hypsipetes ganeesa",
+  "zh": "方尾黑鹎",
+  "sites": {
+   "kitulgala": {
+    "days": 25,
+    "of": 38,
+    "freq": 0.6579
+   },
+   "makandawa": {
+    "days": 21,
+    "of": 29,
+    "freq": 0.7241
+   },
+   "nuwara": {
+    "days": 1,
+    "of": 34,
+    "freq": 0.0294
+   },
+   "horton": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   },
+   "victoria": {
+    "days": 1,
+    "of": 48,
+    "freq": 0.0208
+   },
+   "tissa": {
+    "days": 1,
+    "of": 36,
+    "freq": 0.0278
+   },
+   "bundala": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   },
+   "sinharaja": {
+    "days": 25,
+    "of": 34,
+    "freq": 0.7353
+   }
+  }
+ },
+ "pycnonotus-luteolus": {
+  "sci": "Pycnonotus luteolus",
+  "zh": "白眉鹎",
+  "sites": {
+   "kitulgala": {
+    "days": 3,
+    "of": 38,
+    "freq": 0.0789
+   },
+   "makandawa": {
+    "days": 1,
+    "of": 29,
+    "freq": 0.0345
+   },
+   "tissa": {
+    "days": 6,
+    "of": 36,
+    "freq": 0.1667
+   },
+   "yala": {
+    "days": 29,
+    "of": 44,
+    "freq": 0.6591
+   },
+   "bundala": {
+    "days": 20,
+    "of": 43,
+    "freq": 0.4651
+   },
+   "sinharaja": {
+    "days": 8,
+    "of": 34,
+    "freq": 0.2353
+   },
+   "mirissa": {
+    "days": 1,
+    "of": 19,
+    "freq": 0.0526
+   }
+  }
+ },
+ "dinopium-psarodes": {
+  "sci": "Dinopium psarodes",
+  "zh": "红背三趾啄木鸟",
+  "sites": {
+   "kitulgala": {
+    "days": 20,
+    "of": 38,
+    "freq": 0.5263
+   },
+   "makandawa": {
+    "days": 12,
+    "of": 29,
+    "freq": 0.4138
+   },
+   "horton": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   },
+   "tissa": {
+    "days": 19,
+    "of": 36,
+    "freq": 0.5278
+   },
+   "yala": {
+    "days": 11,
+    "of": 44,
+    "freq": 0.25
+   },
+   "bundala": {
+    "days": 13,
+    "of": 43,
+    "freq": 0.3023
+   },
+   "sinharaja": {
+    "days": 10,
+    "of": 34,
+    "freq": 0.2941
+   },
+   "mirissa": {
+    "days": 2,
+    "of": 19,
+    "freq": 0.1053
+   },
+   "galle": {
+    "days": 2,
+    "of": 23,
+    "freq": 0.087
+   }
+  }
+ },
+ "aegithina-tiphia": {
+  "sci": "Aegithina tiphia",
+  "zh": "黑翅雀鹎",
+  "sites": {
+   "kitulgala": {
+    "days": 9,
+    "of": 38,
+    "freq": 0.2368
+   },
+   "makandawa": {
+    "days": 5,
+    "of": 29,
+    "freq": 0.1724
+   },
+   "horton": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   },
+   "tissa": {
+    "days": 6,
+    "of": 36,
+    "freq": 0.1667
+   },
+   "yala": {
+    "days": 35,
+    "of": 44,
+    "freq": 0.7955
+   },
+   "bundala": {
+    "days": 21,
+    "of": 43,
+    "freq": 0.4884
+   },
+   "sinharaja": {
+    "days": 9,
+    "of": 34,
+    "freq": 0.2647
+   },
+   "mirissa": {
+    "days": 1,
+    "of": 19,
+    "freq": 0.0526
+   }
+  }
+ },
+ "loriculus-beryllinus": {
+  "sci": "Loriculus beryllinus",
+  "zh": "斯里兰卡短尾鹦鹉",
+  "sites": {
+   "kitulgala": {
+    "days": 20,
+    "of": 38,
+    "freq": 0.5263
+   },
+   "makandawa": {
+    "days": 14,
+    "of": 29,
+    "freq": 0.4828
+   },
+   "nuwara": {
+    "days": 1,
+    "of": 34,
+    "freq": 0.0294
+   },
+   "victoria": {
+    "days": 1,
+    "of": 48,
+    "freq": 0.0208
+   },
+   "bundala": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   },
+   "sinharaja": {
+    "days": 22,
+    "of": 34,
+    "freq": 0.6471
+   }
+  }
+ },
+ "hypothymis-azurea": {
+  "sci": "Hypothymis azurea",
+  "zh": "黑枕王鹟",
+  "sites": {
+   "kitulgala": {
+    "days": 3,
+    "of": 38,
+    "freq": 0.0789
+   },
+   "makandawa": {
+    "days": 7,
+    "of": 29,
+    "freq": 0.2414
+   },
+   "horton": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   },
+   "victoria": {
+    "days": 1,
+    "of": 48,
+    "freq": 0.0208
+   },
+   "yala": {
+    "days": 2,
+    "of": 44,
+    "freq": 0.0455
+   },
+   "sinharaja": {
+    "days": 12,
+    "of": 34,
+    "freq": 0.3529
+   }
+  }
+ },
+ "psilopogon-flavifrons": {
+  "sci": "Psilopogon flavifrons",
+  "zh": "黄额拟啄木鸟",
+  "sites": {
+   "kitulgala": {
+    "days": 18,
+    "of": 38,
+    "freq": 0.4737
+   },
+   "makandawa": {
+    "days": 18,
+    "of": 29,
+    "freq": 0.6207
+   },
+   "nuwara": {
+    "days": 5,
+    "of": 34,
+    "freq": 0.1471
+   },
+   "horton": {
+    "days": 4,
+    "of": 43,
+    "freq": 0.093
+   },
+   "victoria": {
+    "days": 15,
+    "of": 48,
+    "freq": 0.3125
+   },
+   "sinharaja": {
+    "days": 20,
+    "of": 34,
+    "freq": 0.5882
+   }
+  }
+ },
+ "psittacula-eupatria": {
+  "sci": "Psittacula eupatria",
+  "zh": "亚历山大鹦鹉",
+  "sites": {
+   "kitulgala": {
+    "days": 17,
+    "of": 38,
+    "freq": 0.4474
+   },
+   "makandawa": {
+    "days": 4,
+    "of": 29,
+    "freq": 0.1379
+   },
+   "tissa": {
+    "days": 1,
+    "of": 36,
+    "freq": 0.0278
+   },
+   "yala": {
+    "days": 8,
+    "of": 44,
+    "freq": 0.1818
+   },
+   "bundala": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   },
+   "sinharaja": {
+    "days": 5,
+    "of": 34,
+    "freq": 0.1471
+   }
+  }
+ },
+ "phylloscopus-nitidus": {
+  "sci": "Phylloscopus nitidus",
+  "zh": "绿柳莺",
+  "sites": {
+   "kitulgala": {
+    "days": 9,
+    "of": 38,
+    "freq": 0.2368
+   },
+   "makandawa": {
+    "days": 3,
+    "of": 29,
+    "freq": 0.1034
+   },
+   "nuwara": {
+    "days": 8,
+    "of": 34,
+    "freq": 0.2353
+   },
+   "horton": {
+    "days": 23,
+    "of": 43,
+    "freq": 0.5349
+   },
+   "victoria": {
+    "days": 26,
+    "of": 48,
+    "freq": 0.5417
+   },
+   "yala": {
+    "days": 2,
+    "of": 44,
+    "freq": 0.0455
+   },
+   "bundala": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   },
+   "sinharaja": {
+    "days": 3,
+    "of": 34,
+    "freq": 0.0882
+   }
+  }
+ },
+ "ocyceros-gingalensis": {
+  "sci": "Ocyceros gingalensis",
+  "zh": "斯里兰卡灰犀鸟",
+  "sites": {
+   "kitulgala": {
+    "days": 17,
+    "of": 38,
+    "freq": 0.4474
+   },
+   "makandawa": {
+    "days": 18,
+    "of": 29,
+    "freq": 0.6207
+   },
+   "victoria": {
+    "days": 1,
+    "of": 48,
+    "freq": 0.0208
+   },
+   "yala": {
+    "days": 9,
+    "of": 44,
+    "freq": 0.2045
+   },
+   "sinharaja": {
+    "days": 19,
+    "of": 34,
+    "freq": 0.5588
+   }
+  }
+ },
+ "treron-pompadora": {
+  "sci": "Treron pompadora",
+  "zh": "斯里兰卡绿鸠",
+  "sites": {
+   "kitulgala": {
+    "days": 11,
+    "of": 38,
+    "freq": 0.2895
+   },
+   "makandawa": {
+    "days": 6,
+    "of": 29,
+    "freq": 0.2069
+   },
+   "nuwara": {
+    "days": 1,
+    "of": 34,
+    "freq": 0.0294
+   },
+   "horton": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   },
+   "tissa": {
+    "days": 6,
+    "of": 36,
+    "freq": 0.1667
+   },
+   "yala": {
+    "days": 24,
+    "of": 44,
+    "freq": 0.5455
+   },
+   "bundala": {
+    "days": 7,
+    "of": 43,
+    "freq": 0.1628
+   },
+   "sinharaja": {
+    "days": 13,
+    "of": 34,
+    "freq": 0.3824
+   },
+   "mirissa": {
+    "days": 1,
+    "of": 19,
+    "freq": 0.0526
+   }
+  }
+ },
+ "oriolus-xanthornus": {
+  "sci": "Oriolus xanthornus",
+  "zh": "黑头黄鹂",
+  "sites": {
+   "kitulgala": {
+    "days": 19,
+    "of": 38,
+    "freq": 0.5
+   },
+   "makandawa": {
+    "days": 13,
+    "of": 29,
+    "freq": 0.4483
+   },
+   "nuwara": {
+    "days": 1,
+    "of": 34,
+    "freq": 0.0294
+   },
+   "horton": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   },
+   "victoria": {
+    "days": 1,
+    "of": 48,
+    "freq": 0.0208
+   },
+   "tissa": {
+    "days": 18,
+    "of": 36,
+    "freq": 0.5
+   },
+   "yala": {
+    "days": 32,
+    "of": 44,
+    "freq": 0.7273
+   },
+   "bundala": {
+    "days": 12,
+    "of": 43,
+    "freq": 0.2791
+   },
+   "sinharaja": {
+    "days": 11,
+    "of": 34,
+    "freq": 0.3235
+   },
+   "mirissa": {
+    "days": 5,
+    "of": 19,
+    "freq": 0.2632
+   },
+   "galle": {
+    "days": 8,
+    "of": 23,
+    "freq": 0.3478
+   }
+  }
+ },
+ "acritillas-indica": {
+  "sci": "Acritillas indica",
+  "zh": "黄眉鹎",
+  "sites": {
+   "kitulgala": {
+    "days": 15,
+    "of": 38,
+    "freq": 0.3947
+   },
+   "makandawa": {
+    "days": 16,
+    "of": 29,
+    "freq": 0.5517
+   },
+   "nuwara": {
+    "days": 2,
+    "of": 34,
+    "freq": 0.0588
+   },
+   "victoria": {
+    "days": 2,
+    "of": 48,
+    "freq": 0.0417
+   },
+   "yala": {
+    "days": 3,
+    "of": 44,
+    "freq": 0.0682
+   },
+   "bundala": {
+    "days": 2,
+    "of": 43,
+    "freq": 0.0465
+   },
+   "sinharaja": {
+    "days": 21,
+    "of": 34,
+    "freq": 0.6176
+   }
+  }
+ },
+ "argya-affinis": {
+  "sci": "Argya affinis",
+  "zh": "印度白头鸫鹛",
+  "sites": {
+   "kitulgala": {
+    "days": 12,
+    "of": 38,
+    "freq": 0.3158
+   },
+   "makandawa": {
+    "days": 12,
+    "of": 29,
+    "freq": 0.4138
+   },
+   "nuwara": {
+    "days": 2,
+    "of": 34,
+    "freq": 0.0588
+   },
+   "horton": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   },
+   "victoria": {
+    "days": 3,
+    "of": 48,
+    "freq": 0.0625
+   },
+   "tissa": {
+    "days": 17,
+    "of": 36,
+    "freq": 0.4722
+   },
+   "yala": {
+    "days": 32,
+    "of": 44,
+    "freq": 0.7273
+   },
+   "bundala": {
+    "days": 21,
+    "of": 43,
+    "freq": 0.4884
+   },
+   "sinharaja": {
+    "days": 11,
+    "of": 34,
+    "freq": 0.3235
+   },
+   "mirissa": {
+    "days": 2,
+    "of": 19,
+    "freq": 0.1053
+   },
+   "galle": {
+    "days": 8,
+    "of": 23,
+    "freq": 0.3478
+   }
+  }
+ },
+ "hemipus-picatus": {
+  "sci": "Hemipus picatus",
+  "zh": "褐背鹟鵙",
+  "sites": {
+   "kitulgala": {
+    "days": 10,
+    "of": 38,
+    "freq": 0.2632
+   },
+   "makandawa": {
+    "days": 6,
+    "of": 29,
+    "freq": 0.2069
+   },
+   "nuwara": {
+    "days": 9,
+    "of": 34,
+    "freq": 0.2647
+   },
+   "horton": {
+    "days": 11,
+    "of": 43,
+    "freq": 0.2558
+   },
+   "victoria": {
+    "days": 13,
+    "of": 48,
+    "freq": 0.2708
+   },
+   "tissa": {
+    "days": 1,
+    "of": 36,
+    "freq": 0.0278
+   },
+   "sinharaja": {
+    "days": 4,
+    "of": 34,
+    "freq": 0.1176
+   }
+  }
+ },
+ "ictinaetus-malaiensis": {
+  "sci": "Ictinaetus malaiensis",
+  "zh": "林雕",
+  "sites": {
+   "kitulgala": {
+    "days": 5,
+    "of": 38,
+    "freq": 0.1316
+   },
+   "makandawa": {
+    "days": 3,
+    "of": 29,
+    "freq": 0.1034
+   },
+   "nuwara": {
+    "days": 3,
+    "of": 34,
+    "freq": 0.0882
+   },
+   "horton": {
+    "days": 14,
+    "of": 43,
+    "freq": 0.3256
+   },
+   "tissa": {
+    "days": 2,
+    "of": 36,
+    "freq": 0.0556
+   },
+   "yala": {
+    "days": 1,
+    "of": 44,
+    "freq": 0.0227
+   },
+   "sinharaja": {
+    "days": 5,
+    "of": 34,
+    "freq": 0.1471
+   }
+  }
+ },
+ "pelargopsis-capensis": {
+  "sci": "Pelargopsis capensis",
+  "zh": "鹳嘴翡翠",
+  "sites": {
+   "kitulgala": {
+    "days": 13,
+    "of": 38,
+    "freq": 0.3421
+   },
+   "makandawa": {
+    "days": 8,
+    "of": 29,
+    "freq": 0.2759
+   },
+   "tissa": {
+    "days": 15,
+    "of": 36,
+    "freq": 0.4167
+   },
+   "yala": {
+    "days": 7,
+    "of": 44,
+    "freq": 0.1591
+   },
+   "bundala": {
+    "days": 5,
+    "of": 43,
+    "freq": 0.1163
+   },
+   "sinharaja": {
+    "days": 4,
+    "of": 34,
+    "freq": 0.1176
+   },
+   "galle": {
+    "days": 2,
+    "of": 23,
+    "freq": 0.087
+   }
+  }
+ },
+ "leptocoma-zeylonica": {
+  "sci": "Leptocoma zeylonica",
+  "zh": "紫腰花蜜鸟",
+  "sites": {
+   "kitulgala": {
+    "days": 21,
+    "of": 38,
+    "freq": 0.5526
+   },
+   "makandawa": {
+    "days": 16,
+    "of": 29,
+    "freq": 0.5517
+   },
+   "nuwara": {
+    "days": 2,
+    "of": 34,
+    "freq": 0.0588
+   },
+   "horton": {
+    "days": 2,
+    "of": 43,
+    "freq": 0.0465
+   },
+   "victoria": {
+    "days": 5,
+    "of": 48,
+    "freq": 0.1042
+   },
+   "tissa": {
+    "days": 16,
+    "of": 36,
+    "freq": 0.4444
+   },
+   "yala": {
+    "days": 31,
+    "of": 44,
+    "freq": 0.7045
+   },
+   "bundala": {
+    "days": 23,
+    "of": 43,
+    "freq": 0.5349
+   },
+   "sinharaja": {
+    "days": 13,
+    "of": 34,
+    "freq": 0.3824
+   },
+   "mirissa": {
+    "days": 3,
+    "of": 19,
+    "freq": 0.1579
+   },
+   "galle": {
+    "days": 5,
+    "of": 23,
+    "freq": 0.2174
+   }
+  }
+ },
+ "psilopogon-zeylanicus": {
+  "sci": "Psilopogon zeylanicus",
+  "zh": "棕头绿拟啄木鸟",
+  "sites": {
+   "kitulgala": {
+    "days": 6,
+    "of": 38,
+    "freq": 0.1579
+   },
+   "makandawa": {
+    "days": 3,
+    "of": 29,
+    "freq": 0.1034
+   },
+   "nuwara": {
+    "days": 2,
+    "of": 34,
+    "freq": 0.0588
+   },
+   "horton": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   },
+   "victoria": {
+    "days": 3,
+    "of": 48,
+    "freq": 0.0625
+   },
+   "tissa": {
+    "days": 23,
+    "of": 36,
+    "freq": 0.6389
+   },
+   "yala": {
+    "days": 28,
+    "of": 44,
+    "freq": 0.6364
+   },
+   "bundala": {
+    "days": 11,
+    "of": 43,
+    "freq": 0.2558
+   },
+   "sinharaja": {
+    "days": 12,
+    "of": 34,
+    "freq": 0.3529
+   },
+   "mirissa": {
+    "days": 6,
+    "of": 19,
+    "freq": 0.3158
+   },
+   "galle": {
+    "days": 5,
+    "of": 23,
+    "freq": 0.2174
+   }
+  }
+ },
+ "aerodramus-unicolor": {
+  "sci": "Aerodramus unicolor",
+  "zh": "印度金丝燕",
+  "sites": {
+   "kitulgala": {
+    "days": 16,
+    "of": 38,
+    "freq": 0.4211
+   },
+   "makandawa": {
+    "days": 11,
+    "of": 29,
+    "freq": 0.3793
+   },
+   "nuwara": {
+    "days": 5,
+    "of": 34,
+    "freq": 0.1471
+   },
+   "horton": {
+    "days": 6,
+    "of": 43,
+    "freq": 0.1395
+   },
+   "victoria": {
+    "days": 10,
+    "of": 48,
+    "freq": 0.2083
+   },
+   "tissa": {
+    "days": 1,
+    "of": 36,
+    "freq": 0.0278
+   },
+   "yala": {
+    "days": 4,
+    "of": 44,
+    "freq": 0.0909
+   },
+   "bundala": {
+    "days": 5,
+    "of": 43,
+    "freq": 0.1163
+   },
+   "sinharaja": {
+    "days": 6,
+    "of": 34,
+    "freq": 0.1765
+   },
+   "mirissa": {
+    "days": 1,
+    "of": 19,
+    "freq": 0.0526
+   },
+   "galle": {
+    "days": 6,
+    "of": 23,
+    "freq": 0.2609
+   }
+  }
+ },
+ "spilornis-cheela": {
+  "sci": "Spilornis cheela",
+  "zh": "蛇雕",
+  "sites": {
+   "kitulgala": {
+    "days": 9,
+    "of": 38,
+    "freq": 0.2368
+   },
+   "makandawa": {
+    "days": 11,
+    "of": 29,
+    "freq": 0.3793
+   },
+   "nuwara": {
+    "days": 2,
+    "of": 34,
+    "freq": 0.0588
+   },
+   "victoria": {
+    "days": 1,
+    "of": 48,
+    "freq": 0.0208
+   },
+   "yala": {
+    "days": 25,
+    "of": 44,
+    "freq": 0.5682
+   },
+   "bundala": {
+    "days": 12,
+    "of": 43,
+    "freq": 0.2791
+   },
+   "sinharaja": {
+    "days": 8,
+    "of": 34,
+    "freq": 0.2353
+   }
+  }
+ },
+ "lophotriorchis-kienerii": {
+  "sci": "Lophotriorchis kienerii",
+  "zh": "棕腹隼雕",
+  "sites": {
+   "kitulgala": {
+    "days": 2,
+    "of": 38,
+    "freq": 0.0526
+   },
+   "makandawa": {
+    "days": 1,
+    "of": 29,
+    "freq": 0.0345
+   },
+   "sinharaja": {
+    "days": 2,
+    "of": 34,
+    "freq": 0.0588
+   }
+  }
+ },
+ "dicaeum-erythrorhynchos": {
+  "sci": "Dicaeum erythrorhynchos",
+  "zh": "淡嘴啄花鸟",
+  "sites": {
+   "kitulgala": {
+    "days": 13,
+    "of": 38,
+    "freq": 0.3421
+   },
+   "makandawa": {
+    "days": 4,
+    "of": 29,
+    "freq": 0.1379
+   },
+   "nuwara": {
+    "days": 9,
+    "of": 34,
+    "freq": 0.2647
+   },
+   "horton": {
+    "days": 25,
+    "of": 43,
+    "freq": 0.5814
+   },
+   "victoria": {
+    "days": 23,
+    "of": 48,
+    "freq": 0.4792
+   },
+   "tissa": {
+    "days": 7,
+    "of": 36,
+    "freq": 0.1944
+   },
+   "yala": {
+    "days": 18,
+    "of": 44,
+    "freq": 0.4091
+   },
+   "bundala": {
+    "days": 8,
+    "of": 43,
+    "freq": 0.186
+   },
+   "sinharaja": {
+    "days": 11,
+    "of": 34,
+    "freq": 0.3235
+   },
+   "mirissa": {
+    "days": 2,
+    "of": 19,
+    "freq": 0.1053
+   },
+   "galle": {
+    "days": 3,
+    "of": 23,
+    "freq": 0.1304
+   }
+  }
+ },
+ "pernis-ptilorhynchus": {
+  "sci": "Pernis ptilorhynchus",
+  "zh": "凤头蜂鹰",
+  "sites": {
+   "kitulgala": {
+    "days": 7,
+    "of": 38,
+    "freq": 0.1842
+   },
+   "makandawa": {
+    "days": 3,
+    "of": 29,
+    "freq": 0.1034
+   },
+   "nuwara": {
+    "days": 2,
+    "of": 34,
+    "freq": 0.0588
+   },
+   "horton": {
+    "days": 16,
+    "of": 43,
+    "freq": 0.3721
+   },
+   "victoria": {
+    "days": 1,
+    "of": 48,
+    "freq": 0.0208
+   },
+   "yala": {
+    "days": 4,
+    "of": 44,
+    "freq": 0.0909
+   },
+   "bundala": {
+    "days": 4,
+    "of": 43,
+    "freq": 0.093
+   },
+   "sinharaja": {
+    "days": 5,
+    "of": 34,
+    "freq": 0.1471
+   }
+  }
+ },
+ "centropus-sinensis": {
+  "sci": "Centropus sinensis",
+  "zh": "褐翅鸦鹃",
+  "sites": {
+   "kitulgala": {
+    "days": 15,
+    "of": 38,
+    "freq": 0.3947
+   },
+   "makandawa": {
+    "days": 15,
+    "of": 29,
+    "freq": 0.5172
+   },
+   "nuwara": {
+    "days": 6,
+    "of": 34,
+    "freq": 0.1765
+   },
+   "horton": {
+    "days": 20,
+    "of": 43,
+    "freq": 0.4651
+   },
+   "victoria": {
+    "days": 5,
+    "of": 48,
+    "freq": 0.1042
+   },
+   "tissa": {
+    "days": 11,
+    "of": 36,
+    "freq": 0.3056
+   },
+   "yala": {
+    "days": 23,
+    "of": 44,
+    "freq": 0.5227
+   },
+   "bundala": {
+    "days": 23,
+    "of": 43,
+    "freq": 0.5349
+   },
+   "sinharaja": {
+    "days": 6,
+    "of": 34,
+    "freq": 0.1765
+   }
+  }
+ },
+ "phalacrocorax-fuscicollis": {
+  "sci": "Phalacrocorax fuscicollis",
+  "zh": "印度鸬鹚",
+  "sites": {
+   "kitulgala": {
+    "days": 1,
+    "of": 38,
+    "freq": 0.0263
+   },
+   "nuwara": {
+    "days": 1,
+    "of": 34,
+    "freq": 0.0294
+   },
+   "tissa": {
+    "days": 23,
+    "of": 36,
+    "freq": 0.6389
+   },
+   "yala": {
+    "days": 25,
+    "of": 44,
+    "freq": 0.5682
+   },
+   "bundala": {
+    "days": 33,
+    "of": 43,
+    "freq": 0.7674
+   }
+  }
+ },
+ "cecropis-hyperythra": {
+  "sci": "Cecropis hyperythra",
+  "zh": "斯里兰卡燕",
+  "sites": {
+   "kitulgala": {
+    "days": 11,
+    "of": 38,
+    "freq": 0.2895
+   },
+   "makandawa": {
+    "days": 10,
+    "of": 29,
+    "freq": 0.3448
+   },
+   "horton": {
+    "days": 2,
+    "of": 43,
+    "freq": 0.0465
+   },
+   "tissa": {
+    "days": 4,
+    "of": 36,
+    "freq": 0.1111
+   },
+   "yala": {
+    "days": 23,
+    "of": 44,
+    "freq": 0.5227
+   },
+   "bundala": {
+    "days": 23,
+    "of": 43,
+    "freq": 0.5349
+   },
+   "sinharaja": {
+    "days": 12,
+    "of": 34,
+    "freq": 0.3529
+   },
+   "mirissa": {
+    "days": 5,
+    "of": 19,
+    "freq": 0.2632
+   },
+   "galle": {
+    "days": 4,
+    "of": 23,
+    "freq": 0.1739
+   }
+  }
+ },
+ "terpsiphone-paradisi": {
+  "sci": "Terpsiphone paradisi",
+  "zh": "印度寿带",
+  "sites": {
+   "kitulgala": {
+    "days": 7,
+    "of": 38,
+    "freq": 0.1842
+   },
+   "makandawa": {
+    "days": 7,
+    "of": 29,
+    "freq": 0.2414
+   },
+   "nuwara": {
+    "days": 1,
+    "of": 34,
+    "freq": 0.0294
+   },
+   "horton": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   },
+   "tissa": {
+    "days": 8,
+    "of": 36,
+    "freq": 0.2222
+   },
+   "yala": {
+    "days": 36,
+    "of": 44,
+    "freq": 0.8182
+   },
+   "bundala": {
+    "days": 14,
+    "of": 43,
+    "freq": 0.3256
+   },
+   "sinharaja": {
+    "days": 17,
+    "of": 34,
+    "freq": 0.5
+   },
+   "mirissa": {
+    "days": 1,
+    "of": 19,
+    "freq": 0.0526
+   },
+   "galle": {
+    "days": 1,
+    "of": 23,
+    "freq": 0.0435
+   }
+  }
+ },
+ "chloropsis-jerdoni": {
+  "sci": "Chloropsis jerdoni",
+  "zh": "南亚叶鹎",
+  "sites": {
+   "kitulgala": {
+    "days": 4,
+    "of": 38,
+    "freq": 0.1053
+   },
+   "makandawa": {
+    "days": 2,
+    "of": 29,
+    "freq": 0.069
+   },
+   "tissa": {
+    "days": 11,
+    "of": 36,
+    "freq": 0.3056
+   },
+   "yala": {
+    "days": 10,
+    "of": 44,
+    "freq": 0.2273
+   },
+   "bundala": {
+    "days": 3,
+    "of": 43,
+    "freq": 0.0698
+   },
+   "sinharaja": {
+    "days": 1,
+    "of": 34,
+    "freq": 0.0294
+   }
+  }
+ },
+ "rhipidura-aureola": {
+  "sci": "Rhipidura aureola",
+  "zh": "白眉扇尾鹟",
+  "sites": {
+   "kitulgala": {
+    "days": 9,
+    "of": 38,
+    "freq": 0.2368
+   },
+   "makandawa": {
+    "days": 2,
+    "of": 29,
+    "freq": 0.069
+   },
+   "nuwara": {
+    "days": 2,
+    "of": 34,
+    "freq": 0.0588
+   },
+   "tissa": {
+    "days": 4,
+    "of": 36,
+    "freq": 0.1111
+   },
+   "yala": {
+    "days": 31,
+    "of": 44,
+    "freq": 0.7045
+   },
+   "bundala": {
+    "days": 13,
+    "of": 43,
+    "freq": 0.3023
+   },
+   "sinharaja": {
+    "days": 1,
+    "of": 34,
+    "freq": 0.0294
+   },
+   "mirissa": {
+    "days": 1,
+    "of": 19,
+    "freq": 0.0526
+   }
+  }
+ },
+ "glaucidium-castanotum": {
+  "sci": "Glaucidium castanotum",
+  "zh": "栗背鸺鹠",
+  "sites": {
+   "kitulgala": {
+    "days": 8,
+    "of": 38,
+    "freq": 0.2105
+   },
+   "makandawa": {
+    "days": 10,
+    "of": 29,
+    "freq": 0.3448
+   },
+   "sinharaja": {
+    "days": 11,
+    "of": 34,
+    "freq": 0.3235
+   }
+  }
+ },
+ "pachyglossa-vincens": {
+  "sci": "Pachyglossa vincens",
+  "zh": "白喉啄花鸟",
+  "sites": {
+   "kitulgala": {
+    "days": 7,
+    "of": 38,
+    "freq": 0.1842
+   },
+   "makandawa": {
+    "days": 4,
+    "of": 29,
+    "freq": 0.1379
+   },
+   "yala": {
+    "days": 1,
+    "of": 44,
+    "freq": 0.0227
+   },
+   "bundala": {
+    "days": 2,
+    "of": 43,
+    "freq": 0.0465
+   },
+   "sinharaja": {
+    "days": 12,
+    "of": 34,
+    "freq": 0.3529
+   }
+  }
+ },
+ "cyornis-tickelliae": {
+  "sci": "Cyornis tickelliae",
+  "zh": "梯氏仙鹟",
+  "sites": {
+   "kitulgala": {
+    "days": 13,
+    "of": 38,
+    "freq": 0.3421
+   },
+   "makandawa": {
+    "days": 15,
+    "of": 29,
+    "freq": 0.5172
+   },
+   "horton": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   },
+   "victoria": {
+    "days": 1,
+    "of": 48,
+    "freq": 0.0208
+   },
+   "yala": {
+    "days": 1,
+    "of": 44,
+    "freq": 0.0227
+   },
+   "sinharaja": {
+    "days": 6,
+    "of": 34,
+    "freq": 0.1765
+   }
+  }
+ },
+ "chalcophaps-indica": {
+  "sci": "Chalcophaps indica",
+  "zh": "绿翅金鸠",
+  "sites": {
+   "kitulgala": {
+    "days": 9,
+    "of": 38,
+    "freq": 0.2368
+   },
+   "makandawa": {
+    "days": 10,
+    "of": 29,
+    "freq": 0.3448
+   },
+   "horton": {
+    "days": 8,
+    "of": 43,
+    "freq": 0.186
+   },
+   "yala": {
+    "days": 7,
+    "of": 44,
+    "freq": 0.1591
+   },
+   "bundala": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   },
+   "sinharaja": {
+    "days": 18,
+    "of": 34,
+    "freq": 0.5294
+   }
+  }
+ },
+ "batrachostomus-moniliger": {
+  "sci": "Batrachostomus moniliger",
+  "zh": "领蛙口夜鹰",
+  "sites": {
+   "kitulgala": {
+    "days": 1,
+    "of": 38,
+    "freq": 0.0263
+   },
+   "makandawa": {
+    "days": 7,
+    "of": 29,
+    "freq": 0.2414
+   },
+   "sinharaja": {
+    "days": 18,
+    "of": 34,
+    "freq": 0.5294
+   }
+  }
+ },
+ "urocissa-ornata": {
+  "sci": "Urocissa ornata",
+  "zh": "斯里兰卡蓝鹊",
+  "sites": {
+   "kitulgala": {
+    "days": 2,
+    "of": 38,
+    "freq": 0.0526
+   },
+   "nuwara": {
+    "days": 1,
+    "of": 34,
+    "freq": 0.0294
+   },
+   "sinharaja": {
+    "days": 23,
+    "of": 34,
+    "freq": 0.6765
+   }
+  }
+ },
+ "copsychus-leggei": {
+  "sci": "Copsychus leggei",
+  "zh": "斯里兰卡鹊鸲",
+  "sites": {
+   "kitulgala": {
+    "days": 1,
+    "of": 38,
+    "freq": 0.0263
+   },
+   "yala": {
+    "days": 14,
+    "of": 44,
+    "freq": 0.3182
+   }
+  }
+ },
+ "galloperdix-bicalcarata": {
+  "sci": "Galloperdix bicalcarata",
+  "zh": "斯里兰卡鸡鹑",
+  "sites": {
+   "kitulgala": {
+    "days": 1,
+    "of": 38,
+    "freq": 0.0263
+   },
+   "makandawa": {
+    "days": 2,
+    "of": 29,
+    "freq": 0.069
+   },
+   "sinharaja": {
+    "days": 14,
+    "of": 34,
+    "freq": 0.4118
+   }
+  }
+ },
+ "argya-rufescens": {
+  "sci": "Argya rufescens",
+  "zh": "橙嘴鸫鹛",
+  "sites": {
+   "kitulgala": {
+    "days": 8,
+    "of": 38,
+    "freq": 0.2105
+   },
+   "makandawa": {
+    "days": 14,
+    "of": 29,
+    "freq": 0.4828
+   },
+   "horton": {
+    "days": 6,
+    "of": 43,
+    "freq": 0.1395
+   },
+   "victoria": {
+    "days": 1,
+    "of": 48,
+    "freq": 0.0208
+   },
+   "sinharaja": {
+    "days": 23,
+    "of": 34,
+    "freq": 0.6765
+   }
+  }
+ },
+ "copsychus-fulicatus": {
+  "sci": "Copsychus fulicatus",
+  "zh": "印度鸲",
+  "sites": {
+   "kitulgala": {
+    "days": 1,
+    "of": 38,
+    "freq": 0.0263
+   },
+   "nuwara": {
+    "days": 2,
+    "of": 34,
+    "freq": 0.0588
+   },
+   "horton": {
+    "days": 2,
+    "of": 43,
+    "freq": 0.0465
+   },
+   "victoria": {
+    "days": 1,
+    "of": 48,
+    "freq": 0.0208
+   },
+   "tissa": {
+    "days": 6,
+    "of": 36,
+    "freq": 0.1667
+   },
+   "yala": {
+    "days": 41,
+    "of": 44,
+    "freq": 0.9318
+   },
+   "bundala": {
+    "days": 35,
+    "of": 43,
+    "freq": 0.814
+   },
+   "sinharaja": {
+    "days": 1,
+    "of": 34,
+    "freq": 0.0294
+   },
+   "mirissa": {
+    "days": 1,
+    "of": 19,
+    "freq": 0.0526
+   },
+   "galle": {
+    "days": 3,
+    "of": 23,
+    "freq": 0.1304
+   }
+  }
+ },
+ "lalage-melanoptera": {
+  "sci": "Lalage melanoptera",
+  "zh": "黑头鹃鵙",
+  "sites": {
+   "kitulgala": {
+    "days": 4,
+    "of": 38,
+    "freq": 0.1053
+   },
+   "makandawa": {
+    "days": 3,
+    "of": 29,
+    "freq": 0.1034
+   },
+   "victoria": {
+    "days": 1,
+    "of": 48,
+    "freq": 0.0208
+   },
+   "tissa": {
+    "days": 1,
+    "of": 36,
+    "freq": 0.0278
+   },
+   "yala": {
+    "days": 5,
+    "of": 44,
+    "freq": 0.1136
+   },
+   "bundala": {
+    "days": 2,
+    "of": 43,
+    "freq": 0.0465
+   },
+   "sinharaja": {
+    "days": 5,
+    "of": 34,
+    "freq": 0.1471
+   }
+  }
+ },
+ "harpactes-fasciatus": {
+  "sci": "Harpactes fasciatus",
+  "zh": "黑头咬鹃",
+  "sites": {
+   "kitulgala": {
+    "days": 2,
+    "of": 38,
+    "freq": 0.0526
+   },
+   "makandawa": {
+    "days": 12,
+    "of": 29,
+    "freq": 0.4138
+   },
+   "sinharaja": {
+    "days": 19,
+    "of": 34,
+    "freq": 0.5588
+   }
+  }
+ },
+ "psilopogon-rubricapillus": {
+  "sci": "Psilopogon rubricapillus",
+  "zh": "斯里兰卡拟啄木鸟",
+  "sites": {
+   "kitulgala": {
+    "days": 4,
+    "of": 38,
+    "freq": 0.1053
+   },
+   "makandawa": {
+    "days": 4,
+    "of": 29,
+    "freq": 0.1379
+   },
+   "yala": {
+    "days": 3,
+    "of": 44,
+    "freq": 0.0682
+   },
+   "sinharaja": {
+    "days": 10,
+    "of": 34,
+    "freq": 0.2941
+   },
+   "mirissa": {
+    "days": 2,
+    "of": 19,
+    "freq": 0.1053
+   },
+   "galle": {
+    "days": 3,
+    "of": 23,
+    "freq": 0.1304
+   }
+  }
+ },
+ "columba-torringtoniae": {
+  "sci": "Columba torringtoniae",
+  "zh": "紫头林鸽",
+  "sites": {
+   "kitulgala": {
+    "days": 1,
+    "of": 38,
+    "freq": 0.0263
+   },
+   "nuwara": {
+    "days": 5,
+    "of": 34,
+    "freq": 0.1471
+   },
+   "horton": {
+    "days": 36,
+    "of": 43,
+    "freq": 0.8372
+   },
+   "sinharaja": {
+    "days": 5,
+    "of": 34,
+    "freq": 0.1471
+   }
+  }
+ },
+ "ficedula-subrubra": {
+  "sci": "Ficedula subrubra",
+  "zh": "印巴姬鹟",
+  "sites": {
+   "kitulgala": {
+    "days": 1,
+    "of": 38,
+    "freq": 0.0263
+   },
+   "nuwara": {
+    "days": 8,
+    "of": 34,
+    "freq": 0.2353
+   },
+   "horton": {
+    "days": 2,
+    "of": 43,
+    "freq": 0.0465
+   },
+   "victoria": {
+    "days": 41,
+    "of": 48,
+    "freq": 0.8542
+   }
+  }
+ },
+ "pachyglossa-agilis": {
+  "sci": "Pachyglossa agilis",
+  "zh": "厚嘴啄花鸟",
+  "sites": {
+   "kitulgala": {
+    "days": 1,
+    "of": 38,
+    "freq": 0.0263
+   },
+   "makandawa": {
+    "days": 1,
+    "of": 29,
+    "freq": 0.0345
+   },
+   "horton": {
+    "days": 2,
+    "of": 43,
+    "freq": 0.0465
+   },
+   "tissa": {
+    "days": 1,
+    "of": 36,
+    "freq": 0.0278
+   },
+   "yala": {
+    "days": 7,
+    "of": 44,
+    "freq": 0.1591
+   },
+   "bundala": {
+    "days": 2,
+    "of": 43,
+    "freq": 0.0465
+   },
+   "sinharaja": {
+    "days": 3,
+    "of": 34,
+    "freq": 0.0882
+   }
+  }
+ },
+ "centropus-chlororhynchos": {
+  "sci": "Centropus chlororhynchos",
+  "zh": "绿嘴鸦鹃",
+  "sites": {
+   "kitulgala": {
+    "days": 5,
+    "of": 38,
+    "freq": 0.1316
+   },
+   "makandawa": {
+    "days": 6,
+    "of": 29,
+    "freq": 0.2069
+   },
+   "sinharaja": {
+    "days": 10,
+    "of": 34,
+    "freq": 0.2941
+   }
+  }
+ },
+ "gracula-ptilogenys": {
+  "sci": "Gracula ptilogenys",
+  "zh": "斯里兰卡鹩哥",
+  "sites": {
+   "kitulgala": {
+    "days": 2,
+    "of": 38,
+    "freq": 0.0526
+   },
+   "makandawa": {
+    "days": 2,
+    "of": 29,
+    "freq": 0.069
+   },
+   "tissa": {
+    "days": 1,
+    "of": 36,
+    "freq": 0.0278
+   },
+   "sinharaja": {
+    "days": 15,
+    "of": 34,
+    "freq": 0.4412
+   }
+  }
+ },
+ "apus-affinis": {
+  "sci": "Apus affinis",
+  "zh": "小雨燕",
+  "sites": {
+   "kitulgala": {
+    "days": 9,
+    "of": 38,
+    "freq": 0.2368
+   },
+   "makandawa": {
+    "days": 2,
+    "of": 29,
+    "freq": 0.069
+   },
+   "tissa": {
+    "days": 5,
+    "of": 36,
+    "freq": 0.1389
+   },
+   "yala": {
+    "days": 21,
+    "of": 44,
+    "freq": 0.4773
+   },
+   "bundala": {
+    "days": 14,
+    "of": 43,
+    "freq": 0.3256
+   },
+   "sinharaja": {
+    "days": 6,
+    "of": 34,
+    "freq": 0.1765
+   },
+   "mirissa": {
+    "days": 1,
+    "of": 19,
+    "freq": 0.0526
+   },
+   "galle": {
+    "days": 3,
+    "of": 23,
+    "freq": 0.1304
+   }
+  }
+ },
+ "ketupa-nipalensis": {
+  "sci": "Ketupa nipalensis",
+  "zh": "林雕鸮",
+  "sites": {
+   "kitulgala": {
+    "days": 1,
+    "of": 38,
+    "freq": 0.0263
+   },
+   "sinharaja": {
+    "days": 1,
+    "of": 34,
+    "freq": 0.0294
+   }
+  }
+ },
+ "rallina-eurizonoides": {
+  "sci": "Rallina eurizonoides",
+  "zh": "白喉斑秧鸡",
+  "sites": {
+   "kitulgala": {
+    "days": 2,
+    "of": 38,
+    "freq": 0.0526
+   },
+   "makandawa": {
+    "days": 1,
+    "of": 29,
+    "freq": 0.0345
+   },
+   "yala": {
+    "days": 1,
+    "of": 44,
+    "freq": 0.0227
+   },
+   "sinharaja": {
+    "days": 4,
+    "of": 34,
+    "freq": 0.1176
+   }
+  }
+ },
+ "chloropsis-aurifrons": {
+  "sci": "Chloropsis aurifrons",
+  "zh": "金额叶鹎",
+  "sites": {
+   "kitulgala": {
+    "days": 4,
+    "of": 38,
+    "freq": 0.1053
+   },
+   "makandawa": {
+    "days": 4,
+    "of": 29,
+    "freq": 0.1379
+   },
+   "tissa": {
+    "days": 2,
+    "of": 36,
+    "freq": 0.0556
+   },
+   "yala": {
+    "days": 1,
+    "of": 44,
+    "freq": 0.0227
+   },
+   "bundala": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   },
+   "sinharaja": {
+    "days": 7,
+    "of": 34,
+    "freq": 0.2059
+   }
+  }
+ },
+ "psittacula-calthrapae": {
+  "sci": "Psittacula calthrapae",
+  "zh": "艳绿领鹦鹉",
+  "sites": {
+   "kitulgala": {
+    "days": 12,
+    "of": 38,
+    "freq": 0.3158
+   },
+   "makandawa": {
+    "days": 5,
+    "of": 29,
+    "freq": 0.1724
+   },
+   "tissa": {
+    "days": 2,
+    "of": 36,
+    "freq": 0.0556
+   },
+   "yala": {
+    "days": 1,
+    "of": 44,
+    "freq": 0.0227
+   },
+   "sinharaja": {
+    "days": 14,
+    "of": 34,
+    "freq": 0.4118
+   }
+  }
+ },
+ "pellorneum-fuscocapillus": {
+  "sci": "Pellorneum fuscocapillus",
+  "zh": "褐冠幽鹛",
+  "sites": {
+   "kitulgala": {
+    "days": 5,
+    "of": 38,
+    "freq": 0.1316
+   },
+   "makandawa": {
+    "days": 6,
+    "of": 29,
+    "freq": 0.2069
+   },
+   "horton": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   },
+   "yala": {
+    "days": 9,
+    "of": 44,
+    "freq": 0.2045
+   },
+   "sinharaja": {
+    "days": 3,
+    "of": 34,
+    "freq": 0.0882
+   }
+  }
+ },
+ "hemiprocne-coronata": {
+  "sci": "Hemiprocne coronata",
+  "zh": "凤头雨燕",
+  "sites": {
+   "kitulgala": {
+    "days": 3,
+    "of": 38,
+    "freq": 0.0789
+   },
+   "makandawa": {
+    "days": 2,
+    "of": 29,
+    "freq": 0.069
+   },
+   "victoria": {
+    "days": 1,
+    "of": 48,
+    "freq": 0.0208
+   },
+   "tissa": {
+    "days": 5,
+    "of": 36,
+    "freq": 0.1389
+   },
+   "yala": {
+    "days": 28,
+    "of": 44,
+    "freq": 0.6364
+   },
+   "bundala": {
+    "days": 6,
+    "of": 43,
+    "freq": 0.1395
+   },
+   "sinharaja": {
+    "days": 5,
+    "of": 34,
+    "freq": 0.1471
+   }
+  }
+ },
+ "sturnornis-albofrontatus": {
+  "sci": "Sturnornis albofrontatus",
+  "zh": "白脸椋鸟",
+  "sites": {
+   "kitulgala": {
+    "days": 1,
+    "of": 38,
+    "freq": 0.0263
+   },
+   "sinharaja": {
+    "days": 12,
+    "of": 34,
+    "freq": 0.3529
+   }
+  }
+ },
+ "icthyophaga-ichthyaetus": {
+  "sci": "Icthyophaga ichthyaetus",
+  "zh": "灰头渔雕",
+  "sites": {
+   "kitulgala": {
+    "days": 1,
+    "of": 38,
+    "freq": 0.0263
+   },
+   "tissa": {
+    "days": 11,
+    "of": 36,
+    "freq": 0.3056
+   },
+   "yala": {
+    "days": 28,
+    "of": 44,
+    "freq": 0.6364
+   },
+   "bundala": {
+    "days": 31,
+    "of": 43,
+    "freq": 0.7209
+   },
+   "mirissa": {
+    "days": 1,
+    "of": 19,
+    "freq": 0.0526
+   }
+  }
+ },
+ "hierococcyx-varius": {
+  "sci": "Hierococcyx varius",
+  "zh": "普通鹰鹃",
+  "sites": {
+   "kitulgala": {
+    "days": 1,
+    "of": 38,
+    "freq": 0.0263
+   },
+   "nuwara": {
+    "days": 1,
+    "of": 34,
+    "freq": 0.0294
+   },
+   "horton": {
+    "days": 11,
+    "of": 43,
+    "freq": 0.2558
+   },
+   "victoria": {
+    "days": 1,
+    "of": 48,
+    "freq": 0.0208
+   },
+   "yala": {
+    "days": 1,
+    "of": 44,
+    "freq": 0.0227
+   },
+   "sinharaja": {
+    "days": 2,
+    "of": 34,
+    "freq": 0.0588
+   }
+  }
+ },
+ "muscicapa-dauurica": {
+  "sci": "Muscicapa dauurica",
+  "zh": "北灰鹟",
+  "sites": {
+   "kitulgala": {
+    "days": 10,
+    "of": 38,
+    "freq": 0.2632
+   },
+   "makandawa": {
+    "days": 2,
+    "of": 29,
+    "freq": 0.069
+   },
+   "nuwara": {
+    "days": 1,
+    "of": 34,
+    "freq": 0.0294
+   },
+   "horton": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   },
+   "victoria": {
+    "days": 1,
+    "of": 48,
+    "freq": 0.0208
+   },
+   "yala": {
+    "days": 1,
+    "of": 44,
+    "freq": 0.0227
+   },
+   "sinharaja": {
+    "days": 7,
+    "of": 34,
+    "freq": 0.2059
+   },
+   "galle": {
+    "days": 1,
+    "of": 23,
+    "freq": 0.0435
+   }
+  }
+ },
+ "cinnyris-lotenius": {
+  "sci": "Cinnyris lotenius",
+  "zh": "罗氏花蜜鸟",
+  "sites": {
+   "kitulgala": {
+    "days": 9,
+    "of": 38,
+    "freq": 0.2368
+   },
+   "makandawa": {
+    "days": 4,
+    "of": 29,
+    "freq": 0.1379
+   },
+   "nuwara": {
+    "days": 5,
+    "of": 34,
+    "freq": 0.1471
+   },
+   "horton": {
+    "days": 6,
+    "of": 43,
+    "freq": 0.1395
+   },
+   "victoria": {
+    "days": 20,
+    "of": 48,
+    "freq": 0.4167
+   },
+   "tissa": {
+    "days": 4,
+    "of": 36,
+    "freq": 0.1111
+   },
+   "yala": {
+    "days": 16,
+    "of": 44,
+    "freq": 0.3636
+   },
+   "bundala": {
+    "days": 7,
+    "of": 43,
+    "freq": 0.1628
+   },
+   "sinharaja": {
+    "days": 5,
+    "of": 34,
+    "freq": 0.1471
+   },
+   "mirissa": {
+    "days": 5,
+    "of": 19,
+    "freq": 0.2632
+   },
+   "galle": {
+    "days": 1,
+    "of": 23,
+    "freq": 0.0435
+   }
+  }
+ },
+ "nisaetus-cirrhatus": {
+  "sci": "Nisaetus cirrhatus",
+  "zh": "凤头鹰雕",
+  "sites": {
+   "kitulgala": {
+    "days": 2,
+    "of": 38,
+    "freq": 0.0526
+   },
+   "makandawa": {
+    "days": 3,
+    "of": 29,
+    "freq": 0.1034
+   },
+   "nuwara": {
+    "days": 3,
+    "of": 34,
+    "freq": 0.0882
+   },
+   "horton": {
+    "days": 2,
+    "of": 43,
+    "freq": 0.0465
+   },
+   "victoria": {
+    "days": 5,
+    "of": 48,
+    "freq": 0.1042
+   },
+   "tissa": {
+    "days": 5,
+    "of": 36,
+    "freq": 0.1389
+   },
+   "yala": {
+    "days": 33,
+    "of": 44,
+    "freq": 0.75
+   },
+   "bundala": {
+    "days": 15,
+    "of": 43,
+    "freq": 0.3488
+   },
+   "sinharaja": {
+    "days": 4,
+    "of": 34,
+    "freq": 0.1176
+   }
+  }
+ },
+ "picus-chlorolophus": {
+  "sci": "Picus chlorolophus",
+  "zh": "黄冠啄木鸟",
+  "sites": {
+   "kitulgala": {
+    "days": 5,
+    "of": 38,
+    "freq": 0.1316
+   },
+   "makandawa": {
+    "days": 9,
+    "of": 29,
+    "freq": 0.3103
+   },
+   "horton": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   },
+   "tissa": {
+    "days": 1,
+    "of": 36,
+    "freq": 0.0278
+   },
+   "sinharaja": {
+    "days": 7,
+    "of": 34,
+    "freq": 0.2059
+   }
+  }
+ },
+ "dumetia-hyperythra": {
+  "sci": "Dumetia hyperythra",
+  "zh": "棕腹鹛",
+  "sites": {
+   "kitulgala": {
+    "days": 2,
+    "of": 38,
+    "freq": 0.0526
+   },
+   "makandawa": {
+    "days": 1,
+    "of": 29,
+    "freq": 0.0345
+   },
+   "tissa": {
+    "days": 1,
+    "of": 36,
+    "freq": 0.0278
+   },
+   "yala": {
+    "days": 3,
+    "of": 44,
+    "freq": 0.0682
+   },
+   "bundala": {
+    "days": 4,
+    "of": 43,
+    "freq": 0.093
+   },
+   "sinharaja": {
+    "days": 2,
+    "of": 34,
+    "freq": 0.0588
+   }
+  }
+ },
+ "lonchura-kelaarti": {
+  "sci": "Lonchura kelaarti",
+  "zh": "红胸文鸟",
+  "sites": {
+   "kitulgala": {
+    "days": 2,
+    "of": 38,
+    "freq": 0.0526
+   },
+   "sinharaja": {
+    "days": 2,
+    "of": 34,
+    "freq": 0.0588
+   }
+  }
+ },
+ "pitta-brachyura": {
+  "sci": "Pitta brachyura",
+  "zh": "印度八色鸫",
+  "sites": {
+   "kitulgala": {
+    "days": 3,
+    "of": 38,
+    "freq": 0.0789
+   },
+   "makandawa": {
+    "days": 8,
+    "of": 29,
+    "freq": 0.2759
+   },
+   "victoria": {
+    "days": 19,
+    "of": 48,
+    "freq": 0.3958
+   },
+   "tissa": {
+    "days": 2,
+    "of": 36,
+    "freq": 0.0556
+   },
+   "yala": {
+    "days": 9,
+    "of": 44,
+    "freq": 0.2045
+   },
+   "sinharaja": {
+    "days": 4,
+    "of": 34,
+    "freq": 0.1176
+   }
+  }
+ },
+ "lonchura-malacca": {
+  "sci": "Lonchura malacca",
+  "zh": "黑头文鸟",
+  "sites": {
+   "kitulgala": {
+    "days": 1,
+    "of": 38,
+    "freq": 0.0263
+   },
+   "horton": {
+    "days": 31,
+    "of": 43,
+    "freq": 0.7209
+   },
+   "tissa": {
+    "days": 12,
+    "of": 36,
+    "freq": 0.3333
+   },
+   "yala": {
+    "days": 14,
+    "of": 44,
+    "freq": 0.3182
+   },
+   "bundala": {
+    "days": 26,
+    "of": 43,
+    "freq": 0.6047
+   }
+  }
+ },
+ "merops-leschenaulti": {
+  "sci": "Merops leschenaulti",
+  "zh": "栗头蜂虎",
+  "sites": {
+   "kitulgala": {
+    "days": 10,
+    "of": 38,
+    "freq": 0.2632
+   },
+   "makandawa": {
+    "days": 9,
+    "of": 29,
+    "freq": 0.3103
+   },
+   "tissa": {
+    "days": 1,
+    "of": 36,
+    "freq": 0.0278
+   },
+   "yala": {
+    "days": 28,
+    "of": 44,
+    "freq": 0.6364
+   },
+   "bundala": {
+    "days": 10,
+    "of": 43,
+    "freq": 0.2326
+   },
+   "sinharaja": {
+    "days": 4,
+    "of": 34,
+    "freq": 0.1176
+   }
+  }
+ },
+ "geokichla-spiloptera": {
+  "sci": "Geokichla spiloptera",
+  "zh": "斑翅地鸫",
+  "sites": {
+   "kitulgala": {
+    "days": 6,
+    "of": 38,
+    "freq": 0.1579
+   },
+   "makandawa": {
+    "days": 14,
+    "of": 29,
+    "freq": 0.4828
+   },
+   "horton": {
+    "days": 6,
+    "of": 43,
+    "freq": 0.1395
+   },
+   "victoria": {
+    "days": 1,
+    "of": 48,
+    "freq": 0.0208
+   },
+   "yala": {
+    "days": 1,
+    "of": 44,
+    "freq": 0.0227
+   },
+   "sinharaja": {
+    "days": 21,
+    "of": 34,
+    "freq": 0.6176
+   }
+  }
+ },
+ "lonchura-striata": {
+  "sci": "Lonchura striata",
+  "zh": "白腰文鸟",
+  "sites": {
+   "kitulgala": {
+    "days": 11,
+    "of": 38,
+    "freq": 0.2895
+   },
+   "makandawa": {
+    "days": 7,
+    "of": 29,
+    "freq": 0.2414
+   },
+   "horton": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   },
+   "tissa": {
+    "days": 3,
+    "of": 36,
+    "freq": 0.0833
+   },
+   "yala": {
+    "days": 12,
+    "of": 44,
+    "freq": 0.2727
+   },
+   "bundala": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   },
+   "sinharaja": {
+    "days": 7,
+    "of": 34,
+    "freq": 0.2059
+   },
+   "mirissa": {
+    "days": 2,
+    "of": 19,
+    "freq": 0.1053
+   }
+  }
+ },
+ "pericrocotus-cinnamomeus": {
+  "sci": "Pericrocotus cinnamomeus",
+  "zh": "小山椒鸟",
+  "sites": {
+   "kitulgala": {
+    "days": 6,
+    "of": 38,
+    "freq": 0.1579
+   },
+   "victoria": {
+    "days": 1,
+    "of": 48,
+    "freq": 0.0208
+   },
+   "tissa": {
+    "days": 5,
+    "of": 36,
+    "freq": 0.1389
+   },
+   "yala": {
+    "days": 18,
+    "of": 44,
+    "freq": 0.4091
+   },
+   "bundala": {
+    "days": 2,
+    "of": 43,
+    "freq": 0.0465
+   },
+   "sinharaja": {
+    "days": 2,
+    "of": 34,
+    "freq": 0.0588
+   }
+  }
+ },
+ "dicrurus-lophorinus": {
+  "sci": "Dicrurus lophorinus",
+  "zh": "斯里兰卡卷尾",
+  "sites": {
+   "kitulgala": {
+    "days": 2,
+    "of": 38,
+    "freq": 0.0526
+   },
+   "makandawa": {
+    "days": 7,
+    "of": 29,
+    "freq": 0.2414
+   },
+   "sinharaja": {
+    "days": 26,
+    "of": 34,
+    "freq": 0.7647
+   }
+  }
+ },
+ "nisaetus-kelaarti": {
+  "sci": "Nisaetus kelaarti",
+  "zh": "力氏鹰雕",
+  "sites": {
+   "kitulgala": {
+    "days": 1,
+    "of": 38,
+    "freq": 0.0263
+   },
+   "horton": {
+    "days": 5,
+    "of": 43,
+    "freq": 0.1163
+   },
+   "victoria": {
+    "days": 1,
+    "of": 48,
+    "freq": 0.0208
+   }
+  }
+ },
+ "pomatorhinus-melanurus": {
+  "sci": "Pomatorhinus melanurus",
+  "zh": "斯里兰卡钩嘴鹛",
+  "sites": {
+   "kitulgala": {
+    "days": 1,
+    "of": 38,
+    "freq": 0.0263
+   },
+   "makandawa": {
+    "days": 8,
+    "of": 29,
+    "freq": 0.2759
+   },
+   "nuwara": {
+    "days": 6,
+    "of": 34,
+    "freq": 0.1765
+   },
+   "horton": {
+    "days": 23,
+    "of": 43,
+    "freq": 0.5349
+   },
+   "victoria": {
+    "days": 25,
+    "of": 48,
+    "freq": 0.5208
+   },
+   "sinharaja": {
+    "days": 11,
+    "of": 34,
+    "freq": 0.3235
+   }
+  }
+ },
+ "dumetia-atriceps": {
+  "sci": "Dumetia atriceps",
+  "zh": "黑头鹛",
+  "sites": {
+   "kitulgala": {
+    "days": 2,
+    "of": 38,
+    "freq": 0.0526
+   },
+   "makandawa": {
+    "days": 6,
+    "of": 29,
+    "freq": 0.2069
+   },
+   "nuwara": {
+    "days": 3,
+    "of": 34,
+    "freq": 0.0882
+   },
+   "horton": {
+    "days": 15,
+    "of": 43,
+    "freq": 0.3488
+   },
+   "victoria": {
+    "days": 2,
+    "of": 48,
+    "freq": 0.0417
+   },
+   "yala": {
+    "days": 2,
+    "of": 44,
+    "freq": 0.0455
+   },
+   "sinharaja": {
+    "days": 17,
+    "of": 34,
+    "freq": 0.5
+   }
+  }
+ },
+ "otus-thilohoffmanni": {
+  "sci": "Otus thilohoffmanni",
+  "zh": "斯里兰卡角鸮",
+  "sites": {
+   "kitulgala": {
+    "days": 1,
+    "of": 38,
+    "freq": 0.0263
+   },
+   "makandawa": {
+    "days": 10,
+    "of": 29,
+    "freq": 0.3448
+   },
+   "sinharaja": {
+    "days": 8,
+    "of": 34,
+    "freq": 0.2353
+   }
+  }
+ },
+ "gallus-lafayettii": {
+  "sci": "Gallus lafayettii",
+  "zh": "蓝喉原鸡",
+  "sites": {
+   "kitulgala": {
+    "days": 6,
+    "of": 38,
+    "freq": 0.1579
+   },
+   "makandawa": {
+    "days": 15,
+    "of": 29,
+    "freq": 0.5172
+   },
+   "nuwara": {
+    "days": 9,
+    "of": 34,
+    "freq": 0.2647
+   },
+   "horton": {
+    "days": 33,
+    "of": 43,
+    "freq": 0.7674
+   },
+   "victoria": {
+    "days": 2,
+    "of": 48,
+    "freq": 0.0417
+   },
+   "tissa": {
+    "days": 5,
+    "of": 36,
+    "freq": 0.1389
+   },
+   "yala": {
+    "days": 40,
+    "of": 44,
+    "freq": 0.9091
+   },
+   "bundala": {
+    "days": 27,
+    "of": 43,
+    "freq": 0.6279
+   },
+   "sinharaja": {
+    "days": 24,
+    "of": 34,
+    "freq": 0.7059
+   }
+  }
+ },
+ "gracula-indica": {
+  "sci": "Gracula indica",
+  "zh": "南鹩哥",
+  "sites": {
+   "kitulgala": {
+    "days": 4,
+    "of": 38,
+    "freq": 0.1053
+   },
+   "makandawa": {
+    "days": 8,
+    "of": 29,
+    "freq": 0.2759
+   },
+   "horton": {
+    "days": 2,
+    "of": 43,
+    "freq": 0.0465
+   },
+   "sinharaja": {
+    "days": 3,
+    "of": 34,
+    "freq": 0.0882
+   }
+  }
+ },
+ "ceyx-erithaca": {
+  "sci": "Ceyx erithaca",
+  "zh": "三趾翠鸟",
+  "sites": {
+   "kitulgala": {
+    "days": 4,
+    "of": 38,
+    "freq": 0.1053
+   },
+   "makandawa": {
+    "days": 2,
+    "of": 29,
+    "freq": 0.069
+   },
+   "yala": {
+    "days": 1,
+    "of": 44,
+    "freq": 0.0227
+   },
+   "sinharaja": {
+    "days": 1,
+    "of": 34,
+    "freq": 0.0294
+   }
+  }
+ },
+ "yungipicus-nanus": {
+  "sci": "Yungipicus nanus",
+  "zh": "褐头啄木鸟",
+  "sites": {
+   "kitulgala": {
+    "days": 2,
+    "of": 38,
+    "freq": 0.0526
+   },
+   "makandawa": {
+    "days": 2,
+    "of": 29,
+    "freq": 0.069
+   },
+   "yala": {
+    "days": 2,
+    "of": 44,
+    "freq": 0.0455
+   },
+   "bundala": {
+    "days": 3,
+    "of": 43,
+    "freq": 0.0698
+   },
+   "sinharaja": {
+    "days": 2,
+    "of": 34,
+    "freq": 0.0588
+   }
+  }
+ },
+ "sitta-frontalis": {
+  "sci": "Sitta frontalis",
+  "zh": "绒额䴓",
+  "sites": {
+   "kitulgala": {
+    "days": 1,
+    "of": 38,
+    "freq": 0.0263
+   },
+   "makandawa": {
+    "days": 1,
+    "of": 29,
+    "freq": 0.0345
+   },
+   "nuwara": {
+    "days": 12,
+    "of": 34,
+    "freq": 0.3529
+   },
+   "horton": {
+    "days": 21,
+    "of": 43,
+    "freq": 0.4884
+   },
+   "victoria": {
+    "days": 24,
+    "of": 48,
+    "freq": 0.5
+   },
+   "yala": {
+    "days": 1,
+    "of": 44,
+    "freq": 0.0227
+   },
+   "sinharaja": {
+    "days": 8,
+    "of": 34,
+    "freq": 0.2353
+   }
+  }
+ },
+ "zosterops-ceylonensis": {
+  "sci": "Zosterops ceylonensis",
+  "zh": "斯里兰卡绣眼鸟",
+  "sites": {
+   "kitulgala": {
+    "days": 1,
+    "of": 38,
+    "freq": 0.0263
+   },
+   "makandawa": {
+    "days": 1,
+    "of": 29,
+    "freq": 0.0345
+   },
+   "nuwara": {
+    "days": 24,
+    "of": 34,
+    "freq": 0.7059
+   },
+   "horton": {
+    "days": 40,
+    "of": 43,
+    "freq": 0.9302
+   },
+   "victoria": {
+    "days": 41,
+    "of": 48,
+    "freq": 0.8542
+   },
+   "sinharaja": {
+    "days": 4,
+    "of": 34,
+    "freq": 0.1176
+   }
+  }
+ },
+ "artamus-fuscus": {
+  "sci": "Artamus fuscus",
+  "zh": "灰燕鵙",
+  "sites": {
+   "kitulgala": {
+    "days": 1,
+    "of": 38,
+    "freq": 0.0263
+   },
+   "tissa": {
+    "days": 1,
+    "of": 36,
+    "freq": 0.0278
+   },
+   "bundala": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   }
+  }
+ },
+ "hieraaetus-pennatus": {
+  "sci": "Hieraaetus pennatus",
+  "zh": "靴隼雕",
+  "sites": {
+   "kitulgala": {
+    "days": 1,
+    "of": 38,
+    "freq": 0.0263
+   },
+   "horton": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   },
+   "tissa": {
+    "days": 1,
+    "of": 36,
+    "freq": 0.0278
+   },
+   "yala": {
+    "days": 1,
+    "of": 44,
+    "freq": 0.0227
+   },
+   "bundala": {
+    "days": 5,
+    "of": 43,
+    "freq": 0.1163
+   }
+  }
+ },
+ "phylloscopus-magnirostris": {
+  "sci": "Phylloscopus magnirostris",
+  "zh": "乌嘴柳莺",
+  "sites": {
+   "kitulgala": {
+    "days": 1,
+    "of": 38,
+    "freq": 0.0263
+   },
+   "makandawa": {
+    "days": 3,
+    "of": 29,
+    "freq": 0.1034
+   },
+   "nuwara": {
+    "days": 4,
+    "of": 34,
+    "freq": 0.1176
+   },
+   "horton": {
+    "days": 12,
+    "of": 43,
+    "freq": 0.2791
+   },
+   "victoria": {
+    "days": 3,
+    "of": 48,
+    "freq": 0.0625
+   },
+   "sinharaja": {
+    "days": 3,
+    "of": 34,
+    "freq": 0.0882
+   }
+  }
+ },
+ "prinia-socialis": {
+  "sci": "Prinia socialis",
+  "zh": "灰山鹪莺",
+  "sites": {
+   "kitulgala": {
+    "days": 1,
+    "of": 38,
+    "freq": 0.0263
+   },
+   "nuwara": {
+    "days": 6,
+    "of": 34,
+    "freq": 0.1765
+   },
+   "horton": {
+    "days": 3,
+    "of": 43,
+    "freq": 0.0698
+   },
+   "victoria": {
+    "days": 8,
+    "of": 48,
+    "freq": 0.1667
+   },
+   "tissa": {
+    "days": 4,
+    "of": 36,
+    "freq": 0.1111
+   },
+   "yala": {
+    "days": 8,
+    "of": 44,
+    "freq": 0.1818
+   },
+   "bundala": {
+    "days": 10,
+    "of": 43,
+    "freq": 0.2326
+   }
+  }
+ },
+ "phaenicophaeus-pyrrhocephalus": {
+  "sci": "Phaenicophaeus pyrrhocephalus",
+  "zh": "红脸地鹃",
+  "sites": {
+   "kitulgala": {
+    "days": 1,
+    "of": 38,
+    "freq": 0.0263
+   },
+   "makandawa": {
+    "days": 3,
+    "of": 29,
+    "freq": 0.1034
+   },
+   "sinharaja": {
+    "days": 17,
+    "of": 34,
+    "freq": 0.5
+   }
+  }
+ },
+ "micropternus-brachyurus": {
+  "sci": "Micropternus brachyurus",
+  "zh": "栗啄木鸟",
+  "sites": {
+   "kitulgala": {
+    "days": 1,
+    "of": 38,
+    "freq": 0.0263
+   }
+  }
+ },
+ "cacomantis-sonneratii": {
+  "sci": "Cacomantis sonneratii",
+  "zh": "栗斑杜鹃",
+  "sites": {
+   "makandawa": {
+    "days": 3,
+    "of": 29,
+    "freq": 0.1034
+   },
+   "sinharaja": {
+    "days": 2,
+    "of": 34,
+    "freq": 0.0588
+   }
+  }
+ },
+ "chrysocolaptes-stricklandi": {
+  "sci": "Chrysocolaptes stricklandi",
+  "zh": "绯红背啄木鸟",
+  "sites": {
+   "makandawa": {
+    "days": 8,
+    "of": 29,
+    "freq": 0.2759
+   },
+   "nuwara": {
+    "days": 6,
+    "of": 34,
+    "freq": 0.1765
+   },
+   "horton": {
+    "days": 15,
+    "of": 43,
+    "freq": 0.3488
+   },
+   "yala": {
+    "days": 3,
+    "of": 44,
+    "freq": 0.0682
+   },
+   "sinharaja": {
+    "days": 12,
+    "of": 34,
+    "freq": 0.3529
+   }
+  }
+ },
+ "phodilus-assimilis": {
+  "sci": "Phodilus assimilis",
+  "zh": "斯里兰卡栗鸮",
+  "sites": {
+   "makandawa": {
+    "days": 3,
+    "of": 29,
+    "freq": 0.1034
+   },
+   "sinharaja": {
+    "days": 3,
+    "of": 34,
+    "freq": 0.0882
+   }
+  }
+ },
+ "eumyias-sordidus": {
+  "sci": "Eumyias sordidus",
+  "zh": "暗蓝仙鹟",
+  "sites": {
+   "makandawa": {
+    "days": 1,
+    "of": 29,
+    "freq": 0.0345
+   },
+   "nuwara": {
+    "days": 21,
+    "of": 34,
+    "freq": 0.6176
+   },
+   "horton": {
+    "days": 39,
+    "of": 43,
+    "freq": 0.907
+   },
+   "victoria": {
+    "days": 7,
+    "of": 48,
+    "freq": 0.1458
+   },
+   "sinharaja": {
+    "days": 1,
+    "of": 34,
+    "freq": 0.0294
+   }
+  }
+ },
+ "botaurus-flavicollis": {
+  "sci": "Botaurus flavicollis",
+  "zh": "黑鳽",
+  "sites": {
+   "makandawa": {
+    "days": 1,
+    "of": 29,
+    "freq": 0.0345
+   },
+   "tissa": {
+    "days": 7,
+    "of": 36,
+    "freq": 0.1944
+   },
+   "bundala": {
+    "days": 12,
+    "of": 43,
+    "freq": 0.2791
+   }
+  }
+ },
+ "strix-leptogrammica": {
+  "sci": "Strix leptogrammica",
+  "zh": "褐林鸮",
+  "sites": {
+   "makandawa": {
+    "days": 1,
+    "of": 29,
+    "freq": 0.0345
+   },
+   "horton": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   }
+  }
+ },
+ "ninox-scutulata": {
+  "sci": "Ninox scutulata",
+  "zh": "鹰鸮",
+  "sites": {
+   "makandawa": {
+    "days": 3,
+    "of": 29,
+    "freq": 0.1034
+   },
+   "tissa": {
+    "days": 19,
+    "of": 36,
+    "freq": 0.5278
+   },
+   "sinharaja": {
+    "days": 1,
+    "of": 34,
+    "freq": 0.0294
+   },
+   "mirissa": {
+    "days": 1,
+    "of": 19,
+    "freq": 0.0526
+   }
+  }
+ },
+ "zapornia-fusca": {
+  "sci": "Zapornia fusca",
+  "zh": "红胸田鸡",
+  "sites": {
+   "makandawa": {
+    "days": 1,
+    "of": 29,
+    "freq": 0.0345
+   },
+   "bundala": {
+    "days": 2,
+    "of": 43,
+    "freq": 0.0465
+   },
+   "sinharaja": {
+    "days": 1,
+    "of": 34,
+    "freq": 0.0294
+   }
+  }
+ },
+ "pycnonotus-penicillatus": {
+  "sci": "Pycnonotus penicillatus",
+  "zh": "黄耳鹎",
+  "sites": {
+   "nuwara": {
+    "days": 18,
+    "of": 34,
+    "freq": 0.5294
+   },
+   "horton": {
+    "days": 36,
+    "of": 43,
+    "freq": 0.8372
+   },
+   "victoria": {
+    "days": 29,
+    "of": 48,
+    "freq": 0.6042
+   },
+   "yala": {
+    "days": 1,
+    "of": 44,
+    "freq": 0.0227
+   }
+  }
+ },
+ "picus-xanthopygaeus": {
+  "sci": "Picus xanthopygaeus",
+  "zh": "鳞喉绿啄木鸟",
+  "sites": {
+   "nuwara": {
+    "days": 1,
+    "of": 34,
+    "freq": 0.0294
+   },
+   "sinharaja": {
+    "days": 1,
+    "of": 34,
+    "freq": 0.0294
+   }
+  }
+ },
+ "turdus-simillimus": {
+  "sci": "Turdus simillimus",
+  "zh": "南亚乌鸫",
+  "sites": {
+   "nuwara": {
+    "days": 6,
+    "of": 34,
+    "freq": 0.1765
+   },
+   "horton": {
+    "days": 35,
+    "of": 43,
+    "freq": 0.814
+   },
+   "victoria": {
+    "days": 5,
+    "of": 48,
+    "freq": 0.1042
+   }
+  }
+ },
+ "hirundo-domicola": {
+  "sci": "Hirundo domicola",
+  "zh": "山燕",
+  "sites": {
+   "nuwara": {
+    "days": 8,
+    "of": 34,
+    "freq": 0.2353
+   },
+   "horton": {
+    "days": 41,
+    "of": 43,
+    "freq": 0.9535
+   },
+   "victoria": {
+    "days": 5,
+    "of": 48,
+    "freq": 0.1042
+   }
+  }
+ },
+ "culicicapa-ceylonensis": {
+  "sci": "Culicicapa ceylonensis",
+  "zh": "方尾鹟",
+  "sites": {
+   "nuwara": {
+    "days": 14,
+    "of": 34,
+    "freq": 0.4118
+   },
+   "horton": {
+    "days": 26,
+    "of": 43,
+    "freq": 0.6047
+   },
+   "victoria": {
+    "days": 26,
+    "of": 48,
+    "freq": 0.5417
+   }
+  }
+ },
+ "larvivora-brunnea": {
+  "sci": "Larvivora brunnea",
+  "zh": "栗腹歌鸲",
+  "sites": {
+   "nuwara": {
+    "days": 9,
+    "of": 34,
+    "freq": 0.2647
+   },
+   "horton": {
+    "days": 13,
+    "of": 43,
+    "freq": 0.3023
+   },
+   "victoria": {
+    "days": 22,
+    "of": 48,
+    "freq": 0.4583
+   },
+   "bundala": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   }
+  }
+ },
+ "elaphrornis-palliseri": {
+  "sci": "Elaphrornis palliseri",
+  "zh": "帕氏短翅莺",
+  "sites": {
+   "nuwara": {
+    "days": 5,
+    "of": 34,
+    "freq": 0.1471
+   },
+   "horton": {
+    "days": 29,
+    "of": 43,
+    "freq": 0.6744
+   },
+   "victoria": {
+    "days": 1,
+    "of": 48,
+    "freq": 0.0208
+   }
+  }
+ },
+ "myophonus-blighi": {
+  "sci": "Myophonus blighi",
+  "zh": "斯里兰卡啸鸫",
+  "sites": {
+   "nuwara": {
+    "days": 7,
+    "of": 34,
+    "freq": 0.2059
+   },
+   "horton": {
+    "days": 33,
+    "of": 43,
+    "freq": 0.7674
+   },
+   "victoria": {
+    "days": 2,
+    "of": 48,
+    "freq": 0.0417
+   }
+  }
+ },
+ "zoothera-imbricata": {
+  "sci": "Zoothera imbricata",
+  "zh": "斯里兰卡地鸫",
+  "sites": {
+   "nuwara": {
+    "days": 1,
+    "of": 34,
+    "freq": 0.0294
+   },
+   "horton": {
+    "days": 3,
+    "of": 43,
+    "freq": 0.0698
+   },
+   "victoria": {
+    "days": 1,
+    "of": 48,
+    "freq": 0.0208
+   },
+   "sinharaja": {
+    "days": 7,
+    "of": 34,
+    "freq": 0.2059
+   }
+  }
+ },
+ "anhinga-melanogaster": {
+  "sci": "Anhinga melanogaster",
+  "zh": "黑腹蛇鹈",
+  "sites": {
+   "nuwara": {
+    "days": 1,
+    "of": 34,
+    "freq": 0.0294
+   },
+   "tissa": {
+    "days": 26,
+    "of": 36,
+    "freq": 0.7222
+   },
+   "yala": {
+    "days": 40,
+    "of": 44,
+    "freq": 0.9091
+   },
+   "bundala": {
+    "days": 39,
+    "of": 43,
+    "freq": 0.907
+   },
+   "galle": {
+    "days": 1,
+    "of": 23,
+    "freq": 0.0435
+   }
+  }
+ },
+ "anas-poecilorhyncha": {
+  "sci": "Anas poecilorhyncha",
+  "zh": "印缅斑嘴鸭",
+  "sites": {
+   "nuwara": {
+    "days": 1,
+    "of": 34,
+    "freq": 0.0294
+   }
+  }
+ },
+ "falco-peregrinus": {
+  "sci": "Falco peregrinus",
+  "zh": "游隼",
+  "sites": {
+   "horton": {
+    "days": 3,
+    "of": 43,
+    "freq": 0.0698
+   },
+   "yala": {
+    "days": 4,
+    "of": 44,
+    "freq": 0.0909
+   }
+  }
+ },
+ "aviceda-jerdoni": {
+  "sci": "Aviceda jerdoni",
+  "zh": "褐冠鹃隼",
+  "sites": {
+   "horton": {
+    "days": 2,
+    "of": 43,
+    "freq": 0.0465
+   }
+  }
+ },
+ "elanus-caeruleus": {
+  "sci": "Elanus caeruleus",
+  "zh": "黑翅鸢",
+  "sites": {
+   "horton": {
+    "days": 7,
+    "of": 43,
+    "freq": 0.1628
+   },
+   "yala": {
+    "days": 2,
+    "of": 44,
+    "freq": 0.0455
+   },
+   "bundala": {
+    "days": 8,
+    "of": 43,
+    "freq": 0.186
+   }
+  }
+ },
+ "geokichla-wardii": {
+  "sci": "Geokichla wardii",
+  "zh": "杂色地鸫",
+  "sites": {
+   "horton": {
+    "days": 2,
+    "of": 43,
+    "freq": 0.0465
+   },
+   "victoria": {
+    "days": 38,
+    "of": 48,
+    "freq": 0.7917
+   }
+  }
+ },
+ "plocealauda-affinis": {
+  "sci": "Plocealauda affinis",
+  "zh": "斯里兰卡歌百灵",
+  "sites": {
+   "horton": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   },
+   "tissa": {
+    "days": 2,
+    "of": 36,
+    "freq": 0.0556
+   },
+   "yala": {
+    "days": 28,
+    "of": 44,
+    "freq": 0.6364
+   },
+   "bundala": {
+    "days": 31,
+    "of": 43,
+    "freq": 0.7209
+   }
+  }
+ },
+ "asio-flammeus": {
+  "sci": "Asio flammeus",
+  "zh": "短耳鸮",
+  "sites": {
+   "horton": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   }
+  }
+ },
+ "cuculus-poliocephalus": {
+  "sci": "Cuculus poliocephalus",
+  "zh": "小杜鹃",
+  "sites": {
+   "horton": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   }
+  }
+ },
+ "eremopterix-griseus": {
+  "sci": "Eremopterix griseus",
+  "zh": "灰顶雀百灵",
+  "sites": {
+   "horton": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   },
+   "yala": {
+    "days": 4,
+    "of": 44,
+    "freq": 0.0909
+   },
+   "bundala": {
+    "days": 32,
+    "of": 43,
+    "freq": 0.7442
+   }
+  }
+ },
+ "vanellus-malabaricus": {
+  "sci": "Vanellus malabaricus",
+  "zh": "黄垂麦鸡",
+  "sites": {
+   "horton": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   },
+   "yala": {
+    "days": 34,
+    "of": 44,
+    "freq": 0.7727
+   },
+   "bundala": {
+    "days": 34,
+    "of": 43,
+    "freq": 0.7907
+   }
+  }
+ },
+ "threskiornis-melanocephalus": {
+  "sci": "Threskiornis melanocephalus",
+  "zh": "黑头白鹮",
+  "sites": {
+   "victoria": {
+    "days": 1,
+    "of": 48,
+    "freq": 0.0208
+   },
+   "tissa": {
+    "days": 27,
+    "of": 36,
+    "freq": 0.75
+   },
+   "yala": {
+    "days": 41,
+    "of": 44,
+    "freq": 0.9318
+   },
+   "bundala": {
+    "days": 40,
+    "of": 43,
+    "freq": 0.9302
+   },
+   "sinharaja": {
+    "days": 3,
+    "of": 34,
+    "freq": 0.0882
+   },
+   "mirissa": {
+    "days": 1,
+    "of": 19,
+    "freq": 0.0526
+   }
+  }
+ },
+ "chrysocolaptes-festivus": {
+  "sci": "Chrysocolaptes festivus",
+  "zh": "黑腰啄木鸟",
+  "sites": {
+   "tissa": {
+    "days": 15,
+    "of": 36,
+    "freq": 0.4167
+   },
+   "yala": {
+    "days": 1,
+    "of": 44,
+    "freq": 0.0227
+   }
+  }
+ },
+ "ardea-purpurea": {
+  "sci": "Ardea purpurea",
+  "zh": "草鹭",
+  "sites": {
+   "tissa": {
+    "days": 26,
+    "of": 36,
+    "freq": 0.7222
+   },
+   "yala": {
+    "days": 37,
+    "of": 44,
+    "freq": 0.8409
+   },
+   "bundala": {
+    "days": 39,
+    "of": 43,
+    "freq": 0.907
+   }
+  }
+ },
+ "pelecanus-philippensis": {
+  "sci": "Pelecanus philippensis",
+  "zh": "斑嘴鹈鹕",
+  "sites": {
+   "tissa": {
+    "days": 27,
+    "of": 36,
+    "freq": 0.75
+   },
+   "yala": {
+    "days": 31,
+    "of": 44,
+    "freq": 0.7045
+   },
+   "bundala": {
+    "days": 38,
+    "of": 43,
+    "freq": 0.8837
+   }
+  }
+ },
+ "botaurus-cinnamomeus": {
+  "sci": "Botaurus cinnamomeus",
+  "zh": "栗苇鳽",
+  "sites": {
+   "tissa": {
+    "days": 2,
+    "of": 36,
+    "freq": 0.0556
+   },
+   "yala": {
+    "days": 1,
+    "of": 44,
+    "freq": 0.0227
+   },
+   "bundala": {
+    "days": 6,
+    "of": 43,
+    "freq": 0.1395
+   }
+  }
+ },
+ "anthracoceros-coronatus": {
+  "sci": "Anthracoceros coronatus",
+  "zh": "印度冠斑犀鸟",
+  "sites": {
+   "tissa": {
+    "days": 10,
+    "of": 36,
+    "freq": 0.2778
+   },
+   "yala": {
+    "days": 33,
+    "of": 44,
+    "freq": 0.75
+   },
+   "bundala": {
+    "days": 5,
+    "of": 43,
+    "freq": 0.1163
+   }
+  }
+ },
+ "otus-bakkamoena": {
+  "sci": "Otus bakkamoena",
+  "zh": "印度领角鸮",
+  "sites": {
+   "tissa": {
+    "days": 18,
+    "of": 36,
+    "freq": 0.5
+   },
+   "bundala": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   }
+  }
+ },
+ "psilopogon-haemacephalus": {
+  "sci": "Psilopogon haemacephalus",
+  "zh": "赤胸拟啄木鸟",
+  "sites": {
+   "tissa": {
+    "days": 15,
+    "of": 36,
+    "freq": 0.4167
+   },
+   "yala": {
+    "days": 26,
+    "of": 44,
+    "freq": 0.5909
+   },
+   "bundala": {
+    "days": 2,
+    "of": 43,
+    "freq": 0.0465
+   },
+   "sinharaja": {
+    "days": 2,
+    "of": 34,
+    "freq": 0.0588
+   }
+  }
+ },
+ "tyto-javanica": {
+  "sci": "Tyto javanica",
+  "zh": "仓鸮",
+  "sites": {
+   "tissa": {
+    "days": 15,
+    "of": 36,
+    "freq": 0.4167
+   },
+   "yala": {
+    "days": 1,
+    "of": 44,
+    "freq": 0.0227
+   }
+  }
+ },
+ "tephrodornis-affinis": {
+  "sci": "Tephrodornis affinis",
+  "zh": "斯里兰卡林鵙",
+  "sites": {
+   "tissa": {
+    "days": 9,
+    "of": 36,
+    "freq": 0.25
+   },
+   "yala": {
+    "days": 24,
+    "of": 44,
+    "freq": 0.5455
+   },
+   "bundala": {
+    "days": 12,
+    "of": 43,
+    "freq": 0.2791
+   }
+  }
+ },
+ "hydrophasianus-chirurgus": {
+  "sci": "Hydrophasianus chirurgus",
+  "zh": "水雉",
+  "sites": {
+   "tissa": {
+    "days": 23,
+    "of": 36,
+    "freq": 0.6389
+   },
+   "yala": {
+    "days": 25,
+    "of": 44,
+    "freq": 0.5682
+   },
+   "bundala": {
+    "days": 39,
+    "of": 43,
+    "freq": 0.907
+   }
+  }
+ },
+ "mycteria-leucocephala": {
+  "sci": "Mycteria leucocephala",
+  "zh": "彩鹳",
+  "sites": {
+   "tissa": {
+    "days": 15,
+    "of": 36,
+    "freq": 0.4167
+   },
+   "yala": {
+    "days": 40,
+    "of": 44,
+    "freq": 0.9091
+   },
+   "bundala": {
+    "days": 39,
+    "of": 43,
+    "freq": 0.907
+   },
+   "mirissa": {
+    "days": 1,
+    "of": 19,
+    "freq": 0.0526
+   }
+  }
+ },
+ "glaucidium-radiatum": {
+  "sci": "Glaucidium radiatum",
+  "zh": "丛林鸺鹠",
+  "sites": {
+   "tissa": {
+    "days": 21,
+    "of": 36,
+    "freq": 0.5833
+   },
+   "yala": {
+    "days": 4,
+    "of": 44,
+    "freq": 0.0909
+   }
+  }
+ },
+ "gallicrex-cinerea": {
+  "sci": "Gallicrex cinerea",
+  "zh": "董鸡",
+  "sites": {
+   "tissa": {
+    "days": 5,
+    "of": 36,
+    "freq": 0.1389
+   },
+   "yala": {
+    "days": 2,
+    "of": 44,
+    "freq": 0.0455
+   },
+   "bundala": {
+    "days": 17,
+    "of": 43,
+    "freq": 0.3953
+   }
+  }
+ },
+ "treron-bicinctus": {
+  "sci": "Treron bicinctus",
+  "zh": "橙胸绿鸠",
+  "sites": {
+   "tissa": {
+    "days": 8,
+    "of": 36,
+    "freq": 0.2222
+   },
+   "yala": {
+    "days": 37,
+    "of": 44,
+    "freq": 0.8409
+   },
+   "bundala": {
+    "days": 23,
+    "of": 43,
+    "freq": 0.5349
+   },
+   "sinharaja": {
+    "days": 1,
+    "of": 34,
+    "freq": 0.0294
+   },
+   "mirissa": {
+    "days": 1,
+    "of": 19,
+    "freq": 0.0526
+   }
+  }
+ },
+ "ketupa-zeylonensis": {
+  "sci": "Ketupa zeylonensis",
+  "zh": "褐渔鸮",
+  "sites": {
+   "tissa": {
+    "days": 15,
+    "of": 36,
+    "freq": 0.4167
+   },
+   "yala": {
+    "days": 24,
+    "of": 44,
+    "freq": 0.5455
+   },
+   "sinharaja": {
+    "days": 2,
+    "of": 34,
+    "freq": 0.0588
+   }
+  }
+ },
+ "ploceus-manyar": {
+  "sci": "Ploceus manyar",
+  "zh": "纹胸织雀",
+  "sites": {
+   "tissa": {
+    "days": 5,
+    "of": 36,
+    "freq": 0.1389
+   },
+   "yala": {
+    "days": 15,
+    "of": 44,
+    "freq": 0.3409
+   },
+   "bundala": {
+    "days": 8,
+    "of": 43,
+    "freq": 0.186
+   }
+  }
+ },
+ "nettapus-coromandelianus": {
+  "sci": "Nettapus coromandelianus",
+  "zh": "棉凫",
+  "sites": {
+   "tissa": {
+    "days": 8,
+    "of": 36,
+    "freq": 0.2222
+   },
+   "yala": {
+    "days": 7,
+    "of": 44,
+    "freq": 0.1591
+   },
+   "bundala": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   }
+  }
+ },
+ "prinia-sylvatica": {
+  "sci": "Prinia sylvatica",
+  "zh": "丛林山鹪莺",
+  "sites": {
+   "tissa": {
+    "days": 1,
+    "of": 36,
+    "freq": 0.0278
+   },
+   "yala": {
+    "days": 13,
+    "of": 44,
+    "freq": 0.2955
+   },
+   "bundala": {
+    "days": 12,
+    "of": 43,
+    "freq": 0.2791
+   }
+  }
+ },
+ "esacus-recurvirostris": {
+  "sci": "Esacus recurvirostris",
+  "zh": "大石鸻",
+  "sites": {
+   "tissa": {
+    "days": 2,
+    "of": 36,
+    "freq": 0.0556
+   },
+   "yala": {
+    "days": 29,
+    "of": 44,
+    "freq": 0.6591
+   },
+   "bundala": {
+    "days": 37,
+    "of": 43,
+    "freq": 0.8605
+   }
+  }
+ },
+ "clamator-jacobinus": {
+  "sci": "Clamator jacobinus",
+  "zh": "斑翅凤头鹃",
+  "sites": {
+   "tissa": {
+    "days": 2,
+    "of": 36,
+    "freq": 0.0556
+   },
+   "yala": {
+    "days": 13,
+    "of": 44,
+    "freq": 0.2955
+   },
+   "bundala": {
+    "days": 26,
+    "of": 43,
+    "freq": 0.6047
+   },
+   "sinharaja": {
+    "days": 1,
+    "of": 34,
+    "freq": 0.0294
+   }
+  }
+ },
+ "burhinus-indicus": {
+  "sci": "Burhinus indicus",
+  "zh": "印度石鸻",
+  "sites": {
+   "tissa": {
+    "days": 1,
+    "of": 36,
+    "freq": 0.0278
+   },
+   "yala": {
+    "days": 5,
+    "of": 44,
+    "freq": 0.1136
+   },
+   "bundala": {
+    "days": 27,
+    "of": 43,
+    "freq": 0.6279
+   }
+  }
+ },
+ "phaenicophaeus-viridirostris": {
+  "sci": "Phaenicophaeus viridirostris",
+  "zh": "小绿嘴地鹃",
+  "sites": {
+   "tissa": {
+    "days": 1,
+    "of": 36,
+    "freq": 0.0278
+   },
+   "yala": {
+    "days": 22,
+    "of": 44,
+    "freq": 0.5
+   },
+   "bundala": {
+    "days": 25,
+    "of": 43,
+    "freq": 0.5814
+   }
+  }
+ },
+ "ciconia-episcopus": {
+  "sci": "Ciconia episcopus",
+  "zh": "白颈鹳",
+  "sites": {
+   "tissa": {
+    "days": 2,
+    "of": 36,
+    "freq": 0.0556
+   },
+   "yala": {
+    "days": 18,
+    "of": 44,
+    "freq": 0.4091
+   },
+   "bundala": {
+    "days": 4,
+    "of": 43,
+    "freq": 0.093
+   },
+   "sinharaja": {
+    "days": 4,
+    "of": 34,
+    "freq": 0.1176
+   }
+  }
+ },
+ "spatula-querquedula": {
+  "sci": "Spatula querquedula",
+  "zh": "白眉鸭",
+  "sites": {
+   "tissa": {
+    "days": 1,
+    "of": 36,
+    "freq": 0.0278
+   },
+   "yala": {
+    "days": 5,
+    "of": 44,
+    "freq": 0.1136
+   },
+   "bundala": {
+    "days": 5,
+    "of": 43,
+    "freq": 0.1163
+   }
+  }
+ },
+ "leptoptilos-javanicus": {
+  "sci": "Leptoptilos javanicus",
+  "zh": "秃鹳",
+  "sites": {
+   "tissa": {
+    "days": 1,
+    "of": 36,
+    "freq": 0.0278
+   },
+   "yala": {
+    "days": 25,
+    "of": 44,
+    "freq": 0.5682
+   },
+   "bundala": {
+    "days": 21,
+    "of": 43,
+    "freq": 0.4884
+   }
+  }
+ },
+ "ephippiorhynchus-asiaticus": {
+  "sci": "Ephippiorhynchus asiaticus",
+  "zh": "黑颈鹳",
+  "sites": {
+   "yala": {
+    "days": 16,
+    "of": 44,
+    "freq": 0.3636
+   },
+   "bundala": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   }
+  }
+ },
+ "leiopicus-mahrattensis": {
+  "sci": "Leiopicus mahrattensis",
+  "zh": "黄冠斑啄木鸟",
+  "sites": {
+   "yala": {
+    "days": 14,
+    "of": 44,
+    "freq": 0.3182
+   },
+   "bundala": {
+    "days": 8,
+    "of": 43,
+    "freq": 0.186
+   },
+   "sinharaja": {
+    "days": 1,
+    "of": 34,
+    "freq": 0.0294
+   }
+  }
+ },
+ "dicrurus-leucophaeus": {
+  "sci": "Dicrurus leucophaeus",
+  "zh": "灰卷尾",
+  "sites": {
+   "yala": {
+    "days": 5,
+    "of": 44,
+    "freq": 0.1136
+   }
+  }
+ },
+ "egretta-gularis": {
+  "sci": "Egretta gularis",
+  "zh": "西岩鹭",
+  "sites": {
+   "yala": {
+    "days": 3,
+    "of": 44,
+    "freq": 0.0682
+   },
+   "bundala": {
+    "days": 4,
+    "of": 43,
+    "freq": 0.093
+   },
+   "galle": {
+    "days": 1,
+    "of": 23,
+    "freq": 0.0435
+   }
+  }
+ },
+ "aegithina-nigrolutea": {
+  "sci": "Aegithina nigrolutea",
+  "zh": "白尾雀鹎",
+  "sites": {
+   "yala": {
+    "days": 4,
+    "of": 44,
+    "freq": 0.0909
+   },
+   "bundala": {
+    "days": 2,
+    "of": 43,
+    "freq": 0.0465
+   }
+  }
+ },
+ "chrysomma-sinense": {
+  "sci": "Chrysomma sinense",
+  "zh": "金眼鹛雀",
+  "sites": {
+   "yala": {
+    "days": 6,
+    "of": 44,
+    "freq": 0.1364
+   },
+   "bundala": {
+    "days": 7,
+    "of": 43,
+    "freq": 0.1628
+   },
+   "sinharaja": {
+    "days": 1,
+    "of": 34,
+    "freq": 0.0294
+   }
+  }
+ },
+ "turnix-suscitator": {
+  "sci": "Turnix suscitator",
+  "zh": "棕三趾鹑",
+  "sites": {
+   "yala": {
+    "days": 15,
+    "of": 44,
+    "freq": 0.3409
+   },
+   "bundala": {
+    "days": 8,
+    "of": 43,
+    "freq": 0.186
+   }
+  }
+ },
+ "cacomantis-passerinus": {
+  "sci": "Cacomantis passerinus",
+  "zh": "灰腹杜鹃",
+  "sites": {
+   "yala": {
+    "days": 12,
+    "of": 44,
+    "freq": 0.2727
+   },
+   "bundala": {
+    "days": 11,
+    "of": 43,
+    "freq": 0.2558
+   }
+  }
+ },
+ "caprimulgus-asiaticus": {
+  "sci": "Caprimulgus asiaticus",
+  "zh": "印度夜鹰",
+  "sites": {
+   "yala": {
+    "days": 12,
+    "of": 44,
+    "freq": 0.2727
+   },
+   "bundala": {
+    "days": 6,
+    "of": 43,
+    "freq": 0.1395
+   },
+   "sinharaja": {
+    "days": 1,
+    "of": 34,
+    "freq": 0.0294
+   }
+  }
+ },
+ "coracias-benghalensis": {
+  "sci": "Coracias benghalensis",
+  "zh": "西棕胸佛法僧",
+  "sites": {
+   "yala": {
+    "days": 6,
+    "of": 44,
+    "freq": 0.1364
+   },
+   "bundala": {
+    "days": 14,
+    "of": 43,
+    "freq": 0.3256
+   },
+   "galle": {
+    "days": 1,
+    "of": 23,
+    "freq": 0.0435
+   }
+  }
+ },
+ "glareola-maldivarum": {
+  "sci": "Glareola maldivarum",
+  "zh": "普通燕鸻",
+  "sites": {
+   "yala": {
+    "days": 3,
+    "of": 44,
+    "freq": 0.0682
+   },
+   "bundala": {
+    "days": 13,
+    "of": 43,
+    "freq": 0.3023
+   }
+  }
+ },
+ "sturnia-pagodarum": {
+  "sci": "Sturnia pagodarum",
+  "zh": "黑冠椋鸟",
+  "sites": {
+   "yala": {
+    "days": 12,
+    "of": 44,
+    "freq": 0.2727
+   },
+   "bundala": {
+    "days": 27,
+    "of": 43,
+    "freq": 0.6279
+   }
+  }
+ },
+ "glareola-pratincola": {
+  "sci": "Glareola pratincola",
+  "zh": "领燕鸻",
+  "sites": {
+   "yala": {
+    "days": 1,
+    "of": 44,
+    "freq": 0.0227
+   },
+   "bundala": {
+    "days": 3,
+    "of": 43,
+    "freq": 0.0698
+   }
+  }
+ },
+ "caprimulgus-atripennis": {
+  "sci": "Caprimulgus atripennis",
+  "zh": "印度长尾夜鹰",
+  "sites": {
+   "yala": {
+    "days": 5,
+    "of": 44,
+    "freq": 0.1136
+   },
+   "bundala": {
+    "days": 3,
+    "of": 43,
+    "freq": 0.0698
+   }
+  }
+ },
+ "calidris-ferruginea": {
+  "sci": "Calidris ferruginea",
+  "zh": "弯嘴滨鹬",
+  "sites": {
+   "yala": {
+    "days": 3,
+    "of": 44,
+    "freq": 0.0682
+   },
+   "bundala": {
+    "days": 23,
+    "of": 43,
+    "freq": 0.5349
+   }
+  }
+ },
+ "taccocua-leschenaultii": {
+  "sci": "Taccocua leschenaultii",
+  "zh": "短嘴地鹃",
+  "sites": {
+   "yala": {
+    "days": 4,
+    "of": 44,
+    "freq": 0.0909
+   }
+  }
+ },
+ "surniculus-dicruroides": {
+  "sci": "Surniculus dicruroides",
+  "zh": "叉尾乌鹃",
+  "sites": {
+   "yala": {
+    "days": 2,
+    "of": 44,
+    "freq": 0.0455
+   },
+   "sinharaja": {
+    "days": 1,
+    "of": 34,
+    "freq": 0.0294
+   },
+   "galle": {
+    "days": 1,
+    "of": 23,
+    "freq": 0.0435
+   }
+  }
+ },
+ "dicrurus-paradiseus": {
+  "sci": "Dicrurus paradiseus",
+  "zh": "大盘尾",
+  "sites": {
+   "yala": {
+    "days": 1,
+    "of": 44,
+    "freq": 0.0227
+   }
+  }
+ },
+ "sarkidiornis-melanotos": {
+  "sci": "Sarkidiornis melanotos",
+  "zh": "瘤鸭",
+  "sites": {
+   "yala": {
+    "days": 8,
+    "of": 44,
+    "freq": 0.1818
+   }
+  }
+ },
+ "pandion-haliaetus": {
+  "sci": "Pandion haliaetus",
+  "zh": "鹗",
+  "sites": {
+   "yala": {
+    "days": 2,
+    "of": 44,
+    "freq": 0.0455
+   },
+   "bundala": {
+    "days": 13,
+    "of": 43,
+    "freq": 0.3023
+   },
+   "galle": {
+    "days": 1,
+    "of": 23,
+    "freq": 0.0435
+   }
+  }
+ },
+ "coracina-macei": {
+  "sci": "Coracina macei",
+  "zh": "印度鹃鵙",
+  "sites": {
+   "yala": {
+    "days": 1,
+    "of": 44,
+    "freq": 0.0227
+   }
+  }
+ },
+ "oriolus-kundoo": {
+  "sci": "Oriolus kundoo",
+  "zh": "印度金黄鹂",
+  "sites": {
+   "yala": {
+    "days": 1,
+    "of": 44,
+    "freq": 0.0227
+   }
+  }
+ },
+ "glareola-lactea": {
+  "sci": "Glareola lactea",
+  "zh": "灰燕鸻",
+  "sites": {
+   "yala": {
+    "days": 2,
+    "of": 44,
+    "freq": 0.0455
+   },
+   "bundala": {
+    "days": 9,
+    "of": 43,
+    "freq": 0.2093
+   }
+  }
+ },
+ "calidris-subminuta": {
+  "sci": "Calidris subminuta",
+  "zh": "长趾滨鹬",
+  "sites": {
+   "bundala": {
+    "days": 3,
+    "of": 43,
+    "freq": 0.0698
+   }
+  }
+ },
+ "rostratula-benghalensis": {
+  "sci": "Rostratula benghalensis",
+  "zh": "彩鹬",
+  "sites": {
+   "bundala": {
+    "days": 8,
+    "of": 43,
+    "freq": 0.186
+   }
+  }
+ },
+ "calidris-tenuirostris": {
+  "sci": "Calidris tenuirostris",
+  "zh": "大滨鹬",
+  "sites": {
+   "bundala": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   }
+  }
+ },
+ "clamator-coromandus": {
+  "sci": "Clamator coromandus",
+  "zh": "红翅凤头鹃",
+  "sites": {
+   "bundala": {
+    "days": 4,
+    "of": 43,
+    "freq": 0.093
+   }
+  }
+ },
+ "lewinia-striata": {
+  "sci": "Lewinia striata",
+  "zh": "灰胸秧鸡",
+  "sites": {
+   "bundala": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   }
+  }
+ },
+ "halcyon-pileata": {
+  "sci": "Halcyon pileata",
+  "zh": "蓝翡翠",
+  "sites": {
+   "bundala": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   }
+  }
+ },
+ "cuculus-micropterus": {
+  "sci": "Cuculus micropterus",
+  "zh": "四声杜鹃",
+  "sites": {
+   "bundala": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   }
+  }
+ },
+ "synoicus-chinensis": {
+  "sci": "Synoicus chinensis",
+  "zh": "蓝胸鹑",
+  "sites": {
+   "bundala": {
+    "days": 1,
+    "of": 43,
+    "freq": 0.0233
+   }
+  }
+ },
+ "psittacula-cyanocephala": {
+  "sci": "Psittacula cyanocephala",
+  "zh": "紫头鹦鹉",
+  "sites": {
+   "sinharaja": {
+    "days": 4,
+    "of": 34,
+    "freq": 0.1176
+   }
+  }
+ },
+ "argya-cinereifrons": {
+  "sci": "Argya cinereifrons",
+  "zh": "灰头噪鹛",
+  "sites": {
+   "sinharaja": {
+    "days": 15,
+    "of": 34,
+    "freq": 0.4412
+   }
+  }
+ },
+ "caprimulgus-indicus": {
+  "sci": "Caprimulgus indicus",
+  "zh": "丛林夜鹰",
+  "sites": {
+   "sinharaja": {
+    "days": 1,
+    "of": 34,
+    "freq": 0.0294
+   }
+  }
+ }
+}

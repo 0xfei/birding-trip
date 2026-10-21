@@ -1,0 +1,29 @@
+# ===== 绝不提交：凭据 =====
+# eBird API key。只从环境变量 EBIRD_API_KEY 或本文件读取，
+# **绝不进版本库**——这个仓库会 push 到远端。
+.ebird_api_key
+*.key
+.env
+
+# ===== 不提交：Python 运行产物 =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ===== 不提交：体积大且可重新下载的参考数据 =====
+# IOC 多语种版 xlsx（5.4 MB）。一条命令就能重下：
+#   python3 -I engine/refdata/fetch_ioc.py
+# 解析出来的 ioc_*_zh.json 是**提交的**——它才是引擎真正读的东西。
+engine/refdata/downloads/
+
+# ===== 不提交：批量取数的临时目录 =====
+# curl --parallel 的中间文件，正常情况下跑完即删。
+**/_ebird_cache/.batch/
+
+# ===== 编辑器 / 系统 =====
+.DS_Store
+*.swp
+.idea/
+.vscode/

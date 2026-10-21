@@ -1,0 +1,57 @@
+{
+ "_meta": {
+  "source": "GBIF occurrence/search facet=stateProvince",
+  "month": 2,
+  "note": "数据原样写入；district 换算阈值与入选判断在 build_target_list.py",
+  "province_to_slug": {
+   "Gampaha": "gampaha",
+   "Colombo": "colombo",
+   "Kegalla": "kegalla",
+   "Nuwara": "nuwara",
+   "Badulla": "badulla",
+   "Hambantota": "hambantota",
+   "Monaragala": "monaragala",
+   "Ratnapura": "ratnapura",
+   "Galle": "galle",
+   "Matara": "matara",
+   "Kalutara": "kalutara"
+  }
+ },
+ "species": {
+  "Pericrocotus flammeus": {
+   "why_needed": "全岛名录有、11 个区页面全漏；中国名录无记录",
+   "gbif_taxon_key": 2486819,
+   "gbif_accepted_name": "Pericrocotus flammeus (J.R.Forster, 1781)",
+   "global_all": 97793,
+   "lk_all": 10039,
+   "lk_feb": 1206,
+   "lk_feb_by_province": {
+    "Ratnapura": 378,
+    "Kegalla": 176,
+    "Nuwara": 125,
+    "Kandy": 103,
+    "Badulla": 85,
+    "Matara": 67,
+    "Kalutara": 50,
+    "Matale": 37,
+    "Kurunegala": 35,
+    "Galle": 27,
+    "Monaragala": 26,
+    "Hambantota": 15,
+    "Sri Lanka": 15,
+    "Gampaha": 12,
+    "Anuradhapura": 11,
+    "Kegalle": 10,
+    "Colombo": 8,
+    "Moneragala": 7,
+    "Polonnaruwa": 3,
+    "Puttalam": 3,
+    "Ampara": 2,
+    "Central Province": 2,
+    "North Central": 2,
+    "Nuwara Eliya": 2,
+    "Western Province": 1
+   }
+  }
+ }
+}

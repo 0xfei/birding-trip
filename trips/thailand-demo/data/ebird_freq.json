@@ -1,0 +1,3228 @@
+{
+"_meta": {
+"source": "eBird API v2 /data/obs/{locId}/historic",
+"years": [
+2026
+],
+"window": "01-05..01-15",
+"metric": "freq = 该点位窗口内报到此种的观鸟日 ÷ 该点位窗口内有清单的观鸟日（空清单日不计入分母）",
+"denominators": {
+"kaengkrachan": 11,
+"bangpu": 6
+},
+"n_requests": 44,
+"failed_requests": 0,
+"failed_sample": []
+},
+"abbbab1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.4545,
+"days": 5,
+"of": 11
+}
+}
+},
+"arcwar1": {
+"sites": {
+"bangpu": {
+"freq": 0.1667,
+"days": 1,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.2727,
+"days": 3,
+"of": 11
+}
+}
+},
+"asbfly": {
+"sites": {
+"bangpu": {
+"freq": 0.3333,
+"days": 2,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"asbowl1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.9091,
+"days": 10,
+"of": 11
+}
+}
+},
+"asecuc1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"asfblu1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.8182,
+"days": 9,
+"of": 11
+}
+}
+},
+"asgwea2": {
+"sites": {
+"bangpu": {
+"freq": 0.1667,
+"days": 1,
+"of": 6
+}
+}
+},
+"ashbul1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.7273,
+"days": 8,
+"of": 11
+}
+}
+},
+"ashdro1": {
+"sites": {
+"bangpu": {
+"freq": 0.5,
+"days": 3,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"ashmar1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.3636,
+"days": 4,
+"of": 11
+}
+}
+},
+"ashmin1": {
+"sites": {
+"bangpu": {
+"freq": 0.1667,
+"days": 1,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.8182,
+"days": 9,
+"of": 11
+}
+}
+},
+"ashwoo2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.6364,
+"days": 7,
+"of": 11
+}
+}
+},
+"asidrc3": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.3636,
+"days": 4,
+"of": 11
+}
+}
+},
+"asikoe2": {
+"sites": {
+"bangpu": {
+"freq": 1.0,
+"days": 6,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"asiope1": {
+"sites": {
+"bangpu": {
+"freq": 0.5,
+"days": 3,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.4545,
+"days": 5,
+"of": 11
+}
+}
+},
+"aspsta7": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.4545,
+"days": 5,
+"of": 11
+}
+}
+},
+"aspswi1": {
+"sites": {
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"babcuc2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.6364,
+"days": 7,
+"of": 11
+}
+}
+},
+"babpar1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.7273,
+"days": 8,
+"of": 11
+}
+}
+},
+"bamwoo1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.3636,
+"days": 4,
+"of": 11
+}
+}
+},
+"banbro1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.8182,
+"days": 9,
+"of": 11
+}
+}
+},
+"bankin1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.2727,
+"days": 3,
+"of": 11
+}
+}
+},
+"barbro1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"barswa": {
+"sites": {
+"bangpu": {
+"freq": 0.3333,
+"days": 2,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"baybro1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.6364,
+"days": 7,
+"of": 11
+}
+}
+},
+"baywoo1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"bbbeat1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.7273,
+"days": 8,
+"of": 11
+}
+}
+},
+"bbrwar1": {
+"sites": {
+"bangpu": {
+"freq": 0.1667,
+"days": 1,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.2727,
+"days": 3,
+"of": 11
+}
+}
+},
+"bcnher": {
+"sites": {
+"bangpu": {
+"freq": 0.3333,
+"days": 2,
+"of": 6
+}
+}
+},
+"bkhgul": {
+"sites": {
+"bangpu": {
+"freq": 0.8333,
+"days": 5,
+"of": 6
+}
+}
+},
+"bktgod": {
+"sites": {
+"bangpu": {
+"freq": 0.8333,
+"days": 5,
+"of": 6
+}
+}
+},
+"bkwcus1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.7273,
+"days": 8,
+"of": 11
+}
+}
+},
+"bkwsti": {
+"sites": {
+"bangpu": {
+"freq": 0.8333,
+"days": 5,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.2727,
+"days": 3,
+"of": 11
+}
+}
+},
+"blabaz1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.5455,
+"days": 6,
+"of": 11
+}
+}
+},
+"bladro1": {
+"sites": {
+"bangpu": {
+"freq": 0.3333,
+"days": 2,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.8182,
+"days": 9,
+"of": 11
+}
+}
+},
+"blaeag1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.2727,
+"days": 3,
+"of": 11
+}
+}
+},
+"blakit1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"blcbul2": {
+"sites": {
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"blckin1": {
+"sites": {
+"bangpu": {
+"freq": 0.6667,
+"days": 4,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"blhbul1": {
+"sites": {
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"blhori1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.4545,
+"days": 5,
+"of": 11
+}
+}
+},
+"blnmon1": {
+"sites": {
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"blnori1": {
+"sites": {
+"bangpu": {
+"freq": 0.3333,
+"days": 2,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"bltbar2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.8182,
+"days": 9,
+"of": 11
+}
+}
+},
+"bltfal1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.2727,
+"days": 3,
+"of": 11
+}
+}
+},
+"bltsun1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.6364,
+"days": 7,
+"of": 11
+}
+}
+},
+"blupit1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.9091,
+"days": 10,
+"of": 11
+}
+}
+},
+"blwlea1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.8182,
+"days": 9,
+"of": 11
+}
+}
+},
+"blwthr1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.3636,
+"days": 4,
+"of": 11
+}
+}
+},
+"blypaf1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.9091,
+"days": 10,
+"of": 11
+}
+}
+},
+"bnhgul1": {
+"sites": {
+"bangpu": {
+"freq": 0.8333,
+"days": 5,
+"of": 6
+}
+}
+},
+"brakit1": {
+"sites": {
+"bangpu": {
+"freq": 0.5,
+"days": 3,
+"of": 6
+}
+}
+},
+"brbnee1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.5455,
+"days": 6,
+"of": 11
+}
+}
+},
+"brcful1": {
+"sites": {
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"brnhao1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.5455,
+"days": 6,
+"of": 11
+}
+}
+},
+"brnshr": {
+"sites": {
+"bangpu": {
+"freq": 0.1667,
+"days": 1,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.6364,
+"days": 7,
+"of": 11
+}
+}
+},
+"brodro1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.8182,
+"days": 9,
+"of": 11
+}
+}
+},
+"brrmin1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.7273,
+"days": 8,
+"of": 11
+}
+}
+},
+"brwjac1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"brwowl1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"btbeat1": {
+"sites": {
+"bangpu": {
+"freq": 0.6667,
+"days": 4,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.2727,
+"days": 3,
+"of": 11
+}
+}
+},
+"btbeat2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"bubbab1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"buebar1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.9091,
+"days": 10,
+"of": 11
+}
+}
+},
+"burthr": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"burwoo1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"butfly2": {
+"sites": {
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"bwfshr1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.8182,
+"days": 9,
+"of": 11
+}
+}
+},
+"categr2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.7273,
+"days": 8,
+"of": 11
+}
+}
+},
+"chbeat1": {
+"sites": {
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"chbmal2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.6364,
+"days": 7,
+"of": 11
+}
+}
+},
+"chcbab1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"chifra1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"chpher1": {
+"sites": {
+"bangpu": {
+"freq": 0.6667,
+"days": 4,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.9091,
+"days": 10,
+"of": 11
+}
+}
+},
+"chtsta2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"cinbit1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"clalew1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.3636,
+"days": 4,
+"of": 11
+}
+}
+},
+"colbab1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.6364,
+"days": 7,
+"of": 11
+}
+}
+},
+"colkin1": {
+"sites": {
+"bangpu": {
+"freq": 0.8333,
+"days": 5,
+"of": 6
+}
+}
+},
+"colowl1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.6364,
+"days": 7,
+"of": 11
+}
+}
+},
+"comfla1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.9091,
+"days": 10,
+"of": 11
+}
+}
+},
+"comgre": {
+"sites": {
+"bangpu": {
+"freq": 0.5,
+"days": 3,
+"of": 6
+}
+}
+},
+"comior1": {
+"sites": {
+"bangpu": {
+"freq": 0.5,
+"days": 3,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.6364,
+"days": 7,
+"of": 11
+}
+}
+},
+"comkin1": {
+"sites": {
+"bangpu": {
+"freq": 0.1667,
+"days": 1,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.7273,
+"days": 8,
+"of": 11
+}
+}
+},
+"commoo3": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.8182,
+"days": 9,
+"of": 11
+}
+}
+},
+"commyn": {
+"sites": {
+"bangpu": {
+"freq": 1.0,
+"days": 6,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.7273,
+"days": 8,
+"of": 11
+}
+}
+},
+"comred1": {
+"sites": {
+"bangpu": {
+"freq": 0.6667,
+"days": 4,
+"of": 6
+}
+}
+},
+"comsan": {
+"sites": {
+"bangpu": {
+"freq": 0.6667,
+"days": 4,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"comtai1": {
+"sites": {
+"bangpu": {
+"freq": 0.5,
+"days": 3,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"comter": {
+"sites": {
+"bangpu": {
+"freq": 0.1667,
+"days": 1,
+"of": 6
+}
+}
+},
+"copbar1": {
+"sites": {
+"bangpu": {
+"freq": 1.0,
+"days": 6,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"cosowl1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.3636,
+"days": 4,
+"of": 11
+}
+}
+},
+"cregos1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.4545,
+"days": 5,
+"of": 11
+}
+}
+},
+"crejay1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.2727,
+"days": 3,
+"of": 11
+}
+}
+},
+"cretre1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.3636,
+"days": 4,
+"of": 11
+}
+}
+},
+"crseag1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.8182,
+"days": 9,
+"of": 11
+}
+}
+},
+"crwwoo1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"dantai1": {
+"sites": {
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"darter2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.2727,
+"days": 3,
+"of": 11
+}
+}
+},
+"dasfly": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.7273,
+"days": 8,
+"of": 11
+}
+}
+},
+"dollar1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"dusbro1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"duswar": {
+"sites": {
+"bangpu": {
+"freq": 0.6667,
+"days": 4,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.2727,
+"days": 3,
+"of": 11
+}
+}
+},
+"eacsun1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.6364,
+"days": 7,
+"of": 11
+}
+}
+},
+"eacwar1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.4545,
+"days": 5,
+"of": 11
+}
+}
+},
+"earpit1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"eaywag": {
+"sites": {
+"bangpu": {
+"freq": 0.1667,
+"days": 1,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"emedov2": {
+"sites": {
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"eurcoo": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"eurcur": {
+"sites": {
+"bangpu": {
+"freq": 0.1667,
+"days": 1,
+"of": 6
+}
+}
+},
+"eutspa": {
+"sites": {
+"bangpu": {
+"freq": 1.0,
+"days": 6,
+"of": 6
+}
+}
+},
+"eyethr": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.8182,
+"days": 9,
+"of": 11
+}
+}
+},
+"ferpar2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.4545,
+"days": 5,
+"of": 11
+}
+}
+},
+"flabul1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.7273,
+"days": 8,
+"of": 11
+}
+}
+},
+"fotswi": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"gnlthr": {
+"sites": {
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"gobger1": {
+"sites": {
+"bangpu": {
+"freq": 0.3333,
+"days": 2,
+"of": 6
+}
+}
+},
+"goflea1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.3636,
+"days": 4,
+"of": 11
+}
+}
+},
+"golbab1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.5455,
+"days": 6,
+"of": 11
+}
+}
+},
+"gotbar2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"graher1": {
+"sites": {
+"bangpu": {
+"freq": 0.8333,
+"days": 5,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"grbmal1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.7273,
+"days": 8,
+"of": 11
+}
+}
+},
+"grebar1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.4545,
+"days": 5,
+"of": 11
+}
+}
+},
+"grebar3": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.8182,
+"days": 9,
+"of": 11
+}
+}
+},
+"grecou1": {
+"sites": {
+"bangpu": {
+"freq": 0.1667,
+"days": 1,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"greegr": {
+"sites": {
+"bangpu": {
+"freq": 0.8333,
+"days": 5,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.7273,
+"days": 8,
+"of": 11
+}
+}
+},
+"grefla1": {
+"sites": {
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"grehor1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.9091,
+"days": 10,
+"of": 11
+}
+}
+},
+"greior1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.8182,
+"days": 9,
+"of": 11
+}
+}
+},
+"gremag1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.2727,
+"days": 3,
+"of": 11
+}
+}
+},
+"grenig1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"grewar2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.7273,
+"days": 8,
+"of": 11
+}
+}
+},
+"greyel1": {
+"sites": {
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"grnbee3": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.2727,
+"days": 3,
+"of": 11
+}
+}
+},
+"grswoo1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.5455,
+"days": 6,
+"of": 11
+}
+}
+},
+"grtdro1": {
+"sites": {
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"grynig1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"grypep2": {
+"sites": {
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"grytre1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"grywag": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.9091,
+"days": 10,
+"of": 11
+}
+}
+},
+"gubter2": {
+"sites": {
+"bangpu": {
+"freq": 0.1667,
+"days": 1,
+"of": 6
+}
+}
+},
+"gybspi2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"gycmin1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.2727,
+"days": 3,
+"of": 11
+}
+}
+},
+"gyfbuz1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.2727,
+"days": 3,
+"of": 11
+}
+}
+},
+"gyfwoo1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.7273,
+"days": 8,
+"of": 11
+}
+}
+},
+"gyhcaf1": {
+"sites": {
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"gyrtre1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.9091,
+"days": 10,
+"of": 11
+}
+}
+},
+"gytbab1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"habfly1": {
+"sites": {
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"hacdro1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.9091,
+"days": 10,
+"of": 11
+}
+}
+},
+"heswoo1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.5455,
+"days": 6,
+"of": 11
+}
+}
+},
+"hibfly1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.7273,
+"days": 8,
+"of": 11
+}
+}
+},
+"himswi2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.7273,
+"days": 8,
+"of": 11
+}
+}
+},
+"hoopoe": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"houspa": {
+"sites": {
+"bangpu": {
+"freq": 1.0,
+"days": 6,
+"of": 6
+}
+}
+},
+"houswi1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"humwhe1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"indbus3": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.3636,
+"days": 4,
+"of": 11
+}
+}
+},
+"indcor1": {
+"sites": {
+"bangpu": {
+"freq": 0.8333,
+"days": 5,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"indnig1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.2727,
+"days": 3,
+"of": 11
+}
+}
+},
+"indrol3": {
+"sites": {
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"indthk1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.8182,
+"days": 9,
+"of": 11
+}
+}
+},
+"integr1": {
+"sites": {
+"bangpu": {
+"freq": 0.5,
+"days": 3,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.7273,
+"days": 8,
+"of": 11
+}
+}
+},
+"japher1": {
+"sites": {
+"bangpu": {
+"freq": 0.1667,
+"days": 1,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"japspa1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"javfro2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"jerbaz1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.3636,
+"days": 4,
+"of": 11
+}
+}
+},
+"kalphe": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.9091,
+"days": 10,
+"of": 11
+}
+}
+},
+"labcro1": {
+"sites": {
+"bangpu": {
+"freq": 0.3333,
+"days": 2,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.3636,
+"days": 4,
+"of": 11
+}
+}
+},
+"lanwar": {
+"sites": {
+"bangpu": {
+"freq": 0.1667,
+"days": 1,
+"of": 6
+}
+}
+},
+"larhac2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"larwoo1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.5455,
+"days": 6,
+"of": 11
+}
+}
+},
+"lasbab1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.5455,
+"days": 6,
+"of": 11
+}
+}
+},
+"latnig2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.8182,
+"days": 9,
+"of": 11
+}
+}
+},
+"lenlau1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.9091,
+"days": 10,
+"of": 11
+}
+}
+},
+"lescou1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.3636,
+"days": 4,
+"of": 11
+}
+}
+},
+"licdov1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.4545,
+"days": 5,
+"of": 11
+}
+}
+},
+"linbar1": {
+"sites": {
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"litcor1": {
+"sites": {
+"bangpu": {
+"freq": 0.8333,
+"days": 5,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.7273,
+"days": 8,
+"of": 11
+}
+}
+},
+"litegr": {
+"sites": {
+"bangpu": {
+"freq": 0.8333,
+"days": 5,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"litgre1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"litspi1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"litter1": {
+"sites": {
+"bangpu": {
+"freq": 0.1667,
+"days": 1,
+"of": 6
+}
+}
+},
+"lotbro1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"lrtdro1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.4545,
+"days": 5,
+"of": 11
+}
+}
+},
+"magrob": {
+"sites": {
+"bangpu": {
+"freq": 1.0,
+"days": 6,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.8182,
+"days": 9,
+"of": 11
+}
+}
+},
+"marsan": {
+"sites": {
+"bangpu": {
+"freq": 0.6667,
+"days": 4,
+"of": 6
+}
+}
+},
+"marwar4": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"mohcuc1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"moipig1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.8182,
+"days": 9,
+"of": 11
+}
+}
+},
+"moubar2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.3636,
+"days": 4,
+"of": 11
+}
+}
+},
+"moubul2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.7273,
+"days": 8,
+"of": 11
+}
+}
+},
+"mouhae1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.2727,
+"days": 3,
+"of": 11
+}
+}
+},
+"nutman": {
+"sites": {
+"bangpu": {
+"freq": 0.3333,
+"days": 2,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.3636,
+"days": 4,
+"of": 11
+}
+}
+},
+"ochbul2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.9091,
+"days": 10,
+"of": 11
+}
+}
+},
+"olbsun4": {
+"sites": {
+"bangpu": {
+"freq": 0.6667,
+"days": 4,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.8182,
+"days": 9,
+"of": 11
+}
+}
+},
+"olibul1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.9091,
+"days": 10,
+"of": 11
+}
+}
+},
+"orbflo1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.2727,
+"days": 3,
+"of": 11
+}
+}
+},
+"orblea1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"orbowl1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"orbtro2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.9091,
+"days": 10,
+"of": 11
+}
+}
+},
+"orhthr1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.7273,
+"days": 8,
+"of": 11
+}
+}
+},
+"orihob1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"orihob2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.7273,
+"days": 8,
+"of": 11
+}
+}
+},
+"oripip1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"orphor1": {
+"sites": {
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"orsowl": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.2727,
+"days": 3,
+"of": 11
+}
+}
+},
+"osprey": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.3636,
+"days": 4,
+"of": 11
+}
+}
+},
+"pabfly2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.2727,
+"days": 3,
+"of": 11
+}
+}
+},
+"pacswa1": {
+"sites": {
+"bangpu": {
+"freq": 0.1667,
+"days": 1,
+"of": 6
+}
+}
+},
+"pagplo": {
+"sites": {
+"bangpu": {
+"freq": 0.1667,
+"days": 1,
+"of": 6
+}
+}
+},
+"pagwar1": {
+"sites": {
+"bangpu": {
+"freq": 0.1667,
+"days": 1,
+"of": 6
+}
+}
+},
+"paisto1": {
+"sites": {
+"bangpu": {
+"freq": 0.8333,
+"days": 5,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"perfal": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"piefan1": {
+"sites": {
+"bangpu": {
+"freq": 1.0,
+"days": 6,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"pinpig3": {
+"sites": {
+"bangpu": {
+"freq": 0.8333,
+"days": 5,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"pitpar1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.6364,
+"days": 7,
+"of": 11
+}
+}
+},
+"placuc1": {
+"sites": {
+"bangpu": {
+"freq": 0.1667,
+"days": 1,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"plaflo2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.5455,
+"days": 6,
+"of": 11
+}
+}
+},
+"plapri1": {
+"sites": {
+"bangpu": {
+"freq": 0.3333,
+"days": 2,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"plasun1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"plbspa1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"pllwar1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.6364,
+"days": 7,
+"of": 11
+}
+}
+},
+"pltsun2": {
+"sites": {
+"bangpu": {
+"freq": 0.1667,
+"days": 1,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.2727,
+"days": 3,
+"of": 11
+}
+}
+},
+"pltwar1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.3636,
+"days": 4,
+"of": 11
+}
+}
+},
+"purher1": {
+"sites": {
+"bangpu": {
+"freq": 0.1667,
+"days": 1,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.2727,
+"days": 3,
+"of": 11
+}
+}
+},
+"pursun4": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"putbab1": {
+"sites": {
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"radwar1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.4545,
+"days": 5,
+"of": 11
+}
+}
+},
+"rafmal1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.5455,
+"days": 6,
+"of": 11
+}
+}
+},
+"rattre1": {
+"sites": {
+"bangpu": {
+"freq": 0.5,
+"days": 3,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"rattre2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.2727,
+"days": 3,
+"of": 11
+}
+}
+},
+"rbbeat1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.3636,
+"days": 4,
+"of": 11
+}
+}
+},
+"rebmal2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"recdov1": {
+"sites": {
+"bangpu": {
+"freq": 0.5,
+"days": 3,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.4545,
+"days": 5,
+"of": 11
+}
+}
+},
+"redava": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"redjun": {
+"sites": {
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"rehtro1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.2727,
+"days": 3,
+"of": 11
+}
+}
+},
+"relcra1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"retbar1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.2727,
+"days": 3,
+"of": 11
+}
+}
+},
+"rewlap1": {
+"sites": {
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"rocpig": {
+"sites": {
+"bangpu": {
+"freq": 1.0,
+"days": 6,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.9091,
+"days": 10,
+"of": 11
+}
+}
+},
+"rosmin1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.4545,
+"days": 5,
+"of": 11
+}
+}
+},
+"rubcra1": {
+"sites": {
+"bangpu": {
+"freq": 0.1667,
+"days": 1,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"rubeag2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"rubfly3": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"ruchor1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.6364,
+"days": 7,
+"of": 11
+}
+}
+},
+"rucsun2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.7273,
+"days": 8,
+"of": 11
+}
+}
+},
+"rufbab10": {
+"sites": {
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"rufpri1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"ruftre2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"rufwoo2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"salwar1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.3636,
+"days": 4,
+"of": 11
+}
+}
+},
+"sbeowl1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"scamin1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.7273,
+"days": 8,
+"of": 11
+}
+}
+},
+"scbflo1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.7273,
+"days": 8,
+"of": 11
+}
+}
+},
+"scbpar1": {
+"sites": {
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"shikra1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.5455,
+"days": 6,
+"of": 11
+}
+}
+},
+"sibbro3": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.2727,
+"days": 3,
+"of": 11
+}
+}
+},
+"sibrob": {
+"sites": {
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"sibrub": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"silori1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.3636,
+"days": 4,
+"of": 11
+}
+}
+},
+"slbfly1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.3636,
+"days": 4,
+"of": 11
+}
+}
+},
+"slbgul1": {
+"sites": {
+"bangpu": {
+"freq": 0.3333,
+"days": 2,
+"of": 6
+}
+}
+},
+"slbori1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"sohbul1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.7273,
+"days": 8,
+"of": 11
+}
+}
+},
+"spbpel1": {
+"sites": {
+"bangpu": {
+"freq": 0.3333,
+"days": 2,
+"of": 6
+}
+}
+},
+"spepic1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.4545,
+"days": 5,
+"of": 11
+}
+}
+},
+"spnbab1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.3636,
+"days": 4,
+"of": 11
+}
+}
+},
+"spodov": {
+"sites": {
+"bangpu": {
+"freq": 0.5,
+"days": 3,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"spoowl1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"stbwoo3": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.3636,
+"days": 4,
+"of": 11
+}
+}
+},
+"stebul2": {
+"sites": {
+"bangpu": {
+"freq": 1.0,
+"days": 6,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"stonec7": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.2727,
+"days": 3,
+"of": 11
+}
+}
+},
+"strbul1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"strher1": {
+"sites": {
+"bangpu": {
+"freq": 0.5,
+"days": 3,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"strspi1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.2727,
+"days": 3,
+"of": 11
+}
+}
+},
+"stryuh1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.5455,
+"days": 6,
+"of": 11
+}
+}
+},
+"sttbab1": {
+"sites": {
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"sttbul3": {
+"sites": {
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"subwar3": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.8182,
+"days": 9,
+"of": 11
+}
+}
+},
+"sultit1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.9091,
+"days": 10,
+"of": 11
+}
+}
+},
+"swiwhe1": {
+"sites": {
+"bangpu": {
+"freq": 0.3333,
+"days": 2,
+"of": 6
+}
+}
+},
+"taifly1": {
+"sites": {
+"bangpu": {
+"freq": 0.6667,
+"days": 4,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"thbflo1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.5455,
+"days": 6,
+"of": 11
+}
+}
+},
+"thbpig1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.6364,
+"days": 7,
+"of": 11
+}
+}
+},
+"thbwar1": {
+"sites": {
+"bangpu": {
+"freq": 0.1667,
+"days": 1,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"tibfly4": {
+"sites": {
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"vefnut1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.5455,
+"days": 6,
+"of": 11
+}
+}
+},
+"vehpar1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.9091,
+"days": 10,
+"of": 11
+}
+}
+},
+"verfly4": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.9091,
+"days": 10,
+"of": 11
+}
+}
+},
+"viocuc1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"wbsbab1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.8182,
+"days": 9,
+"of": 11
+}
+}
+},
+"wbseag1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"wetpig1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.6364,
+"days": 7,
+"of": 11
+}
+}
+},
+"wfsowl2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.3636,
+"days": 4,
+"of": 11
+}
+}
+},
+"whbcra1": {
+"sites": {
+"bangpu": {
+"freq": 0.1667,
+"days": 1,
+"of": 6
+}
+}
+},
+"whbpic3": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.6364,
+"days": 7,
+"of": 11
+}
+}
+},
+"whbshb1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.5455,
+"days": 6,
+"of": 11
+}
+}
+},
+"whbwat1": {
+"sites": {
+"bangpu": {
+"freq": 0.5,
+"days": 3,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.9091,
+"days": 10,
+"of": 11
+}
+}
+},
+"whbyuh1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.6364,
+"days": 7,
+"of": 11
+}
+}
+},
+"whchor2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.3636,
+"days": 4,
+"of": 11
+}
+}
+},
+"whclau2": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.9091,
+"days": 10,
+"of": 11
+}
+}
+},
+"whimbr5": {
+"sites": {
+"bangpu": {
+"freq": 0.5,
+"days": 3,
+"of": 6
+}
+}
+},
+"whiter2": {
+"sites": {
+"bangpu": {
+"freq": 0.8333,
+"days": 5,
+"of": 6
+}
+}
+},
+"whrmun": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.6364,
+"days": 7,
+"of": 11
+}
+}
+},
+"whrsha": {
+"sites": {
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"whtfan1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.2727,
+"days": 3,
+"of": 11
+}
+}
+},
+"whtkin2": {
+"sites": {
+"bangpu": {
+"freq": 0.5,
+"days": 3,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"whvmyn1": {
+"sites": {
+"bangpu": {
+"freq": 0.5,
+"days": 3,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.7273,
+"days": 8,
+"of": 11
+}
+}
+},
+"woosan": {
+"sites": {
+"bangpu": {
+"freq": 0.1667,
+"days": 1,
+"of": 6
+}
+}
+},
+"wrehor1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.7273,
+"days": 8,
+"of": 11
+}
+}
+},
+"x00729": {
+"sites": {
+"bangpu": {
+"freq": 0.1667,
+"days": 1,
+"of": 6
+}
+}
+},
+"y00621": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.6364,
+"days": 7,
+"of": 11
+}
+}
+},
+"y00731": {
+"sites": {
+"bangpu": {
+"freq": 0.5,
+"days": 3,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.8182,
+"days": 9,
+"of": 11
+}
+}
+},
+"yebpri1": {
+"sites": {
+"bangpu": {
+"freq": 0.1667,
+"days": 1,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"yebwar1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.7273,
+"days": 8,
+"of": 11
+}
+}
+},
+"yebwar3": {
+"sites": {
+"bangpu": {
+"freq": 0.6667,
+"days": 4,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 1.0,
+"days": 11,
+"of": 11
+}
+}
+},
+"yeebab1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.0909,
+"days": 1,
+"of": 11
+}
+}
+},
+"yelbit": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.6364,
+"days": 7,
+"of": 11
+}
+}
+},
+"yevbul1": {
+"sites": {
+"bangpu": {
+"freq": 0.5,
+"days": 3,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.4545,
+"days": 5,
+"of": 11
+}
+}
+},
+"yevflo1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.2727,
+"days": 3,
+"of": 11
+}
+}
+},
+"yevpig1": {
+"sites": {
+"kaengkrachan": {
+"freq": 0.1818,
+"days": 2,
+"of": 11
+}
+}
+},
+"zebdov": {
+"sites": {
+"bangpu": {
+"freq": 1.0,
+"days": 6,
+"of": 6
+},
+"kaengkrachan": {
+"freq": 0.6364,
+"days": 7,
+"of": 11
+}
+}
+}
+}
